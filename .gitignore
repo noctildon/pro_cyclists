@@ -1,0 +1,8 @@
+pip-selfcheck.json
+__pycache__/
+**/__pycache__/
+*.sqlite3
+.env
+venv/
+
+.vscode/
