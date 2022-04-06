@@ -3,6 +3,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 from helper import print_df
+import threading
+import os
+from queue import Queue
 
 
 url_base = 'https://www.procyclingstats.com/rankings.php'
@@ -58,13 +61,43 @@ def get_dates():
 
 # Update all riders in rankings.php and save to riders.csv
 # Takes around 30 mins
-def update_all_riders(verbose):
+def update_all_riders(verbose=False):
     riders = []
     dates = get_dates()
     for date in dates:
         maxnum = get_results_number(date)
         for offset in range(0, maxnum//100 * 100 + 100, 100):
             riders += get_names(date=date, offset=offset, verbose=verbose)
+
+    riders_df = pd.DataFrame(riders, columns=['Rider name', 'The link'])
+    riders_df = riders_df.drop_duplicates()
+    riders_df.to_csv('riders.csv', index=False)
+
+
+# much faster than update_all_riders
+def update_all_riders_concurrent(verbose=False):
+    riders = []
+    threads = []
+
+    q = Queue()
+    def job(date, offset, q):
+        riders_2add = get_names(date=date, offset=offset, verbose=verbose)
+        q.put(riders_2add)
+
+    dates = get_dates()
+    for date in dates:
+        maxnum = get_results_number(date)
+        offsets = range(0, maxnum//100 * 100 + 100, 100)
+        for offset in offsets:
+            t = threading.Thread(target=job, args=(date, offset,q))
+            t.start()
+            threads.append(t)
+
+    for t in threads:
+        t.join()
+
+    for _ in range(len(threads)):
+        riders.append(q.get())
 
     riders_df = pd.DataFrame(riders, columns=['Rider name', 'The link'])
     riders_df = riders_df.drop_duplicates()
@@ -150,14 +183,13 @@ def get_all_race(rider_link, this_year_only=False):
     return pd.concat(races)
 
 
-# Takes ~ 1hr (rough estimation)
 def update_all_riders_races(verbose=False):
     riders_df = pd.read_csv('riders.csv')
 
     for i in range(len(riders_df)):
-        link = riders_df.loc[i, "The link"]        # rider/tadej-pogacar
-        name = link[6:]                            # tadej-pogacar
-        textname = riders_df.loc[i, "Rider name"]  # Pogačar Tadej
+        link = riders_df.loc[i, "The link"]        # 'rider/tadej-pogacar'
+        name = link[6:]                            # 'tadej-pogacar'
+        textname = riders_df.loc[i, "Rider name"]  # 'Pogačar Tadej'
 
         races = get_all_race(link)
         if verbose:
@@ -167,12 +199,38 @@ def update_all_riders_races(verbose=False):
         print(f'{textname}\'s races saved')
 
 
+def update_all_riders_races_concurrent(renew=False, this_year_only=False):
+    riders_df = pd.read_csv('riders.csv')
+
+    def get_all_race_concurrent(link, name, textname):
+        races = get_all_race(link, this_year_only=this_year_only)
+        races.to_csv(f'riders/{name}.csv', index=False)
+        print(f'{textname}\'s races saved')
+
+    # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
+    downloaded = os.listdir('riders')
+    undownloaded = []
+
+    # num = 10 # for testing purposes
+    num = len(riders_df)
+    for i in range(num):
+        link = riders_df.loc[i, "The link"]        # 'rider/tadej-pogacar'
+        name = link[6:]                            # 'tadej-pogacar'
+        textname = riders_df.loc[i, "Rider name"]  # 'Pogačar Tadej'
+
+        if renew:
+            undownloaded.append([link,name,textname])
+        else:
+            if f'{name}.csv' not in downloaded:
+                undownloaded.append([link,name,textname])
+
+    threads = [threading.Thread(target=get_all_race_concurrent, args=(d[0],d[1],d[2])) for d in undownloaded]
+    for t in threads:
+        t.start()
+
+
 if __name__ == "__main__":
-    # update_dates()
-    # d1 = get_dates()
+    # update_dates() # the website update the latest date every day
 
-    # rider_link = 'rider/tadej-pogacar'
-    # r = get_all_race(rider_link, this_year_only=True)
-    # print(r)
-
-    update_all_riders_races()
+    # update_all_riders_concurrent()
+    update_all_riders_races_concurrent()

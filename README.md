@@ -6,6 +6,6 @@ Right now this repo is only capable of fetching and collecting data from [procyc
 
 # Todos
 - [ ] Random IP
-- [ ] Concurrent fetch
+- [x] Concurrent fetch
 - [ ] Setup a database for data storage
 - [ ] **Build model!!**
