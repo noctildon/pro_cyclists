@@ -5,7 +5,7 @@ Right now this repo is only capable of fetching and collecting data from [procyc
 
 
 # Todos
-- [ ] Random IP
-- [x] Concurrent fetch
+- [ ] handle the errs.txt
+- [ ] fetch the rider's data, like height, points per specialty
 - [ ] Setup a database for data storage
 - [ ] **Build model!!**

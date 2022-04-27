@@ -5,6 +5,7 @@ import requests
 from helper import print_df
 import threading
 import os
+import sys
 from queue import Queue
 
 
@@ -159,11 +160,14 @@ def get_race_years(link):
 
     soup = BeautifulSoup(res.text, 'html.parser')
     s = soup.find_all('span',string='more')
-    lis = s[0].parent.find_all('li')
-    for li in lis:
-        years.append(int(li.text))
 
-    return years
+    try:
+        lis = s[0].parent.find_all('li')
+        for li in lis:
+            years.append(int(li.text))
+        return years
+    except IndexError:
+        sys.exit(f'Index error')
 
 
 # Get all race of a rider
@@ -233,4 +237,8 @@ if __name__ == "__main__":
     # update_dates() # the website update the latest date every day
 
     # update_all_riders_concurrent()
+
+    # link = 'https://www.procyclingstats.com/rider/luke-mudgway'
+    # print(get_race_years(link))
+
     update_all_riders_races_concurrent()
