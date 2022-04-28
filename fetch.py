@@ -7,6 +7,8 @@ import threading
 import os
 import sys
 from queue import Queue
+from termcolor import colored
+
 
 
 url_base = 'https://www.procyclingstats.com/rankings.php'
@@ -126,8 +128,9 @@ def update_dates():
 
 
 # Get race for a ride in a year (year_link)
-# year_link = 'https://www.procyclingstats.com/rider/tadej-pogacar/2019
+# year_link = 'https://www.procyclingstats.com/rider/tadej-pogacar/2019'
 def get_race(year_link, verbose=False):
+    year = int(year_link.split('/')[-1])
     races = []
 
     res = requests.get(url=year_link)
@@ -147,6 +150,7 @@ def get_race(year_link, verbose=False):
         races.append(race)
 
     races_df = pd.DataFrame(races, columns=['date', 'result ranking', 'general classification', 'race name', 'distance', 'PCS point', 'UCI point'])
+    races_df['year'] = year
     if verbose:
         print_df(races_df)
     return races_df
@@ -209,7 +213,7 @@ def update_all_riders_races_concurrent(renew=False, this_year_only=False):
     def get_all_race_concurrent(link, name, textname):
         races = get_all_race(link, this_year_only=this_year_only)
         races.to_csv(f'riders/{name}.csv', index=False)
-        print(f'{textname}\'s races saved')
+        print(colored(f'{textname}\'s races saved!!', 'green'))
 
     # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
     downloaded = os.listdir('riders')
