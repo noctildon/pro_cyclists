@@ -1,3 +1,4 @@
+from matplotlib.pyplot import clim
 import numpy as np
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -8,6 +9,7 @@ import os
 import sys
 from queue import Queue
 from termcolor import colored
+from datetime import datetime, date
 
 
 
@@ -219,7 +221,6 @@ def update_all_riders_races_concurrent(renew=False, this_year_only=False):
     downloaded = os.listdir('riders')
     undownloaded = []
 
-    # num = 10 # for testing purposes
     num = len(riders_df)
     for i in range(num):
         link = riders_df.loc[i, "The link"]        # 'rider/tadej-pogacar'
@@ -237,6 +238,46 @@ def update_all_riders_races_concurrent(renew=False, this_year_only=False):
         t.start()
 
 
+# Get the rider information (eg. dob, height, weight, etc)
+# link = 'https://www.procyclingstats.com/rider/wout-van-aert'
+def get_rider_info(link, verbose=False):
+    res = requests.get(url=link)
+    soup = BeautifulSoup(res.text, 'html.parser')
+    s = soup.find('div', {'class': 'rdr-info-cont'})
+
+    dob_elements = s.find('b', string='Date of birth:')
+    dob_DD = int(dob_elements.next_sibling)          # day 12
+    dob_MMYY = list(dob_elements.next_siblings)[2]
+    dob_MM = dob_MMYY.split(' ')[1]                  # month September
+    dob_YYYY = int(dob_MMYY.split(' ')[2])           # year 1999
+    dob_str = f'{dob_MM} {dob_DD} {dob_YYYY}'
+    dob = datetime.strptime(dob_str ,'%B %d %Y')
+
+    weight = int(s.find('b', string='Weight:').next_sibling.split(' ')[1])    # kg
+    height = float(s.find('b', string='Height:').next_sibling.split(' ')[1])  # meter
+
+    place = list(s.find('b', string='Place of birth:').next_siblings)[1].text
+
+    specialties = s.find('h4', string='Points per specialty').parent.find('ul').find_all('div', {'class': 'pnt'})
+    one_day_races, gc, time_trial, sprint, climber = [int(s.text) for s in specialties]
+
+    pcs_rank = list(s.find('a', {'href': 'rankings/me/individual'}).next_elements)[1].text
+    uci_rank = list(s.find('a', {'href': 'rankings/me/uci-individual'}).next_elements)[1].text
+
+    try:
+        all_time_rank = list(s.find('a', {'href': 'rankings/me/all-time'}).next_elements)[1].text
+    except:
+        all_time_rank = None
+
+
+    # FIXME: build 1 row dataframe
+    rider_info_df = pd.DataFrame(
+        [dob, weight, height, place, one_day_races, gc, time_trial, sprint, climber, pcs_rank, uci_rank, all_time_rank],
+        columns=['DOB', 'weight [kg]', 'height [m]', 'birth place', 'one day races', 'GC', 'TT', 'sprint', 'climber', 'PCS rank', 'UCI rank', 'All time rank']
+    )
+
+    print(rider_info_df.info())
+
 if __name__ == "__main__":
     # update_dates() # the website update the latest date every day
 
@@ -245,4 +286,7 @@ if __name__ == "__main__":
     # link = 'https://www.procyclingstats.com/rider/luke-mudgway'
     # print(get_race_years(link))
 
-    update_all_riders_races_concurrent()
+    # update_all_riders_races_concurrent()
+
+    link = 'https://www.procyclingstats.com/rider/guillaume-martin'
+    get_rider_info(link)
