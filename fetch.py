@@ -241,52 +241,104 @@ def update_all_riders_races_concurrent(renew=False, this_year_only=False):
 # Get the rider information (eg. dob, height, weight, etc)
 # link = 'https://www.procyclingstats.com/rider/wout-van-aert'
 def get_rider_info(link, verbose=False):
+    if verbose:
+        print(link)
+        print('Fetching rider info...')
+
     res = requests.get(url=link)
     soup = BeautifulSoup(res.text, 'html.parser')
+    textname = soup.find('h1').text         # 'Pogačar Tadej'
+    textname = " ".join(textname.split())   # revmoe the redundant spaces
+    rider_link = link[32:]                  # 'rider/tadej-pogacar'
+
     s = soup.find('div', {'class': 'rdr-info-cont'})
 
     dob_elements = s.find('b', string='Date of birth:')
-    dob_DD = int(dob_elements.next_sibling)          # day 12
+    dob_DD = int(dob_elements.next_sibling)              # day 12
     dob_MMYY = list(dob_elements.next_siblings)[2]
-    dob_MM = dob_MMYY.split(' ')[1]                  # month September
-    dob_YYYY = int(dob_MMYY.split(' ')[2])           # year 1999
+    dob_MM = dob_MMYY.split(' ')[1]                      # month September
+    dob_YYYY = int(dob_MMYY.split(' ')[2])               # year 1999
     dob_str = f'{dob_MM} {dob_DD} {dob_YYYY}'
-    dob = datetime.strptime(dob_str ,'%B %d %Y')
+    dob = datetime.strptime(dob_str ,'%B %d %Y').date()  # 1998-08-11
 
-    weight = int(s.find('b', string='Weight:').next_sibling.split(' ')[1])    # kg
-    height = float(s.find('b', string='Height:').next_sibling.split(' ')[1])  # meter
+    try:
+        weight = int(s.find('b', string='Weight:').next_sibling.split(' ')[1])    # kg
+    except:
+        weight = None
 
-    place = list(s.find('b', string='Place of birth:').next_siblings)[1].text
+    try:
+        height = float(s.find('b', string='Height:').next_sibling.split(' ')[1])  # meter
+    except:
+        height = None
+
+    try:
+        place = list(s.find('b', string='Place of birth:').next_siblings)[1].text
+    except:
+        place = None
 
     specialties = s.find('h4', string='Points per specialty').parent.find('ul').find_all('div', {'class': 'pnt'})
     one_day_races, gc, time_trial, sprint, climber = [int(s.text) for s in specialties]
 
-    pcs_rank = list(s.find('a', {'href': 'rankings/me/individual'}).next_elements)[1].text
-    uci_rank = list(s.find('a', {'href': 'rankings/me/uci-individual'}).next_elements)[1].text
+    try:
+        pcs_rank = list(s.find('a', {'href': 'rankings/me/individual'}).next_elements)[1].text
+    except:
+        pcs_rank = None
+
+    try:
+        uci_rank = list(s.find('a', {'href': 'rankings/me/uci-individual'}).next_elements)[1].text
+    except:
+        uci_rank = None
 
     try:
         all_time_rank = list(s.find('a', {'href': 'rankings/me/all-time'}).next_elements)[1].text
     except:
         all_time_rank = None
 
-
-    # FIXME: build 1 row dataframe
     rider_info_df = pd.DataFrame(
-        [dob, weight, height, place, one_day_races, gc, time_trial, sprint, climber, pcs_rank, uci_rank, all_time_rank],
-        columns=['DOB', 'weight [kg]', 'height [m]', 'birth place', 'one day races', 'GC', 'TT', 'sprint', 'climber', 'PCS rank', 'UCI rank', 'All time rank']
+        [[textname, dob, weight, height, place, one_day_races, gc, time_trial, sprint, climber, pcs_rank, uci_rank, all_time_rank, rider_link]],
+        columns=['name', 'DOB', 'weight [kg]', 'height [m]', 'birth place', 'one day races', 'GC', 'TT', 'sprint', 'climber', 'PCS rank', 'UCI rank', 'All time rank', 'link']
     )
 
-    print(rider_info_df.info())
+    if verbose:
+        print_df(rider_info_df)
+
+    return rider_info_df
+
+
+# number = how many riders to download. -1 means all
+def get_all_riders_info(number=-1, renew=False, verbose=False):
+    # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
+    all_riders_csv_list = os.listdir('riders')
+
+    downloaded_df = pd.read_csv('riders_info.csv')
+    downloaded_set = set(downloaded_df['link'].to_numpy())
+    all_riders_set = set(['rider/'+rider[:-4] for rider in all_riders_csv_list])
+    undownloaded = all_riders_set - downloaded_set
+
+    if renew:
+        to_download_set = all_riders_set
+    else:
+        to_download_set = undownloaded
+
+    i = 0
+    for link in to_download_set:
+        if i > number and number != -1:
+            break
+        link = f'https://www.procyclingstats.com/{link}'
+        new_rider_info_df = get_rider_info(link, verbose=verbose)
+        downloaded_df = pd.concat([downloaded_df, new_rider_info_df])
+        i += 1
+
+    downloaded_df.to_csv('riders_info.csv', index=False)
+
 
 if __name__ == "__main__":
     # update_dates() # the website update the latest date every day
 
     # update_all_riders_concurrent()
 
-    # link = 'https://www.procyclingstats.com/rider/luke-mudgway'
-    # print(get_race_years(link))
 
     # update_all_riders_races_concurrent()
 
-    link = 'https://www.procyclingstats.com/rider/guillaume-martin'
-    get_rider_info(link)
+
+    get_all_riders_info(number=25, verbose=True)

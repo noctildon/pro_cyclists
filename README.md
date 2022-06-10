@@ -5,6 +5,6 @@ Right now this repo is only capable of fetching and collecting data from [procyc
 
 
 # Todos
-- [ ] fetch the rider's data, like height, points per specialty
+- [x] fetch the rider's data, like height, points per specialty
 - [ ] Setup a database for data storage (seems not necessary)
 - [ ] **Build model!!**
