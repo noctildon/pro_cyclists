@@ -338,7 +338,7 @@ if __name__ == "__main__":
     # update_all_riders_concurrent()
 
 
-    # update_all_riders_races_concurrent()
+    update_all_riders_races_concurrent()
 
 
-    get_all_riders_info(number=25, verbose=True)
+    # get_all_riders_info(number=25, verbose=True)
