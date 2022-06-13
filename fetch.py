@@ -242,6 +242,7 @@ def update_all_riders_races_concurrent(renew=False, this_year_only=False):
 # link = 'https://www.procyclingstats.com/rider/wout-van-aert'
 def get_rider_info(link, verbose=False):
     if verbose:
+        print('')
         print(link)
         print('Fetching rider info...')
 
@@ -253,13 +254,16 @@ def get_rider_info(link, verbose=False):
 
     s = soup.find('div', {'class': 'rdr-info-cont'})
 
-    dob_elements = s.find('b', string='Date of birth:')
-    dob_DD = int(dob_elements.next_sibling)              # day 12
-    dob_MMYY = list(dob_elements.next_siblings)[2]
-    dob_MM = dob_MMYY.split(' ')[1]                      # month September
-    dob_YYYY = int(dob_MMYY.split(' ')[2])               # year 1999
-    dob_str = f'{dob_MM} {dob_DD} {dob_YYYY}'
-    dob = datetime.strptime(dob_str ,'%B %d %Y').date()  # 1998-08-11
+    try:
+        dob_elements = s.find('b', string='Date of birth:')
+        dob_DD = int(dob_elements.next_sibling)              # day 12
+        dob_MMYY = list(dob_elements.next_siblings)[2]
+        dob_MM = dob_MMYY.split(' ')[1]                      # month September
+        dob_YYYY = int(dob_MMYY.split(' ')[2])               # year 1999
+        dob_str = f'{dob_MM} {dob_DD} {dob_YYYY}'
+        dob = datetime.strptime(dob_str ,'%B %d %Y').date()  # 1998-08-11
+    except:
+        dob = None
 
     try:
         weight = int(s.find('b', string='Weight:').next_sibling.split(' ')[1])    # kg
@@ -280,17 +284,17 @@ def get_rider_info(link, verbose=False):
     one_day_races, gc, time_trial, sprint, climber = [int(s.text) for s in specialties]
 
     try:
-        pcs_rank = list(s.find('a', {'href': 'rankings/me/individual'}).next_elements)[1].text
+        pcs_rank = int(list(s.find('a', {'href': 'rankings/me/individual'}).next_elements)[1].text)
     except:
         pcs_rank = None
 
     try:
-        uci_rank = list(s.find('a', {'href': 'rankings/me/uci-individual'}).next_elements)[1].text
+        uci_rank = int(list(s.find('a', {'href': 'rankings/me/uci-individual'}).next_elements)[1].text)
     except:
         uci_rank = None
 
     try:
-        all_time_rank = list(s.find('a', {'href': 'rankings/me/all-time'}).next_elements)[1].text
+        all_time_rank = int(list(s.find('a', {'href': 'rankings/me/all-time'}).next_elements)[1].text)
     except:
         all_time_rank = None
 
@@ -326,10 +330,9 @@ def get_all_riders_info(number=-1, renew=False, verbose=False):
             break
         link = f'https://www.procyclingstats.com/{link}'
         new_rider_info_df = get_rider_info(link, verbose=verbose)
-        downloaded_df = pd.concat([downloaded_df, new_rider_info_df])
+        new_rider_info_df.to_csv('riders_info.csv', mode='a', index=False, header=False)
         i += 1
 
-    downloaded_df.to_csv('riders_info.csv', index=False)
 
 
 if __name__ == "__main__":
@@ -338,7 +341,7 @@ if __name__ == "__main__":
     # update_all_riders_concurrent()
 
 
-    update_all_riders_races_concurrent()
+    # update_all_riders_races_concurrent()
 
 
-    # get_all_riders_info(number=25, verbose=True)
+    get_all_riders_info(number=5, verbose=True)
