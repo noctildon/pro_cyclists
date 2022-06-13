@@ -3,6 +3,7 @@ import numpy as np
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests
+import scipy as sp
 from helper import print_df
 import threading
 import os
@@ -314,10 +315,14 @@ def get_all_riders_info(number=-1, renew=False, verbose=False):
     # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
     all_riders_csv_list = os.listdir('riders')
 
+    with open('./ghosts.txt') as f:
+        ghosts = [line.strip() for line in f.readlines()]
+        ghosts_set = set(ghosts)
+
     downloaded_df = pd.read_csv('riders_info.csv')
     downloaded_set = set(downloaded_df['link'].to_numpy())
     all_riders_set = set(['rider/'+rider[:-4] for rider in all_riders_csv_list])
-    undownloaded = all_riders_set - downloaded_set
+    undownloaded = all_riders_set - downloaded_set - ghosts_set
 
     if renew:
         to_download_set = all_riders_set
@@ -343,5 +348,4 @@ if __name__ == "__main__":
 
     # update_all_riders_races_concurrent()
 
-
-    get_all_riders_info(number=5, verbose=True)
+    get_all_riders_info(verbose=True)
