@@ -1,4 +1,53 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,69,,National Championships France - Road Race (NC) ,240,,,2022
+16.06 » 19.06,,,La Route d'Occitanie - La Dépêche du Midi (2.1) ,,,,2022
+,58,,Youth classification ,,,,2022
+,23,,Points classification ,,,,2022
+,110,,General classification ,,,,2022
+19.06,101,,Stage 4 - Les Angles › Auterive ,188.3,,,2022
+18.06,128,123,Stage 3 - Sigean › Les Angles ,188.7,,,2022
+17.06,101,95,Stage 2 - Belmont-sur-Rance › Roquefort-sur-Soulzon ,33.6,,,2022
+16.06,8,9,Stage 1 - Séméac › L'Isle Jourdain ,174.4,1,,2022
+08.06 » 12.06,,,ZLM Tour (2.Pro) ,,,,2022
+,21,,Points classification ,,,,2022
+,59,,General classification ,,,,2022
+12.06,48,,Stage 5 - Made › Rijsbergen ,160.5,,,2022
+11.06,16,64,Stage 4 - Sint Willebrord › Mierlo  156k,196.5,,,2022
+10.06,18,75,Stage 3 - Heythuysen › Buchten ,192.5,,,2022
+09.06,82,79,Stage 2 - Veere › Goes ,183.2,,,2022
+08.06,22,27,Stage 1 - Kapelle › Kapelle ,100.9,,,2022
+26.05 » 29.05,,,Tour de la Mirabelle (2.2) ,,,,2022
+,37,,Points classification ,,,,2022
+,81,,General classification ,,,,2022
+29.05,65,,Stage 4 - Baccarat › Damelevières ,165.8,,,2022
+28.05,92,94,Stage 3 - Breuches › Saint-Amarin ,155.7,,,2022
+27.05,9,53,Stage 2 - Pont-à-Mousson › Pagny-sur-Moselle ,175.4,,,2022
+26.05,65,65,Stage 1 - Vandœuvre-lès-Nancy › Vandœuvre-lès-Nancy ,2.6,,,2022
+22.05,DNF,,Rund um Köln (1.1) ,199.3,,,2022
+15.05,79,,Tro-Bro Léon (1.Pro) ,207.8,,,2022
+14.05,DNF,,Grand Prix du Morbihan (1.Pro) ,185.4,,,2022
+10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro) ,,,,2022
+,41,,Points classification ,,,,2022
+,85,,General classification ,,,,2022
+16.04,111,85,Stage 7 - Gelibolu › Tekirdağ ,131.3,,,2022
+15.04,74,52,Stage 6 - Edremit (Akçay) › Eceabat (57.Alay Şehitliği) ,201.5,,,2022
+14.04,31,51,Stage 5 - Manisa › Ayvalık ,186.1,,,2022
+13.04,72,54,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park) ,146.2,,,2022
+12.04,11,6,Stage 3 - Çeşme › İzmir (Karşıyaka)  80k,117.9,,,2022
+11.04,17,15,Stage 2 - Selçuk (Efes) › Alaçatı ,156.4,,,2022
+10.04,30,30,Stage 1 - Bodrum › Kuşadası ,202,,,2022
+21.03 » 27.03,,,Tour de Normandie (2.2) ,,,,2022
+25.03,OTL,,Stage 5 - Les Monts d'Aunay › Bagnoles-de-l'Orne ,156.7,,,2022
+24.03,14,14,Stage 4 - Gacé › Argentan ,160.6,,,2022
+23.03,24,14,Stage 3 - Nonancourt › Elbeuf-sur-Seine ,181.4,,,2022
+22.03,6,19,Stage 2 - Le Neubourg › Forges-les-Eaux ,187.5,,,2022
+21.03,26,27,Stage 1 - Ouistreham › Vimoutiers ,148.2,,,2022
+10.02 » 13.02,,,Tour of Antalya (2.1) ,,,,2022
+,50,,General classification ,,,,2022
+13.02,32,,Stage 4 - Antalya › Antalya ,156.5,,,2022
+12.02,58,52,Stage 3 - Aspendos › Termessos ,110.6,,,2022
+11.02,13,11,Stage 2 - Kemer › Antalya ,180.3,,,2022
+10.02,7,8,Stage 1 - Side › Antalya ,142.4,2,,2022
 10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro),,,,2022
 ,41,,Points classification,,,,2022
 ,85,,General classification,,,,2022
@@ -8,7 +57,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.04,72,54,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park),146.2,,,2022
 12.04,11,6,Stage 3 - Çeşme › İzmir (Karşıyaka),117.9,,,2022
 11.04,17,15,Stage 2 - Selçuk (Efes) › Alaçatı,156.4,,,2022
-10.04,30,30,Stage 1 - Bodrum › Kuşadası,202,,,2022
+10.04,30,30,Stage 1 - Bodrum › Kuşadası,202.0,,,2022
 21.03 » 27.03,,,Tour de Normandie (2.2),,,,2022
 25.03,OTL,,Stage 5 - Les Monts d'Aunay › Bagnoles-de-l'Orne,156.7,,,2022
 24.03,14,14,Stage 4 - Gacé › Argentan,160.6,,,2022
@@ -28,16 +77,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.12,9,,Stage 6 - Satun › Hat Yai Park,159.4,,,2021
 05.12,24,22,Stage 5 - Trang › Satun,156.6,,,2021
 04.12,5,22,Stage 4 - Trang › Trang,143.7,4,,2021
-03.12,31,22,Stage 3 - Phatthalung › Trang,146,,,2021
-02.12,14,9,Stage 2 - Phatthalung › Phatthalung,228,,,2021
-01.12,7,9,Stage 1 - Hat Yai Park › Phatthalung,145,2,,2021
+03.12,31,22,Stage 3 - Phatthalung › Trang,146.0,,,2021
+02.12,14,9,Stage 2 - Phatthalung › Phatthalung,228.0,,,2021
+01.12,7,9,Stage 1 - Hat Yai Park › Phatthalung,145.0,2,,2021
 17.10,DNF,,Boucles de l'Aulne - Châteaulin (1.1),177.6,,,2021
 16.10,26,,Grand Prix du Morbihan (1.Pro),176.9,,5,2021
 07.10 » 10.10,,,Circuit des Ardennes International (2.2),,,,2021
 ,5,,Mountains classification,,,,2021
 ,13,,Points classification,,,,2021
 ,72,,General classification,,,,2021
-10.10,23,,Stage 4 - Tournes › Charleville-Mézières,169,,,2021
+10.10,23,,Stage 4 - Tournes › Charleville-Mézières,169.0,,,2021
 09.10,76,79,Stage 3 - Chooz › Hargnies,172.4,,,2021
 08.10,10,85,Stage 2 - Vouziers › Vouziers,186.9,,,2021
 07.10,88,89,Stage 1 - Sedan › Sedan,115.3,,,2021
@@ -45,24 +94,24 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 20.09 » 26.09,,,Le Tour de Bretagne Cycliste (2.2),,,,2021
 ,87,,General classification,,,,2021
 26.09,64,,Stage 7 - Guitté › Dinan,155.3,,,2021
-25.09,82,94,Stage 6 - Quédillac › Fougères,166,,,2021
-24.09,23,92,Stage 5 - Châteaubriant › Boisgervilly,217,,,2021
+25.09,82,94,Stage 6 - Quédillac › Fougères,166.0,,,2021
+24.09,23,92,Stage 5 - Châteaubriant › Boisgervilly,217.0,,,2021
 23.09,27,95,Stage 4 - Ploeren › Louisfert,167.6,,,2021
 22.09,48,105,Stage 3 - Rosporden › Brandivy,170.5,,,2021
 21.09,94,113,Stage 2 - Corlay › Rosporden,169.1,,,2021
-20.09,114,114,Stage 1 - Le Cambout › Allineuc,159,,,2021
+20.09,114,114,Stage 1 - Le Cambout › Allineuc,159.0,,,2021
 16.07 » 18.07,,,Tour of Kosovo (2.2),,,,2021
 ,5,,Points classification,,,,2021
 ,17,,General classification,,,,2021
-18.07,29,,Stage 3 - Hani i Elezit › Morinë,155,,,2021
-17.07,10,2,Stage 2 - Morinë › Hani i Elezit,144,,,2021
+18.07,29,,Stage 3 - Hani i Elezit › Morinë,155.0,,,2021
+17.07,10,2,Stage 2 - Morinë › Hani i Elezit,144.0,,,2021
 16.07,3,2,Stage 1 - Lebanë › Therande,141.5,1,1,2021
 23.10,25,,National Championships France U23 - Road Race (NC),168.5,,,2020
-11.10,12,,Paris-Tours Espoirs (1.2U),178,,,2020
-13.10,33,,Paris-Tours Espoirs (1.2U),183,,,2019
-01.09,DNF,,Grand Prix International de la ville de Nogent-sur-Oise (1.2),168,,,2019
+11.10,12,,Paris-Tours Espoirs (1.2U),178.0,,,2020
+13.10,33,,Paris-Tours Espoirs (1.2U),183.0,,,2019
+01.09,DNF,,Grand Prix International de la ville de Nogent-sur-Oise (1.2),168.0,,,2019
 23.08,DNF,,National Championships France U23 - Road Race (NC),178.5,,,2019
-20.08,DNF,,Grand Prix des Marbriers (1.2),160,,,2019
+20.08,DNF,,Grand Prix des Marbriers (1.2),160.0,,,2019
 28.07,6,,Grand Prix de la ville de Pérenchies (1.2),162.4,1,10,2019
 13.06 » 16.06,,,Ronde de l'Oise (2.2),,,,2019
 ,5,,Youth classification,,,,2019
@@ -76,42 +125,42 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.06,OTL,,Paris-Roubaix Espoirs (1.2U),170.5,,,2019
 12.05,20,,Grand Prix de la Somme « Conseil Départemental 80» (1.2),168.6,,,2019
 05.05,18,,Entre Brenne et Montmorillonnais (1.2),183.3,,,2019
-04.05,17,,L'Etoile d'Or (1.Ncup),180,,,2019
+04.05,17,,L'Etoile d'Or (1.Ncup),180.0,,,2019
 17.04 » 21.04,,,Tour du Loir et Cher E Provost (2.2),,,,2019
 20.04,DNF,,Stage 4 - Angé › Angé,191.5,,,2019
-19.04,105,108,Stage 3 - Mer › Vendôme,210,,,2019
-18.04,102,100,Stage 2 - Les Montils › Chailles,188,,,2019
-17.04,20,22,Stage 1 - Blois › Vineuil,176,,,2019
-07.10,DNF,,Paris-Tours Espoirs (1.2U),182,,,2018
-21.08,DNF,,Grand Prix des Marbriers (1.2),160,,,2018
+19.04,105,108,Stage 3 - Mer › Vendôme,210.0,,,2019
+18.04,102,100,Stage 2 - Les Montils › Chailles,188.0,,,2019
+17.04,20,22,Stage 1 - Blois › Vineuil,176.0,,,2019
+07.10,DNF,,Paris-Tours Espoirs (1.2U),182.0,,,2018
+21.08,DNF,,Grand Prix des Marbriers (1.2),160.0,,,2018
 22.07,12,,Grand Prix de la ville de Pérenchies (1.2),163.2,,,2018
-08.07,12,,Grand Prix de la Ville de Nogent-sur-Oise (1.2),168,,,2018
+08.07,12,,Grand Prix de la Ville de Nogent-sur-Oise (1.2),168.0,,,2018
 27.05,DNF,,Paris-Roubaix Espoirs (1.2U),188.3,,,2018
 29.04,55,,Paris - Mantes-en-Yvelines (1.2),172.9,,,2018
 21.04 » 22.04,,,Tour du Jura Cycliste (2.2),,,,2018
-21.04,DNF,,Stage 1 - Poligny › Salins-les-Bains,163,,,2018
+21.04,DNF,,Stage 1 - Poligny › Salins-les-Bains,163.0,,,2018
 11.04 » 15.04,,,Tour du Loir et Cher E Provost (2.2),,,,2018
 ,22,,Youth classification,,,,2018
 ,58,,General classification,,,,2018
 15.04,67,,Stage 5 - Blois › Blois,97.5,,,2018
-14.04,59,60,Stage 4 - Bourré › Bourré,183,,,2018
-13.04,43,44,Stage 3 - Droué › Vendôme,178,,,2018
-12.04,17,67,Stage 2 - Vernou-en-Sologne › La Ferté-Imbault,200,,,2018
+14.04,59,60,Stage 4 - Bourré › Bourré,183.0,,,2018
+13.04,43,44,Stage 3 - Droué › Vendôme,178.0,,,2018
+12.04,17,67,Stage 2 - Vernou-en-Sologne › La Ferté-Imbault,200.0,,,2018
 11.04,121,120,Stage 1 - Blois  › Fougère ,183.5,,,2018
 26.07 » 30.07,,,Tour Alsace (2.2),,,,2017
-28.07,DNF,,Stage 2 - Belfort › Blotzheim,144,,,2017
+28.07,DNF,,Stage 2 - Belfort › Blotzheim,144.0,,,2017
 27.07,109,114,Stage 1 - Velleminfroy › Planche des Belles Fille,148.1,,,2017
 27.05 » 28.05,,,Tour du Jura Cycliste (2.2),,,,2017
-28.05,DNF,,Stage 2 - Dole › Station des Rousses,193,,,2017
+28.05,DNF,,Stage 2 - Dole › Station des Rousses,193.0,,,2017
 27.05,71,71,Stage 1 - Arbois › Dole ,165.1,,,2017
 30.04 » 01.05,,,Tour des Portes du Pays d'Othe (2.1),,,,2016
 ,80,,General classification,,,,2016
-01.05,99,,Stage 3 - Estissac › Estissac,113,,,2016
+01.05,99,,Stage 3 - Estissac › Estissac,113.0,,,2016
 30.04,71,71,Stage 1 - Prugny › Bercenay-en-Othe,118.3,,,2016
-03.04,37,,Trofeo Citta di Loano (1.1),125,,,2016
+03.04,37,,Trofeo Citta di Loano (1.1),125.0,,,2016
 20.03,4,,Grand Prix Bob Jungels (1.1),130.8,32,,2016
 11.07 » 14.07,,,Ain'Ternational-Rhône Alpes-Valromey Tour (2.1),,,,2015
-13.07,DNF,,Stage 3 - Oyonnax › Plans d'Hotonnes,98,,,2015
+13.07,DNF,,Stage 3 - Oyonnax › Plans d'Hotonnes,98.0,,,2015
 12.07,101,97,Stage 2 - Belley › Montalieu-Vercieu Vallée Bleue,89.8,,,2015
 11.07,35,16,Stage 1 - Vonnas › Saint-Jean-de-Niost,102.8,,,2015
-22.03,35,,Bernaudeau Junior (1.1),132,,,2015
+22.03,35,,Bernaudeau Junior (1.1),132.0,,,2015

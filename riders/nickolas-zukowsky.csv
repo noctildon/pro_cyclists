@@ -1,4 +1,53 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,6,,National Championships Canada - Road Race (NC) ,,1,30,2022
+23.06,DNS,,National Championships Canada - ITT (NC) ,48,,,2022
+08.06 » 12.06,,,ZLM Tour (2.Pro) ,,,,2022
+,50,,General classification ,,,,2022
+12.06,82,,Stage 5 - Made › Rijsbergen ,160.5,,,2022
+11.06,60,40,Stage 4 - Sint Willebrord › Mierlo ,196.5,,,2022
+10.06,62,41,Stage 3 - Heythuysen › Buchten ,192.5,,,2022
+09.06,35,45,Stage 2 - Veere › Goes ,183.2,,,2022
+08.06,96,96,Stage 1 - Kapelle › Kapelle ,100.9,,,2022
+06.06,80,,Ronde van Limburg (1.1) ,202.6,,,2022
+04.06,15,,Heylen Vastgoed Heistse Pijl (1.1) ,192.8,6,5,2022
+24.05 » 29.05,,,Tour of Norway (2.Pro) ,,,,2022
+,65,,General classification ,,,,2022
+29.05,56,,Stage 6 - Stavanger › Stavanger ,149.3,,,2022
+28.05,86,73,Stage 5 - Flekkefjord › Sandnes  84k,181.7,,,2022
+27.05,47,59,Stage 4 - Hovden › Kristiansand ,232.1,,,2022
+26.05,63,68,Stage 3 - Gol › Stavsro/Gaustatoppen ,175.8,,,2022
+25.05,58,66,Stage 2 - Ulvik › Geilo ,123.8,,,2022
+24.05,59,59,Stage 1 - Bergen › Voss ,173.6,,,2022
+15.05,74,,Tro-Bro Léon (1.Pro) ,207.8,,,2022
+10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro) ,,,,2022
+,7,,Mountains classification ,,,,2022
+,63,,Points classification ,,,,2022
+16.04,69,65,Stage 7 - Gelibolu › Tekirdağ  81k,131.3,,,2022
+15.04,57,69,Stage 6 - Edremit (Akçay) › Eceabat (57.Alay Şehitliği) ,201.5,,,2022
+14.04,23,77,Stage 5 - Manisa › Ayvalık ,186.1,,,2022
+13.04,117,81,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park) ,146.2,,,2022
+12.04,40,18,Stage 3 - Çeşme › İzmir (Karşıyaka) ,117.9,,,2022
+11.04,48,23,Stage 2 - Selçuk (Efes) › Alaçatı ,156.4,,,2022
+10.04,16,16,Stage 1 - Bodrum › Kuşadası ,202,,,2022
+01.04,20,,La Route Adélie de Vitré (1.1) ,176.7,1,3,2022
+20.03,4,,Grand Prix Criquielion (1.2) ,186.9,4,20,2022
+18.03,79,,Bredene Koksijde Classic (1.Pro) ,200.9,,,2022
+16.03,28,,Danilith Nokere Koerse (1.Pro) ,189.8,,5,2022
+01.03,25,,Le Samyn (1.1) ,209,,3,2022
+27.02,35,,Kuurne - Bruxelles - Kuurne (1.Pro) ,195.1,,3,2022
+16.02 » 20.02,,,Volta ao Algarve em Bicicleta (2.Pro) ,,,,2022
+,111,,General classification ,,,,2022
+20.02,105,,Stage 5 - Lagoa › Malhão (Loulé)  85k,173,,,2022
+19.02,89,129,Stage 4 (ITT) - Vila Real de Santo António › Tavira ,32.2,,,2022
+18.02,109,135,Stage 3 - Almodôvar › Faro ,211.4,,,2022
+17.02,142,141,Stage 2 - Albufeira › Fóia (Monchique)  118k,182.4,,,2022
+16.02,146,146,Stage 1 - Portimão  › Lagos ,199.1,,,2022
+10.02 » 13.02,,,Tour of Antalya (2.1) ,,,,2022
+,23,,General classification ,,,3,2022
+13.02,65,,Stage 4 - Antalya › Antalya ,156.5,,,2022
+12.02,26,24,Stage 3 - Aspendos › Termessos ,110.6,,,2022
+11.02,73,45,Stage 2 - Kemer › Antalya ,180.3,,,2022
+10.02,36,37,Stage 1 - Side › Antalya ,142.4,,,2022
 10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro),,,,2022
 ,7,,Mountains classification,,,,2022
 ,63,,Points classification,,,,2022
@@ -9,16 +58,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.04,117,81,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park),146.2,,,2022
 12.04,40,18,Stage 3 - Çeşme › İzmir (Karşıyaka),117.9,,,2022
 11.04,48,23,Stage 2 - Selçuk (Efes) › Alaçatı,156.4,,,2022
-10.04,16,16,Stage 1 - Bodrum › Kuşadası,202,,,2022
+10.04,16,16,Stage 1 - Bodrum › Kuşadası,202.0,,,2022
 01.04,20,,La Route Adélie de Vitré (1.1),176.7,1,3,2022
 20.03,4,,Grand Prix Criquielion (1.2),186.9,4,20,2022
 18.03,79,,Bredene Koksijde Classic (1.Pro),200.9,,,2022
 16.03,28,,Danilith Nokere Koerse (1.Pro),189.8,,5,2022
-01.03,25,,Le Samyn (1.1),209,,3,2022
+01.03,25,,Le Samyn (1.1),209.0,,3,2022
 27.02,35,,Kuurne - Bruxelles - Kuurne (1.Pro),195.1,,3,2022
 16.02 » 20.02,,,Volta ao Algarve em Bicicleta (2.Pro),,,,2022
 ,111,,General classification,,,,2022
-20.02,105,,Stage 5 - Lagoa › Malhão (Loulé),173,,,2022
+20.02,105,,Stage 5 - Lagoa › Malhão (Loulé),173.0,,,2022
 19.02,89,129,Stage 4 (ITT) - Vila Real de Santo António › Tavira,32.2,,,2022
 18.02,109,135,Stage 3 - Almodôvar › Faro,211.4,,,2022
 17.02,142,141,Stage 2 - Albufeira › Fóia (Monchique),182.4,,,2022
@@ -29,7 +78,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.02,26,24,Stage 3 - Aspendos › Termessos,110.6,,,2022
 11.02,73,45,Stage 2 - Kemer › Antalya,180.3,,,2022
 10.02,36,37,Stage 1 - Side › Antalya,142.4,,,2022
-07.10,50,,Gran Piemonte (1.Pro),168,,,2021
+07.10,50,,Gran Piemonte (1.Pro),168.0,,,2021
 02.10,DNF,,Classic Loire Atlantique (1.1),182.8,,,2021
 01.10,21,,La Route Adélie de Vitré (1.1),197.8,,3,2021
 29.09,111,,Eurométropole Tour (1.Pro),177.6,,,2021
@@ -39,11 +88,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.09 » 12.09,,,Tour of Britain (2.Pro),,,,2021
 ,18,,Mountains classification,,,,2021
 ,47,,General classification,,,,2021
-12.09,20,,Stage 8 - Stonehaven › Aberdeen,173,,,2021
+12.09,20,,Stage 8 - Stonehaven › Aberdeen,173.0,,,2021
 11.09,57,48,Stage 7 - Hawick › Edinburgh,194.8,,,2021
-10.09,58,50,Stage 6 - Carlisle  › Gateshead,198,,,2021
+10.09,58,50,Stage 6 - Carlisle  › Gateshead,198.0,,,2021
 09.09,66,48,Stage 5 - Alderley Park › Warrington,152.2,,,2021
-08.09,59,49,"Stage 4 - Aberaeron › Great Orme, Llandudno",210,,,2021
+08.09,59,49,"Stage 4 - Aberaeron › Great Orme, Llandudno",210.0,,,2021
 07.09,11,39,Stage 3 (TTT) - Carmarthenshire (Llandeilo) › Carmarthenshire (National Botanic Garden of Wales),18.2,,,2021
 06.09,37,36,Stage 2 - Sherford › Exeter,183.9,,,2021
 05.09,46,46,Stage 1 - Penzance › Bodmin,180.8,,,2021
@@ -79,12 +128,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.06,115,98,Stage 7 (ITT) - Disentis Sedrun › Andermatt,23.2,,,2021
 11.06,96,101,Stage 6 - Fiesch › Disentis Sedrun,130.1,,,2021
 10.06,109,93,Stage 5 - Gstaad › Leukerbad,175.2,,,2021
-09.06,70,83,Stage 4 - Sankt Urban › Gstaad,171,,,2021
+09.06,70,83,Stage 4 - Sankt Urban › Gstaad,171.0,,,2021
 08.06,68,94,Stage 3 - Lachen › Pfaffnau,182.1,,,2021
-07.06,97,102,Stage 2 - Neuhausen am Rheinfall › Lachen,178,,,2021
+07.06,97,102,Stage 2 - Neuhausen am Rheinfall › Lachen,178.0,,,2021
 06.06,110,110,Stage 1 (ITT) - Frauenfeld › Frauenfeld,10.9,,,2021
 22.05,67,,Tour du Finistère (1.1),196.3,,,2021
-16.05,DNS,,Tro-Bro Léon (1.Pro),207,,,2021
+16.05,DNS,,Tro-Bro Léon (1.Pro),207.0,,,2021
 11.04 » 18.04,,,Presidential Cycling Tour of Turkey (2.Pro),,,,2021
 16.04,DNS,,Stage 6 - Fethiye › Marmaris,129.1,,,2021
 15.04,83,83,Stage 5 - Kemer › Elmalı (Göğübeli),160.3,,,2021
@@ -93,9 +142,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.04,81,54,Stage 2 - Konya › Konya,144.9,,,2021
 11.04,32,35,Stage 1 - Konya › Konya,72.4,,,2021
 07.04,DNF,,Scheldeprijs ME (1.Pro),193.8,,,2021
-04.04,67,,La Roue Tourangelle Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),204,,,2021
+04.04,67,,La Roue Tourangelle Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),204.0,,,2021
 22.03 » 28.03,,,Volta Ciclista a Catalunya (2.UWT),,,,2021
-28.03,DNF,,Stage 7 - Barcelona › Barcelona,133,,,2021
+28.03,DNF,,Stage 7 - Barcelona › Barcelona,133.0,,,2021
 27.03,127,136,Stage 6 - Tarragona › Mataró,193.8,,,2021
 26.03,133,137,Stage 5 - La Pobla de Segur › Manresa,201.1,,,2021
 25.03,138,142,Stage 4 - Ripoll › Port Ainé,166.5,,,2021
@@ -104,11 +153,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.03,139,139,Stage 1 - Calella › Calella,178.4,,,2021
 02.03,117,,Le Samyn (1.1),205.4,,,2021
 14.02,30,,Clasica de Almeria (1.Pro),183.3,,5,2021
-11.10,106,,Paris - Tours Elite (1.Pro),213,,,2020
+11.10,106,,Paris - Tours Elite (1.Pro),213.0,,,2020
 27.09,65,,Paris-Chauny (1.1),203.1,,,2020
 22.09,80,,Paris-Camembert (1.1),194.5,,,2020
 20.09,45,,Grand Prix d'Isbergues - Pas de Calais (1.1),199.3,,,2020
-13.09,33,,Antwerp Port Epic / Sels Trophy (1.1),190,,,2020
+13.09,33,,Antwerp Port Epic / Sels Trophy (1.1),190.0,,,2020
 01.09 » 04.09,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2020
 ,36,,Youth classification,,,,2020
 ,98,,General classification,,,,2020
@@ -118,7 +167,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.09,48,48,Stage 1a - Gatteo › Gatteo,97.8,,,2020
 01.09,13,61,Stage 1b (TTT) - Gatteo a Mare › Gatteo,13.3,,,2020
 30.08,DNF,,Memorial Marco Pantani (1.1),199.8,,,2020
-29.08,27,,Trofeo Matteotti (1.1),195,,,2020
+29.08,27,,Trofeo Matteotti (1.1),195.0,,,2020
 18.08,DNF,,Giro dell'Emilia (1.Pro),199.7,,,2020
 05.08 » 08.08,,,Le Tour de Savoie Mont Blanc (2.2),,,,2020
 ,34,,Youth classification,,,,2020
@@ -127,22 +176,22 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.08,79,82,Stage 4 - Aix-les-Bains  › Notre-Dame-du-Pré ,143.3,,,2020
 06.08,97,72,Stage 3 - Saint-Michel-de-Maurienne › Valmeinier ,37.4,,,2020
 06.08,52,56,Stage 2 - Moûtiers › Valfréjus ,97.4,,,2020
-05.08,79,79,Stage 1 - Annemasse › Praz-sur-Arly ,109,,,2020
-01.03,DNF,,Royal Bernard Drome Classic (1.Pro),203,,,2020
+05.08,79,79,Stage 1 - Annemasse › Praz-sur-Arly ,109.0,,,2020
+01.03,DNF,,Royal Bernard Drome Classic (1.Pro),203.0,,,2020
 29.02,DNF,,Faun-Ardèche Classic (1.Pro),184.4,,,2020
 21.02 » 23.02,,,Tour des Alpes Maritimes et du Var (2.1),,,,2020
 ,24,,Youth classification,,,,2020
 ,85,,General classification,,,,2020
 22.02,95,93,Stage 2 - Pégomas › Col d'Eze,175.7,,,2020
-21.02,95,95,Stage 1 - Le Cannet › Grasse,183,,,2020
+21.02,95,95,Stage 1 - Le Cannet › Grasse,183.0,,,2020
 04.02 » 08.02,,,Saudi Tour (2.1),,,,2020
 ,5,,Youth classification,,,,2020
 ,22,,General classification,,,3,2020
-08.02,65,,Stage 5 - Princess Nourah University  › Al Masnak,144,,,2020
-07.02,37,24,Stage 4 - Wadi Namar Park › Al Mazuhimiya King Saugìd University,137,,,2020
-06.02,43,30,Stage 3 - Riyadh › Al Bujairi,119,,,2020
-05.02,38,29,Stage 2 - Sadus Castle › Riyadh,187,,,2020
-04.02,33,35,Stage 1 - Riyadh › Jaww,173,,,2020
+08.02,65,,Stage 5 - Princess Nourah University  › Al Masnak,144.0,,,2020
+07.02,37,24,Stage 4 - Wadi Namar Park › Al Mazuhimiya King Saugìd University,137.0,,,2020
+06.02,43,30,Stage 3 - Riyadh › Al Bujairi,119.0,,,2020
+05.02,38,29,Stage 2 - Sadus Castle › Riyadh,187.0,,,2020
+04.02,33,35,Stage 1 - Riyadh › Jaww,173.0,,,2020
 27.09,26,,World Championships U23 - Road Race (WC),171.6,,5,2019
 24.09,32,,World Championships U23 - ITT (WC),30.3,,,2019
 15.09,82,,Grand Prix Cycliste de Montréal (1.UWT),219.6,5,,2019
@@ -153,7 +202,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.08,28,47,Stage 9 - Villaroger › Tignes,67.2,,,2019
 23.08,78,58,Stage 8 - Brides-les-Bains › Col de la Loze/Méribel,23.1,,,2019
 22.08,93,55,Stage 7 - Grésy-sur-Isere › La Giettaz,103.5,,,2019
-20.08,72,50,Stage 6 - Saint-Julien-Chapteuil › Privas,124,,,2019
+20.08,72,50,Stage 6 - Saint-Julien-Chapteuil › Privas,124.0,,,2019
 19.08,20,32,Stage 5 - Espalion › Saint-Julien-Chapteuil ,158.9,,,2019
 18.08,59,38,Stage 4 - Mauriac › Espalion,158.2,,,2019
 17.08,39,38,Stage 3 - Montignac-Lascaux › Mauriac,162.3,,,2019
@@ -161,20 +210,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.08,22,22,Stage 1 - Marmande › Marmande,128.8,,,2019
 12.07,9,,Chrono Kristin Armstrong (1.2),24.8,,3,2019
 30.06,3,,National Championships Canada - Road Race (NC),186.2,7,60,2019
-28.06,7,,National Championships Canada - ITT (NC),34,,3,2019
+28.06,7,,National Championships Canada - ITT (NC),34.0,,3,2019
 19.06 » 23.06,,,Tour de Beauce (2.2),,,,2019
 ,1,,Youth classification,,,,2019
 ,14,,Mountains classification,,,,2019
 ,4,,Points classification,,,,2019
 ,3,,General classification,,14,25,2019
 23.06,7,,Stage 5 - Saint-Georges › Saint-Georges,122.4,,,2019
-22.06,9,1,Stage 4 - Québec › Québec,70,,,2019
-21.06,24,1,Stage 3b - Saint-Georges › Notre-Dame-des-Pins,78,,,2019
-21.06,9,1,Stage 3a (ITT) - Saint-Prosper › Saint-Prosper,20,,,2019
-20.06,6,1,Stage 2 - Lac-Mégantic › Lac-Mégantic,169,,,2019
-19.06,2,2,Stage 1 - Saint-Georges  › Saint-Georges ,177,2,3,2019
+22.06,9,1,Stage 4 - Québec › Québec,70.0,,,2019
+21.06,24,1,Stage 3b - Saint-Georges › Notre-Dame-des-Pins,78.0,,,2019
+21.06,9,1,Stage 3a (ITT) - Saint-Prosper › Saint-Prosper,20.0,,,2019
+20.06,6,1,Stage 2 - Lac-Mégantic › Lac-Mégantic,169.0,,,2019
+19.06,2,2,Stage 1 - Saint-Georges  › Saint-Georges ,177.0,2,3,2019
 13.06 » 16.06,,,Grand Prix Cycliste de Saguenay (2.2),,,,2019
-,1,,Youth classification,,,,2019
 ,3,,Mountains classification,,,,2019
 ,1,,Points classification,,,,2019
 ,1,,General classification,,25,40,2019
@@ -183,14 +231,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.06,5,1,Stage 2 - La Baie › Montée Saint-Charles,156.1,,,2019
 13.06,10,2,Stage 1 - Jonquière › Jonquière,143.1,,,2019
 01.05 » 05.05,,,Tour of the Gila (2.2),,,,2019
-,1,,Youth classification,,,,2019
 ,11,,Mountains classification,,,,2019
-,3,,General classification,,14,25,2019
 05.05,10,,Stage 5 - Silver City › Pinos Altos,161.9,,,2019
 04.05,4,3,Stage 4 - Silver City › Silver City,69.5,,,2019
-03.05,11,4,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2019
+03.05,11,4,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2019
 02.05,2,5,Stage 2 - Fort Bayard › Fort Bayard,122.6,2,3,2019
-01.05,6,6,Stage 1 - Silver City › Mogollon ,148,,,2019
+01.05,6,6,Stage 1 - Silver City › Mogollon ,148.0,,,2019
 06.04 » 13.04,,,Le Tour de Langkawi (2.HC),,,,2019
 ,23,,Mountains classification,,,,2019
 ,47,,Points classification,,,,2019
@@ -229,7 +275,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.08,23,,Stage 6 - Park City › Park City,122.3,,,2018
 11.08,23,22,Stage 5 - Canyons Village  › Snowbird Ski and Summer ,157.7,,,2018
 10.08,35,23,Stage 4 - Salt Lake City › Salt Lake City,109.4,,,2018
-09.08,50,23,Stage 3 - Antelope Island › Layton City,188,,,2018
+09.08,50,23,Stage 3 - Antelope Island › Layton City,188.0,,,2018
 08.08,31,23,Stage 2 - Payson City › Payson City,138.4,,,2018
 07.08,38,33,Stage 1 - Cedar City › Cedar City,162.5,,,2018
 06.08,42,42,Prologue - St. George › St. George,5.31,,,2018
@@ -238,36 +284,35 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.06,9,,National Championships Canada - ITT (NC),37.3,,1,2018
 13.06 » 17.06,,,Tour de Beauce (2.2),,,,2018
 17.06,DNF,,Stage 5 - Saint-Georges › Saint-Georges,122.4,,,2018
-16.06,79,27,Stage 4 - Québec › Québec,70,,,2018
-15.06,51,21,Stage 3b - Saint-Georges › Notre-Dame-des-Pins,77,,,2018
+16.06,79,27,Stage 4 - Québec › Québec,70.0,,,2018
+15.06,51,21,Stage 3b - Saint-Georges › Notre-Dame-des-Pins,77.0,,,2018
 15.06,36,21,Stage 3a (ITT) - Saint-Prosper › Saint-Prosper,19.4,,,2018
-14.06,20,20,Stage 2 - Lac-Mégantic › Lac-Mégantic,169,,,2018
-13.06,28,31,Stage 1 - Saint-Georges › Saint-Georges,177,,,2018
+14.06,20,20,Stage 2 - Lac-Mégantic › Lac-Mégantic,169.0,,,2018
+13.06,28,31,Stage 1 - Saint-Georges › Saint-Georges,177.0,,,2018
 28.05,8,,Winston Salem Cycling Classic (1.1),177.8,18,30,2018
 18.04 » 22.04,,,Tour of the Gila (2.2),,,,2018
-,7,,Youth classification,,,,2018
 ,27,,Points classification,,,,2018
 ,25,,General classification,,,,2018
 22.04,27,,Stage 5 - Silver City › Pinos Altos,161.9,,,2018
 21.04,46,11,Stage 4 - Silver City › Silver City,69.5,,,2018
-20.04,13,10,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2018
+20.04,13,10,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2018
 19.04,32,13,Stage 2 - Fort Bayard › Fort Bayard,120.7,,,2018
-18.04,11,11,Stage 1 - Silver City › Mogollon,148,,,2018
-22.09,93,,World Championships U23 - Road Race (WC),191,,,2017
+18.04,11,11,Stage 1 - Silver City › Mogollon,148.0,,,2018
+22.09,93,,World Championships U23 - Road Race (WC),191.0,,,2017
 01.09 » 04.09,,,Tour of Alberta (2.1),,,,2017
 ,16,,Youth classification,,,,2017
 ,30,,Mountains classification,,,,2017
 ,58,,General classification,,,,2017
 04.09,58,,Stage 4 - Edmonton › Edmonton,124.1,,,2017
-03.09,61,56,Stage 3 - Edmonton › Edmonton,116,,,2017
-02.09,74,59,Stage 2 - Spruce Grove › Spruce Grove,139,,,2017
-01.09,59,59,Stage 1 - Jasper › Marmot Basin Ski Area,162,,,2017
+03.09,61,56,Stage 3 - Edmonton › Edmonton,116.0,,,2017
+02.09,74,59,Stage 2 - Spruce Grove › Spruce Grove,139.0,,,2017
+01.09,59,59,Stage 1 - Jasper › Marmot Basin Ski Area,162.0,,,2017
 31.07 » 06.08,,,The Larry H.Miller Tour of Utah (2.HC),,,,2017
 05.08,DNF,,Stage 6 - Heber Valley › Snowbird Resort,97.8,,,2017
 04.08,98,116,Stage 5 - Layton › Bountiful,185.4,,,2017
 03.08,107,110,Stage 4 - South Jordan City › South Jordan City,201.1,,,2017
-02.08,101,110,Stage 3 (ITT) - Big Cottonwood Canyon › Big Cottonwood Canyon,9,,,2017
-01.08,116,117,Stage 2 - Brigham City › Snowbasin Resort,151,,,2017
+02.08,101,110,Stage 3 (ITT) - Big Cottonwood Canyon › Big Cottonwood Canyon,9.0,,,2017
+01.08,116,117,Stage 2 - Brigham City › Snowbasin Resort,151.0,,,2017
 31.07,109,109,Stage 1 - Logan › Logan,211.2,,,2017
 19.07 » 23.07,,,Cascade Cycling Classic (2.2),,,,2017
 ,22,,Youth classification,,,,2017
@@ -277,24 +322,23 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.07,93,68,Stage 3 - Bend › Kapka Butte Snow Park,172.7,,,2017
 20.07,51,73,Stage 2 (ITT) - Bend › Bend,22.9,,,2017
 19.07,88,88,Stage 1 - Princeville ›  Dee Wright Observatory,172.9,,,2017
-27.06,5,,National Championships Canada - ITT (NC),36,,10,2017
-25.06,DNF,,National Championships Canada - Road Race (NC),160,,,2017
+27.06,5,,National Championships Canada - ITT (NC),36.0,,10,2017
+25.06,DNF,,National Championships Canada - Road Race (NC),160.0,,,2017
 14.06 » 18.06,,,Tour de Beauce (2.2),,,,2017
-,16,,Youth classification,,,,2017
 ,35,,General classification,,,,2017
 18.06,33,,Stage 5 - Saint-Georges › Saint-Georges,122.4,,,2017
-17.06,67,51,Stage 4 - Québec › Québec,70,,,2017
-16.06,71,44,Stage 3b - Saint-Georges › Beauce Art,77,,,2017
+17.06,67,51,Stage 4 - Québec › Québec,70.0,,,2017
+16.06,71,44,Stage 3b - Saint-Georges › Beauce Art,77.0,,,2017
 16.06,23,45,Stage 3a (ITT) - Saint-Georges › Saint-Georges,19.7,,,2017
-15.06,45,49,Stage 2 - Lac-Méganti › Lac-Méganti,170,,,2017
-14.06,46,47,Stage 1 - Saint-Georges › Saint-Georges,185,,,2017
+15.06,45,49,Stage 2 - Lac-Méganti › Lac-Méganti,170.0,,,2017
+14.06,46,47,Stage 1 - Saint-Georges › Saint-Georges,185.0,,,2017
 29.05,OTL,,Winston Salem Cycling Classic (1.1),177.8,,,2017
 19.04 » 23.04,,,Tour of the Gila (2.2),,,,2017
 ,20,,Youth classification,,,,2017
 ,85,,General classification,,,,2017
 23.04,85,,Stage 5 - Silver City › Pinos Altos,161.9,,,2017
 22.04,55,35,Stage 4 - Silver City › Silver City,69.5,,,2017
-21.04,19,37,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2017
+21.04,19,37,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2017
 20.04,97,75,Stage 2 - Fort Bayard › Fort Bayard,120.7,,,2017
 19.04,61,61,Stage 1 - Silver City › Whitewater Mesa,143.4,,,2017
 14.10,DNF,,World Championships MJ - Road Race (WC),135.3,,,2016
@@ -302,13 +346,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.08 » 14.08,,,Ronde des Vallées (2.1),,,,2016
 ,5,,Mountains classification,,,,2016
 ,59,,General classification,,,,2016
-14.08,3,,Stage 3 - Hémonstoir  › Hémonstoir ,102,7,,2016
+14.08,3,,Stage 3 - Hémonstoir  › Hémonstoir ,102.0,7,,2016
 14.08,14,77,Stage 2 (ITT) - Saint-Caradec   › Hémonstoir  ,11.3,,,2016
-13.08,83,83,Stage 1 - Mûr-de-Bretagne   › Le Quillio,102,,,2016
+13.08,83,83,Stage 1 - Mûr-de-Bretagne   › Le Quillio,102.0,,,2016
 05.08 » 07.08,,,Aubel - Thimister - La Gleize (2.1),,,,2016
 ,62,,General classification,,,,2016
-07.08,75,,Stage 3 - La Gleize › La Gleize,111,,,2016
-06.08,26,28,Stage 2b - Thimister › Thimister,97,,,2016
+07.08,75,,Stage 3 - La Gleize › La Gleize,111.0,,,2016
+06.08,26,28,Stage 2b - Thimister › Thimister,97.0,,,2016
 05.08,96,96,Stage 1 - Aubel › Aubel,94.2,,,2016
 19.07 » 24.07,,,Tour de l'Abitibi - Coupe des Nations Junior (2.Ncup),,,,2016
 ,4,,General classification,,80,,2016
@@ -319,5 +363,5 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.07,11,10,Stage 3 (ITT) - Rouyn-Noranda › Rouyn-Noranda,9.6,,,2016
 20.07,48,51,Stage 2 - Val-d’Or › Rouyn-Noranda,116.1,,,2016
 19.07,66,66,Stage 1 - Amos  › Rouyn-Noranda,113.1,,,2016
-28.06,3,,National Championships Canada MJ - ITT (NC),26,6,,2016
+28.06,3,,National Championships Canada MJ - ITT (NC),26.0,6,,2016
 28.06,3,,National Championships Canada MJ - ITT (NC),,6,,2016

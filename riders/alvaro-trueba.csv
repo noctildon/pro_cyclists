@@ -1,4 +1,20 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+16.03 » 20.03,,,Volta ao Alentejo (2.2) ,,,,2022
+16.03,DNF,,Stage 1 - Vendas Novas › Sines ,176.7,,,2022
+13.03,DNF,,Classica da Arrabida - Cyclin'Portugal (1.2) ,161.8,,,2022
+24.02 » 27.02,,,Gran Camiño (2.1) ,,,,2022
+,50,,General classification ,,,,2022
+27.02,56,,Stage 4 (ITT) - Sarria  › Sarria  ,15.8,,,2022
+26.02,44,52,Stage 3 - Maceda  › Luintra ,148.4,,,2022
+25.02,67,67,Stage 2 - Bertamiráns  › Mirador do Ézaro ,177.6,,,2022
+24.02,79,81,Stage 1 - O Porriño › Vigo ,165,,,2022
+16.02 » 20.02,,,Volta ao Algarve em Bicicleta (2.Pro) ,,,,2022
+,59,,General classification ,,,,2022
+20.02,31,,Stage 5 - Lagoa › Malhão (Loulé) ,173,,,2022
+19.02,117,84,Stage 4 (ITT) - Vila Real de Santo António › Tavira ,32.2,,,2022
+18.02,72,74,Stage 3 - Almodôvar › Faro ,211.4,,,2022
+17.02,62,77,Stage 2 - Albufeira › Fóia (Monchique) ,182.4,,,2022
+16.02,104,104,Stage 1 - Portimão  › Lagos ,199.1,,,2022
 16.03 » 20.03,,,Volta ao Alentejo (2.2),,,,2022
 16.03,DNF,,Stage 1 - Vendas Novas › Sines,176.7,,,2022
 13.03,DNF,,Classica da Arrabida - Cyclin'Portugal (1.2),161.8,,,2022
@@ -7,10 +23,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.02,56,,Stage 4 (ITT) - Sarria  › Sarria ,15.8,,,2022
 26.02,44,52,Stage 3 - Maceda  › Luintra,148.4,,,2022
 25.02,67,67,Stage 2 - Bertamiráns  › Mirador do Ézaro,177.6,,,2022
-24.02,79,81,Stage 1 - O Porriño › Vigo,165,,,2022
+24.02,79,81,Stage 1 - O Porriño › Vigo,165.0,,,2022
 16.02 » 20.02,,,Volta ao Algarve em Bicicleta (2.Pro),,,,2022
 ,59,,General classification,,,,2022
-20.02,31,,Stage 5 - Lagoa › Malhão (Loulé),173,,,2022
+20.02,31,,Stage 5 - Lagoa › Malhão (Loulé),173.0,,,2022
 19.02,117,84,Stage 4 (ITT) - Vila Real de Santo António › Tavira,32.2,,,2022
 18.02,72,74,Stage 3 - Almodôvar › Faro,211.4,,,2022
 17.02,62,77,Stage 2 - Albufeira › Fóia (Monchique),182.4,,,2022
@@ -32,8 +48,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,22,,Mountains classification,,,,2021
 ,19,,Points classification,,,,2021
 ,10,,General classification,,1,3,2021
-18.07,13,,Stage 3 - Serra d'El-Rei › Alto do Montejunto,185,,,2021
-17.07,8,9,Stage 2 - Arruda dos Vinhos   › Torres Vedras,166,,,2021
+18.07,13,,Stage 3 - Serra d'El-Rei › Alto do Montejunto,185.0,,,2021
+17.07,8,9,Stage 2 - Arruda dos Vinhos   › Torres Vedras,166.0,,,2021
 16.07,13,13,Stage 1 - Turcifal › Serra do Socorro ,85.3,,,2021
 05.05 » 09.05,,,Volta ao Algarve em Bicicleta (2.Pro),,,,2021
 ,82,,General classification,,,,2021
@@ -46,14 +62,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.09 » 05.10,,,Volta a Portugal em Bicicleta Edição Especial (2.1),,,,2020
 ,42,,General classification,,,,2020
 05.10,22,,Stage 8 (ITT) - Lisbon › Lisbon,17.7,,,2020
-04.10,29,43,Stage 7 - Loures › Setúbal,161,,,2020
-03.10,69,49,Stage 6 - Caldas da Rainha › Torres Vedras,155,,,2020
+04.10,29,43,Stage 7 - Loures › Setúbal,161.0,,,2020
+03.10,69,49,Stage 6 - Caldas da Rainha › Torres Vedras,155.0,,,2020
 02.10,67,50,Stage 5 - Oliveira do Hospital › Águeda,176.3,,,2020
-01.10,37,50,Stage 4 - Guarda › Torre (Covilhã),148,,,2020
+01.10,37,50,Stage 4 - Guarda › Torre (Covilhã),148.0,,,2020
 30.09,57,60,Stage 3 - Felgueiras › Viseu,171.9,,,2020
-29.09,83,70,"Stage 2 - Paredes › Mondim, Alto da Senhora da Graça",167,,,2020
-28.09,34,30,"Stage 1 - Montalegre › Viana do Castelo, Alto Santa Luzia",180,,,2020
-27.09,39,39,Prologue - Fafe › Fafe,7,,,2020
+29.09,83,70,"Stage 2 - Paredes › Mondim, Alto da Senhora da Graça",167.0,,,2020
+28.09,34,30,"Stage 1 - Montalegre › Viana do Castelo, Alto Santa Luzia",180.0,,,2020
+27.09,39,39,Prologue - Fafe › Fafe,7.0,,,2020
 19.09 » 20.09,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2020
 ,90,,General classification,,,,2020
 20.09,96,,Stage 2 - Turcifal › Carvoeira,145.2,,,2020
@@ -82,19 +98,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,38,,General classification,,,,2019
 11.08,103,,Stage 10 (ITT) - Vila Nova de Gaia › Porto,19.5,,,2019
 10.08,42,36,Stage 9 - Fafe › Senhora da Graça,133.5,,,2019
-09.08,28,39,Stage 8 - Viana do Castelo › Santa Quitéria,158,,,2019
+09.08,28,39,Stage 8 - Viana do Castelo › Santa Quitéria,158.0,,,2019
 08.08,49,41,Stage 7 - Bragança › Serra do Larouco,156.2,,,2019
 07.08,9,40,Stage 6 - Torre de Moncorvo › Bragança,189.2,,,2019
-05.08,64,45,Stage 5 - Oliveira do Hospital › Guarda,158,,,2019
-04.08,48,46,Stage 4 - Pampilhosa da Serra › Torre,145,,,2019
+05.08,64,45,Stage 5 - Oliveira do Hospital › Guarda,158.0,,,2019
+04.08,48,46,Stage 4 - Pampilhosa da Serra › Torre,145.0,,,2019
 03.08,54,55,Stage 3 - Santarém › Castelo Branco,194.1,,,2019
 02.08,64,59,Stage 2 - Marinha Grande › St.º António dos Cavaleiros,198.5,,,2019
 01.08,23,59,Stage 1 - Miranda do Corvo › Leiria,174.7,,,2019
-31.07,73,73,Prologue - Viseu › Viseu,6,,,2019
+31.07,73,73,Prologue - Viseu › Viseu,6.0,,,2019
 25.07,DNF,,Prueba Villafranca-Ordiziako Klasika (1.1),165.7,,,2019
 11.07 » 14.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2019
 12.07,DNS,,Stage 1 - Ventosa › Sobral de Monte Agraço,156.8,,,2019
-11.07,29,29,Prologue - Turcifal  › Turcifal ,8,,,2019
+11.07,29,29,Prologue - Turcifal  › Turcifal ,8.0,,,2019
 17.05 » 19.05,,,Vuelta Aragón (2.1),,,,2019
 ,20,,General classification,,1,3,2019
 19.05,30,,Stage 3 - Huesca › Zaragoza,127.4,,,2019
@@ -104,14 +120,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,11,,Mountains classification,,,,2019
 ,26,,General classification,,,,2019
 12.05,28,,Stage 3 - Madrid › Madrid,99.9,,,2019
-11.05,27,27,Stage 2 - San Martin de Valdeiglesias › San Martin de Valdeiglesias,163,,,2019
-10.05,59,59,Stage 1 - Aranjuez › Aranjuez,161,,,2019
+11.05,27,27,Stage 2 - San Martin de Valdeiglesias › San Martin de Valdeiglesias,163.0,,,2019
+10.05,59,59,Stage 1 - Aranjuez › Aranjuez,161.0,,,2019
 25.04 » 27.04,,,Vuelta a Castilla y Leon (2.1),,,,2019
 ,3,,Mountains classification,,,,2019
 ,44,,General classification,,,,2019
 27.04,70,,Stage 3 - León › Villafranca del Bierzo,151.8,,,2019
 26.04,100,46,Stage 2 - Fromista › Villada,170.3,,,2019
-25.04,44,39,Stage 1 - Belorado › Castrojeriz,181,,,2019
+25.04,44,39,Stage 1 - Belorado › Castrojeriz,181.0,,,2019
 12.04 » 14.04,,,GP Beiras e Serra da Estrela (2.1),,,,2019
 ,25,,General classification,,,3,2019
 14.04,38,,Stage 3 - Celorico da Beira › Colvilhã,177.4,,,2019
@@ -119,13 +135,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.04,35,36,Stage 1 - Vilar Formoso › Pinhel,155.6,,,2019
 20.03 » 24.03,,,Volta ao Alentejo (2.2),,,,2019
 ,81,,General classification,,,,2019
-24.03,97,,Stage 6 - Portalegre › Évora,152,,,2019
+24.03,97,,Stage 6 - Portalegre › Évora,152.0,,,2019
 23.03,31,76,Stage 5 (ITT) - Castelo de Vide › Castelo de Vide,8.4,,,2019
 23.03,24,77,Stage 4 - Ponte de Sor › Portalegre,74.3,,,2019
 22.03,68,89,Stage 3 - Santiago do Cacém › Mora,176.5,,,2019
 21.03,103,111,Stage 2 - Mértola › Odemira,182.8,,,2019
 20.03,117,117,Stage 1 - Montemor-o-Novo › Moura,208.1,,,2019
-17.03,DNF,,Classica da Arrabida - Cyclin'Portugal (1.2),185,,,2019
+17.03,DNF,,Classica da Arrabida - Cyclin'Portugal (1.2),185.0,,,2019
 01.08 » 12.08,,,Volta a Portugal em Bicicleta Santander Totta (2.1),,,,2018
 ,52,,Points classification,,,,2018
 ,92,,General classification,,,,2018
@@ -148,14 +164,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 20.07,56,33,Stage 3 - Pedrógão Grande › Montargil,144.1,,,2018
 19.07,61,28,Stage 2 - Castro Daire › Pedrógão Grande,177.2,,,2018
 18.07,16,16,Stage 1 - Chaves › Castro Daire,140.7,,,2018
-30.06,9,,Mediterranean Games - ITT (JR),25,,,2018
-27.06,11,,Mediterranean Games - Road Race (JR),143,,,2018
-24.06,40,,National Championships Spain - Road Race (NC),215,,,2018
+30.06,9,,Mediterranean Games - ITT (JR),25.0,,,2018
+27.06,11,,Mediterranean Games - Road Race (JR),143.0,,,2018
+24.06,40,,National Championships Spain - Road Race (NC),215.0,,,2018
 11.05 » 13.05,,,Vuelta Aragon (2.1),,,,2018
 ,22,,General classification,,,3,2018
-13.05,24,,Stage 3 - Sabiñánigo › Cerler,126,,,2018
-12.05,51,38,Stage 2 - Huesca/Uesca › Zaragoza,194,,,2018
-11.05,39,39,Stage 1 - Teruel › Caspe,180,,,2018
+13.05,24,,Stage 3 - Sabiñánigo › Cerler,126.0,,,2018
+12.05,51,38,Stage 2 - Huesca/Uesca › Zaragoza,194.0,,,2018
+11.05,39,39,Stage 1 - Teruel › Caspe,180.0,,,2018
 20.04 » 22.04,,,Vuelta a Castilla y Leon (2.1),,,,2018
 ,23,,General classification,,,3,2018
 22.04,28,,Stage 3 - Segovia › Avila,165.6,,,2018
@@ -189,23 +205,23 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.08,30,52,Stage 4 - Macedo de Cavaleiros  › Mondim de Basto (Sr.ª da Graça) ,152.7,,,2017
 07.08,82,69,Stage 3 - F. C. Rodrigo  › Bragança,162.1,,,2017
 06.08,64,71,Stage 2 - Reguengos de Monsaraz  › Castelo Branco ,214.7,,,2017
-05.08,68,63,Stage 1 - Vila Franca de Xira  › Setúbal,203,,,2017
+05.08,68,63,Stage 1 - Vila Franca de Xira  › Setúbal,203.0,,,2017
 04.08,39,39,Prologue - Lisboa › Lisboa,5.4,,,2017
 05.07 » 09.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2017
 ,31,,Mountains classification,,,,2017
 ,36,,General classification,,,,2017
-09.07,40,,Stage 4 - Sao Martinho do Porto › Carvoeira,162,,,2017
-08.07,91,49,Stage 3a - Atouguia da Baleia › Vimeiro,78,,,2017
-08.07,39,37,Stage 3b - Torres Vedras › Torres Vedras,111,,,2017
-07.07,57,43,Stage 2 - Sobral Monte Agraco › Alto de Montejunto,155,,,2017
-06.07,36,16,Stage 1 - Ventosa › Arruda dos Vinhos,140,,,2017
-05.07,15,15,Prologue - Turcifal › Turcifal,8,,,2017
+09.07,40,,Stage 4 - Sao Martinho do Porto › Carvoeira,162.0,,,2017
+08.07,91,49,Stage 3a - Atouguia da Baleia › Vimeiro,78.0,,,2017
+08.07,39,37,Stage 3b - Torres Vedras › Torres Vedras,111.0,,,2017
+07.07,57,43,Stage 2 - Sobral Monte Agraco › Alto de Montejunto,155.0,,,2017
+06.07,36,16,Stage 1 - Ventosa › Arruda dos Vinhos,140.0,,,2017
+05.07,15,15,Prologue - Turcifal › Turcifal,8.0,,,2017
 25.06,57,,National Championships Spain - Road Race (NC),207.3,,,2017
 19.05 » 21.05,,,Vuelta a Castilla y Leon (2.1),,,,2017
 ,23,,General classification,,,3,2017
 21.05,67,,Stage 3 - Ponferrada › León,145.5,,,2017
 20.05,24,24,Stage 2 - Velilla del Río Carrión-Sabero › Alto de la Camperona,166.4,,,2017
-19.05,40,40,Stage 1 - Aguilar de Campoo › Santibañez de la Peña,168,,,2017
+19.05,40,40,Stage 1 - Aguilar de Campoo › Santibañez de la Peña,168.0,,,2017
 12.03,25,,Classica Aldeias do Xisto - Cylin'Portugal (1.2),140.6,,,2017
 05.03,16,,Classica da Arrabida - Cylin'Portugal (1.2),186.6,,,2017
 22.02 » 26.02,,,Volta ao Alentejo (2.1),,,,2017
@@ -214,39 +230,39 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 25.02,86,39,Stage 4 - Odemira › Alcácer do Sal,175.8,,,2017
 24.02,74,38,Stage 3 - Mourão › Mértola,208.8,,,2017
 23.02,94,41,Stage 2 - Monforte › Portel,171.3,,,2017
-22.02,40,40,Stage 1 - Portalegre › Castelo de Vide,158,,,2017
+22.02,40,40,Stage 1 - Portalegre › Castelo de Vide,158.0,,,2017
 15.02 » 19.02,,,Volta ao Algarve em Bicicleta (2.HC),,,,2017
 ,78,,General classification,,,,2017
 19.02,38,,Stage 5 - Loulé  › Malhão,179.2,,,2017
 18.02,103,97,Stage 4 - Almodôvar › Tavira,203.4,,,2017
-17.02,170,100,Stage 3 (ITT) - Sagres › Sagres,18,,,2017
+17.02,170,100,Stage 3 (ITT) - Sagres › Sagres,18.0,,,2017
 16.02,94,92,Stage 2 - Lagoa › Alto da Fóia,189.3,,,2017
 15.02,124,125,Stage 1 - Albufeira › Lagos,182.9,,,2017
 27.07 » 07.08,,,Volta a Portugal em Bicicleta / Liberty Seguros (2.1),,,,2016
 ,10,,Youth classification,,,,2016
 ,40,,Mountains classification,,,,2016
 ,75,,General classification,,,,2016
-07.08,85,,Stage 10 (ITT) - Villa Franca de Xira › Lisboa,32,,,2016
+07.08,85,,Stage 10 (ITT) - Villa Franca de Xira › Lisboa,32.0,,,2016
 06.08,42,78,Stage 9 - Alcacer do Sal › Setúbal,187.5,,,2016
 05.08,81,83,Stage 8 - Nazaré › Arruda dos Vinhos,208.5,,,2016
-04.08,113,85,Stage 7 - Figueira de Castelo Rodrigo › Castelo Branco,182,,,2016
+04.08,113,85,Stage 7 - Figueira de Castelo Rodrigo › Castelo Branco,182.0,,,2016
 03.08,46,79,Stage 6 - Belmonte › Guarda,173.7,,,2016
 01.08,50,96,Stage 5 - Lamego ›  Viseu,153.2,,,2016
 31.07,103,115,Stage 4 - Bragança › Senhora da Graça,191.9,,,2016
 30.07,96,118,Stage 3 - Montalegre › Macedo de Cavaleiros,158.9,,,2016
-29.07,106,115,Stage 2 - Viana › Fafe,160,,,2016
+29.07,106,115,Stage 2 - Viana › Fafe,160.0,,,2016
 28.07,106,109,Stage 1 - Ovar › Braga,167.4,,,2016
 27.07,93,96,Prologue - Oliveira de Azeméis › Oliveira de Azeméis,3.6,,,2016
 07.07 » 10.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2016
 ,31,,General classification,,,,2016
-10.07,36,,Stage 3 - Atouguia de Baleia › Carvoeira,147,,,2016
+10.07,36,,Stage 3 - Atouguia de Baleia › Carvoeira,147.0,,,2016
 09.07,63,44,Stage 2 - Palhagueiras › Torres Vedras,154.3,,,2016
-08.07,26,24,Stage 1 - Ventosa › Alto de Montejunto,179,,,2016
-07.07,28,28,Prologue - Turcifal › Turcifal,8,,,2016
+08.07,26,24,Stage 1 - Ventosa › Alto de Montejunto,179.0,,,2016
+07.07,28,28,Prologue - Turcifal › Turcifal,8.0,,,2016
 13.05 » 15.05,,,Grande Prémio Internacional Beiras e Serra da Estrela (2.1),,,,2016
 15.05,DNF,,Stage 3 - Guarda › Penhas da Saúde,194.1,,,2016
 14.05,103,44,Stage 2 - Sabugal › Fundão ,198.6,,,2016
-13.05,42,41,Stage 1 - Pinhel › Vilar Formoso,145,,,2016
+13.05,42,41,Stage 1 - Pinhel › Vilar Formoso,145.0,,,2016
 15.04 » 17.04,,,Vuelta a Castilla y Leon (2.1),,,,2016
 ,14,,Points classification,,,,2016
 ,32,,General classification,,,,2016
@@ -259,13 +275,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.03,59,44,Stage 4 - Aljustrel › Grândola,184.7,,,2016
 18.03,62,45,Stage 3 - Portel › Beja,186.6,,,2016
 17.03,57,46,Stage 2 - Monforte › Montemor-o-novo,206.2,,,2016
-16.03,52,52,Stage 1 - Portalegre › Castelo de Vide,158,,,2016
+16.03,52,52,Stage 1 - Portalegre › Castelo de Vide,158.0,,,2016
 17.02 » 21.02,,,Volta ao Algarve em Bicicleta (2.1),,,,2016
 ,6,,Youth classification,,,,2016
 ,83,,General classification,,,,2016
-21.02,37,,Stage 5 - Almodôvar › Alto do Malhão,169,,,2016
-20.02,113,116,Stage 4 - S. Brás de Alportel › Tavira,194,,,2016
-19.02,124,120,Stage 3 (ITT) - Sagres › Sagres,18,,,2016
+21.02,37,,Stage 5 - Almodôvar › Alto do Malhão,169.0,,,2016
+20.02,113,116,Stage 4 - S. Brás de Alportel › Tavira,194.0,,,2016
+19.02,124,120,Stage 3 (ITT) - Sagres › Sagres,18.0,,,2016
 18.02,117,120,Stage 2 - Lagoa › Alto da Fóia,198.6,,,2016
 17.02,119,120,Stage 1 - Lagos › Albufeira,163.6,,,2016
 16.07 » 19.07,,,Volta a Portugal do Futuro / Liberty Seguros (2.2U),,,,2015
@@ -274,20 +290,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,3,,General classification,,14,16,2015
 19.07,7,,Stage 4 - S. Pedro do Sul › Oliveira de Azemeis,120.9,,,2015
 18.07,7,3,Stage 3 - Viseu › S. Pedro do Sul,116.5,,,2015
-17.07,2,4,Stage 2 - Alvaiázere › Oliveira do Hospital,135,2,5,2015
+17.07,2,4,Stage 2 - Alvaiázere › Oliveira do Hospital,135.0,2,5,2015
 16.07,19,19,Stage 1 - Pombal › Ansião,137.5,,,2015
-27.06,28,,National Championships Spain U23 - Road Race (NC),150,,,2015
-26.06,3,,National Championships Spain U23 - ITT (NC),26,,,2015
+27.06,28,,National Championships Spain U23 - Road Race (NC),150.0,,,2015
+26.06,3,,National Championships Spain U23 - ITT (NC),26.0,,,2015
 18.04,85,,Liège - Bastogne - Liège U23 (1.2U),181.5,,,2015
 23.08 » 30.08,,,Tour de l'Avenir (2.Ncup),,,,2014
 ,82,,General classification,,,,2014
-30.08,72,,Stage 7 - Saint-Michel-de-Maurienne › La Toussuire,94,,,2014
-29.08,70,93,Stage 6 - Saint-Gervais › La Rosière,108,,,2014
+30.08,72,,Stage 7 - Saint-Michel-de-Maurienne › La Toussuire,94.0,,,2014
+29.08,70,93,Stage 6 - Saint-Gervais › La Rosière,108.0,,,2014
 28.08,108,102,Stage 5 - Bons-en-Chablais › Les Carroz d'Arraches,101.6,,,2014
 27.08,79,86,Stage 4 - Saint-Vulbas › Plateau de Solaison,165.3,,,2014
-26.08,87,93,Stage 3 - Montrond-les-Bains › Paray-le-Monial,143,,,2014
-25.08,100,98,Stage 2 - Brioude › Saint-Galmier,143,,,2014
-24.08,57,90,Stage 1 - Saint-Flour › Brioude,145,,,2014
+26.08,87,93,Stage 3 - Montrond-les-Bains › Paray-le-Monial,143.0,,,2014
+25.08,100,98,Stage 2 - Brioude › Saint-Galmier,143.0,,,2014
+24.08,57,90,Stage 1 - Saint-Flour › Brioude,145.0,,,2014
 23.08,93,93,Prologue - Saint-Flour › Saint-Flour,4.45,,,2014
 17.07 » 20.07,,,Volta a Portugal do Futuro (2.2U),,,,2014
 ,7,,Youth classification,,,,2014
@@ -298,7 +314,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.07,15,12,Stage 3 - Castelo de Paiva › Montalegre (Serra Larouco),148.4,,,2014
 18.07,4,5,Stage 2 - Sta. Maria da Feira › Arouca,133.1,,,2014
 17.07,46,46,Stage 1 - Águeda › Oliveira do Bairro,146.7,,,2014
-28.06,50,,National Championships Spain U23 - Road Race (NC),146,,,2014
+28.06,50,,National Championships Spain U23 - Road Race (NC),146.0,,,2014
 27.06,7,,National Championships Spain U23 - ITT (NC),29.5,,,2014
 19.04,DNF,,Liège - Bastogne - Liège U23 (1.2U),181.5,,,2014
 21.06,49,,National Championships Spain U23 - Road Race (NC),136.4,,,2013
@@ -313,6 +329,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.06 » 20.06,,,Vuelta al Besaya (2.1),,,,2010
 ,19,,General classification,,2,,2010
 20.06,10,,Stage 4 - San Felices de Buelna › Los Corrales de Buelna,84.6,,,2010
-19.06,42,,Stage 3 - Santander › Bostronizo,93,,,2010
+19.06,42,,Stage 3 - Santander › Bostronizo,93.0,,,2010
 18.06,49,,Stage 2 - Santillana del Mar › Ruiloba,97.9,,,2010
 17.06,13,,Stage 1 - Los Corrales de Buelna › Mercadal,85.6,,,2010

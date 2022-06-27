@@ -1,4 +1,49 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,10,,National Championships Czech Republic - Road Race (NC) ,,,3,2022
+23.06,6,,National Championships Czech Republic U23 - ITT (NC) ,,,,2022
+08.06 » 12.06,,,ZLM Tour (2.Pro) ,,,,2022
+,10,,Youth classification ,,,,2022
+,38,,General classification ,,,3,2022
+12.06,29,,Stage 5 - Made › Rijsbergen ,160.5,,,2022
+11.06,86,44,Stage 4 - Sint Willebrord › Mierlo ,196.5,,,2022
+10.06,14,46,Stage 3 - Heythuysen › Buchten ,192.5,,,2022
+09.06,64,55,Stage 2 - Veere › Goes ,183.2,,,2022
+08.06,32,35,Stage 1 - Kapelle › Kapelle ,100.9,,,2022
+02.06 » 05.06,,,Course de la Paix Grand Prix Jeseníky (2.Ncup) ,,,,2022
+,13,,Youth classification ,,,,2022
+,17,,Mountains classification ,,,,2022
+,2,,Points classification ,,,,2022
+,39,,General classification ,,,,2022
+05.06,2,,Stage 3 - Jeseník › Jeseník ,166.7,2,8,2022
+04.06,49,49,Stage 2 - Bruntál › Dlouhé Stráně ,134.6,,,2022
+03.06,2,1,Stage 1 - Jeseník › Rýmařov ,131.5,2,8 +1,2022
+02.06,6,6,Prologue - Jeseník › Jeseník ,3.4,,,2022
+22.05,9,,Rund um Köln (1.1) ,199.3,16,25,2022
+07.05,5,,Ronde van Overijssel (1.2) ,199.8,2,15,2022
+10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro) ,,,,2022
+,77,,General classification ,,,,2022
+16.04,32,77,Stage 7 - Gelibolu › Tekirdağ ,131.3,,,2022
+15.04,148,103,Stage 6 - Edremit (Akçay) › Eceabat (57.Alay Şehitliği) ,201.5,,,2022
+14.04,133,97,Stage 5 - Manisa › Ayvalık ,186.1,,,2022
+13.04,118,90,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park) ,146.2,,,2022
+12.04,69,70,Stage 3 - Çeşme › İzmir (Karşıyaka) ,117.9,,,2022
+11.04,103,72,Stage 2 - Selçuk (Efes) › Alaçatı ,156.4,,,2022
+10.04,21,21,Stage 1 - Bodrum › Kuşadası ,202,,,2022
+21.03 » 27.03,,,Tour de Normandie (2.2) ,,,,2022
+,15,,Youth classification ,,,,2022
+,40,,Points classification ,,,,2022
+,16,,General classification ,,,,2022
+27.03,12,,Stage 7 - Ducey-les-Chéris › Caen ,142.5,,,2022
+26.03,17,17,Stage 6 - Carentan-les-Marais › Carentan-les-Marais ,175.9,,,2022
+25.03,32,17,Stage 5 - Les Monts d'Aunay › Bagnoles-de-l'Orne ,156.7,,,2022
+24.03,16,20,Stage 4 - Gacé › Argentan ,160.6,,,2022
+23.03,23,21,Stage 3 - Nonancourt › Elbeuf-sur-Seine ,181.4,,,2022
+22.03,39,44,Stage 2 - Le Neubourg › Forges-les-Eaux ,187.5,,,2022
+21.03,54,55,Stage 1 - Ouistreham › Vimoutiers ,148.2,,,2022
+16.03,38,,Danilith Nokere Koerse (1.Pro) ,189.8,,3,2022
+13.03,30,,Albert Achterhes Profronde van Drenthe (1.1) ,198.1,,,2022
+06.03,56,,Grote Prijs Jean-Pierre Monseré (1.1) ,203.2,,,2022
+01.03,71,,Le Samyn (1.1) ,209,,,2022
 10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro),,,,2022
 ,77,,General classification,,,,2022
 16.04,32,77,Stage 7 - Gelibolu › Tekirdağ,131.3,,,2022
@@ -7,7 +52,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.04,118,90,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park),146.2,,,2022
 12.04,69,70,Stage 3 - Çeşme › İzmir (Karşıyaka),117.9,,,2022
 11.04,103,72,Stage 2 - Selçuk (Efes) › Alaçatı,156.4,,,2022
-10.04,21,21,Stage 1 - Bodrum › Kuşadası,202,,,2022
+10.04,21,21,Stage 1 - Bodrum › Kuşadası,202.0,,,2022
 21.03 » 27.03,,,Tour de Normandie (2.2),,,,2022
 ,15,,Youth classification,,,,2022
 ,40,,Points classification,,,,2022
@@ -22,9 +67,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 16.03,38,,Danilith Nokere Koerse (1.Pro),189.8,,3,2022
 13.03,30,,Albert Achterhes Profronde van Drenthe (1.1),198.1,,,2022
 06.03,56,,Grote Prijs Jean-Pierre Monseré (1.1),203.2,,,2022
-01.03,71,,Le Samyn (1.1),209,,,2022
+01.03,71,,Le Samyn (1.1),209.0,,,2022
 16.10,35,,Craft Ster van Zwolle (1.2),194.5,,,2021
-10.10,26,,Paris - Tours Espoirs (1.2U),177,,,2021
+10.10,26,,Paris - Tours Espoirs (1.2U),177.0,,,2021
 03.10,DNF,,Sparkassen Münsterland Giro (1.Pro),188.5,,,2021
 24.09,11,,World Championships U23 - Road Race (WC),161.1,12,30,2021
 19.09,51,,Grand Prix d'Isbergues - Pas de Calais (1.1),199.3,,,2021
@@ -35,7 +80,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,25,,General classification,,,,2021
 05.09,50,,Stage 3 - Albert › Le Cateau-Cambrésis,175.3,,,2021
 04.09,13,21,Stage 2 - Neuville-Saint-Rémy › Roisel,174.7,,,2021
-03.09,25,26,Stage 1 - Arras › Lagnicourt-Marcel,129,,,2021
+03.09,25,26,Stage 1 - Arras › Lagnicourt-Marcel,129.0,,,2021
 13.08 » 22.08,,,Tour de l'Avenir (2.Ncup),,,,2021
 ,22,,Youth classification,,,,2021
 ,11,,Points classification,,,,2021
@@ -43,13 +88,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.08,52,,Stage 9 - La Toussuire › Col du Petit Saint-Bernard,151.6,,,2021
 21.08,102,70,Stage 8 - La Tour-en-Maurienne › Saint Jean d’Arves,71.3,,,2021
 20.08,121,64,Stage 7 - Saint-Vulbas › Grand Colombier,97.9,,,2021
-19.08,59,42,Stage 6 - Champagnole › Septmoncel,111,,,2021
+19.08,59,42,Stage 6 - Champagnole › Septmoncel,111.0,,,2021
 18.08,8,32,Stage 5 - Tomblaine › Bar-sur-Aube,150.7,,,2021
 17.08,9,33,Stage 4 - Provins › Bar-le-Duc,183.9,,,2021
 16.08,19,35,Stage 3 - Château-Thierry › Donnemarie-Dontilly,153.4,,,2021
 15.08,13,50,Stage 2 (TTT) - Laon › Laon,26.8,,,2021
 14.08,4,69,Stage 1 - Charleville-Mézières › Soissons,161.2,,,2021
-13.08,97,97,Prologue - Charleville-Mézières › Charleville-Mézières,5,,,2021
+13.08,97,97,Prologue - Charleville-Mézières › Charleville-Mézières,5.0,,,2021
 21.07 » 25.07,,,Tour Alsace (2.2),,,,2021
 24.07,DNS,,Stage 4 - Ribeauvillé  › Lac Blanc,161.3,,,2021
 23.07,131,128,Stage 3 - Vesoul › La Planche des Belles Filles,143.1,,,2021
@@ -65,11 +110,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.06,14,4,Stage 2 - Kutno › Płock,96.9,,,2021
 23.06,2,2,Stage 1 - Pabianice › Łódź,75.1,2,3,2021
 20.06,10,,National Championships Czech Republic - Road Race (NC),227.5,,3,2021
-17.06,7,,National Championships Czech Republic U23 - ITT (NC),40,,,2021
+17.06,7,,National Championships Czech Republic U23 - ITT (NC),40.0,,,2021
 03.06 » 06.06,,,Course de la Paix Grand Prix Jeseníky (2.Ncup),,,,2021
-,8,,Youth classification,,,,2021
 ,5,,Points classification,,,,2021
-,25,,General classification,,,,2021
 06.06,34,,Stage 3 - Jeseník › Jeseník,167.9,,,2021
 05.06,37,35,Stage 2 - Bruntál › Dlouhé Stráně,116.6,,,2021
 04.06,1,5,Stage 1 - Jeseník › Rýmařov,130.4,5,12,2021
@@ -84,7 +127,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.08,2,,European Continental Championships MJ - Road Race (CC),109.2,70,,2020
 24.08,7,,European Continental Championships MJ - ITT (CC),25.6,,,2020
 16.08,1,,National Championships Czech Republic MJ - Road Race (NC),133.1,20,,2020
-13.08,2,,National Championships Czech Republic MJ - ITT (NC),21,8,,2020
+13.08,2,,National Championships Czech Republic MJ - ITT (NC),21.0,8,,2020
 26.09,19,,World Championships MJ - Road Race (WC),148.1,10,,2019
 23.09,53,,World Championships MJ - ITT (WC),27.6,,,2019
 29.08 » 01.09,,,Giro della Lunigiana (2.1),,,,2019
@@ -95,20 +138,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 31.08,92,48,Stage 3 - Casette › Casette,113.6,,,2019
 30.08,11,7,Stage 2a - Aulla › Castelnuovo Magra,70.6,,,2019
 30.08,39,20,Stage 2b (ITT) - Bocca di Magra › Montemarcello,4.5,,,2019
-29.08,4,5,Stage 1 - Lerici › La Specia,100,5,,2019
-09.08,11,,European Continental Championships MJ - Road Race (CC),115,8,,2019
+29.08,4,5,Stage 1 - Lerici › La Specia,100.0,5,,2019
+09.08,11,,European Continental Championships MJ - Road Race (CC),115.0,8,,2019
 07.08,20,,European Continental Championships MJ - ITT (CC),22.4,,,2019
-29.06,1,,National Championships Czech Republic MJ - Road Race (NC),125,20,,2019
+29.06,1,,National Championships Czech Republic MJ - Road Race (NC),125.0,20,,2019
 27.06,2,,National Championships Czech Republic MJ - ITT (NC),20.5,8,,2019
 20.06 » 23.06,,,LVM Saarland Trofeo (2.Ncup),,,,2019
 ,4,,Youth classification,,,,2019
 ,2,,Points classification,,,,2019
 ,7,,General classification,,55,,2019
-23.06,1,,Stage 4 - Walsheim › Walsheim,118,30,,2019
-22.06,1,19,Stage 3a - Homburg › Homburg,81,30,,2019
+23.06,1,,Stage 4 - Walsheim › Walsheim,118.0,30,,2019
+22.06,1,19,Stage 3a - Homburg › Homburg,81.0,30,,2019
 22.06,2,7,Stage 3b (TTT) - Bitche › Reinheim,31.6,10,,2019
-21.06,34,25,Stage 2 - Neunkirchen  › Münchwies,111,,,2019
-20.06,12,12,Stage 1 - Aßweiler  › Erfweiler-Ehlingen,113,,,2019
+21.06,34,25,Stage 2 - Neunkirchen  › Münchwies,111.0,,,2019
+20.06,12,12,Stage 1 - Aßweiler  › Erfweiler-Ehlingen,113.0,,,2019
 30.05 » 02.06,,,Tour du Pays de Vaud (2.Ncup),,,,2019
 ,5,,Youth classification,,,,2019
 ,17,,Points classification,,,,2019
@@ -119,7 +162,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 31.05,27,20,Stage 1 - Tolochenaz › Chamblon,128.8,,,2019
 30.05,22,22,Prologue - Échichens › Échichens,5.2,,,2019
 09.05 » 12.05,,,Course de la Paix Juniors (2.Ncup),,,,2019
-,5,,Youth classification,,,,2019
 ,27,,Points classification,,,,2019
 ,16,,General classification,,16,,2019
 12.05,63,,Stage 4 - Terezín › Terezín,96.4,,,2019

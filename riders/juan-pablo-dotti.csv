@@ -1,16 +1,32 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
-14.04,2,,National Championships Argentina - ITT (NC),42,7,,2022
+14.04,2,,National Championships Argentina - ITT (NC) ,42,7,,2022
+07.04 » 10.04,,,Vuelta a Formosa Internacional (2.2) ,,,,2022
+,6,,Points classification ,,,,2022
+,13,,General classification ,,,,2022
+10.04,48,,Stage 4 - Formosa › Formosa ,98.8,,,2022
+09.04,61,16,Stage 3 - Villa 213 › Formosa ,175.7,,,2022
+08.04,32,13,Stage 2b - Formosa › Formosa ,102.4,,,2022
+08.04,7,13,Stage 2a (ITT) - Formosa › Formosa ,8,,,2022
+07.04,36,16,Stage 1 - Laguna Blanca › Formosa ,138.1,,,2022
+09.02 » 13.02,,,Vuelta del Porvenir San Luis (2.2) ,,,,2022
+,7,,General classification ,,4,5,2022
+13.02,37,,Stage 5 - San Luis › San Luis ,126,,,2022
+12.02,14,7,Stage 4 - Juana Koslay › Juana Koslay ,164.9,,,2022
+11.02,2,2,Stage 3 (ITT) - El Durazno  › El Durazno  ,12.7,2,3,2022
+10.02,23,29,Stage 2 - La Toma › La Toma ,185.6,,,2022
+09.02,27,30,Stage 1 - San Luis › Vila Mercedes ,168.3,,,2022
+14.04,2,,National Championships Argentina - ITT (NC),42.0,7,,2022
 07.04 » 10.04,,,Vuelta a Formosa Internacional (2.2),,,,2022
 ,6,,Points classification,,,,2022
 ,13,,General classification,,,,2022
 10.04,48,,Stage 4 - Formosa › Formosa,98.8,,,2022
 09.04,61,16,Stage 3 - Villa 213 › Formosa,175.7,,,2022
 08.04,32,13,Stage 2b - Formosa › Formosa,102.4,,,2022
-08.04,7,13,Stage 2a (ITT) - Formosa › Formosa,8,,,2022
+08.04,7,13,Stage 2a (ITT) - Formosa › Formosa,8.0,,,2022
 07.04,36,16,Stage 1 - Laguna Blanca › Formosa,138.1,,,2022
 09.02 » 13.02,,,Vuelta del Porvenir San Luis (2.2),,,,2022
 ,7,,General classification,,4,5,2022
-13.02,37,,Stage 5 - San Luis › San Luis,126,,,2022
+13.02,37,,Stage 5 - San Luis › San Luis,126.0,,,2022
 12.02,14,7,Stage 4 - Juana Koslay › Juana Koslay,164.9,,,2022
 11.02,2,2,Stage 3 (ITT) - El Durazno  › El Durazno ,12.7,2,3,2022
 10.02,23,29,Stage 2 - La Toma › La Toma,185.6,,,2022
@@ -25,22 +41,22 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.01,12,11,Stage 3 (ITT) - Ullum › Punta Negra,15.5,,,2020
 27.01,60,29,Stage 2 - Pocito › Pocito,164.7,,,2020
 26.01,25,25,Stage 1 - San Juan › San Juan,163.5,,,2020
-28.04,8,,National Championships Argentina - Road Race (NC),198,,,2019
-26.04,1,,National Championships Argentina - ITT (NC),39,15,,2019
+28.04,8,,National Championships Argentina - Road Race (NC),198.0,,,2019
+26.04,1,,National Championships Argentina - ITT (NC),39.0,15,,2019
 06.03 » 10.03,,,Vuelta Ciclista a Chiloe (2.2),,,,2019
 ,10,,Mountains classification,,,,2019
 ,2,,Points classification,,,,2019
 ,4,,General classification,,11,20,2019
 10.03,2,,Stage 4 (ITT) - Puqueldón › Isla Lemuy,11.5,2,3,2019
-09.03,5,4,Stage 3 - Chonchi › Chonchi,117,,,2019
-08.03,4,4,"Stage 2 - Curaco de Velez › Achao, Isla Quinchao",117,,,2019
+09.03,5,4,Stage 3 - Chonchi › Chonchi,117.0,,,2019
+08.03,4,4,"Stage 2 - Curaco de Velez › Achao, Isla Quinchao",117.0,,,2019
 07.03,13,3,Stage 1 - Quellón › Quellón,121.7,,,2019
 06.03,4,4,Prologue - Castro › Castro,1.99,,,2019
 23.03 » 01.04,,,Vuelta Ciclista del Uruguay (2.2),,,,2018
 ,2,,Mountains classification,,,,2018
 ,2,,General classification,,18,30,2018
 01.04,15,,Stage 10 - Minas › Montevideo,145.2,,,2018
-31.03,32,2,Stage 9 - Treinta y Tres › Minas,165,,,2018
+31.03,32,2,Stage 9 - Treinta y Tres › Minas,165.0,,,2018
 30.03,20,2,Stage 8b - Melo › Treinta y Tres,106.7,,,2018
 30.03,2,2,Stage 8a (ITT) - Melo › Melo,22.8,2,3,2018
 29.03,17,1,Stage 7 - Tacuarembó	 › Las Toscas,113.1,,,2018
@@ -60,7 +76,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.01,14,27,Stage 3 (ITT) - San Juan › San Juan,14.4,,,2018
 22.01,67,68,Stage 2 - Peri Lago Punta Negra › Peri Lago Punta Negra,149.9,,,2018
 21.01,104,106,Stage 1 - San Juan › Pocito,148.9,,,2018
-21.04,6,,National Championships Argentina - ITT (NC),40,,,2017
+21.04,6,,National Championships Argentina - ITT (NC),40.0,,,2017
 23.01 » 29.01,,,Vuelta Ciclista a la Provincia de San Juan (2.1),,,,2017
 ,13,,General classification,,8,5,2017
 29.01,58,,Stage 7 - San Juan › San Juan,111.3,,,2017
@@ -71,78 +87,78 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.01,48,18,Stage 2 - San Juan › San Juan,128.8,,,2017
 23.01,18,23,Stage 1 - San Juan › San Juan,142.5,,,2017
 17.03,12,,National Championships Argentina - Road Race (NC),,,,2013
-15.04, 1 ,,National Championships Argentina - Road Race (NC),190,,,2012
+15.04, 1 ,,National Championships Argentina - Road Race (NC),190.0,,,2012
 03.04,4,,National Championships Argentina - Road Race (NC),191.4,4,,2011
 03.04 » 12.04,,,Vuelta Ciclista al Uruguay (2.2),,,,2009
 ,11,,General classification,,,,2009
 12.04,69,,Stage 10 - San José › Montevideo,154.4,,,2009
-11.04,18,,Stage 9 - Carmelo › San José,168,,,2009
+11.04,18,,Stage 9 - Carmelo › San José,168.0,,,2009
 10.04,11,,Stage 8 - Mercedes › Carmelo,159.4,,,2009
 09.04,13,,Stage 7 (ITT) - Mercedes › Dolores,33.6,,,2009
 08.04,6,,Stage 6 - Pueblo Constancia › Mercedes,170.5,,,2009
 07.04,1,,Stage 5 - Young › Paysandu,173.5,5,,2009
 06.04,91,,Stage 4 - Ismael Cortinas › Fray Bentos,163.8,,,2009
 05.04,39,,Stage 3 - San Jacinto › Durazno,179.5,,,2009
-04.04,65,,Stage 2 - Maldonado › Ramallo,140,,,2009
+04.04,65,,Stage 2 - Maldonado › Ramallo,140.0,,,2009
 03.04,52,,Stage 1 - Piriapolis › Maldonado,146.6,,,2009
 16.01 » 17.01,,,Giro del Sol San Juan (2.2),,,,2009
 ,29,,General classification,,,,2009
-17.01,26,,Stage 3 - San Juan › San Juan,133,,,2009
-17.01,67,,Stage 2 (ITT) - San Juan › San Juan,11,,,2009
+17.01,26,,Stage 3 - San Juan › San Juan,133.0,,,2009
+17.01,67,,Stage 2 (ITT) - San Juan › San Juan,11.0,,,2009
 16.01,62,,Stage 1 - San Juan › San Juan,161.5,,,2009
-25.10,12,,Firenze - Pistoia (1.1),30,10,,2008
+25.10,12,,Firenze - Pistoia (1.1),30.0,10,,2008
 05.10 » 15.10,,,Clásico Ciclístico Internacional Banfoandes (2.2),,,,2008
 ,16,,Mountains classification,,,,2008
 ,4,,Points classification,,,,2008
 ,37,,General classification,,,,2008
 15.10,83,,Stage 10 - Colón › San Cristóbal,114.9,,,2008
-14.10,41,,Stage 9 - Rubio › Rubio,111,,,2008
+14.10,41,,Stage 9 - Rubio › Rubio,111.0,,,2008
 13.10,4,,Stage 8 - San Cristóbal › Santa Ana,101.7,,,2008
 12.10,2,,Stage 7 (ITT) - San Cristóbal › San Cristóbal,34.6,2,,2008
 11.10,31,,Stage 6 - Lobatera › San Cristóbal,136.5,,,2008
-09.10,1,,Stage 5 - La Tendida › Cordero,155,5,,2008
+09.10,1,,Stage 5 - La Tendida › Cordero,155.0,5,,2008
 08.10,32,,Stage 4 - Sabana de Mendoza › El Vigía,153.7,,,2008
 07.10,38,,Stage 3 - Cabimas › Valera,181.7,,,2008
-06.10,54,,Stage 2 - Puerto Cumarebo › Dabajuro,163,,,2008
+06.10,54,,Stage 2 - Puerto Cumarebo › Dabajuro,163.0,,,2008
 05.10,15,,Stage 1 - Punto Fijo › Coro,149.7,,,2008
-28.09,DNF,,World Championships - Road Race (WC),260,,,2008
+28.09,DNF,,World Championships - Road Race (WC),260.0,,,2008
 13.09 » 20.09,,,Vuelta Mexico (2.2),,,,2008
 ,20,,General classification,,,,2008
 20.09,29,,Stage 8 - Toluca › Toluca,52.9,,,2008
 19.09,60,,Stage 7 - Zitacuaro › Toluca,91.2,,,2008
-18.09,35,,Stage 6 - Morelia › Zitacuaro,150,,,2008
+18.09,35,,Stage 6 - Morelia › Zitacuaro,150.0,,,2008
 17.09,61,,Stage 5 - Zamora › Morelia,146.3,,,2008
 15.09,46,,Stage 3 - León › Guadalajara,228.6,,,2008
 14.09,39,,Stage 2 - San Luis Potosi › León,197.2,,,2008
-13.09,80,,Stage 1 - Aguascalientes › San Luis Potosí,159,,,2008
+13.09,80,,Stage 1 - Aguascalientes › San Luis Potosí,159.0,,,2008
 07.09,17,,Giro di Romagna (1.1),199.3,4,,2008
-06.09,DNF,,Coppa Placci (1.HC),200,,,2008
+06.09,DNF,,Coppa Placci (1.HC),200.0,,,2008
 31.08,40,,Giro del Veneto (1.HC),199.8,,,2008
-23.08,26,,Trofeo Melinda (1.1),194,,,2008
-21.08,DNF,,Coppa Bernocchi (1.1),193,,,2008
-20.08,DNF,,Coppa Ugo Agostoni (1.1),189,,,2008
+23.08,26,,Trofeo Melinda (1.1),194.0,,,2008
+21.08,DNF,,Coppa Bernocchi (1.1),193.0,,,2008
+20.08,DNF,,Coppa Ugo Agostoni (1.1),189.0,,,2008
 07.08,59,,GP Città di Camaiore (1.1),193.7,,,2008
 01.08,DNF,,GP Industria & Artigianato - Carnaghese (1.1),196.8,,,2008
-25.07,73,,GP Villafranca de Ordizia (1.1),166,,,2008
+25.07,73,,GP Villafranca de Ordizia (1.1),166.0,,,2008
 11.06 » 17.06,,,Circuito Montañes (2.2),,,,2008
 ,73,,General classification,,,,2008
-17.06,61,,Stage 7 - Potes › Santander,152,,,2008
+17.06,61,,Stage 7 - Potes › Santander,152.0,,,2008
 16.06,74,,Stage 6 - Torrelavega › Santo Toribio,147.1,,,2008
 15.06,43,,Stage 5a - Polanco › Torrelavega,112.6,,,2008
-15.06,17,,Stage 5b (ITT) - Renedo › Renedo,14,,,2008
-14.06,64,,Stage 4 - Solares › Fuente del Chivo,156,,,2008
+15.06,17,,Stage 5b (ITT) - Renedo › Renedo,14.0,,,2008
+14.06,64,,Stage 4 - Solares › Fuente del Chivo,156.0,,,2008
 13.06,52,,Stage 3 - Santoña  › Maliaño,174.4,,,2008
-12.06,111,,Stage 2 - San Felices de Buelna › Laredo,167,,,2008
-11.06,104,,Stage 1 - Santander › El Astillero,155,,,2008
+12.06,111,,Stage 2 - San Felices de Buelna › Laredo,167.0,,,2008
+11.06,104,,Stage 1 - Santander › El Astillero,155.0,,,2008
 07.06,13,,Memorial Marco Pantani (1.1),172.1,8,,2008
 27.05 » 01.06,,,Vuelta Ciclista a Navarra (2.2),,,,2008
 ,17,,General classification,,,,2008
-01.06,50,,Stage 6 - Pamplona › Pamplona,140,,,2008
-31.05,28,,Stage 5 - Villatuerta › Alto del Perdon,137,,,2008
-30.05,33,,Stage 4 - Alsasua › Villatuerta,149,,,2008
-29.05,11,,Stage 3 - San Adrian › Alsasua,138,,,2008
-28.05,23,,Stage 2 - Pitillas › Tudela,113,,,2008
-27.05,22,,Stage 1 (TTT) - Pitillas › Pitillas,16,,,2008
+01.06,50,,Stage 6 - Pamplona › Pamplona,140.0,,,2008
+31.05,28,,Stage 5 - Villatuerta › Alto del Perdon,137.0,,,2008
+30.05,33,,Stage 4 - Alsasua › Villatuerta,149.0,,,2008
+29.05,11,,Stage 3 - San Adrian › Alsasua,138.0,,,2008
+28.05,23,,Stage 2 - Pitillas › Tudela,113.0,,,2008
+27.05,22,,Stage 1 (TTT) - Pitillas › Pitillas,16.0,,,2008
 08.05 » 11.05,,,Szlakiem Grodów Piastowskich (2.1),,,,2008
 ,45,,General classification,,,,2008
 11.05,86,,Stage 5 - Polkowice › Polkowice,103.6,,,2008
@@ -150,7 +166,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 10.05,78,,Stage 3 - Zlotoryja › Jawor,183.8,,,2008
 09.05,94,,Stage 2 - Glogow › Lubin,160.1,,,2008
 08.05,51,,Stage 1 - Legnica › Swidnica,185.6,,,2008
-03.05,54,,GP Industria & Artigianato-Larciano (1.1),200,,,2008
+03.05,54,,GP Industria & Artigianato-Larciano (1.1),200.0,,,2008
 25.03 » 29.03,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2008
 29.03,DNF,,Stage 5 - Castellarano › Sassuolo,169.1,,,2008
 28.03,146,,Stage 4 - Rio Saliceto › Finale Emilia,184.4,,,2008
@@ -159,28 +175,28 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 25.03,154,,Stage 1a - Riccione › Riccione,95.2,,,2008
 13.03 » 16.03,,,Istarsko Proljece - Istrian Spring Trophy (2.2),,,,2008
 ,47,,General classification,,,,2008
-16.03,88,,Stage 3 - Vrsar › Rovinj,151,,,2008
-15.03,83,,Stage 2 - Vrsar › Motovun,163,,,2008
-14.03,44,,Stage 1 - Porec › Labin,149,,,2008
+16.03,88,,Stage 3 - Vrsar › Rovinj,151.0,,,2008
+15.03,83,,Stage 2 - Vrsar › Motovun,163.0,,,2008
+14.03,44,,Stage 1 - Porec › Labin,149.0,,,2008
 13.03,20,,Prologue - Pazin › Pazin,1.45,,,2008
 23.02,9,,Les Boucles du Sud Ardèche - Souvenir F. Delpech (1.2),157.2,,,2008
 15.02 » 17.02,,,Giro della Provincia di Grosseto (2.1),,,,2008
 ,68,,General classification,,,,2008
-17.02,101,,Stage 3 - Grosseto › Grosseto,184,,,2008
-15.02,57,,Stage 1 - Massa Marittima › Follonica,168,,,2008
+17.02,101,,Stage 3 - Grosseto › Grosseto,184.0,,,2008
+15.02,57,,Stage 1 - Massa Marittima › Follonica,168.0,,,2008
 11.02 » 13.02,,,Giro della Provincia di reggio Calabria (2.1),,,,2008
 ,17,,General classification,,4,,2008
-13.02,24,,Stage 3 - Chiaravalle › Reggio Calabria,168,,,2008
-12.02,15,,Stage 2 - Piana › Chiaravalle,190,,,2008
-11.02,48,,Stage 1 - Reggio Calabria › Gioia Tauro,183,,,2008
-09.02,120,,GP Costa Degli Etruschi (1.1),192,,,2008
-30.09,DNF,,World Championships - Road Race (WC),267,,,2007
-22.09,57,,Memorial Viviana Manservisi - GP Citta' di Misano-Adriatico (1.1),184,,,2007
+13.02,24,,Stage 3 - Chiaravalle › Reggio Calabria,168.0,,,2008
+12.02,15,,Stage 2 - Piana › Chiaravalle,190.0,,,2008
+11.02,48,,Stage 1 - Reggio Calabria › Gioia Tauro,183.0,,,2008
+09.02,120,,GP Costa Degli Etruschi (1.1),192.0,,,2008
+30.09,DNF,,World Championships - Road Race (WC),267.0,,,2007
+22.09,57,,Memorial Viviana Manservisi - GP Citta' di Misano-Adriatico (1.1),184.0,,,2007
 27.08 » 09.09,,,Vuelta a Venezuela (2.2),,,,2007
 ,3,,Mountains classification,,,,2007
 ,23,,Points classification,,,,2007
 ,7,,General classification,,4,,2007
-09.09,26,,Stage 14 - Caracas › Caracas,80,,,2007
+09.09,26,,Stage 14 - Caracas › Caracas,80.0,,,2007
 08.09,21,7,Stage 13 - San Pablo de Yaracuy › Maracay,189.2,,,2007
 07.09,50,7,Stage 12 - La Libertad › San Felipe,220.9,,,2007
 06.09,1,7,Stage 11 - Santa Elena de Arenales › Valera,170.6,5,,2007
@@ -200,44 +216,44 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,10,,Mountains classification,,,,2007
 ,2,,Points classification,,,,2007
 ,50,,General classification,,,,2007
-24.06,67,,Stage 7 - Tekija › Smederevo,178,,,2007
+24.06,67,,Stage 7 - Tekija › Smederevo,178.0,,,2007
 23.06,2,50,Stage 6 - Soko Banja › Kladovo,176.5,2,,2007
-22.06,90,70,Stage 5 - Vrnjacka Banja › Soko Banja,133,,,2007
-21.06,71,46,Stage 4 - Zlatibor › Vrnjacka Banja,149,,,2007
+22.06,90,70,Stage 5 - Vrnjacka Banja › Soko Banja,133.0,,,2007
+21.06,71,46,Stage 4 - Zlatibor › Vrnjacka Banja,149.0,,,2007
 20.06,63,50,Stage 3 - Divcibare › Zlatibor,131.5,,,2007
-19.06,49,39,Stage 2 - Novi Sad › Divcibare,182,,,2007
+19.06,49,39,Stage 2 - Novi Sad › Divcibare,182.0,,,2007
 18.06,2,1,Stage 1b - Kikinda › Nova Sad,110.5,2,,2007
-18.06,80,80,Stage 1a - Beograd › Kikinda,125,,,2007
+18.06,80,80,Stage 1a - Beograd › Kikinda,125.0,,,2007
 29.05 » 03.06,,,Vuelta Ciclista a Navarra (2.2),,,,2007
 ,11,,Mountains classification,,,,2007
 ,12,,Points classification,,,,2007
 ,25,,General classification,,,,2007
-03.06,45,,Stage 6 - Sabeco › Pamplona,115,,,2007
-02.06,43,25,Stage 5 - Lesaka › El Perdon,144,,,2007
-01.06,40,3,Stage 4 - Lizarte › Lesaka,119,,,2007
-31.05,1,3,Stage 3 - San Adrian › Sangüesa,154,5,,2007
+03.06,45,,Stage 6 - Sabeco › Pamplona,115.0,,,2007
+02.06,43,25,Stage 5 - Lesaka › El Perdon,144.0,,,2007
+01.06,40,3,Stage 4 - Lizarte › Lesaka,119.0,,,2007
+31.05,1,3,Stage 3 - San Adrian › Sangüesa,154.0,5,,2007
 30.05,99,92,Stage 2 - Tudela › San Adrian,160.5,,,2007
-29.05,51,51,Stage 1 - Sabeco › Tudela,162,,,2007
-26.05,75,,Clasica Internacional 'Txuma' (1.2),173,,,2007
+29.05,51,51,Stage 1 - Sabeco › Tudela,162.0,,,2007
+26.05,75,,Clasica Internacional 'Txuma' (1.2),173.0,,,2007
 19.04 » 22.04,,,Giro d'Abruzzo (2.2),,,,2007
 ,60,,General classification,,,,2007
-22.04,77,,Stage 4 - Sant'Egidio alla Vibrata › Sant'Egidio alla Vibrata,141,,,2007
-21.04,74,,Stage 3 - Notaresco › Notaresco,152,,,2007
-20.04,74,,Stage 2 - Chieti › Ortona,166,,,2007
-19.04,138,,Stage 1 - Megalò › Cepagatti,154,,,2007
+22.04,77,,Stage 4 - Sant'Egidio alla Vibrata › Sant'Egidio alla Vibrata,141.0,,,2007
+21.04,74,,Stage 3 - Notaresco › Notaresco,152.0,,,2007
+20.04,74,,Stage 2 - Chieti › Ortona,166.0,,,2007
+19.04,138,,Stage 1 - Megalò › Cepagatti,154.0,,,2007
 15.03 » 18.03,,,Istarsko Proljece - Istrian Spring Trophy (2.2),,,,2007
 ,22,,General classification,,,,2007
-18.03,97,,Stage 3 - Porec › Zelena Laguna,152,,,2007
-17.03,83,,Stage 2 - Porec › Zelena Laguna,200,,,2007
-16.03,82,,Stage 1 - Porec › Labin,187,,,2007
+18.03,97,,Stage 3 - Porec › Zelena Laguna,152.0,,,2007
+17.03,83,,Stage 2 - Porec › Zelena Laguna,200.0,,,2007
+16.03,82,,Stage 1 - Porec › Labin,187.0,,,2007
 15.03,37,,Prologue - Pazin › Pazin,1.45,,,2007
-11.03,141,,Porec Trophy - Trofej Porec (1.2),131,,,2007
-10.02,139,,GP Costa Degli Etruschi (1.1),193,,,2007
+11.03,141,,Porec Trophy - Trofej Porec (1.2),131.0,,,2007
+10.02,139,,GP Costa Degli Etruschi (1.1),193.0,,,2007
 25.04,8,,Pan American Championships U23 - ITT (CC),29.6,,,2005
 27.03 » 03.04,,,Vuelta de Chile (2.2),,,,2005
-31.03,66,47,Stage 4 - Santiago › Algarrobo,160,,,2005
-29.03,32,27,Stage 2 - Curico › Rancagua,165,,,2005
-28.03,45,49,Stage 1a - Talca › Curico,169,,,2005
-28.03,46,46,Stage 1b (ITT) - Curico › Curico,20,,,2005
-27.03,52,52,Prologue - Talca › Talca,4,,,2005
+31.03,66,47,Stage 4 - Santiago › Algarrobo,160.0,,,2005
+29.03,32,27,Stage 2 - Curico › Rancagua,165.0,,,2005
+28.03,45,49,Stage 1a - Talca › Curico,169.0,,,2005
+28.03,46,46,Stage 1b (ITT) - Curico › Curico,20.0,,,2005
+27.03,52,52,Prologue - Talca › Talca,4.0,,,2005
 11.02,1,,National Championships Argentina U23 - ITT (NC),,,,2005

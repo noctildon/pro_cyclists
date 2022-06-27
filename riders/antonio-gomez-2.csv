@@ -1,11 +1,39 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+11.07 » 14.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2) ,,,,2019
+,13,,Youth classification ,,,,2019
+,33,,General classification ,,,,2019
+14.07,32,,Stage 3 - Foz do Arelho › Alto do Montejunto ,179.3,,,2019
+13.07,18,47,Stage 2 - Atouguia da Baleia › Torres Vedras ,152.7,,,2019
+12.07,79,83,Stage 1 - Ventosa › Sobral de Monte Agraço ,156.8,,,2019
+11.07,101,101,Prologue - Turcifal  › Turcifal  ,8,,,2019
+17.05 » 19.05,,,Vuelta Aragón (2.1) ,,,,2019
+,53,,General classification ,,,,2019
+19.05,102,,Stage 3 - Huesca › Zaragoza ,127.4,,,2019
+18.05,44,45,Stage 2 - Sadaba › Canfranc ,186.2,,,2019
+17.05,67,69,Stage 1 - Andorra › Calatayud ,186.2,,,2019
+03.05 » 05.05,,,Vuelta Asturias Julio Alvarez Mendo (2.1) ,,,,2019
+,17,,General classification ,,4,3,2019
+05.05,25,,Stage 3 - Cangas del Narcea › Oviedo ,119,,,2019
+04.05,18,18,Stage 2 - Soto de Ribera › Cangas del Narcea ,171.1,,,2019
+03.05,23,23,Stage 1 - Oviedo › Pola de Lena ,179.2,,,2019
+12.04 » 14.04,,,GP Beiras e Serra da Estrela (2.1) ,,,,2019
+,44,,General classification ,,,,2019
+14.04,62,,Stage 3 - Celorico da Beira › Colvilhã ,177.4,,,2019
+13.04,48,34,Stage 2 - Manteigas › Fundão ,197.5,,,2019
+12.04,36,37,Stage 1 - Vilar Formoso › Pinhel ,155.6,,,2019
+06.04,38,,Gran Premio Miguel Indurain (1.1) ,192.9,,,2019
+20.03 » 24.03,,,Volta ao Alentejo (2.2) ,,,,2019
+22.03,DNS,,Stage 3 - Santiago do Cacém › Mora ,176.5,,,2019
+21.03,115,81,Stage 2 - Mértola › Odemira ,182.8,,,2019
+20.03,50,52,Stage 1 - Montemor-o-Novo › Moura ,208.1,,,2019
+17.03,65,,Classica da Arrabida - Cyclin'Portugal (1.2) ,185,,,2019
 11.07 » 14.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2019
 ,13,,Youth classification,,,,2019
 ,33,,General classification,,,,2019
 14.07,32,,Stage 3 - Foz do Arelho › Alto do Montejunto,179.3,,,2019
 13.07,18,47,Stage 2 - Atouguia da Baleia › Torres Vedras,152.7,,,2019
 12.07,79,83,Stage 1 - Ventosa › Sobral de Monte Agraço,156.8,,,2019
-11.07,101,101,Prologue - Turcifal  › Turcifal ,8,,,2019
+11.07,101,101,Prologue - Turcifal  › Turcifal ,8.0,,,2019
 17.05 » 19.05,,,Vuelta Aragón (2.1),,,,2019
 ,53,,General classification,,,,2019
 19.05,102,,Stage 3 - Huesca › Zaragoza,127.4,,,2019
@@ -13,7 +41,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.05,67,69,Stage 1 - Andorra › Calatayud,186.2,,,2019
 03.05 » 05.05,,,Vuelta Asturias Julio Alvarez Mendo (2.1),,,,2019
 ,17,,General classification,,4,3,2019
-05.05,25,,Stage 3 - Cangas del Narcea › Oviedo,119,,,2019
+05.05,25,,Stage 3 - Cangas del Narcea › Oviedo,119.0,,,2019
 04.05,18,18,Stage 2 - Soto de Ribera › Cangas del Narcea,171.1,,,2019
 03.05,23,23,Stage 1 - Oviedo › Pola de Lena,179.2,,,2019
 12.04 » 14.04,,,GP Beiras e Serra da Estrela (2.1),,,,2019
@@ -26,10 +54,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.03,DNS,,Stage 3 - Santiago do Cacém › Mora,176.5,,,2019
 21.03,115,81,Stage 2 - Mértola › Odemira,182.8,,,2019
 20.03,50,52,Stage 1 - Montemor-o-Novo › Moura,208.1,,,2019
-17.03,65,,Classica da Arrabida - Cyclin'Portugal (1.2),185,,,2019
-27.06,24,,Mediterranean Games - Road Race (JR),143,,,2018
-24.06,DNF,,National Championships Spain - Road Race (NC),215,,,2018
-25.03,22,,Classica Aldeias do Xisto - Cyclin'Portugal (1.2),145,,,2018
+17.03,65,,Classica da Arrabida - Cyclin'Portugal (1.2),185.0,,,2019
+27.06,24,,Mediterranean Games - Road Race (JR),143.0,,,2018
+24.06,DNF,,National Championships Spain - Road Race (NC),215.0,,,2018
+25.03,22,,Classica Aldeias do Xisto - Cyclin'Portugal (1.2),145.0,,,2018
 05.08,72,,European Continental Championships U23 - Road Race (CC),160.8,,,2017
-31.07,29,,Circuito de Getxo 'Memorial Ricardo Otxoa' (1.1),170,,,2017
+31.07,29,,Circuito de Getxo 'Memorial Ricardo Otxoa' (1.1),170.0,,,2017
 24.06,12,,National Championships Spain U23 - Road Race (NC),145.8,,,2017

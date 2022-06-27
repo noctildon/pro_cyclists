@@ -1,7 +1,53 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,4,,National Championships Spain - Road Race (NC) ,186.1,4,50,2022
+24.06,7,,National Championships Spain - ITT (NC) ,38.5,,3,2022
+05.06 » 12.06,,,Critérium du Dauphiné (2.UWT) ,,,,2022
+10.06,DNS,,Stage 6 - Rives › Gap ,196.5,,,2022
+09.06,47,8,Stage 5 - Thizy-les-Bourgs › Chaintré ,162.3,,,2022
+08.06,10,8,Stage 4 (ITT) - Montbrison › La Bâtie d’Urfé ,31.9,1,,2022
+07.06,14,13,Stage 3 - Saint-Paulien › Chastreix-Sancy ,169,,,2022
+06.06,33,42,Stage 2 - Saint-Péray › Brives-Charensac ,169.8,,,2022
+05.06,54,57,Stage 1 - La Voulte-sur-Rhône › Beauchastel ,191.8,,,2022
+26.04 » 01.05,,,Tour de Romandie (2.UWT) ,,,,2022
+,1,,Youth classification ,,,,2022
+,8,,Points classification ,,,,2022
+,4,,General classification ,,140,275,2022
+01.05,8,,Stage 5 (ITT) - Aigle › Villars ,15.84,3,,2022
+30.04,3,2,Stage 4 - Aigle › Zinal (Val d'Anniviers) ,180.1,18,10,2022
+29.04,30,6,Stage 3 - Valbroye › Valbroye ,165.1,,,2022
+28.04,38,5,Stage 2 - Échallens › Échallens ,168.2,,,2022
+27.04,8,5,Stage 1 - La Grande Beroche › Romont ,178,3,,2022
+26.04,10,10,Prologue - Lausanne › Lausanne ,5.12,1,,2022
+20.04,DNF,,La Flèche Wallonne (1.UWT) ,202.1,,,2022
+13.04,23,,De Brabantse Pijl - La Flèche Brabançonne (1.Pro) ,205.1,3,5,2022
+10.04,DNF,,Amstel Gold Race (1.UWT) ,254.1,,,2022
+21.03 » 27.03,,,Volta Ciclista a Catalunya (2.UWT) ,,,,2022
+,3,,Youth classification ,,,,2022
+,7,,Mountains classification ,,,,2022
+,9,,Points classification ,,,,2022
+,5,,General classification ,,120,180,2022
+27.03,4,,Stage 7 - Barcelona › Barcelona ,138.6,13,,2022
+26.03,21,5,Stage 6 - Salou › Cambrils ,168.6,,,2022
+25.03,11,4,Stage 5 - La Pobla de Segur › Vilanova i la Geltrú ,206.3,,,2022
+24.03,6,4,Stage 4 - La Seu d'Urgell › Boí Taüll ,166.7,7,,2022
+23.03,2,2,Stage 3 - Perpignan › La Molina ,161.1,30,20,2022
+22.03,27,13,Stage 2 - L'Escala › Perpignan ,202.4,,,2022
+21.03,19,20,Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols ,171.2,,,2022
+02.03,2,,Trofeo Laigueglia (1.Pro)  54k,202,85,150,2022
+27.02,4,,Drôme Classic (1.Pro) ,191.5,50,100,2022
+26.02,14,,Faun-Ardèche Classic (1.Pro) ,168.5,14,15,2022
+02.02 » 06.02,,,Volta a la Comunitat Valenciana (2.Pro) ,,,,2022
+,4,,Youth classification ,,,,2022
+,35,,Points classification ,,,,2022
+,19,,General classification ,,10,5,2022
+06.02,31,,Stage 5 - Paterna › Valencia ,92,,,2022
+05.02,44,19,Stage 4 - Orihuela › Torrevieja  ,193.1,,,2022
+04.02,32,22,Stage 3 - Alicante › Antenas del Maigmó ,155.1,,,2022
+03.02,16,10,Stage 2 - Bétera › Torrent ,171.5,,,2022
+02.02,13,13,Stage 1 - Les Alqueries › Torralba del Pinar ,166.7,,,2022
 26.04 » 01.05,,,Tour de Romandie (2.UWT),,,,2022
 28.04,38,5,Stage 2 - Échallens › Échallens,168.2,,,2022
-27.04,8,5,Stage 1 - La Grande Beroche › Romont,178,3,,2022
+27.04,8,5,Stage 1 - La Grande Beroche › Romont,178.0,3,,2022
 26.04,10,10,Prologue - Lausanne › Lausanne,5.12,1,,2022
 20.04,DNF,,La Flèche Wallonne (1.UWT),202.1,,,2022
 13.04,23,,De Brabantse Pijl - La Flèche Brabançonne (1.Pro),205.1,3,5,2022
@@ -18,14 +64,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.03,2,2,Stage 3 - Perpignan › La Molina,161.1,30,20,2022
 22.03,27,13,Stage 2 - L'Escala › Perpignan,202.4,,,2022
 21.03,19,20,Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols,171.2,,,2022
-02.03,2,,Trofeo Laigueglia (1.Pro),202,85,150,2022
+02.03,2,,Trofeo Laigueglia (1.Pro),202.0,85,150,2022
 27.02,4,,Drôme Classic (1.Pro),191.5,50,100,2022
 26.02,14,,Faun-Ardèche Classic (1.Pro),168.5,14,15,2022
 02.02 » 06.02,,,Volta a la Comunitat Valenciana (2.Pro),,,,2022
 ,4,,Youth classification,,,,2022
 ,35,,Points classification,,,,2022
 ,19,,General classification,,10,5,2022
-06.02,31,,Stage 5 - Paterna › Valencia,92,,,2022
+06.02,31,,Stage 5 - Paterna › Valencia,92.0,,,2022
 05.02,44,19,Stage 4 - Orihuela › Torrevieja ,193.1,,,2022
 04.02,32,22,Stage 3 - Alicante › Antenas del Maigmó,155.1,,,2022
 03.02,16,10,Stage 2 - Bétera › Torrent,171.5,,,2022
@@ -38,16 +84,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.09,78,40,Stage 4 (ITT) - Dudelange › Dudelange,25.4,,,2021
 16.09,100,39,Stage 3 - Mondorf-les-Bains  › Mamer,189.3,,,2021
 15.09,23,28,Stage 2 - Steinfort › Eschdorf,186.1,,,2021
-14.09,50,50,Stage 1 - Luxembourg-City › Luxembourg-City,140,,,2021
+14.09,50,50,Stage 1 - Luxembourg-City › Luxembourg-City,140.0,,,2021
 11.09,3,,European Continental Championships U23 - Road Race (CC),133.6,8,70,2021
 09.09,12,,European Continental Championships U23 - ITT (CC),22.4,,,2021
-29.08,82,,Bretagne Classic - Ouest-France (1.UWT),251,5,,2021
+29.08,82,,Bretagne Classic - Ouest-France (1.UWT),251.0,5,,2021
 13.08 » 22.08,,,Tour de l'Avenir (2.Ncup),,,,2021
 17.08,DNF,,Stage 4 - Provins › Bar-le-Duc,183.9,,,2021
 16.08,21,11,Stage 3 - Château-Thierry › Donnemarie-Dontilly,153.4,,,2021
 15.08,2,8,Stage 2 (TTT) - Laon › Laon,26.8,0.4,1.8,2021
 14.08,51,12,Stage 1 - Charleville-Mézières › Soissons,161.2,,,2021
-13.08,15,15,Prologue - Charleville-Mézières › Charleville-Mézières,5,,,2021
+13.08,15,15,Prologue - Charleville-Mézières › Charleville-Mézières,5.0,,,2021
 01.08,16,,Circuito de Getxo - Memorial Hermanos Otxoa (1.1),193.5,5,3,2021
 31.07,18,,Donostia San Sebastian Klasikoa (1.UWT),223.5,17,24,2021
 25.07,2,,Prueba Villafranca - Ordiziako Klasika (1.1),165.7,55,85,2021
@@ -63,7 +109,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 10.06,15,1,Stage 8 - Aprica  › Andalo,115.5,,,2021
 09.06,1,1,Stage 7 - Sondrio › Lanzada Lago di Campo Moro,119.4,5,7,2021
 08.06,8,1,Stage 6 - Bonferraro di Sorgà › San Pellegrino Terme,177.5,,,2021
-07.06,1,1,Stage 5 - Fanano › Sestola,142,5,7,2021
+07.06,1,1,Stage 5 - Fanano › Sestola,142.0,5,7,2021
 06.06,8,4,Stage 4 (ITT) - Sorbolo Mezzani › Guastalla,25.4,,,2021
 05.06,19,1,Stage 3 - Cesenatico  › Cesenatico ,132.5,,,2021
 04.06,1,1,Stage 2 - Riccione › Imola,138.3,5,7,2021
@@ -77,30 +123,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,17,,General classification,,4,3,2021
 27.03,5,,Stage 5 - Forlì › Forlì,166.2,4,,2021
 26.03,6,19,Stage 4 - San Marino › San Marino,154.8,3,,2021
-25.03,11,38,Stage 3 - Riccione › Riccione,139,,,2021
+25.03,11,38,Stage 3 - Riccione › Riccione,139.0,,,2021
 24.03,41,41,Stage 2 - Riccione › Sogliano al Rubicone,163.5,,,2021
 23.03,55,55,Stage 1a - Gatteo › Gatteo,97.8,,,2021
 23.03,16,84,Stage 1b (TTT) - Gatteo › Gatteo,10.8,,,2021
 07.03,52,,GP Industria & Artigianato (1.Pro),193.4,,,2021
-03.03,53,,Trofeo Laigueglia (1.Pro),202,,,2021
+03.03,53,,Trofeo Laigueglia (1.Pro),202.0,,,2021
 24.01,22,,Clàssica Comunitat Valenciana 1969 - Gran Premio Valencia (1.2),96.9,,,2021
-06.09,1,,National Championships Spain MJ - Road Race (NC),134,20,,2020
+06.09,1,,National Championships Spain MJ - Road Race (NC),134.0,20,,2020
 04.09,1,,National Championships Spain MJ - ITT (NC),21.6,10,,2020
 30.08,1,,Gipuzkoa Klasika (1.1),115.2,75,,2020
 28.08,7,,European Continental Championships MJ - Road Race (CC),109.2,22,,2020
 24.08,5,,European Continental Championships MJ - ITT (CC),25.6,4,,2020
 26.09,23,,World Championships MJ - Road Race (WC),148.1,3,,2019
-19.08,1,,National Championships Spain MJ - Road Race (NC),117,20,,2019
-18.08,3,,National Championships Spain MJ - ITT (NC),16,6,,2019
-09.08,12,,European Continental Championships MJ - Road Race (CC),115,6,,2019
+19.08,1,,National Championships Spain MJ - Road Race (NC),117.0,20,,2019
+18.08,3,,National Championships Spain MJ - ITT (NC),16.0,6,,2019
+09.08,12,,European Continental Championships MJ - Road Race (CC),115.0,6,,2019
 07.08,24,,European Continental Championships MJ - ITT (CC),22.4,,,2019
 25.05 » 26.05,,,Trophée Centre Morbihan (2.Ncup),,,,2019
 ,3,,Youth classification,,,,2019
 ,7,,Points classification,,,,2019
 ,5,,General classification,,70,,2019
 26.05,6,,Stage 3 - Moustoir-Ac › Locminé,107.6,3,,2019
-26.05,34,5,Stage 2 (ITT) - Réguiny › Naizin,7,,,2019
+26.05,34,5,Stage 2 (ITT) - Réguiny › Naizin,7.0,,,2019
 25.05,5,5,Stage 1 - Plumelin › Plumelin,122.8,4,,2019
-05.05,3,,Gipuzkoa Klasika (1.1),112,40,,2019
-14.04,DNF,,Paris - Roubaix Juniors (1.Ncup),111,,,2019
+05.05,3,,Gipuzkoa Klasika (1.1),112.0,40,,2019
+14.04,DNF,,Paris - Roubaix Juniors (1.Ncup),111.0,,,2019
 31.03,DNF,,Gent-Wevelgem/Grote Prijs A. Noyelle-Ieper (1.Ncup),120.6,,,2019

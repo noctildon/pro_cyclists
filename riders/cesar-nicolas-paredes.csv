@@ -1,11 +1,38 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
-13.02,35,,National Championships Colombia - Road Race (NC),229,,,2022
+03.06 » 12.06,,,Vuelta a Colombia (2.2) ,,,,2022
+,3,,Mountains classification ,,,,2022
+,36,,Points classification ,,,,2022
+,32,,General classification ,,,,2022
+12.06,40,,Stage 10 - Paipa › Tunja ,41.9,,,2022
+11.06,21,34,Stage 9 - Guateque › Santa Rosa Viterbo ,182.2,,,2022
+10.06,25,36,Stage 8 - Sopo › Somondoco ,96.3,,,2022
+09.06,27,38,Stage 7 - Mariquita › Alto del Vino ,140.4,,,2022
+08.06,21,56,Stage 6 - Rionegro › La Dorada ,202.6,,,2022
+07.06,6,63,Stage 5 - Yarumal › La Union ,189.1,,,2022
+06.06,103,102,Stage 4 - Caucasia › Yarumal ,158.4,,,2022
+05.06,46,34,Stage 3 - Sincelejo › Monteria ,116.9,,,2022
+04.06,26,33,Stage 2 - Cartagena › Sincelejo ,176.7,,,2022
+03.06,55,60,Stage 1 - Barranquilla › Cartagena ,123.4,,,2022
+13.02,35,,National Championships Colombia - Road Race (NC) ,229,,,2022
+16.01 » 23.01,,,Vuelta al Tachira en Bicicleta (2.2) ,,,,2022
+,13,,Mountains classification ,,,,2022
+,16,,Points classification ,,,,2022
+,25,,General classification ,,,,2022
+23.01,18,,Stage 8 - San Cristóbal › San Cristóbal ,116.4,,,2022
+22.01,5,28,Stage 7 - Ureña › Cerro Del Cristo Rey ,117,,,2022
+21.01,61,42,Stage 6 - Plata de Concafé › Casa del Padre ,114.1,,,2022
+20.01,27,22,Stage 5 - La Tendida › La Grita ,101.4,,,2022
+19.01,9,10,Stage 4 - Lagunillas › Mérida ,104.6,,,2022
+18.01,30,16,Stage 3 - Socopó › Barinitas ,131.8,,,2022
+17.01,20,15,Stage 2 - Hacienda Los Almendros › Ciudad Bolivia ,149.9,,,2022
+16.01,10,13,Stage 1 - Tariba › San Cristóbal ,123.9,,,2022
+13.02,35,,National Championships Colombia - Road Race (NC),229.0,,,2022
 16.01 » 23.01,,,Vuelta al Tachira en Bicicleta (2.2),,,,2022
 ,13,,Mountains classification,,,,2022
 ,16,,Points classification,,,,2022
 ,25,,General classification,,,,2022
 23.01,18,,Stage 8 - San Cristóbal › San Cristóbal,116.4,,,2022
-22.01,5,28,Stage 7 - Ureña › Cerro Del Cristo Rey,117,,,2022
+22.01,5,28,Stage 7 - Ureña › Cerro Del Cristo Rey,117.0,,,2022
 21.01,61,42,Stage 6 - Plata de Concafé › Casa del Padre,114.1,,,2022
 20.01,27,22,Stage 5 - La Tendida › La Grita,101.4,,,2022
 19.01,9,10,Stage 4 - Lagunillas › Mérida,104.6,,,2022
@@ -27,7 +54,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,50,,General classification,,,,2021
 27.06,49,,Stage 6 - Portalegre › Evora,162.9,,,2021
 26.06,81,54,Stage 5 (ITT) - Castelo de Vide › Castelo de Vide,8.4,,,2021
-26.06,32,53,Stage 4 - Monforte › Castelo de Vide,85,,,2021
+26.06,32,53,Stage 4 - Monforte › Castelo de Vide,85.0,,,2021
 25.06,89,99,Stage 3 - Alcacer do Sal › Mora,171.7,,,2021
 24.06,63,101,Stage 2 - Almodovar › Sines,195.5,,,2021
 23.06,117,117,Stage 1 - Reguengos de Monsaraz › Beja,193.7,,,2021
@@ -55,14 +82,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.01,96,94,Stage 2 - Pocito › Pocito,164.7,,,2020
 26.01,97,97,Stage 1 - San Juan › San Juan,163.5,,,2020
 01.05 » 05.05,,,Tour of the Gila (2.2),,,,2019
-01.05,DNF,,Stage 1 - Silver City › Mogollon ,148,,,2019
+01.05,DNF,,Stage 1 - Silver City › Mogollon ,148.0,,,2019
 06.03 » 10.03,,,Vuelta Ciclista a Chiloe (2.2),,,,2019
 ,3,,Mountains classification,,,,2019
 ,5,,Points classification,,,,2019
 ,18,,General classification,,,,2019
 10.03,9,,Stage 4 (ITT) - Puqueldón › Isla Lemuy,11.5,,,2019
-09.03,52,23,Stage 3 - Chonchi › Chonchi,117,,,2019
-08.03,15,11,"Stage 2 - Curaco de Velez › Achao, Isla Quinchao",117,,,2019
+09.03,52,23,Stage 3 - Chonchi › Chonchi,117.0,,,2019
+08.03,15,11,"Stage 2 - Curaco de Velez › Achao, Isla Quinchao",117.0,,,2019
 07.03,27,16,Stage 1 - Quellón › Quellón,121.7,,,2019
 06.03,18,18,Prologue - Castro › Castro,1.99,,,2019
 27.01 » 03.02,,,Vuelta a San Juan Internacional (2.1),,,,2019
@@ -72,7 +99,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.02,50,7,Stage 6 - Autódromo El Villicúm › Autódromo El Villicúm,153.5,,,2019
 01.02,2,7,Stage 5 - San Martín › Alto Colorado,169.5,12,5,2019
 30.01,71,32,Stage 4 - San José de Jáchal - Valle Fértil › Villa San Agustín,185.8,,,2019
-29.01,55,32,Stage 3 (ITT) - Pocito › Pocito,12,,,2019
+29.01,55,32,Stage 3 (ITT) - Pocito › Pocito,12.0,,,2019
 28.01,22,32,Stage 2 - Chimbas › Peri Lago Punta Negra,132.5,,,2019
 27.01,108,110,Stage 1 - San Juan › Pocito,159.1,,,2019
 13.12,3,,Gran Premio Comite Olímpico Nacional (1.2),152.3,7,25,2018
@@ -84,14 +111,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 20.11,11,,Stage 6 - Zamora › Morelia,150.7,,,2018
 19.11,5,1,Stage 5 - Uruapan › Zamora,188.1,,,2018
 18.11,15,4,Stage 4 - San Juan de Alima › Tepalcatepec,152.4,,,2018
-17.11,6,4,Stage 3 - Lazaro Cardenas › San Juan de Alima,232,,,2018
+17.11,6,4,Stage 3 - Lazaro Cardenas › San Juan de Alima,232.0,,,2018
 16.11,23,11,Stage 2 - Zitacuaro › Huetamo,166.5,,,2018
 15.11,12,12,Stage 1 - Morelia › Zitacuaro,172.6,,,2018
 27.04 » 29.04,,,Vuelta Asturias Julio Alvarez Mendo (2.1),,,,2018
 ,15,,General classification,,6,5,2018
-29.04,20,,Stage 3 - Cangas del Narcea › Oviedo,119,,,2018
-28.04,19,18,Stage 2 - Soto de Ribera › Alto del Acebo,166,,,2018
-27.04,19,21,Stage 1 - Oviedo › Pola de Lena,177,,,2018
+29.04,20,,Stage 3 - Cangas del Narcea › Oviedo,119.0,,,2018
+28.04,19,18,Stage 2 - Soto de Ribera › Alto del Acebo,166.0,,,2018
+27.04,19,21,Stage 1 - Oviedo › Pola de Lena,177.0,,,2018
 20.04 » 22.04,,,Vuelta a Castilla y Leon (2.1),,,,2018
 ,6,,Mountains classification,,,,2018
 ,30,,General classification,,,,2018
@@ -99,7 +126,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.04,54,50,Stage 2 - Valladolid › Palencia,178.3,,,2018
 20.04,47,50,Stage 1 - Alba de Tormes › Salamanca,182.4,,,2018
 06.02 » 11.02,,,Colombia Oro y Paz (2.1),,,,2018
-,4,,Mountains classification,,,,2018
 ,47,,Points classification,,,,2018
 ,71,,General classification,,,,2018
 11.02,64,,Stage 6 - Armenia › Manizales (Torre de Chipre),184.3,,,2018
@@ -108,7 +134,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.02,94,64,Stage 3 - Palmira › Buga,163.2,,,2018
 07.02,49,55,Stage 2 - Palmira › Palmira,183.4,,,2018
 06.02,61,64,Stage 1 - Palmira › Palmira,99.9,,,2018
-04.02,25,,National Championships Colombia - Road Race (NC),228,,,2018
+04.02,25,,National Championships Colombia - Road Race (NC),228.0,,,2018
 21.01 » 28.01,,,Vuelta a San Juan Internacional (2.1),,,,2018
 ,27,,General classification,,,,2018
 28.01,42,,Stage 7 - San Juan › San Juan,141.3,,,2018
@@ -122,23 +148,23 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,4,,Mountains classification,,,,2017
 ,10,,Points classification,,,,2017
 ,1,,General classification,,25,40,2017
-15.10,62,,Stage 5 - Estadio Nacional de Chile › Estadio Nacional de Chile,60,,,2017
-14.10,2,1,Stage 4 - Colina › Valle Nevado,143,2,3,2017
-13.10,52,9,Stage 3 - San Fernando › Graneros,142,,,2017
-12.10,52,,Stage 2a - Talca › Curicó,100,,,2017
+15.10,62,,Stage 5 - Estadio Nacional de Chile › Estadio Nacional de Chile,60.0,,,2017
+14.10,2,1,Stage 4 - Colina › Valle Nevado,143.0,2,3,2017
+13.10,52,9,Stage 3 - San Fernando › Graneros,142.0,,,2017
+12.10,52,,Stage 2a - Talca › Curicó,100.0,,,2017
 12.10,6,14,Stage 2b (TTT) - Curicó › Curicó,8.7,,,2017
-11.10,42,42,Stage 1 - Concepción › Chillán Viejo,116,,,2017
+11.10,42,42,Stage 1 - Concepción › Chillán Viejo,116.0,,,2017
 01.09 » 04.09,,,Tour of Alberta (2.1),,,,2017
 ,18,,General classification,,3,3,2017
 04.09,26,,Stage 4 - Edmonton › Edmonton,124.1,,,2017
-03.09,27,18,Stage 3 - Edmonton › Edmonton,116,,,2017
-02.09,44,18,Stage 2 - Spruce Grove › Spruce Grove,139,,,2017
-01.09,12,12,Stage 1 - Jasper › Marmot Basin Ski Area,162,,,2017
+03.09,27,18,Stage 3 - Edmonton › Edmonton,116.0,,,2017
+02.09,44,18,Stage 2 - Spruce Grove › Spruce Grove,139.0,,,2017
+01.09,12,12,Stage 1 - Jasper › Marmot Basin Ski Area,162.0,,,2017
 01.08 » 13.08,,,Vuelta a Colombia (2.2),,,,2017
 ,23,,Mountains classification,,,,2017
 ,5,,Points classification,,,,2017
 ,21,,General classification,,,,2017
-13.08,38,,Stage 12 - Pereira › Pereira,107,,,2017
+13.08,38,,Stage 12 - Pereira › Pereira,107.0,,,2017
 12.08,45,23,Stage 11 - Palmira › Dosquebradas,190.8,,,2017
 11.08,69,23,Stage 10 - Cartago › Yumbo,176.1,,,2017
 10.08,34,23,Stage 9 - La Dorada › Alto de Letras,131.6,,,2017
@@ -155,13 +181,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,37,,General classification,,,,2017
 21.05,46,,Stage 3 - Ponferrada › León,145.5,,,2017
 20.05,39,38,Stage 2 - Velilla del Río Carrión-Sabero › Alto de la Camperona,166.4,,,2017
-19.05,10,10,Stage 1 - Aguilar de Campoo › Santibañez de la Peña,168,,,2017
+19.05,10,10,Stage 1 - Aguilar de Campoo › Santibañez de la Peña,168.0,,,2017
 11.05 » 14.05,,,Tour of Ankara (2.2),,,,2017
 ,15,,General classification,,,,2017
 14.05,20,,Stage 4 - Akyurt › Ankara,116.7,,,2017
 13.05,8,4,Stage 3 - Beypazari › Ankara,118.8,,,2017
 12.05,19,5,Stage 2 - Kizilcahamam › Beypazari,115.8,,,2017
-11.05,5,5,Stage 1 - Ankara › Kizilcahamam,173,,,2017
+11.05,5,5,Stage 1 - Ankara › Kizilcahamam,173.0,,,2017
 05.05 » 07.05,,,Vuelta Ciclista Comunidad de Madrid (2.1),,,,2017
 ,17,,Mountains classification,,,,2017
 ,31,,General classification,,,,2017
@@ -170,27 +196,27 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.05,43,43,Stage 1 - Las Rozas › Las Rozas,145.1,,,2017
 29.04 » 01.05,,,Vuelta Asturias Julio Alvarez Mendo (2.1),,,,2017
 ,83,,General classification,,,,2017
-01.05,55,,Stage 3 - Cangas del Narcea › Oviedo (Uría),120,,,2017
-30.04,101,95,Stage 2 - Ribera de Arriba › Alto del Acebo (Cangas de Narcea),177,,,2017
+01.05,55,,Stage 3 - Cangas del Narcea › Oviedo (Uría),120.0,,,2017
+30.04,101,95,Stage 2 - Ribera de Arriba › Alto del Acebo (Cangas de Narcea),177.0,,,2017
 29.04,74,74,Stage 1 - Oviedo › Pola de Lena,169.2,,,2017
-26.02,27,,National Championships Colombia - Road Race (NC),239,,,2017
+26.02,27,,National Championships Colombia - Road Race (NC),239.0,,,2017
 13.12 » 25.12,,,Vuelta Popular a Costa Rica (2.2),,,,2016
 ,21,,Mountains classification,,,,2016
 ,17,,Points classification,,,,2016
 ,9,,General classification,,2,3,2016
 25.12,11,,Stage 12 - Heredia › Heredia,99.5,,,2016
-24.12,13,8,Stage 11 - Pérez Zeledón › Cot,123,,,2016
-23.12,12,7,Stage 10 - Ciudad Naily › Pérez Zeledón,154,,,2016
-22.12,26,7,Stage 9 - Dominical › Golfito,145,,,2016
+24.12,13,8,Stage 11 - Pérez Zeledón › Cot,123.0,,,2016
+23.12,12,7,Stage 10 - Ciudad Naily › Pérez Zeledón,154.0,,,2016
+22.12,26,7,Stage 9 - Dominical › Golfito,145.0,,,2016
 21.12,8,7,Stage 8 - San José › Pérez Zeledón,126.8,,,2016
 20.12,17,7,Stage 7 - Alajuela › Grecia,176.2,,,2016
 18.12,9,2,Stage 6 (ITT) - Paloma › Paraiso,19.64,,,2016
 17.12,11,3,Stage 5 - Guápiles › Tucurrique,131.2,,,2016
 16.12,27,5,Stage 4 - Cuidad Quesada › Guápiles,114.8,,,2016
-15.12,15,5,Stage 3 - Cañas › Cuidad Quesada,193,,,2016
-14.12,2,6,Stage 2 - Nicoya › Cañas,176,2,3,2016
-13.12,28,29,Stage 1 - Alajuela › Liberia,190,,,2016
-11.12,14,,Gran Premio de San José (1.2),94,,,2016
+15.12,15,5,Stage 3 - Cañas › Cuidad Quesada,193.0,,,2016
+14.12,2,6,Stage 2 - Nicoya › Cañas,176.0,2,3,2016
+13.12,28,29,Stage 1 - Alajuela › Liberia,190.0,,,2016
+11.12,14,,Gran Premio de San José (1.2),94.0,,,2016
 13.06 » 26.06,,,Vuelta a Colombia (2.2),,,,2016
 24.06,DNF,,Stage 11 - Salento › Ibagué,138.9,,,2016
 23.06,33,14,Stage 10 - Buga › Salento,136.5,,,2016
@@ -218,7 +244,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.08,86,85,Stage 4 - Guaduas › Guaduas,203.8,,,2015
 04.08,106,78,Stage 3 - Paipa › Cota,172.1,,,2015
 03.08,46,60,Stage 2 - Bogotá › Paipa,174.6,,,2015
-02.08,13,73,Stage 1 (TTT) - Bogotá › Bogotá,24,,,2015
+02.08,13,73,Stage 1 (TTT) - Bogotá › Bogotá,24.0,,,2015
 08.02,27,,National Championships Colombia - Road Race (NC),188.8,,,2015
 30.07 » 10.08,,,Volta a Portugal em Bicicleta Liberty Seguros (2.1),,,,2014
 ,25,,Youth classification,,,,2014
@@ -226,33 +252,33 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,88,,General classification,,,,2014
 10.08,108,,Stage 10 - Burinhosa (Pataias) › Lisboa,167.1,,,2014
 09.08,111,97,Stage 9 (ITT) - Oleiros › Sertã,28.9,,,2014
-08.08,52,81,Stage 8 - Sabugal › Castelo Branco,194,,,2014
+08.08,52,81,Stage 8 - Sabugal › Castelo Branco,194.0,,,2014
 07.08,75,83,Stage 7 - Belmonte › Torre,172.5,,,2014
-05.08,64,86,Stage 6 - Oliveira do Bairro › Viseu,155,,,2014
+05.08,64,86,Stage 6 - Oliveira do Bairro › Viseu,155.0,,,2014
 04.08,98,91,Stage 5 - Alvarenga › Santo Tirso,161.3,,,2014
 03.08,90,86,Stage 4 - Boticas › Mondim de Basto,192.5,,,2014
-02.08,86,82,Stage 3 - Viana do Castelo › Montalegre,180,,,2014
+02.08,86,82,Stage 3 - Viana do Castelo › Montalegre,180.0,,,2014
 01.08,82,82,Stage 2 - Gondomar › Braga,171.8,,,2014
 31.07,106,92,Stage 1 - Lousada › Maia,183.5,,,2014
 30.07,104,104,Prologue - Fafe › Fafe,6.8,,,2014
-25.07,DNF,,Prueba Villafranca-Ordiziako Klasika (1.1),170,,,2014
+25.07,DNF,,Prueba Villafranca-Ordiziako Klasika (1.1),170.0,,,2014
 10.07 » 13.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2014
 ,9,,Youth classification,,,,2014
 ,23,,Mountains classification,,,,2014
 ,48,,General classification,,,,2014
-13.07,50,,Stage 3 - São Martinho do Porto › Carvoeira,164,,,2014
+13.07,50,,Stage 3 - São Martinho do Porto › Carvoeira,164.0,,,2014
 12.07,77,51,Stage 2 - Atouguia de Beleia › Torres Vedras,147.5,,,2014
 11.07,35,34,Stage 1 - Manique do Intendente › Sobral de Monte Agraço,170.3,,,2014
 10.07,59,59,Prologue - Torres Vedras › Torres Vedras,7.5,,,2014
 24.08 » 31.08,,,Tour de l'Avenir (2.Ncup),,,,2013
 ,36,,General classification,,,,2013
-31.08,36,,Stage 7 - Châtel › Plâteau des Glières,134,,,2013
-30.08,36,45,Stage 6 - Morzine › Châtel,126,,,2013
-29.08,41,52,Stage 5 - Saint Gervais › Morzine,79,,,2013
-28.08,58,56,Stage 4 - Albertville › Saint François Longchamp,106,,,2013
-27.08,63,68,Stage 3 - Aix les Bains › Albertville,127,,,2013
-26.08,60,81,Stage 2 - Champagnoles › Saint Vulbas,162,,,2013
-25.08,75,82,Stage 1 - Louhans › Arbois,146,,,2013
+31.08,36,,Stage 7 - Châtel › Plâteau des Glières,134.0,,,2013
+30.08,36,45,Stage 6 - Morzine › Châtel,126.0,,,2013
+29.08,41,52,Stage 5 - Saint Gervais › Morzine,79.0,,,2013
+28.08,58,56,Stage 4 - Albertville › Saint François Longchamp,106.0,,,2013
+27.08,63,68,Stage 3 - Aix les Bains › Albertville,127.0,,,2013
+26.08,60,81,Stage 2 - Champagnoles › Saint Vulbas,162.0,,,2013
+25.08,75,82,Stage 1 - Louhans › Arbois,146.0,,,2013
 24.08,104,104,Prologue - Louhans › Louhans,5.1,,,2013
 02.08 » 04.08,,,Vuelta Ciclista a León (2.2),,,,2013
 ,9,,Mountains classification,,,,2013
@@ -260,7 +286,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.08,43,,Stage 3 - Carbajal de la Legua › Villaouilambre,156.1,,,2013
 03.08,13,44,Stage 2 - Matallana de Torio › Puente Almuhey,164.7,,,2013
 02.08,56,56,Stage 1 - Tabuyo del Monte › Molinaseca,154.7,,,2013
-31.07,23,,Circuito de Getxo 'Memorial Ricardo Otxoa' (1.1),170,,,2013
+31.07,23,,Circuito de Getxo 'Memorial Ricardo Otxoa' (1.1),170.0,,,2013
 23.07 » 28.07,,,Tour Alsace (2.2),,,,2013
 ,16,,Youth classification,,,,2013
 ,28,,General classification,,,,2013
@@ -274,7 +300,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,52,,General classification,,,,2013
 09.06,52,,Stage 3 - Chicoutimi › Chicoutimi,128.4,,,2013
 08.06,30,55,Stage 2 - Jonquière › Jonquière,144.2,,,2013
-07.06,66,66,Stage 1 - La Baie › La Baie,151,,,2013
+07.06,66,66,Stage 1 - La Baie › La Baie,151.0,,,2013
 23.05 » 26.05,,,Tour de Gironde (2.2),,,,2013
 ,22,,Youth classification,,,,2013
 ,48,,General classification,,,,2013
@@ -287,23 +313,22 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,19,,Points classification,,,,2013
 ,8,,General classification,,3,3,2013
 19.05,15,,Stage 4 - Foix › St-Girons,161.3,,,2013
-18.05,6,8,Stage 3 - Le Mas d'Azil › Goulier-Neige,124,,,2013
+18.05,6,8,Stage 3 - Le Mas d'Azil › Goulier-Neige,124.0,,,2013
 17.05,21,17,Stage 2 - St-Girons › Carla-Bayle,164.5,,,2013
 16.05,25,25,Stage 1 - Boulogne › Boulogne,162.6,,,2013
 11.05 » 12.05,,,Vuelta Asturias Julio Alvarez Mendo (2.1),,,,2013
-,39,,General classification,,,,2013
-12.05,27,,Stage 2 - Bueño (Ribera de Arriba) › Alto del Naranco (Oviedo),157,,,2013
+12.05,27,,Stage 2 - Bueño (Ribera de Arriba) › Alto del Naranco (Oviedo),157.0,,,2013
 11.05,55,55,Stage 1 - Oviedo › Pola de Lena,156.8,,,2013
 04.05,59,,Vuelta a la Comunidad de Madrid (1.1),167.6,,,2013
 26.08 » 01.09,,,Tour de l'Avenir (2.Ncup),,,,2012
 ,61,,General classification,,,,2012
-01.09,86,61,Stage 6 - Beaufort › Le Grand Bornand,83,,,2012
+01.09,86,61,Stage 6 - Beaufort › Le Grand Bornand,83.0,,,2012
 31.08,37,48,Stage 5 (ITT) - Rognaix › Les Saisies,44.1,,,2012
-30.08,64,60,Stage 4 - Seyssel › Valloire,155,,,2012
-29.08,36,75,Stage 3 - Pont d'Ain › Annemasse,152,,,2012
-28.08,74,106,Stage 2 - Parc des Oiseaux › Chatillon-sur-Chalaronne,140,,,2012
+30.08,64,60,Stage 4 - Seyssel › Valloire,155.0,,,2012
+29.08,36,75,Stage 3 - Pont d'Ain › Annemasse,152.0,,,2012
+28.08,74,106,Stage 2 - Parc des Oiseaux › Chatillon-sur-Chalaronne,140.0,,,2012
 27.08,107,107,Stage 1 - Dole › Belleville-sur-saone,178.5,,,2012
-26.08,109,109,Prologue - Dole › Dole,4,,,2012
+26.08,109,109,Prologue - Dole › Dole,4.0,,,2012
 07.08 » 11.08,,,Tour de l'Ain - La Route du Progrès (2.1),,,,2012
 ,82,,General classification,,,,2012
 11.08,88,82,Stage 5 - Saint-Claude › Lélex,134.7,,,2012

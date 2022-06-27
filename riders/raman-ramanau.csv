@@ -1,4 +1,6 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+20.02,DNS,,Grand Prix Justiniano Race (1.2) ,156.3,,,2022
+19.02,DNF,,Grand Prix Velo Alanya (1.2) ,129.8,,,2022
 20.02,DNS,,Grand Prix Justiniano Race (1.2),156.3,,,2022
 19.02,DNF,,Grand Prix Velo Alanya (1.2),129.8,,,2022
 18.07,13,,Grand Prix Develi ME (1.2),130.8,,,2021
@@ -8,7 +10,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.07,12,,Kahramanmaraş Grand Prix Road Race ME (1.2),124.5,,,2021
 03.07,DNF,,Germenica Grand Prix Road Race ME (1.2),153.8,,,2021
 18.06,DNF,,National Championships Belarus - Road Race (NC),169.1,,,2021
-15.06,7,,National Championships Belarus - ITT (NC),25,,3,2021
+15.06,7,,National Championships Belarus - ITT (NC),25.0,,3,2021
 09.06 » 13.06,,,Five Rings of Moscow (2.2),,,,2021
 ,39,,General classification,,,,2021
 13.06,75,,Stage 4 - Moscow › Moscow,142.8,,,2021
@@ -21,8 +23,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 20.02,42,,Grand Prix Velo Manavgat ME (1.2),147.5,,,2021
 07.02,52,,Grand Prix Gazipasa (1.2),157.6,,,2021
 06.02,51,,Grand Prix Alanya (1.2),147.8,,,2021
-26.07,DNF,,National Championships Belarus - Road Race (NC),174,,,2020
-24.07,13,,National Championships Belarus - ITT (NC),25,,,2020
+26.07,DNF,,National Championships Belarus - Road Race (NC),174.0,,,2020
+24.07,13,,National Championships Belarus - ITT (NC),25.0,,,2020
 14.02,37,,Grand Prix Gazipasa (1.2),160.2,,,2020
 13.02,DNF,,Grand Prix Alanya (1.2),147.8,,,2020
 09.02,61,,GP Manavgat (1.2),110.3,,,2020
@@ -32,17 +34,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.08,72,71,Stage 1 - Sfântu Gheorghe › Sfântu Gheorghe,197.3,,,2019
 07.08,49,49,Prologue - Sfântu Gheorghe › Sfântu Gheorghe,5.5,,,2019
 16.06,DNF,,National Championships Belarus - Road Race (NC),183.5,,,2019
-14.06,20,,National Championships Belarus - ITT (NC),25,,,2019
+14.06,20,,National Championships Belarus - ITT (NC),25.0,,,2019
 23.05 » 25.05,,,Tour of Estonia (2.1),,,,2019
 25.05,DNF,,Stage 2 - Tartu › Tartu,172.8,,,2019
 24.05,52,71,Stage 1 - Tallinn › Tartu,186.7,,,2019
 23.05,79,79,Prologue - Tallinn › Tallinn,3.7,,,2019
-11.05,64,,Minsk Cup (1.2),176,,,2019
+11.05,64,,Minsk Cup (1.2),176.0,,,2019
 21.02 » 24.02,,,Tour of Antalya (2.2),,,,2019
 ,111,,General classification,,,,2019
-24.02,117,,Stage 4 - Side › Antalya,158,,,2019
+24.02,117,,Stage 4 - Side › Antalya,158.0,,,2019
 23.02,88,104,Stage 3 - Perge › Termessos,91.8,,,2019
-22.02,83,152,Stage 2 - Antalya › Antalya,111,,,2019
+22.02,83,152,Stage 2 - Antalya › Antalya,111.0,,,2019
 21.02,149,151,Stage 1 - Beskonak › Antalya,140.9,,,2019
 19.09 » 23.09,,,Turul Romaniei (2.2),,,,2018
 19.09,OTL,,Stage 1 - Alba Iulia › Sibiu,154.7,,,2018
@@ -52,16 +54,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 25.08,14,50,Stage 2 - Valmiera › Sigulda,157.1,,,2018
 24.08,106,91,Stage 1 -  Tallinn ›  Tallinn,152.3,,,2018
 23.08,46,46,Prologue -  Tallinn ›  Tallinn,4.6,,,2018
-19.08,25,,Grand Prix Minsk (1.2),149,,,2018
-18.08,DNF,,Minsk Cup (1.2),176,,,2018
+19.08,25,,Grand Prix Minsk (1.2),149.0,,,2018
+18.08,DNF,,Minsk Cup (1.2),176.0,,,2018
 01.07,19,,National Championships Belarus - Road Race (NC),,,,2018
-29.06,DNF,,National Championships Belarus - ITT (NC),35,,,2018
+29.06,DNF,,National Championships Belarus - ITT (NC),35.0,,,2018
 01.06 » 03.06,,,Szlakiem Walk Majora Hubala (2.1),,,,2018
 01.06,DNF,,Stage 1 - Poswiêtne › Ostrowiec Swiêtokrzyski,194.6,,,2018
 02.05 » 06.05,,,Five Rings of Moscow (2.2),,,,2018
 ,22,,Points classification,,,,2018
 ,25,,General classification,,,,2018
-06.05,9,,Stage 4 - Moscow › Moscow,122,,,2018
+06.05,9,,Stage 4 - Moscow › Moscow,122.0,,,2018
 05.05,83,28,Stage 3 - Moscow › Moscow,156.8,,,2018
 04.05,22,27,Stage 2 - Moscow › Moscow,149.6,,,2018
 03.05,34,60,Stage 1 - Moscow › Moscow,156.8,,,2018
@@ -74,7 +76,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.01,57,57,Stage 1 (ITT) - Sharjah › Sharjah,10.2,,,2018
 02.12 » 04.12,,,Tour of Quanzhou Bay (2.2),,,,2017
 ,43,,General classification,,,,2017
-04.12,64,,Stage 3 - Jiri Mountain › Quanzhou,90,,,2017
+04.12,64,,Stage 3 - Jiri Mountain › Quanzhou,90.0,,,2017
 03.12,43,43,Stage 2 - Anxi › Anxi,111.4,,,2017
 02.12,58,58,Stage 1 - Huian › Jinjiang,85.6,,,2017
 08.11 » 12.11,,,Tour of Fuzhou (2.1),,,,2017
@@ -90,52 +92,51 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.10,91,,Stage 2 - Almaty › Almaty,160.5,,,2017
 30.09,92,91,Stage 1 - Almaty › Almaty,171.2,,,2017
 19.09 » 24.09,,,Tour of China II (2.1),,,,2017
-,88,,General classification,,,,2017
 24.09,99,,Stage 5 - Zhuhai Hengqin › Zhuhai Hengqin,91.2,,,2017
 22.09,107,88,Stage 4 - Huangshi Daye › Huangshi Daye,115.3,,,2017
-21.09,73,79,Stage 3 - Changde Hanshou › Changde Hanshou,94,,,2017
+21.09,73,79,Stage 3 - Changde Hanshou › Changde Hanshou,94.0,,,2017
 20.09,60,82,Stage 2 - Lixian › Lixian,97.6,,,2017
 19.09,79,81,Stage 1 - Hongjiang shiji square › Ximaxiang Government,118.2,,,2017
 10.09 » 17.09,,,Tour of China I (2.1),,,,2017
 17.09,DNF,,Stage 5 - Anshun › Anshun,128.5,,,2017
 15.09,67,77,Stage 4 (ITT) - Chengdu Jintang › Chengdu Jintang,3.3,,,2017
 14.09,80,75,Stage 3 - Pingchang › Pingchang,140.6,,,2017
-12.09,33,47,Stage 2 - Xiyang › Yunzhuhu,197,,,2017
-10.09,68,67,Stage 1 - Fengning › Weichang,156,,,2017
+12.09,33,47,Stage 2 - Xiyang › Yunzhuhu,197.0,,,2017
+10.09,68,67,Stage 1 - Fengning › Weichang,156.0,,,2017
 28.06 » 01.07,,,Course Cycliste de Solidarnosc et des Champions Olympiques (2.2),,,,2017
 29.06,DNF,,Stage 3 - Radom › Stalowa Wola,211.1,,,2017
 28.06,75,79,Stage 2 - Tomaszow Mazowiecki › Kielce,121.3,,,2017
 28.06,81,81,Stage 1 - Lodz › Zdunska Wola,86.8,,,2017
-25.06,11,,National Championships Belarus - Road Race (NC),182,,,2017
-22.06,13,,National Championships Belarus - ITT (NC),40,,,2017
+25.06,11,,National Championships Belarus - Road Race (NC),182.0,,,2017
+22.06,13,,National Championships Belarus - ITT (NC),40.0,,,2017
 16.06 » 18.06,,,Tour de Serbia (2.2),,,,2017
 ,8,,Mountains classification,,,,2017
 ,48,,General classification,,,,2017
-18.06,63,,Stage 3 - Pecinci › Zrenjanin,159,,,2017
-17.06,44,46,Stage 2 - Pozarevac  › Avala ,146,,,2017
-16.06,57,58,Stage 1 -  Pozarevac  ›  Pozarevac ,140,,,2017
+18.06,63,,Stage 3 - Pecinci › Zrenjanin,159.0,,,2017
+17.06,44,46,Stage 2 - Pozarevac  › Avala ,146.0,,,2017
+16.06,57,58,Stage 1 -  Pozarevac  ›  Pozarevac ,140.0,,,2017
 09.06 » 11.06,,,Tour of Malopolska (2.2),,,,2017
 ,40,,General classification,,,,2017
-11.06,75,,Stage 3 - Chocholowskie Termy › Nowy Targ,140,,,2017
-10.06,65,44,Stage 2 - Kokotow › Stary Sacz,143,,,2017
-09.06,26,27,Stage 1 - Alwernia  › Trzebinia,123,,,2017
+11.06,75,,Stage 3 - Chocholowskie Termy › Nowy Targ,140.0,,,2017
+10.06,65,44,Stage 2 - Kokotow › Stary Sacz,143.0,,,2017
+09.06,26,27,Stage 1 - Alwernia  › Trzebinia,123.0,,,2017
 01.06 » 04.06,,,Szlakiem Walk Majora Hubala (2.1),,,,2017
-01.06,OTL,,Stage 1 - Skarzusko › Swiety Krzyz,187,,,2017
+01.06,OTL,,Stage 1 - Skarzusko › Swiety Krzyz,187.0,,,2017
 26.05 » 27.05,,,Tour of Estonia (2.1),,,,2017
 ,17,,Points classification,,,,2017
 ,22,,General classification,,,3,2017
 27.05,9,,Stage 2 - Tartu › Tartu,172.8,,,2017
 26.05,34,34,Stage 1 - Tallinn › Tartu,211.2,,,2017
 05.05 » 09.05,,,Five Rings of Moscow (2.2),,,,2017
-06.05,DNF,,Stage 1 - Moskow › Moskow,136,,,2017
+06.05,DNF,,Stage 1 - Moskow › Moskow,136.0,,,2017
 05.05,62,62,Prologue - Moskow › Moskow,3.8,,,2017
-30.04,DNF,,Belgrade Banjaluka II (1.2),165,,,2017
-29.04,14,,Beograd - Banjaluka I (1.2),128,,,2017
+30.04,DNF,,Belgrade Banjaluka II (1.2),165.0,,,2017
+29.04,14,,Beograd - Banjaluka I (1.2),128.0,,,2017
 02.04,DNF,,GP Adria Mobil (1.2),184.3,,,2017
 23.03 » 26.03,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2017
-26.03,DNF,,Stage 4 - Fiorano modenese › Sassuolo,160,,,2017
+26.03,DNF,,Stage 4 - Fiorano modenese › Sassuolo,160.0,,,2017
 25.03,67,169,Stage 3 - Crevalcore › Crevalcore,171.4,,,2017
-24.03,168,180,Stage 2 - Riccione › Sogliano sul Rubicone,130,,,2017
+24.03,168,180,Stage 2 - Riccione › Sogliano sul Rubicone,130.0,,,2017
 23.03,162,162,Stage 1a - Gatteo › Gatteo,97.8,,,2017
 23.03,25,166,Stage 1b (TTT) - Gatteo a mare › Gatteo,13.3,,,2017
 05.02,100,,G.P. Costa degli Etruschi (1.1),190.6,,,2017
@@ -143,7 +144,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,49,,General classification,,,,2016
 25.09,10,,Stage 5 - Zhuhai › Zhuhai,82.9,,,2016
 24.09,99,58,Stage 4 - Qingyuan › Qingyuan,131.2,,,2016
-22.09,44,64,Stage 3 - Liling › Liling,116,,,2016
+22.09,44,64,Stage 3 - Liling › Liling,116.0,,,2016
 21.09,54,62,Stage 2 - Shaoshan › Shaoshan,127.8,,,2016
 19.09,10,63,Stage 1 - Yangxin › Yangxin,121.6,,,2016
 18.09,67,67,Prologue - Hubei Olympic Center › Hubei Olympic Center,3.3,,,2016
@@ -162,127 +163,126 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 11.08 » 13.08,,,Tour of Szeklerland (2.2),,,,2016
 ,6,,Mountains classification,,,,2016
 ,34,,Points classification,,,,2016
-13.08,DNF,,Stage 3b - Miercurea Ciuc › Miercurea Ciuc,123,,,2016
+13.08,DNF,,Stage 3b - Miercurea Ciuc › Miercurea Ciuc,123.0,,,2016
 13.08,74,65,Stage 3a (ITT) - Baile Harhita › Baile Harhita,6.1,,,2016
-12.08,65,63,Stage 2 - Odorheiu Secuiesc › Baile Harghita,163,,,2016
-11.08,40,40,Stage 1 - Miercurea Ciuc › Miercurea Ciuc,184,,,2016
+12.08,65,63,Stage 2 - Odorheiu Secuiesc › Baile Harghita,163.0,,,2016
+11.08,40,40,Stage 1 - Miercurea Ciuc › Miercurea Ciuc,184.0,,,2016
 07.08,14,,Odessa Grand Prix (1.2),141.7,,,2016
 06.08,DNF,,Tour de Ribas (1.2),154.1,,,2016
 27.07 » 30.07,,,Dookoła Mazowsza (2.2),,,,2016
 ,4,,Youth classification,,,,2016
 ,11,,General classification,,,,2016
-30.07,32,,Stage 3 - Nowy Dwor Mazowiecki › Nowy Dwor Mazowiecki,187,,,2016
-29.07,9,12,Stage 2 - Teresin › Teresin,168,,,2016
-28.07,27,40,Stage 1 - Kozienice › Kozienice,165,,,2016
+30.07,32,,Stage 3 - Nowy Dwor Mazowiecki › Nowy Dwor Mazowiecki,187.0,,,2016
+29.07,9,12,Stage 2 - Teresin › Teresin,168.0,,,2016
+28.07,27,40,Stage 1 - Kozienice › Kozienice,165.0,,,2016
 27.07,38,38,Prologue - Warszawa › Warszawa,2.5,,,2016
-26.06,DNF,,National Championships Belarus - Road Race (NC),180,,,2016
-23.06,20,,National Championships Belarus - ITT (NC),40,,,2016
+26.06,DNF,,National Championships Belarus - Road Race (NC),180.0,,,2016
+23.06,20,,National Championships Belarus - ITT (NC),40.0,,,2016
 14.06 » 19.06,,,Tour de Serbia (2.2),,,,2016
 ,16,,Youth classification,,,,2016
 ,12,,Points classification,,,,2016
 ,40,,General classification,,,,2016
-19.06,45,,Stage 6 - Vrnjacka Banja › Mladenovac,124,,,2016
+19.06,45,,Stage 6 - Vrnjacka Banja › Mladenovac,124.0,,,2016
 18.06,38,40,Stage 5 - Sokobanja › Vrnjacka Banja,117.5,,,2016
 17.06,60,43,Stage 4 - Novi Pazar › Sokobanja,191.4,,,2016
 16.06,42,50,Stage 3 - Priboj › Novi Pazar,123.6,,,2016
 15.06,55,48,Stage 2 - Bajina Basta › Pribojska Baja,106.4,,,2016
-14.06,51,51,Stage 1 - Beograd › Loznica,144,,,2016
+14.06,51,51,Stage 1 - Beograd › Loznica,144.0,,,2016
 27.05 » 28.05,,,Tour of Estonia (2.1),,,,2016
 ,20,,Youth classification,,,,2016
 ,58,,General classification,,,,2016
-28.05,19,,Stage 2 -  Tartu ›  Tartu,144,,,2016
-27.05,88,88,Stage 1 - Tallinn  › Tartu,190,,,2016
+28.05,19,,Stage 2 -  Tartu ›  Tartu,144.0,,,2016
+27.05,88,88,Stage 1 - Tallinn  › Tartu,190.0,,,2016
 06.05 » 08.05,,,CCC Tour - Grody Piastowskie (2.2),,,,2016
-07.05,DNF,,Stage 2 - G?ogow  › Pokowice,117,,,2016
+07.05,DNF,,Stage 2 - G?ogow  › Pokowice,117.0,,,2016
 06.05,40,41,Stage 1 - Chojnow › Zlotoryja ,185.6,,,2016
 02.05,DNF,,Memoriał Romana Siemińskiego (1.2),164.7,,,2016
 01.05,7,,Memorial Andrzeja Trochanowskiego (1.2),168.8,,5,2016
-24.04,DNF,,Belgrade Banjaluka II (1.2),194,,,2016
-23.04,3,,Belgrade - Banjaluka I (1.2),128,7,25,2016
+24.04,DNF,,Belgrade Banjaluka II (1.2),194.0,,,2016
+23.04,3,,Belgrade - Banjaluka I (1.2),128.0,7,25,2016
 14.04 » 17.04,,,Tour of Mersin (2.2),,,,2016
 ,8,,Points classification,,,,2016
 ,21,,General classification,,,,2016
-17.04,3,,Stage 4 - Mersin › Özgecan,138,1,1,2016
-16.04,21,25,Stage 3 - Tarsus › Özgecan ,136,,,2016
-15.04,7,27,Stage 2 - Gülnar › Mersin,146,,,2016
-14.04,28,28,Stage 1 - Anamur › Yanisli,122,,,2016
-14.02,DNF,,GP Laguna Poreč (1.2),163,,,2016
+17.04,3,,Stage 4 - Mersin › Özgecan,138.0,1,1,2016
+16.04,21,25,Stage 3 - Tarsus › Özgecan ,136.0,,,2016
+15.04,7,27,Stage 2 - Gülnar › Mersin,146.0,,,2016
+14.04,28,28,Stage 1 - Anamur › Yanisli,122.0,,,2016
+14.02,DNF,,GP Laguna Poreč (1.2),163.0,,,2016
 07.02,55,,G.P. Costa degli Etruschi (1.1),190.6,,,2016
 18.08 » 20.08,,,Baltic Chain Tour (2.2),,,,2015
 ,10,,Youth classification,,,,2015
 ,27,,General classification,,,,2015
-20.08,9,27,Stage 3 - Valga › Valga,180,,,2015
+20.08,9,27,Stage 3 - Valga › Valga,180.0,,,2015
 19.08,6,23,Stage 2 - Pärnu › Valga,192.9,,,2015
 18.08,20,23,Stage 1 - Tallinn › Pärnu,170.1,,,2015
 09.08,81,,UEC Road European Championships U23 - Road Race (CC),161.2,,,2015
-05.07,DNF,,Minsk Cup (1.2),176,,,2015
-04.07,64,,Grand Prix Minsk (1.2),120,,,2015
-28.06,11,,National Championships Belarus - Road Race (NC),190,,,2015
+05.07,DNF,,Minsk Cup (1.2),176.0,,,2015
+04.07,64,,Grand Prix Minsk (1.2),120.0,,,2015
+28.06,11,,National Championships Belarus - Road Race (NC),190.0,,,2015
 26.06,23,,National Championships Belarus - ITT (NC),36.3,,,2015
 05.05 » 09.05,,,Five rings of Moscow (2.2),,,,2015
 ,21,,Points classification,,,,2015
 ,24,,General classification,,,,2015
-09.05,15,,Stage 4 - Moscow › Moscow,160,,,2015
+09.05,15,,Stage 4 - Moscow › Moscow,160.0,,,2015
 08.05,22,23,Stage 3 - Moscow › Moscow,163.2,,,2015
-07.05,28,35,Stage 2 - Moscow › Moscow,165,,,2015
-06.05,7,34,Stage 1 - Moscow › Moscow,160,,,2015
+07.05,28,35,Stage 2 - Moscow › Moscow,165.0,,,2015
+06.05,7,34,Stage 1 - Moscow › Moscow,160.0,,,2015
 05.05,37,37,Prologue - Moscow › Moscow,3.25,,,2015
-03.05,6,,Grand Prix of Moscow (1.2),123,1,8,2015
+03.05,6,,Grand Prix of Moscow (1.2),123.0,1,8,2015
 02.05,DNF,,Memorial of Oleg Dyachenko (1.2),163.2,,,2015
-01.05,80,,Moscow Cup (1.2),160,,,2015
+01.05,80,,Moscow Cup (1.2),160.0,,,2015
 16.04 » 19.04,,,Grand Prix of Adygeya (2.2),,,,2015
 ,4,,Mountains classification,,,,2015
 ,31,,General classification,,,,2015
-19.04,44,,Stage 3 - Maykop › Lagonaki,130,,,2015
+19.04,44,,Stage 3 - Maykop › Lagonaki,130.0,,,2015
 18.04,25,19,Stage 2 - Tulskiy › pos. Guzerpl,123.1,,,2015
-17.04,4,23,Stage 1 (TTT) - Kuzhorskaya › Kuzhorskaya,25,2,,2015
-16.04,53,53,Prologue - Kamennomostskiy › Pobeda,8,,,2015
+17.04,4,23,Stage 1 (TTT) - Kuzhorskaya › Kuzhorskaya,25.0,2,,2015
+16.04,53,53,Prologue - Kamennomostskiy › Pobeda,8.0,,,2015
 15.04,DNF,,Maykop - Ulyap - Maykop (1.2),171.4,,,2015
 02.04 » 05.04,,,Tour of Kuban (2.2),,,,2015
 ,29,,Points classification,,,,2015
 ,21,,General classification,,,,2015
-05.04,13,,Stage 3 - Tuapse › Krasnodar,178,,,2015
+05.04,13,,Stage 3 - Tuapse › Krasnodar,178.0,,,2015
 04.04,20,21,Stage 2 - Poselok Novomikhaylovskiy › Nebug,148.1,,,2015
-03.04,17,45,Stage 1 - Novorossiysk › Nebug,108,,,2015
-02.04,45,45,Prologue - Anapa › Anapa,6,,,2015
+03.04,17,45,Stage 1 - Novorossiysk › Nebug,108.0,,,2015
+02.04,45,45,Prologue - Anapa › Anapa,6.0,,,2015
 01.04,DNF,,Krasnodar - Anapa (1.2),177.8,,,2015
 02.10 » 06.10,,,Tour of Kavkaz (2.2),,,,2014
 ,20,,Points classification,,,,2014
 ,44,,General classification,,,,2014
-06.10,30,,Stage 5 (ITT) - Kamenomostskaya › Kamenomostskaya,10,,,2014
+06.10,30,,Stage 5 (ITT) - Kamenomostskaya › Kamenomostskaya,10.0,,,2014
 05.10,49,46,Stage 4 - Tula › Pos Guzeripl,123.1,,,2014
-04.10,6,59,Stage 3 - Maykop › Maykop,108,,,2014
-03.10,75,62,Stage 2 - Maykop › Maykop,157,,,2014
+04.10,6,59,Stage 3 - Maykop › Maykop,108.0,,,2014
+03.10,75,62,Stage 2 - Maykop › Maykop,157.0,,,2014
 02.10,12,16,Stage 1 - Maykop › Maykop,171.4,,,2014
 29.06,14,,National Championships Belarus - Road Race (NC),,,,2014
 11.06 » 15.06,,,Grand Prix 'Udmurtskaya Pravda' (2.2),,,,2014
-13.06,DNF,,Stage 3 - Izevsk › Izevsk,168,,,2014
-12.06,5,39,Stage 2 - Izevsk › Izevsk,120,,,2014
+13.06,DNF,,Stage 3 - Izevsk › Izevsk,168.0,,,2014
+12.06,5,39,Stage 2 - Izevsk › Izevsk,120.0,,,2014
 11.06,44,44,Stage 1 (ITT) - Izevsk › Izevsk,18.9,,,2014
 05.05 » 09.05,,,Five rings of Moscow (2.2),,,,2014
 ,67,,General classification,,,,2014
-09.05,17,,Stage 4 - Moskow › Moskow,124,,,2014
+09.05,17,,Stage 4 - Moskow › Moskow,124.0,,,2014
 08.05,52,68,Stage 3 - Moskow › Moskow,163.2,,,2014
-07.05,36,120,Stage 2 - Moskow › Moskow,165,,,2014
-06.05,124,123,Stage 1 - Moskow › Moskow,160,,,2014
+07.05,36,120,Stage 2 - Moskow › Moskow,165.0,,,2014
+06.05,124,123,Stage 1 - Moskow › Moskow,160.0,,,2014
 05.05,43,43,Prologue - Moskow › Moskow,3.95,,,2014
-03.05,75,,Grand Prix of Moscow (1.2),165,,,2014
+03.05,75,,Grand Prix of Moscow (1.2),165.0,,,2014
 02.05,DNF,,Memorial of Oleg Dyachenko (1.2),163.2,,,2014
-01.05,113,,Mayor Cup (1.2),160,,,2014
+01.05,113,,Mayor Cup (1.2),160.0,,,2014
 16.04 » 20.04,,,Grand Prix of Adygeya (2.2),,,,2014
 ,38,,Points classification,,,,2014
-,44,,General classification,,,,2014
-20.04,20,,Stage 5 - Maykop › Maykop,108,,,2014
+20.04,20,,Stage 5 - Maykop › Maykop,108.0,,,2014
 19.04,74,47,Stage 4 - Maykop › Plateau Lago Nagi,123.1,,,2014
-18.04,37,32,Stage 3 - Maykop › Maykop,157,,,2014
+18.04,37,32,Stage 3 - Maykop › Maykop,157.0,,,2014
 17.04,31,32,Stage 2 - Maykop › Maykop,171.4,,,2014
-16.04,53,53,Stage 1 (ITT) - Kamenomostskiy › Pobeda,10,,,2014
+16.04,53,53,Stage 1 (ITT) - Kamenomostskiy › Pobeda,10.0,,,2014
 01.04 » 06.04,,,Grand Prix of Sochi (2.2),,,,2014
 ,56,,General classification,,,,2014
-06.04,40,,Stage 6 - Tuapse › Krasnodar,178,,,2014
-05.04,20,60,Stage 5 - Orlenok › Nebug,216,,,2014
-04.04,25,69,Stage 4 - Novorossiysk › Nebug,154,,,2014
-03.04,52,71,Stage 3 (ITT) - Anapa › Anapa,22,,,2014
+06.04,40,,Stage 6 - Tuapse › Krasnodar,178.0,,,2014
+05.04,20,60,Stage 5 - Orlenok › Nebug,216.0,,,2014
+04.04,25,69,Stage 4 - Novorossiysk › Nebug,154.0,,,2014
+03.04,52,71,Stage 3 (ITT) - Anapa › Anapa,22.0,,,2014
 02.04,70,73,Stage 2 - Anapa › Anapa,128.4,,,2014
 01.04,68,68,Stage 1 - Krasnodar › Anapa,185.9,,,2014
 19.08 » 25.08,,,Baltic Chain Tour (2.2),,,,2013
@@ -290,14 +290,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,23,,General classification,,,,2013
 25.08,51,,Stage 6 - Utena › Vilnius,152.4,,,2013
 24.08,15,23,Stage 5 - Panevezys › Utena,154.1,,,2013
-22.08,82,69,Stage 4 - Smiltene › Sigulda,179,,,2013
-21.08,49,63,Stage 3 - Viljandi › Otepää,183,,,2013
-20.08,64,70,Stage 2 - Tallinn › Viljandi,187,,,2013
+22.08,82,69,Stage 4 - Smiltene › Sigulda,179.0,,,2013
+21.08,49,63,Stage 3 - Viljandi › Otepää,183.0,,,2013
+20.08,64,70,Stage 2 - Tallinn › Viljandi,187.0,,,2013
 19.08,75,73,Stage 1 - Lahti › Lahti,168.6,,,2013
 21.06,9,,National Championships Belarus - ITT (NC),,,,2013
 13.06 » 15.06,,,Tour of Malopolska (2.2),,,,2013
-14.06,DNF,,Stage 2 - Niepołomice › Jodłownik,149,,,2013
-13.06,97,99,Stage 1 - Trzebinia › Miechów,152,,,2013
+14.06,DNF,,Stage 2 - Niepołomice › Jodłownik,149.0,,,2013
+13.06,97,99,Stage 1 - Trzebinia › Miechów,152.0,,,2013
 05.05 » 09.05,,,Five rings of Moscow (2.2),,,,2013
 ,62,,General classification,,,,2013
 09.05,26,,Stage 4 - Moscow › Moscow,129.6,,,2013
@@ -309,28 +309,28 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.05,DNF,,Memorial of Oleg Dyachenko (1.2),163.2,,,2013
 01.05,DNF,,Mayor Cup (1.2),172.8,,,2013
 03.04 » 07.04,,,Grand Prix of Sochi (2.2),,,,2013
-06.04,DNF,,Stage 4 - Novomikhailovsky › Gelendjik - Nebug,216,,,2013
-05.04,38,20,Stage 3 - Novorossiysk › Nebug,154,,,2013
+06.04,DNF,,Stage 4 - Novomikhailovsky › Gelendjik - Nebug,216.0,,,2013
+05.04,38,20,Stage 3 - Novorossiysk › Nebug,154.0,,,2013
 04.04,9,16,Stage 2 - Anapa › Anapa,128.4,,,2013
 03.04,38,38,Stage 1 - Krasnodar › Anapa,179.2,,,2013
-11.08,39,,European Championships MJ - Road Race (CC),129,,,2012
+11.08,39,,European Championships MJ - Road Race (CC),129.0,,,2012
 26.07 » 29.07,,,Tour de la Région de Lódz (2.1),,,,2012
 ,11,,General classification,,12,,2012
-29.07,107,,Stage 4 - Lask › Lask,111,,,2012
-28.07,42,12,Stage 3 - Lódz › Lódz,99,,,2012
+29.07,107,,Stage 4 - Lask › Lask,111.0,,,2012
+28.07,42,12,Stage 3 - Lódz › Lódz,99.0,,,2012
 27.07,5,8,Stage 2 - Buczek › Buczek,106.2,4,,2012
 26.07,8,13,Stage 1 - Sedziejowice › Sedziejowice,106.5,1,,2012
 26.04 » 29.04,,,La Coupe du Président de la Ville de Grudziądz (2.1),,,,2012
 ,3,,Points classification,,,,2012
 ,4,,General classification,,36,,2012
 29.04,4,,Stage 4 - Grudziadz › Grudziadz,109.5,5,,2012
-28.04,29,4,Stage 3 - Swiecie › Swiecie,102,,,2012
+28.04,29,4,Stage 3 - Swiecie › Swiecie,102.0,,,2012
 27.04,10,4,Stage 2 - Chelmza › Chelmza,105.5,,,2012
 26.04,3,3,Stage 1b - Jablonowo › Jablonowo,77.2,7,,2012
 28.07 » 31.07,,,Tour de la Région de Lodz (2.1),,,,2011
 ,16,,General classification,,5,,2011
 31.07,32,,Stage 4 - Łask › Łask,,,,2011
-30.07,65,,Stage 3 - Łódź › Łódź,99,,,2011
+30.07,65,,Stage 3 - Łódź › Łódź,99.0,,,2011
 29.07,7,,Stage 2 - Pabianice › Pabianice,96.4,2,,2011
 28.07,16,,Stage 1 - Sędziejowice › Sędziejowice,109.6,,,2011
 28.04 » 01.05,,,La Coupe du Président de la Ville de Grudziądz (2.1),,,,2011
@@ -338,7 +338,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,27,,Points classification,,,,2011
 ,43,,General classification,,,,2011
 01.05,46,,Stage 4 - Grudziądz › Grudziądz,109.5,,,2011
-30.04,51,50,Stage 3 - Świecie › Świecie,105,,,2011
+30.04,51,50,Stage 3 - Świecie › Świecie,105.0,,,2011
 29.04,21,39,Stage 2 - Jabłonowo Pomorskie › Jabłonowo Pomorskie,96.5,,,2011
-28.04,11,39,Stage 1b - Łasin › Łasin,90,,,2011
-28.04,10,44,Stage 1a (TTT) - Gruta › Gruta,10,,,2011
+28.04,11,39,Stage 1b - Łasin › Łasin,90.0,,,2011
+28.04,10,44,Stage 1a (TTT) - Gruta › Gruta,10.0,,,2011

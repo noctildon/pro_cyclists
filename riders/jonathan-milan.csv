@@ -1,19 +1,42 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+30.03,DNS,,Dwars door Vlaanderen - A travers la Flandre ME (1.UWT) ,183.7,,,2022
+25.03,DNF,,E3 Saxo Bank Classic (1.UWT) ,203.9,,,2022
+23.03,39,,Minerva Classic Brugge-De Panne (1.UWT) ,207.9,5,5,2022
+19.03,115,,Milano-Sanremo (1.UWT) ,293,5,,2022
+20.02 » 26.02,,,UAE Tour (2.UWT) ,,,,2022
+,28,,Youth classification ,,,,2022
+,54,,Points classification ,,,,2022
+,97,,General classification ,,5,,2022
+26.02,109,,Stage 7 - Al Ain › Jebel Hafeet ,148,,,2022
+25.02,10,83,Stage 6 - Expo 2020 Dubai › Expo 2020 Dubai  ,180,1,,2022
+24.02,15,83,Stage 5 - Ras al Khaimah Corniche › Al Marjan Island  ,182,,,2022
+23.02,100,83,Stage 4 - Fujairah Fort › Jebel Jais ,181,,,2022
+22.02,14,12,Stage 3 (ITT) - Ajman › Ajman ,9,,,2022
+21.02,49,26,Stage 2 - Hudayriyat Island › Abu Dhabi Breakwater ,176,,,2022
+20.02,12,15,Stage 1 - Madinat Zayed › Madinat Zayed ,184,,,2022
+01.02 » 05.02,,,Saudi Tour (2.1) ,,,,2022
+,13,,Youth classification ,,,,2022
+,53,,General classification ,,,,2022
+05.02,78,,Stage 5 - AlUla Old Town › AlUla Old Town ,138.9,,,2022
+04.02,65,51,Stage 4 - Winter Park › Skyviews of Harrat Uwayrid ,149.3,,,2022
+03.02,17,24,Stage 3 - Tayma Hadaj Well › AlUla Old Town ,181.2,,,2022
+02.02,34,30,Stage 2 - Taibah University › Abu Rakah ,163.9,,,2022
+01.02,25,28,Stage 1 - Winter Park › Winter Park ,198,,,2022
 30.03,DNS,,Dwars door Vlaanderen - A travers la Flandre ME (1.UWT),183.7,,,2022
 25.03,DNF,,E3 Saxo Bank Classic (1.UWT),203.9,,,2022
 23.03,39,,Minerva Classic Brugge-De Panne (1.UWT),207.9,5,5,2022
-19.03,115,,Milano-Sanremo (1.UWT),293,5,,2022
+19.03,115,,Milano-Sanremo (1.UWT),293.0,5,,2022
 20.02 » 26.02,,,UAE Tour (2.UWT),,,,2022
 ,28,,Youth classification,,,,2022
 ,54,,Points classification,,,,2022
 ,97,,General classification,,5,,2022
-26.02,109,,Stage 7 - Al Ain › Jebel Hafeet,148,,,2022
-25.02,10,83,Stage 6 - Expo 2020 Dubai › Expo 2020 Dubai ,180,1,,2022
-24.02,15,83,Stage 5 - Ras al Khaimah Corniche › Al Marjan Island ,182,,,2022
-23.02,100,83,Stage 4 - Fujairah Fort › Jebel Jais,181,,,2022
-22.02,14,12,Stage 3 (ITT) - Ajman › Ajman,9,,,2022
-21.02,49,26,Stage 2 - Hudayriyat Island › Abu Dhabi Breakwater,176,,,2022
-20.02,12,15,Stage 1 - Madinat Zayed › Madinat Zayed,184,,,2022
+26.02,109,,Stage 7 - Al Ain › Jebel Hafeet,148.0,,,2022
+25.02,10,83,Stage 6 - Expo 2020 Dubai › Expo 2020 Dubai ,180.0,1,,2022
+24.02,15,83,Stage 5 - Ras al Khaimah Corniche › Al Marjan Island ,182.0,,,2022
+23.02,100,83,Stage 4 - Fujairah Fort › Jebel Jais,181.0,,,2022
+22.02,14,12,Stage 3 (ITT) - Ajman › Ajman,9.0,,,2022
+21.02,49,26,Stage 2 - Hudayriyat Island › Abu Dhabi Breakwater,176.0,,,2022
+20.02,12,15,Stage 1 - Madinat Zayed › Madinat Zayed,184.0,,,2022
 01.02 » 05.02,,,Saudi Tour (2.1),,,,2022
 ,13,,Youth classification,,,,2022
 ,53,,General classification,,,,2022
@@ -21,7 +44,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.02,65,51,Stage 4 - Winter Park › Skyviews of Harrat Uwayrid,149.3,,,2022
 03.02,17,24,Stage 3 - Tayma Hadaj Well › AlUla Old Town,181.2,,,2022
 02.02,34,30,Stage 2 - Taibah University › Abu Rakah,163.9,,,2022
-01.02,25,28,Stage 1 - Winter Park › Winter Park,198,,,2022
+01.02,25,28,Stage 1 - Winter Park › Winter Park,198.0,,,2022
 03.10,DNF,,Paris-Roubaix (1.UWT),257.7,,,2021
 19.09,DNF,,Eschborn-Frankfurt (1.UWT),187.4,,,2021
 16.09,DNF,,Coppa Sabatini - Gran Premio città di Peccioli (1.Pro),210.8,,,2021
@@ -29,7 +52,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 30.08 » 05.09,,,Benelux Tour (2.UWT),,,,2021
 05.09,DNF,,Stage 7 - Namur › Geraardsbergen,177.9,,,2021
 04.09,122,97,Stage 6 - Ottignies-Louvain-la-Neuve › Houffalize,207.6,,,2021
-03.09,96,76,Stage 5 - Riemst › Bilzen,192,,,2021
+03.09,96,76,Stage 5 - Riemst › Bilzen,192.0,,,2021
 02.09,105,72,Stage 4 - Aalter › Ardooie,166.1,,,2021
 01.09,91,63,Stage 3 - Essen › Hoogerheide,168.3,,,2021
 31.08,37,46,Stage 2 (ITT) - Lelystad › Lelystad,11.1,,,2021
@@ -39,7 +62,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,8,,Points classification,,,,2021
 ,85,,General classification,,,,2021
 18.07,73,,Stage 5 - Cagliari › Cagliari,170.2,,,2021
-17.07,107,100,Stage 4 - Cagliari › Cagliari,168,,,2021
+17.07,107,100,Stage 4 - Cagliari › Cagliari,168.0,,,2021
 16.07,2,102,Stage 3 - Oristano › Cagliari,180.9,12,5,2021
 15.07,83,109,Stage 2 - Sassari › Oristano,185.5,,,2021
 14.07,115,115,Stage 1 - Alghero › Sassari,155.8,,,2021
@@ -50,24 +73,24 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.06,80,,Stage 5 - Ljubljana › Novo mesto,175.3,,,2021
 12.06,61,85,Stage 4 - Ajdovščina › Nova Gorica,164.1,,,2021
 11.06,84,110,Stage 3 - Brežice › Krško,165.8,,,2021
-10.06,87,108,Stage 2 - Žalec › Celje (Celjski Grad),147,,,2021
+10.06,87,108,Stage 2 - Žalec › Celje (Celjski Grad),147.0,,,2021
 09.06,93,93,Stage 1 - Ptuj › Rogaška Slatina,151.5,,,2021
 04.04,DNF,,Ronde van Vlaanderen - Tour des Flandres ME (1.UWT),254.3,,,2021
 31.03,89,,Dwars door Vlaanderen - A travers la Flandre ME (1.UWT),184.1,5,,2021
-28.03,DNF,,Gent-Wevelgem in Flanders Fields ME (1.UWT),250,,,2021
+28.03,DNF,,Gent-Wevelgem in Flanders Fields ME (1.UWT),250.0,,,2021
 26.03,DNF,,E3 Saxo Bank Classic (1.UWT),203.9,,,2021
 24.03,103,,Oxyclean Classic Brugge-De Panne ME (1.UWT),203.9,5,,2021
 21.02 » 27.02,,,UAE Tour (2.UWT),,,,2021
 ,32,,Youth classification,,,,2021
 ,37,,Points classification,,,,2021
 ,113,,General classification,,5,,2021
-27.02,98,,Stage 7 - Yas Mall  › Abu Dhabi Breakwater,147,,,2021
-26.02,90,114,Stage 6 - Deira Island › Palm Jumeirah,165,,,2021
-25.02,114,118,Stage 5 - Fujairah Marine Club › Jebel Jais,170,,,2021
-24.02,102,121,Stage 4 - Al Marjan Island › Al Marjan Island,204,,,2021
-23.02,129,123,Stage 3 - Strata Manufactoring › Jebel Hafeet,166,,,2021
-22.02,32,46,Stage 2 (ITT) - Al Hudayriat Island › Al Hudayriat Island,13,,,2021
-21.02,99,99,Stage 1 - Al Dhafra Castle  › Al Mirfa,176,,,2021
+27.02,98,,Stage 7 - Yas Mall  › Abu Dhabi Breakwater,147.0,,,2021
+26.02,90,114,Stage 6 - Deira Island › Palm Jumeirah,165.0,,,2021
+25.02,114,118,Stage 5 - Fujairah Marine Club › Jebel Jais,170.0,,,2021
+24.02,102,121,Stage 4 - Al Marjan Island › Al Marjan Island,204.0,,,2021
+23.02,129,123,Stage 3 - Strata Manufactoring › Jebel Hafeet,166.0,,,2021
+22.02,32,46,Stage 2 (ITT) - Al Hudayriat Island › Al Hudayriat Island,13.0,,,2021
+21.02,99,99,Stage 1 - Al Dhafra Castle  › Al Mirfa,176.0,,,2021
 16.09 » 19.09,,,Okolo Slovenska / Tour de Slovaquie (2.1),,,,2020
 17.09,DNF,,Stage 2 - Žilina › Banská Bystrica,206.6,,,2020
 16.09,116,116,Stage 1a - Žilina › Žilina,106.4,,,2020
@@ -84,9 +107,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.09,86,83,Stage 4 - Bonferraro di Sorgà › Bolca,159.6,,,2020
 31.08,89,74,Stage 3 - Riccione ›  Mordano,149.4,,,2020
 30.08,3,79,Stage 2 - Gradara  ›  Riccione,103.9,1,,2020
-29.08,93,93,Stage 1 - Urbino › Urbino,149,,,2020
+29.08,93,93,Stage 1 - Urbino › Urbino,149.0,,,2020
 24.08,5,,European Continental Championships U23 - ITT (CC),25.6,,10,2020
-12.08,DNF,,Gran Piemonte (1.Pro),187,,,2020
+12.08,DNF,,Gran Piemonte (1.Pro),187.0,,,2020
 01.08,1,,National Championships Italy U23 - ITT (NC),25.6,,25,2020
 26.07,68,,GP Kranj (1.2),157.3,,,2020
 26.01 » 02.02,,,Vuelta a San Juan Internacional (2.Pro),,,,2020
@@ -106,19 +129,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.09,68,60,Stage 4 - Ploiești › Cabana Piatra Arsă (,119.2,,,2019
 13.09,2,4,Stage 3 - Buzău › Târgoviște,124.7,12,5,2019
 12.09,4,6,Stage 2 - Brașov › Focșani ,176.3,5,,2019
-11.09,18,3,Stage 1 - Cluj-Napoca › Sighișoara,168,,,2019
+11.09,18,3,Stage 1 - Cluj-Napoca › Sighișoara,168.0,,,2019
 04.09 » 07.09,,,Giro della Regione Friuli Venezia Giulia (2.2),,,,2019
 ,33,,Youth classification,,,,2019
 ,105,,General classification,,,,2019
 07.09,84,,Stage 4 - Forgaria nel Friuli › San Daniele del Friuli,144.5,,,2019
 06.09,109,106,Stage 3 - Pordenone › Gorizia ,177.5,,,2019
-05.09,11,9,Stage 2 - Gemona del Friuli › Lignano,160,,,2019
+05.09,11,9,Stage 2 - Gemona del Friuli › Lignano,160.0,,,2019
 04.09,3,13,Stage 1 (TTT) - Torreano di Martignacco › Martignacco,16.1,3,0.2,2019
 01.09,22,,Croatia- Slovenia (1.2),179.6,,,2019
 25.07 » 28.07,,,Adriatica Ionica Race / Sulle Rotte della Serenissima (2.1),,,,2019
 26.07,DNF,,Stage 2 - Palmanova › Lago di Misurina/Tre Cime di Lavaredo,204.6,,,2019
-25.07,79,79,Stage 1 - Venezia (Favaro Veneto) › Grado,186,,,2019
-26.06,19,,National Championships Italy U23 - ITT (NC),20,,,2019
+25.07,79,79,Stage 1 - Venezia (Favaro Veneto) › Grado,186.0,,,2019
+26.06,19,,National Championships Italy U23 - ITT (NC),20.0,,,2019
 13.06 » 23.06,,,Giro Ciclistico d'Italia (2.2U),,,,2019
 19.06,DNS,,Stage 5 - Sorbolo Mezzani › Passo Maniva,158.3,,,2019
 17.06,142,145,Stage 4 - Buonconvento › Monte Amiata,140.2,,,2019
@@ -128,7 +151,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.06,34,34,Prologue - Riccione › Riccione,3.3,,,2019
 28.04,DNF,,Giro dell'Appennino (1.1),198.7,,,2019
 23.04,DNF,,G.P. Palio del Recioto - Trofeo C&F Resinatura Blocchi (1.2U),159.7,,,2019
-22.04,DNF,,Giro del Belvedere (1.2U),163,,,2019
+22.04,DNF,,Giro del Belvedere (1.2U),163.0,,,2019
 07.04,DNF,,GP Adria Mobil (1.2),184.2,,,2019
 17.03,68,,Popolarissima (1.2),174.7,,,2019
 30.08 » 02.09,,,Giro della Lunigiana (2.1),,,,2018
@@ -140,14 +163,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.08 » 05.08,,,Giro del Nordest d'Italia (2.1),,,,2018
 ,2,,Points classification,,,,2018
 ,54,,General classification,,,,2018
-05.08,54,,Stage 3 - Udine › Sauris di Sotto,94,,,2018
+05.08,54,,Stage 3 - Udine › Sauris di Sotto,94.0,,,2018
 04.08,1,50,Stage 2 - Buttrio › Buttrio,96.7,20,,2018
 19.05 » 20.05,,,Trophée Centre Morbihan (2.Ncup),,,,2018
 20.05,DNF,,Stage 2b - Bignan › Locminé,100.7,,,2018
-20.05,23,49,Stage 2a (ITT) - Réguiny › Naizin,7,,,2018
+20.05,23,49,Stage 2a (ITT) - Réguiny › Naizin,7.0,,,2018
 19.05,53,53,Stage 1 - Pontivy › Pontivy,123.6,,,2018
 15.04,74,,Trofeo Citta  di Loano (1.1),127.3,,,2018
-08.04,36,,Paris - Roubaix Juniors (1.Ncup),111,,,2018
+08.04,36,,Paris - Roubaix Juniors (1.Ncup),111.0,,,2018
 01.09 » 03.09,,,Giro della Lunigiana (2.1),,,,2017
 ,17,,Youth classification,,,,2017
 ,2,,Mountains classification,,,,2017
@@ -155,6 +178,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,52,,General classification,,,,2017
 03.09,23,,Stage 3 - Dogana di Luni › Casano di Luni,104.3,,,2017
 02.09,94,91,Stage 2 - Fosdinovo › Fosdinovo,116.9,,,2017
-01.09,115,120,Stage 1 - Castelnuovo Magra › M di Massa loc. Partaccia,100,,,2017
+01.09,115,120,Stage 1 - Castelnuovo Magra › M di Massa loc. Partaccia,100.0,,,2017
 28.05,DNF,,Tf GD Dorigo MO Biemmereti MO Ettore e Cristiano Floriani MO Ferramenta Ma (1.1),134.7,,,2017
-30.04,DNF,,G.P. Sportivi Sovilla-La Piccola Sanremo (1.1),126,,,2017
+30.04,DNF,,G.P. Sportivi Sovilla-La Piccola Sanremo (1.1),126.0,,,2017

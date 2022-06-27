@@ -1,15 +1,62 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,102,,National Championships Belgium - Road Race (NC) ,208.7,,,2022
+15.06 » 19.06,,,Baloise Belgium Tour (2.Pro) ,,,,2022
+,25,,General classification ,,1,5,2022
+19.06,65,,Stage 5 - Gingelom › Beringen ,179.9,,,2022
+18.06,28,26,Stage 4 - Durbuy › Durbuy ,172.2,,,2022
+17.06,78,34,Stage 3 (ITT) - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem ,11.8,,,2022
+16.06,70,30,Stage 2 - Beveren › Knokke-Heist ,175.6,,,2022
+15.06,26,26,Stage 1 - Merelbeke › Maarkedal ,165,,,2022
+06.06,86,,Ronde van Limburg (1.1) ,202.6,,,2022
+24.05 » 29.05,,,Tour of Norway (2.Pro) ,,,,2022
+,35,,Points classification ,,,,2022
+,75,,General classification ,,,,2022
+29.05,77,,Stage 6 - Stavanger › Stavanger ,149.3,,,2022
+28.05,82,68,Stage 5 - Flekkefjord › Sandnes  146k,181.7,,,2022
+27.05,87,54,Stage 4 - Hovden › Kristiansand  210k,232.1,,,2022
+26.05,92,47,Stage 3 - Gol › Stavsro/Gaustatoppen ,175.8,,,2022
+25.05,43,30,Stage 2 - Ulvik › Geilo ,123.8,,,2022
+24.05,13,13,Stage 1 - Bergen › Voss ,173.6,,,2022
+21.05,106,,Veenendaal-Veenendaal Classic (1.1) ,197.9,,,2022
+11.05 » 15.05,,,Tour de Hongrie (2.1) ,,,,2022
+,10,,General classification ,,14,20,2022
+15.05,11,,Stage 5 - Miskolc › Gyöngyös-Kékestető ,184,,,2022
+14.05,76,72,Stage 4 - Kazincbarcika › Kazincbarcika ,177,,,2022
+13.05,93,76,Stage 3 - Sárospatak › Nyíregyháza ,154,,,2022
+12.05,54,75,Stage 2 - Karcag › Hajdúszoboszló ,192,,,2022
+11.05,97,98,Stage 1 - Csákvár › Székesfehérvár ,197.5,,,2022
+24.04,DNS,,Liège-Bastogne-Liège (1.UWT) ,257.2,,,2022
+20.04,27,,La Flèche Wallonne (1.UWT) ,202.1,8,16,2022
+16.04,52,,Tour du Jura Cycliste (1.1) ,169.8,,,2022
+15.04,30,,Classic Grand Besançon Doubs (1.1) ,177.5,,,2022
+05.04 » 08.04,,,Circuit Cycliste Sarthe - Pays de la Loire (2.1) ,,,,2022
+05.04,DNF,,Stage 1 - Mamers › Mamers ,192.3,,,2022
+02.04,5,,Volta Limburg Classic (1.1) ,195,28,50,2022
+27.03,47,,La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire (1.1) ,202,,,2022
+20.03,DNF,,Cholet - Pays de la Loire (1.1) ,202,,,2022
+19.03,10,,Classic Loire Atlantique (1.1) ,182.8,14,20,2022
+01.03,84,,Le Samyn (1.1) ,209,,,2022
+16.02 » 20.02,,,Vuelta a Andalucia Ruta Ciclista Del Sol (2.Pro) ,,,,2022
+,104,,General classification ,,,,2022
+20.02,102,,Stage 5 - Huesa › Chiclana de Segura ,146.4,,,2022
+19.02,106,107,Stage 4 - Cúllar Vega › Baza ,167.4,,,2022
+18.02,84,110,Stage 3 - Lucena › Otura ,153.2,,,2022
+17.02,116,123,Stage 2 - Archidona › Alcalá la Real ,150.6,,,2022
+16.02,119,119,Stage 1 - Ubrique › Iznájar ,200.7,,,2022
+29.01,79,,Trofeo Pollença - Port d'Andratx (1.1) ,170.1,,,2022
+28.01,105,,Trofeo Serra de Tramuntana (1.1) ,158.9,,,2022
+26.01,DNF,,Trofeo Calvia (1.1) ,154.7,,,2022
 24.04,DNS,,Liège-Bastogne-Liège (1.UWT),257.2,,,2022
 20.04,27,,La Flèche Wallonne (1.UWT),202.1,8,16,2022
 16.04,52,,Tour du Jura Cycliste (1.1),169.8,,,2022
 15.04,30,,Classic Grand Besançon Doubs (1.1),177.5,,,2022
 05.04 » 08.04,,,Circuit Cycliste Sarthe - Pays de la Loire (2.1),,,,2022
 05.04,DNF,,Stage 1 - Mamers › Mamers,192.3,,,2022
-02.04,5,,Volta Limburg Classic (1.1),195,28,50,2022
-27.03,47,,La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire (1.1),202,,,2022
-20.03,DNF,,Cholet - Pays de la Loire (1.1),202,,,2022
+02.04,5,,Volta Limburg Classic (1.1),195.0,28,50,2022
+27.03,47,,La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire (1.1),202.0,,,2022
+20.03,DNF,,Cholet - Pays de la Loire (1.1),202.0,,,2022
 19.03,10,,Classic Loire Atlantique (1.1),182.8,14,20,2022
-01.03,84,,Le Samyn (1.1),209,,,2022
+01.03,84,,Le Samyn (1.1),209.0,,,2022
 16.02 » 20.02,,,Vuelta a Andalucia Ruta Ciclista Del Sol (2.Pro),,,,2022
 ,104,,General classification,,,,2022
 20.02,102,,Stage 5 - Huesa › Chiclana de Segura,146.4,,,2022
@@ -22,16 +69,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 26.01,DNF,,Trofeo Calvia (1.1),154.7,,,2022
 29.09 » 03.10,,,Ronde de l'Isard (2.2U),,,,2021
 03.10,DNF,,Stage 5 - Auterive › Saint-Girons,157.5,,,2021
-02.10,37,65,Stage 4 - Fonsorbes › Plateau de Beille,149,,,2021
-01.10,103,92,Stage 3 - Pierrefitte-Nestalas › Bagnères-de-Bigorre,134,,,2021
+02.10,37,65,Stage 4 - Fonsorbes › Plateau de Beille,149.0,,,2021
+01.10,103,92,Stage 3 - Pierrefitte-Nestalas › Bagnères-de-Bigorre,134.0,,,2021
 30.09,47,83,Stage 2 - Faudoas › Lannemezan,167.65,,,2021
 29.09,93,93,Stage 1 - Toulouse › Montauban,166.5,,,2021
 18.09,7,,Liège - Bastogne - Liège U23 (1.2U),171.6,,3,2021
 03.09 » 05.09,,,Giro della Regione Friuli Venezia Giulia (2.2),,,,2021
 ,98,,General classification,,,,2021
-05.09,50,,Stage 3 - Mortegliano › Pordenone,157,,,2021
-04.09,121,99,Stage 2 - Casarsa della Delizia › Piancavallo,142,,,2021
-03.09,75,75,Stage 1 - Rive d’Arcano › Tarvisio,153,,,2021
+05.09,50,,Stage 3 - Mortegliano › Pordenone,157.0,,,2021
+04.09,121,99,Stage 2 - Casarsa della Delizia › Piancavallo,142.0,,,2021
+03.09,75,75,Stage 1 - Rive d’Arcano › Tarvisio,153.0,,,2021
 16.07 » 18.07,,,Giro Ciclistico della Valle d'Aosta - Mont Blanc (2.2U),,,,2021
 17.07,DNF,,Stage 2 - Valtournenche › Breuil Cervinia,158.4,,,2021
 16.07,9,9,Stage 1 - Pollein › Pollein,110.7,,,2021
@@ -39,13 +86,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.09 » 20.09,,,Ronde de l'Isard (2.2U),,,,2020
 ,44,,Youth classification,,,,2020
 ,55,,General classification,,,,2020
-20.09,85,,Stage 4 - Betchat › Saint-Girons,156,,,2020
+20.09,85,,Stage 4 - Betchat › Saint-Girons,156.0,,,2020
 19.09,40,35,Stage 3 - Saverdun › Ax-3 Domaines,140.1,,,2020
 18.09,35,38,Stage 2a - Bagnères-de-Luchon › Hospice de France,79.5,,,2020
 18.09,18,40,Stage 2b (TTT) - Bagnères-de-Luchon › Bagnères-de-Luchon,11.6,,,2020
 17.09,60,60,Stage 1 - Toulouse › Salies-du-Salat,126.5,,,2020
-17.08,7,,National Championships Belgium U23 - Road Race (NC),175,,3,2019
-11.08,91,,Antwerpse Havenpijl (1.2),181,,,2019
+17.08,7,,National Championships Belgium U23 - Road Race (NC),175.0,,3,2019
+11.08,91,,Antwerpse Havenpijl (1.2),181.0,,,2019
 19.05,28,,Grand Prix Criquielion (1.2),193.3,,,2019
 12.05,37,,Flèche Ardennaise (1.2),179.7,,,2019
 20.04,38,,Liège - Bastogne - Liège U23 (1.2U),171.4,,,2019
@@ -66,21 +113,21 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,46,,General classification,,,,2017
 06.08,50,,Stage 3 - Stavelot › Stavelot,98.1,,,2017
 05.08,21,56,Stage 2b - Thimister  › Thimister ,106.2,,,2017
-05.08,21,69,Stage 2a (TTT) - Thimister  › Thimister ,9,,,2017
+05.08,21,69,Stage 2a (TTT) - Thimister  › Thimister ,9.0,,,2017
 04.08,31,31,Stage 1 - Aubel › Aubel,94.2,,,2017
-28.05,13,,National Championships Belgium MJ - Road Race (NC),130,,,2017
-02.04,27,,Ronde van Vlaanderen Juniores - Tour des Flandres Juniors (1.1),127,,,2017
+28.05,13,,National Championships Belgium MJ - Road Race (NC),130.0,,,2017
+02.04,27,,Ronde van Vlaanderen Juniores - Tour des Flandres Juniors (1.1),127.0,,,2017
 17.09 » 18.09,,,Keizer der Juniores (2.1),,,,2016
 ,75,,General classification,,,,2016
 18.09,30,,Stage 2b - Koksijde › Koksijde,99.9,,,2016
-18.09,107,101,Stage 2a (ITT) - Wulpen › Wulpen,6,,,2016
-17.09,63,63,Stage 1 - Reningelst › Reningelst,99,,,2016
+18.09,107,101,Stage 2a (ITT) - Wulpen › Wulpen,6.0,,,2016
+17.09,63,63,Stage 1 - Reningelst › Reningelst,99.0,,,2016
 04.09,60,,La Philippe Gilbert juniors (1.1),122.5,,,2016
 05.08 » 07.08,,,Aubel - Thimister - La Gleize (2.1),,,,2016
 ,13,,Youth classification,,,,2016
 ,59,,General classification,,,,2016
-07.08,55,,Stage 3 - La Gleize › La Gleize,111,,,2016
-06.08,68,65,Stage 2b - Thimister › Thimister,97,,,2016
+07.08,55,,Stage 3 - La Gleize › La Gleize,111.0,,,2016
+06.08,68,65,Stage 2b - Thimister › Thimister,97.0,,,2016
 05.08,69,69,Stage 1 - Aubel › Aubel,94.2,,,2016
-31.07,46,,Ronde van Vlaanderen Juniores - Tour des Flandres Juniors (1.1),123,,,2016
-29.05,110,,National Championships Belgium MJ - Road Race (NC),130,,,2016
+31.07,46,,Ronde van Vlaanderen Juniores - Tour des Flandres Juniors (1.1),123.0,,,2016
+29.05,110,,National Championships Belgium MJ - Road Race (NC),130.0,,,2016

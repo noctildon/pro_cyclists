@@ -1,9 +1,20 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+16.01 » 23.01,,,Vuelta al Tachira en Bicicleta (2.2) ,,,,2022
+,17,,Points classification ,,,,2022
+,21,,General classification ,,,,2022
+23.01,23,,Stage 8 - San Cristóbal › San Cristóbal ,116.4,,,2022
+22.01,30,21,Stage 7 - Ureña › Cerro Del Cristo Rey ,117,,,2022
+21.01,23,18,Stage 6 - Plata de Concafé › Casa del Padre ,114.1,,,2022
+20.01,21,4,Stage 5 - La Tendida › La Grita ,101.4,,,2022
+19.01,34,2,Stage 4 - Lagunillas › Mérida ,104.6,,,2022
+18.01,2,2,Stage 3 - Socopó › Barinitas ,131.8,2,3,2022
+17.01,112,78,Stage 2 - Hacienda Los Almendros › Ciudad Bolivia ,149.9,,,2022
+16.01,69,69,Stage 1 - Tariba › San Cristóbal ,123.9,,,2022
 16.01 » 23.01,,,Vuelta al Tachira en Bicicleta (2.2),,,,2022
 ,17,,Points classification,,,,2022
 ,21,,General classification,,,,2022
 23.01,23,,Stage 8 - San Cristóbal › San Cristóbal,116.4,,,2022
-22.01,30,21,Stage 7 - Ureña › Cerro Del Cristo Rey,117,,,2022
+22.01,30,21,Stage 7 - Ureña › Cerro Del Cristo Rey,117.0,,,2022
 21.01,23,18,Stage 6 - Plata de Concafé › Casa del Padre,114.1,,,2022
 20.01,21,4,Stage 5 - La Tendida › La Grita,101.4,,,2022
 19.01,34,2,Stage 4 - Lagunillas › Mérida,104.6,,,2022
@@ -12,7 +23,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 16.01,69,69,Stage 1 - Tariba › San Cristóbal,123.9,,,2022
 31.10 » 07.11,,,Vuelta Ciclista a Venezuela (2.2),,,,2021
 ,52,,General classification,,,,2021
-07.11,50,,Stage 8 - La Guaira › La Guaira,105,,,2021
+07.11,50,,Stage 8 - La Guaira › La Guaira,105.0,,,2021
 06.11,78,55,Stage 7 - Valencia › Valencia,144.4,,,2021
 05.11,62,35,Stage 6 - San Felipe › Cagua,146.8,,,2021
 04.11,49,30,Stage 5 - Araure › Araure,115.2,,,2021
@@ -23,7 +34,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,42,,General classification,,,,2021
 24.01,48,,Stage 8 - San Cristóbal › San Cristóbal,99.8,,,2021
 23.01,46,42,Stage 7 - Bramón › Cerro El Cristo,123.8,,,2021
-22.01,67,46,Stage 6 - Santo Domingo › Casa del Padre,148,,,2021
+22.01,67,46,Stage 6 - Santo Domingo › Casa del Padre,148.0,,,2021
 21.01,30,40,Stage 5 - La Pedrera › Pregonero,147.5,,,2021
 20.01,91,60,Stage 4 (ITT) - Táriba  › San Cristóbal,18.8,,,2021
 19.01,56,58,Stage 3 - Zea › La Grita,126.8,,,2021
@@ -32,7 +43,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.01 » 19.01,,,Vuelta al Tachira (2.2),,,,2020
 ,21,,General classification,,,,2020
 19.01,43,,Stage 8 - San Cristobal  › San Cristobal ,115.2,,,2020
-18.01,28,23,Stage 7 - Ureña › Alto Serro - El Cristo Rey,117,,,2020
+18.01,28,23,Stage 7 - Ureña › Alto Serro - El Cristo Rey,117.0,,,2020
 17.01,67,25,Stage 6 (ITT) - San Cristobal  › Palmira,16.1,,,2020
 16.01,29,23,Stage 5 - San Juan de Colón › Borota,107.9,,,2020
 15.01,27,23,Stage 4 - Coloncito › La Grita,145.1,,,2020
@@ -59,12 +70,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.01,39,19,Stage 8 - Rubio › Rubio,124.8,,,2018
 18.01,31,19,Stage 7 - Umuquena › Michelena,104.8,,,2018
 17.01,3,16,Stage 6 - Santa Cruz de Mora › La Grita,167.8,1,1,2018
-16.01,22,33,Stage 5 - La Fría › Tovar,147,,,2018
+16.01,22,33,Stage 5 - La Fría › Tovar,147.0,,,2018
 15.01,23,33,Stage 4 - San Juan de Colón › San Simón,147.9,,,2018
 14.01,6,29,Stage 3 - San Cristóbal › Táriba,117.6,,,2018
-13.01,27,29,Stage 2 - Suripá › Suripá,173,,,2018
+13.01,27,29,Stage 2 - Suripá › Suripá,173.0,,,2018
 12.01,19,22,Stage 1 - Bramón › Santa Bárbara de Barinas,182.6,,,2018
-25.06,DNF,,National Championships Venezuela - Road Race (NC),179,,,2017
+25.06,DNF,,National Championships Venezuela - Road Race (NC),179.0,,,2017
 07.04 » 16.04,,,Vuelta Ciclista del Uruguay (2.2),,,,2017
 ,61,,General classification,,,,2017
 16.04,46,,Stage 10 - Maldonado › Shopping Costa Urbana,119.4,,,2017
@@ -76,20 +87,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 10.04,53,71,Stage 4 - Young › Durazno,164.1,,,2017
 09.04,55,86,Stage 3a - Carmelo › Fray Bentos,141.2,,,2017
 09.04,14,83,Stage 3b (TTT) - Paraje Las Víboras › Mercedes,20.4,,,2017
-08.04,57,87,Stage 2 - Santa Rosa › Colonia,192,,,2017
+08.04,57,87,Stage 2 - Santa Rosa › Colonia,192.0,,,2017
 07.04,109,112,Stage 1 - LasPiedras › Minas,129.4,,,2017
 26.02 » 05.03,,,Vuelta Independencia Nacional Republica Dominicana (2.2),,,,2017
 ,19,,Mountains classification,,,,2017
 ,26,,Points classification,,,,2017
 ,18,,General classification,,,,2017
 05.03,32,,Stage 8 - Santo Domingo › Santo Domingo,,,,2017
-04.03,15,20,Stage 7 - Moca › Constanza,121,,,2017
+04.03,15,20,Stage 7 - Moca › Constanza,121.0,,,2017
 03.03,22,22,Stage 6 - Samana › San Francisco de Macoris,135.8,,,2017
-02.03,24,22,Stage 5 - Santo Domingo › Samana,191,,,2017
-01.03,25,23,Stage 4 - Santo Domingo › El Seibo,173,,,2017
-28.02,8,16,Stage 3 - San Cristobal › San Juan de la Maguana,163,,,2017
-27.02,131,34,Stage 2 - Villa Altagracia › Villa Altagracia,138,,,2017
-26.02,5,30,Stage 1 (TTT) - Mirador del Sur › Mirador del Sur,20,1,,2017
+02.03,24,22,Stage 5 - Santo Domingo › Samana,191.0,,,2017
+01.03,25,23,Stage 4 - Santo Domingo › El Seibo,173.0,,,2017
+28.02,8,16,Stage 3 - San Cristobal › San Juan de la Maguana,163.0,,,2017
+27.02,131,34,Stage 2 - Villa Altagracia › Villa Altagracia,138.0,,,2017
+26.02,5,30,Stage 1 (TTT) - Mirador del Sur › Mirador del Sur,20.0,1,,2017
 13.01 » 22.01,,,Vuelta al Táchira en Bicicleta (2.2),,,,2017
 ,36,,Points classification,,,,2017
 ,22,,General classification,,,,2017
@@ -97,7 +108,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.01,33,22,Stage 9 - Urena › Cerro el Cristo Rey,103.5,,,2017
 20.01,23,21,Stage 8 - La Fria › Casa del Padre,129.7,,,2017
 19.01,40,22,Stage 7 - Santa Cruz de Mora › La Grita,171.6,,,2017
-18.01,21,20,Stage 6 - Merida › Tovar,134,,,2017
+18.01,21,20,Stage 6 - Merida › Tovar,134.0,,,2017
 17.01,25,20,Stage 5 - Socopó › Santo Domingo de Mérida,141.7,,,2017
 16.01,39,14,Stage 4 - Santa Ana › Santa Barbara de Barinas,165.2,,,2017
 15.01,DNF,14,Stage 3 - San Cristobal › San Cristobal,115.2,,,2017
@@ -107,26 +118,26 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,46,,Points classification,,,,2016
 ,36,,General classification,,,,2016
 17.07,7,,Stage 10 - Altagracias de Orituco › Altagracias de Orituco,99.2,,,2016
-16.07,16,37,Stage 9 - Valle de la Pascua › Valle de la Pascua,75,,,2016
-15.07,54,37,Stage 8 - San Juan de los Morros › Valle de la Pascua,215,,,2016
-14.07,24,37,"Stage 7 - Barquisimeto › Nirqua, Fuerte dan Vicente",121,,,2016
-13.07,23,40,Stage 6 - Campo Carabobo › Barquisimeto,195,,,2016
-12.07,64,40,Stage 5 - Ospina › Tinaquillo,181,,,2016
-11.07,41,40,Stage 4 - Guanare › Santo Domingo,150,,,2016
-10.07,41,43,Stage 3 - Ciudad Bolivia › Guanare,150,,,2016
-09.07,90,73,Stage 2 - Peribeca › Santa Barbera de Barinas,185,,,2016
+16.07,16,37,Stage 9 - Valle de la Pascua › Valle de la Pascua,75.0,,,2016
+15.07,54,37,Stage 8 - San Juan de los Morros › Valle de la Pascua,215.0,,,2016
+14.07,24,37,"Stage 7 - Barquisimeto › Nirqua, Fuerte dan Vicente",121.0,,,2016
+13.07,23,40,Stage 6 - Campo Carabobo › Barquisimeto,195.0,,,2016
+12.07,64,40,Stage 5 - Ospina › Tinaquillo,181.0,,,2016
+11.07,41,40,Stage 4 - Guanare › Santo Domingo,150.0,,,2016
+10.07,41,43,Stage 3 - Ciudad Bolivia › Guanare,150.0,,,2016
+09.07,90,73,Stage 2 - Peribeca › Santa Barbera de Barinas,185.0,,,2016
 08.07,25,28,Stage 1 - San Cristobal › San Cristobal,88.2,,,2016
-26.06,38,,National Championships Venezuela - Road Race (NC),201,,,2016
+26.06,38,,National Championships Venezuela - Road Race (NC),201.0,,,2016
 27.02 » 05.03,,,Vuelta Independencia Nacional Republica Dominicana (2.2),,,,2016
 ,41,,General classification,,,,2016
-05.03,83,,Stage 8 - Santo Domingo › Santo Domingo,100,,,2016
-04.03,28,41,Stage 7 - Santiago de los Caballeros › Santo Domingo,149,,,2016
-03.03,40,42,Stage 6 - Moca › Constanza,131,,,2016
-02.03,34,39,Stage 5 - Samana › San Francisco de macoris,118,,,2016
-01.03,60,40,Stage 4 - Santo Domingo › Samana,191,,,2016
-29.02,33,90,Stage 3 - Santo Domingo › Mirador de Miches,173,,,2016
-28.02,9,44,Stage 2 - Santo Domingo › Barahona,175,,,2016
-27.02,14,127,Stage 1 (TTT) - Santo Domingo › Santo Domingo,20,,,2016
+05.03,83,,Stage 8 - Santo Domingo › Santo Domingo,100.0,,,2016
+04.03,28,41,Stage 7 - Santiago de los Caballeros › Santo Domingo,149.0,,,2016
+03.03,40,42,Stage 6 - Moca › Constanza,131.0,,,2016
+02.03,34,39,Stage 5 - Samana › San Francisco de macoris,118.0,,,2016
+01.03,60,40,Stage 4 - Santo Domingo › Samana,191.0,,,2016
+29.02,33,90,Stage 3 - Santo Domingo › Mirador de Miches,173.0,,,2016
+28.02,9,44,Stage 2 - Santo Domingo › Barahona,175.0,,,2016
+27.02,14,127,Stage 1 (TTT) - Santo Domingo › Santo Domingo,20.0,,,2016
 08.01 » 17.01,,,Vuelta al Táchira en Bicicleta (2.2),,,,2016
 ,37,,Points classification,,,,2016
 ,16,,General classification,,,,2016
@@ -142,24 +153,24 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.01,27,33,Stage 1 - San Cristobal › Táriba,102.9,,,2016
 12.06 » 21.06,,,Vuelta Ciclista a Venezuela (2.2),,,,2015
 ,26,,General classification,,,,2015
-21.06,14,,Stage 10 - Taguay › Caracas,160,,,2015
+21.06,14,,Stage 10 - Taguay › Caracas,160.0,,,2015
 20.06,10,27,Stage 9 - Cagua › Altagracia de Orituco,191.7,,,2015
 19.06,89,30,Stage 8 - Guama › Guacara,165.4,,,2015
-18.06,106,30,Stage 7 - Acarigua › San Filipe,154,,,2015
-17.06,68,30,Stage 6 - Santa Domingo › Guanare,108,,,2015
+18.06,106,30,Stage 7 - Acarigua › San Filipe,154.0,,,2015
+17.06,68,30,Stage 6 - Santa Domingo › Guanare,108.0,,,2015
 16.06,46,30,Stage 5 - Ospina › Santa Domingo,215.9,,,2015
 15.06,39,24,"Stage 4 - Valencia, Ciudad Chávez › Barquisimeto",192.7,,,2015
 14.06,24,25,Stage 3 - La Guaira › Colonia Tovar,104.7,,,2015
-13.06,40,35,Stage 2 - La Ascinción › La Ascinción,68,,,2015
+13.06,40,35,Stage 2 - La Ascinción › La Ascinción,68.0,,,2015
 12.06,35,40,Stage 1 - El Valle del Espíritu Santo › El Valle del Espíritu Santo,144.8,,,2015
-17.05,DNF,,Clasico FVCiclismo Corre Por la VIDA (1.2),104,,,2015
+17.05,DNF,,Clasico FVCiclismo Corre Por la VIDA (1.2),104.0,,,2015
 16.05,32,,Copa Federacion Venezolana de Ciclismo (1.2),100.8,,,2015
 09.01 » 18.01,,,Vuelta al Tachira en Bicicleta (2.2),,,,2015
 ,36,,General classification,,,,2015
-18.01,34,,Stage 10 - San Cristóbal › San Cristóbal,96,,,2015
+18.01,34,,Stage 10 - San Cristóbal › San Cristóbal,96.0,,,2015
 17.01,27,37,Stage 9 - San rafael delñal › Casa del Padre,138.4,,,2015
 16.01,53,44,Stage 8 - San Antonio del Tachira › Cerro de Cristo Rey,117.1,,,2015
-15.01,48,41,Stage 7 - Lobatera › Bramon,99,,,2015
+15.01,48,41,Stage 7 - Lobatera › Bramon,99.0,,,2015
 14.01,31,28,Stage 6 - La Fría › La Grita,113.5,,,2015
 13.01,19,5,Stage 5 - Santa Cruz de Mora › San Juan de Colón,158.1,,,2015
 12.01,39,13,Stage 4 - Guanare › Barinas,119.4,,,2015
@@ -168,34 +179,34 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 09.01,43,7,Stage 1 - San Cristóbal › San Cristóbal,102.9,,,2015
 04.07 » 13.07,,,Vuelta Ciclista a Venezuela (2.2),,,,2014
 ,22,,General classification,,,,2014
-13.07,19,,Stage 10 - Caracas › Caracas,70,,,2014
+13.07,19,,Stage 10 - Caracas › Caracas,70.0,,,2014
 12.07,17,22,Stage 9 - Guacara › Cagua,106.9,,,2014
 11.07,28,23,Stage 8 - San Pablo › Valencia,152.7,,,2014
-10.07,53,23,Stage 7 - Cocorote › San Filipe,80,,,2014
+10.07,53,23,Stage 7 - Cocorote › San Filipe,80.0,,,2014
 09.07,32,25,"Stage 6 - Campo de Carabobo › Nirgua, San Vicente",102.6,,,2014
 08.07,40,29,Stage 5 - Sabaneta › San Carlos,224.5,,,2014
 07.07,41,28,Stage 4 - Ospina › Barinitas,167.1,,,2014
 06.07,60,31,Stage 3 - Trujillo › Barquisimeto,216.7,,,2014
 05.07,20,11,Stage 2 - San Francisco › Valera,225.4,,,2014
-04.07,33,36,Stage 1 - Maracaibo › Maracaibo,80,,,2014
-22.06,7,,National Championships Venezuela - Road Race (NC),160,,6,2014
+04.07,33,36,Stage 1 - Maracaibo › Maracaibo,80.0,,,2014
+22.06,7,,National Championships Venezuela - Road Race (NC),160.0,,6,2014
 20.02 » 27.02,,,Vuelta Independencia Nacional (2.2),,,,2014
 ,31,,General classification,,,,2014
-26.02,48,31,Stage 7 - San Cristóbal › San Juan Maguana,137,,,2014
-25.02,61,27,Stage 6a - La Vega › Santo Domingo,111,,,2014
-25.02,53,31,Stage 6b (ITT) - Santo Domingo › Mirador del Sur,10,,,2014
-24.02,26,27,Stage 5 - Moca › Constanza,112,,,2014
-23.02,37,23,Stage 4 (ITT) - Santiago › Santiago,39,,,2014
+26.02,48,31,Stage 7 - San Cristóbal › San Juan Maguana,137.0,,,2014
+25.02,61,27,Stage 6a - La Vega › Santo Domingo,111.0,,,2014
+25.02,53,31,Stage 6b (ITT) - Santo Domingo › Mirador del Sur,10.0,,,2014
+24.02,26,27,Stage 5 - Moca › Constanza,112.0,,,2014
+23.02,37,23,Stage 4 (ITT) - Santiago › Santiago,39.0,,,2014
 22.02,15,24,Stage 3 - Samaná › San Francisco de Macorís,135.8,,,2014
-21.02,12,25,Stage 2 - Santo Domingo › Samaná,170,,,2014
-20.02,47,48,Stage 1 - Santo Domingo › Santo Domingo,142,,,2014
+21.02,12,25,Stage 2 - Santo Domingo › Samaná,170.0,,,2014
+20.02,47,48,Stage 1 - Santo Domingo › Santo Domingo,142.0,,,2014
 10.01 » 19.01,,,Vuelta al Tachira en Bicicleta (2.2),,,,2014
 ,37,,Points classification,,,,2014
 ,19,,General classification,,,,2014
 19.01,8,,Stage 10 - San Cristóbal › El Piñal (Velódromo),112.9,,,2014
 18.01,16,20,Stage 9 - El Piñal › Casa del Padre,83.4,,,2014
 17.01,17,23,Stage 8 - Seboruco › Cerro El Cristo,128.4,,,2014
-16.01,47,30,Stage 7 - Coloncito › Colón,122,,,2014
+16.01,47,30,Stage 7 - Coloncito › Colón,122.0,,,2014
 15.01,56,27,Stage 6 (ITT) - La Fría › Coloncito,21.3,,,2014
 14.01,25,23,Stage 5 - Lagunillas › La Grita,167.9,,,2014
 13.01,26,18,Stage 4 - Lobatera › Mérida,191.2,,,2014
@@ -216,7 +227,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.01,30,14,Stage 4 - Bramón › Circuito en Rubio,97.3,,,2013
 13.01,16,12,Stage 3 - San Cristóbal › San Cristóbal,115.2,,,2013
 12.01,10,16,Stage 2 - Socopó › San Rafael de El Piñal,168.7,,,2013
-11.01,35,35,Stage 1 - Barinas › Barinas,137,,,2013
+11.01,35,35,Stage 1 - Barinas › Barinas,137.0,,,2013
 06.07 » 15.07,,,Vuelta Ciclista a Venezuela (2.2),,,,2012
 ,27,,General classification,,,,2012
 15.07,62,,Stage 10 - Caracas › Caracas,76.5,,,2012
@@ -232,7 +243,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.06 » 17.06,,,Giro Ciclistico d'Italia (2.2),,,,2012
 ,9,,Youth classification,,,,2012
 ,18,,General classification,,,,2012
-17.06,21,,Stage 9 - Asiago › Asiago,123,,,2012
+17.06,21,,Stage 9 - Asiago › Asiago,123.0,,,2012
 16.06,21,18,Stage 8 - Rovereto › Passo di Gavia,168.2,,,2012
 15.06,46,10,Stage 7 - Monticelli Terme › Lonato del Garda,147.1,,,2012
 14.06,21,10,Stage 6 - Greve in Chianti › Perignano di Lari,163.8,,,2012
@@ -241,13 +252,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 10.06,30,29,Stage 3 - Notaresco › Sora,193.9,,,2012
 09.06,89,53,Stage 2a - Colonnela › Alba Adriatica,57.6,,,2012
 09.06,20,21,Stage 2b (ITT) - Giulianova › Alba Adriatica,12.1,,,2012
-08.06,18,21,Stage 1 - Monte Urano › Tortoreto Lido,144,,,2012
+08.06,18,21,Stage 1 - Monte Urano › Tortoreto Lido,144.0,,,2012
 13.01 » 22.01,,,Vuelta al Tachira en Bicicleta (2.2),,,,2012
 ,7,,Mountains classification,,,,2012
 ,12,,General classification,,,,2012
 22.01,3,,Stage 10 - San Rafael de el Pinal › San Cristobal,118.6,1,2,2012
 21.01,14,13,Stage 9 - Táriba  › Casa del Padre,114.2,,,2012
-20.01,13,12,Stage 8 -  Seboruco  › Cerro el Cristo,129,,,2012
+20.01,13,12,Stage 8 -  Seboruco  › Cerro el Cristo,129.0,,,2012
 19.01,7,11,Stage 7 - Lagunillas › La Grita,168.7,,,2012
 18.01,11,13,Stage 6 - La Fría  › Mérida,159.7,,,2012
 17.01,14,16,Stage 5 - San Josecito  › Colón,128.5,,,2012
@@ -258,17 +269,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.07 » 24.07,,,Vuelta Ciclista A Venezuela (2.2),,,,2011
 ,34,,General classification,,,,2011
 24.07,11,,Stage 12 - Caracas › Caracas,76.5,,,2011
-23.07,14,,Stage 11 - Valencia › Valencia,90,,,2011
+23.07,14,,Stage 11 - Valencia › Valencia,90.0,,,2011
 22.07,10,,Stage 10 - Nirgua › Guacara,115.8,,,2011
 21.07,29,,Stage 9 - Barquisimeto › Nirgua,119.4,,,2011
-20.07,58,,Stage 8 (ITT) - Pirutu › Turen,10,,,2011
+20.07,58,,Stage 8 (ITT) - Pirutu › Turen,10.0,,,2011
 19.07,16,,Stage 7 - Tinaquilo › El Playon,209.5,,,2011
 18.07,25,,Stage 6 - Ortiz › Maracay,147.2,,,2011
 17.07,17,,Stage 5 - Chaguaramas › San Juan de los Morros,178.1,,,2011
 16.07,11,,Stage 4 - Zazara › Valle de la Pascua,97.9,,,2011
 15.07,11,,Stage 3 - Jusepín › Aragua de Barcelona,188.7,,,2011
 14.07,132,,Stage 2 - Temblador › Maturín,126.4,,,2011
-13.07,24,,Stage 1 - Temblador › Temblador,87,,,2011
+13.07,24,,Stage 1 - Temblador › Temblador,87.0,,,2011
 14.05,11,,Clasico Aniversario De La Federacion Veneolana De Ciclismo (1.2),,,,2011
 30.06 » 10.07,,,Vuelta Ciclista A Venezuela (2.2),,,,2010
 ,33,,General classification,,,,2010
@@ -277,121 +288,121 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.07,52,,Stage 10 - Mene Grande › Maracaibo,149.9,,,2010
 07.07,39,,Stage 9 - Santa Elena de Arenales › Isnotú,129.6,,,2010
 06.07,47,,Stage 8 - San Juan de Colón › La Azulita,172.4,,,2010
-05.07,35,,Stage 7 - Santa Bárbara de Barinas › San Cristóbal,163,,,2010
+05.07,35,,Stage 7 - Santa Bárbara de Barinas › San Cristóbal,163.0,,,2010
 04.07,25,,Stage 6 - Guanare › Socopó,178.1,,,2010
 03.07,82,,Stage 5 (ITT) - El Playón › El Playón,42.8,,,2010
 02.07,47,,Stage 4 - Chaguaramas › San Juan de los Morros,187.8,,,2010
-01.07,16,,Stage 3 - Zaraza › Valle de La Pascua,93,,,2010
+01.07,16,,Stage 3 - Zaraza › Valle de La Pascua,93.0,,,2010
 01.07,27,,Stage 2 - Zaraza › Zaraza,50.4,,,2010
-30.06,30,,Stage 1 - Puerto Píritu › Puerto Píritu,80,,,2010
-27.06,6,,National Championships Venezuela - Road Race (NC),141,1,,2010
+30.06,30,,Stage 1 - Puerto Píritu › Puerto Píritu,80.0,,,2010
+27.06,6,,National Championships Venezuela - Road Race (NC),141.0,1,,2010
 13.01 » 24.01,,,Vuelta al Tachira En Bicicleta (2.2),,,,2010
 ,46,,General classification,,,,2010
-24.01,33,,Stage 12 - San Cristobal › ,115,,,2010
-23.01,67,,Stage 11 - San Antonio del Tachira › Cerro del Cristo,120,,,2010
-22.01,79,,Stage 10 - Pregonero › Santa Ana del Tachira,175,,,2010
-21.01,27,,Stage 9 - San Josecito › Pregonero,168,,,2010
+24.01,33,,Stage 12 - San Cristobal › ,115.0,,,2010
+23.01,67,,Stage 11 - San Antonio del Tachira › Cerro del Cristo,120.0,,,2010
+22.01,79,,Stage 10 - Pregonero › Santa Ana del Tachira,175.0,,,2010
+21.01,27,,Stage 9 - San Josecito › Pregonero,168.0,,,2010
 20.01,52,,"Stage 8 (ITT) - Rubio › Bramon, Concafe",17.1,,,2010
-19.01,58,,Stage 7 - Seboruco › San Juan de Colon,110,,,2010
+19.01,58,,Stage 7 - Seboruco › San Juan de Colon,110.0,,,2010
 18.01,55,,Stage 6 - Umuquena › La Grita,109.5,,,2010
 17.01,28,,Stage 5 - Palmira › El Vigía,124.1,,,2010
 16.01,26,,Stage 4 - El Canton › Cordero,151.1,,,2010
-15.01,72,,Stage 3 - Abejales › Guasdualito,150,,,2010
-14.01,55,,Stage 2 - Tariba › Santa Barbera de Barinas,160,,,2010
+15.01,72,,Stage 3 - Abejales › Guasdualito,150.0,,,2010
+14.01,55,,Stage 2 - Tariba › Santa Barbera de Barinas,160.0,,,2010
 13.01,16,,Stage 1 (TTT) - San Cristobal › San Cristobal,15.2,,,2010
 24.06 » 05.07,,,Vuelta Ciclista A Venezuela (2.2),,,,2009
 ,14,,General classification,,,,2009
 05.07,7,,Stage 13 - Caracas › Caracas,81.6,,,2009
 04.07,20,,Stage 12 - San Felipe › Turmero,181.5,,,2009
-03.07,13,,Stage 11 - San Felipe › San Felipe,84,,,2009
-02.07,13,,Stage 10 - Quibor › Nirgua,160,,,2009
+03.07,13,,Stage 11 - San Felipe › San Felipe,84.0,,,2009
+02.07,13,,Stage 10 - Quibor › Nirgua,160.0,,,2009
 01.07,9,,Stage 9 - Acarigua › Sanare,163.4,,,2009
-30.06,30,,Stage 8 (ITT) - Turén Viejo › Turén Viejo,35,,,2009
-29.06,55,,Stage 7 - El Sombrero › San Carlos de Austria,225,,,2009
+30.06,30,,Stage 8 (ITT) - Turén Viejo › Turén Viejo,35.0,,,2009
+29.06,55,,Stage 7 - El Sombrero › San Carlos de Austria,225.0,,,2009
 28.06,52,,Stage 6 - Chaguaramas › Calabozo,169.6,,,2009
-27.06,37,,Stage 5 - Valle de la Pascua › Valle de la Pascua,93,,,2009
+27.06,37,,Stage 5 - Valle de la Pascua › Valle de la Pascua,93.0,,,2009
 26.06,60,,Stage 4 - Aragua de Barcelona › Valle de la Pascua,147.2,,,2009
 26.06,16,,Stage 3 (ITT) - Anaco › Anaco,32.8,,,2009
 25.06,65,,Stage 2 - Barcelona  › El Tigre,175.6,,,2009
-24.06,70,,Stage 1 - Puerto La Cruz › Puerto La Cruz,88,,,2009
+24.06,70,,Stage 1 - Puerto La Cruz › Puerto La Cruz,88.0,,,2009
 06.01 » 17.01,,,Vuelta al Tachira en Bicicleta (2.2),,,,2009
 ,17,,General classification,,,,2009
 17.01,26,,Stage 12 - Circuito Ciudad de San Cristobal › Circuito Ciudad de San Cristobal,121.9,,,2009
 16.01,18,,Stage 11 (ITT) - San José de Bolívar › Queniquea,10.3,,,2009
 15.01,20,,Stage 10 - Cordero › La Grita,133.6,,,2009
 14.01,11,,Stage 9 - Circuito de Rubio › Circuito de Rubio,110.4,,,2009
-13.01,4,,Stage 8 - Las Mesas › San Antonio,143,,,2009
-12.01,39,,Stage 7 - Tariba › El Cobre,138,,,2009
-11.01,25,,Stage 6 - El Vigía › Cerro El Cristo,170,,,2009
-10.01,35,,Stage 5 - El Vigia › El Vigia,94,,,2009
-09.01,24,,Stage 4 - Merida › Tovar,120,,,2009
-08.01,28,,Stage 3 - Barinitas › Barinitas,78,,,2009
+13.01,4,,Stage 8 - Las Mesas › San Antonio,143.0,,,2009
+12.01,39,,Stage 7 - Tariba › El Cobre,138.0,,,2009
+11.01,25,,Stage 6 - El Vigía › Cerro El Cristo,170.0,,,2009
+10.01,35,,Stage 5 - El Vigia › El Vigia,94.0,,,2009
+09.01,24,,Stage 4 - Merida › Tovar,120.0,,,2009
+08.01,28,,Stage 3 - Barinitas › Barinitas,78.0,,,2009
 07.01,51,,Stage 2 - El Tocuyo › Acarigua,140.3,,,2009
-06.01,79,,Stage 1 - Circuito El Tocuyo › Circuito El Tocuyo,110,,,2009
+06.01,79,,Stage 1 - Circuito El Tocuyo › Circuito El Tocuyo,110.0,,,2009
 05.10 » 15.10,,,Clásico Ciclístico Internacional Banfoandes (2.2),,,,2008
 ,41,,Points classification,,,,2008
 ,16,,General classification,,,,2008
 15.10,15,,Stage 10 - Colón › San Cristóbal,114.9,,,2008
-14.10,14,,Stage 9 - Rubio › Rubio,111,,,2008
+14.10,14,,Stage 9 - Rubio › Rubio,111.0,,,2008
 13.10,18,,Stage 8 - San Cristóbal › Santa Ana,101.7,,,2008
 12.10,33,,Stage 7 (ITT) - San Cristóbal › San Cristóbal,34.6,,,2008
 11.10,18,,Stage 6 - Lobatera › San Cristóbal,136.5,,,2008
-09.10,22,,Stage 5 - La Tendida › Cordero,155,,,2008
+09.10,22,,Stage 5 - La Tendida › Cordero,155.0,,,2008
 08.10,54,,Stage 4 - Sabana de Mendoza › El Vigía,153.7,,,2008
 07.10,49,,Stage 3 - Cabimas › Valera,181.7,,,2008
-06.10,31,,Stage 2 - Puerto Cumarebo › Dabajuro,163,,,2008
+06.10,31,,Stage 2 - Puerto Cumarebo › Dabajuro,163.0,,,2008
 05.10,37,,Stage 1 - Punto Fijo › Coro,149.7,,,2008
 25.08 » 07.09,,,Vuelta Ciclista a Venezuela (2.2),,,,2008
 ,71,,General classification,,,,2008
-07.09,84,,Stage 14 - Caracas › Caracas,80,,,2008
+07.09,84,,Stage 14 - Caracas › Caracas,80.0,,,2008
 06.09,100,,Stage 13 - Piritu › Higuerote,231.8,,,2008
 05.09,79,,Stage 12 - Cantaura › Barcelona,147.3,,,2008
-04.09,63,,Stage 11 - Cantaura › Cantaura,80,,,2008
+04.09,63,,Stage 11 - Cantaura › Cantaura,80.0,,,2008
 03.09,85,,Stage 10 - Valle de la Pascua › Pariaguan,159.1,,,2008
 02.09,83,,Stage 9 (ITT) - Chaguaramas › Chaguaramas,30.1,,,2008
 01.09,89,,Stage 8 - Ortiz › Valle de la Pascua,161.4,,,2008
 31.08,95,,Stage 7 - Puerto Cabello › San Juan de los Morros,139.6,,,2008
-30.08,73,,Stage 6 - Valencia › Valencia,80,,,2008
+30.08,73,,Stage 6 - Valencia › Valencia,80.0,,,2008
 29.08,97,,Stage 5 - Ospino › San Vicente,217.6,,,2008
 28.08,23,,Stage 4 - Mucuchies › Guanare,172.6,,,2008
 27.08,71,,Stage 3 - Caja Seca › Mérida,183.2,,,2008
 26.08,79,,Stage 2 - Cabimas › Valera,188.6,,,2008
-25.08,73,,Stage 1 - Maracaibo › Maracaibo,80,,,2008
+25.08,73,,Stage 1 - Maracaibo › Maracaibo,80.0,,,2008
 10.05 » 25.05,,,Vuelta a Colombia (2.2),,,,2008
 ,56,,Mountains classification,,,,2008
 ,13,,Points classification,,,,2008
 ,104,,General classification,,,,2008
-25.05,8,,Stage 14 - Cali › Cali,96,,,2008
+25.05,8,,Stage 14 - Cali › Cali,96.0,,,2008
 23.05,38,,Stage 12 - Quimbaya › Pereira,158.2,,,2008
 22.05,100,,Stage 11 - Mariquita › La Linea,176.8,,,2008
 21.05,110,,Stage 10 - Manizales › Mariquita,125.1,,,2008
-20.05,113,,Stage 9 - Caldas › Manizales,173,,,2008
-18.05,119,,Stage 8 (ITT) - Medellin › Santa Elena,31,,,2008
+20.05,113,,Stage 9 - Caldas › Manizales,173.0,,,2008
+18.05,119,,Stage 8 (ITT) - Medellin › Santa Elena,31.0,,,2008
 17.05,79,,Stage 7 - Rio Negro › La Unión,163.6,,,2008
 16.05,105,,Stage 6 - Doradal › Santuario,115.3,,,2008
-15.05,66,,Stage 5 - San Francisco › La Dorada,135,,,2008
-14.05,127,,Stage 4 - Tunja › La Vega,192,,,2008
+15.05,66,,Stage 5 - San Francisco › La Dorada,135.0,,,2008
+14.05,127,,Stage 4 - Tunja › La Vega,192.0,,,2008
 13.05,107,,Stage 3 - El Socorro › Tunja,169.5,,,2008
 12.05,151,,Stage 2 - Piedecuesta › El Socorro,136.4,,,2008
 11.05,121,,Stage 1 - Barrancabermeja › Bucaramanga,146.9,,,2008
 10.05,131,,Prologue - Barrancabermeja › Barrancabermeja,8.4,,,2008
 05.01 » 18.01,,,Vuelta al Tachira en Bicicleta (2.2),,,,2008
 ,17,,General classification,,,,2008
-18.01,21,,Stage 13 - Peribeca › San Cristóbal,102,,,2008
-17.01,20,,Stage 12 - Planta Concafe (Bramon) › Santa A,180,,,2008
-16.01,27,,Stage 11 (ITT) - Lobatera › Michelena,24,,,2008
-15.01,31,,Stage 10 - Cordero › La Grita,134,,,2008
-13.01,31,,Stage 9 - San Cristóbal › San Cristóbal,122,,,2008
-12.01,21,,Stage 8 - La Tendida › Cerro El Cristo,156,,,2008
-11.01,34,,Stage 7 - El Vígia › El Vígia,94,,,2008
-10.01,33,,Stage 6 - Bailadores › La Azulita,122,,,2008
-09.01,38,,Stage 5 - Mérida › Bailadores,95,,,2008
-08.01,40,,Stage 4 - Ciudad Bolivia › Barinitas,163,,,2008
-07.01,9,,Stage 3 - Santa Bárbara › Ciudad Bolivia,108,,,2008
-06.01,5,,Stage 2 - Guasdualito › Santa Bárbara,176,,,2008
-05.01,8,,Stage 1 - Guasdualito › Guasdualito,110,,,2008
+18.01,21,,Stage 13 - Peribeca › San Cristóbal,102.0,,,2008
+17.01,20,,Stage 12 - Planta Concafe (Bramon) › Santa A,180.0,,,2008
+16.01,27,,Stage 11 (ITT) - Lobatera › Michelena,24.0,,,2008
+15.01,31,,Stage 10 - Cordero › La Grita,134.0,,,2008
+13.01,31,,Stage 9 - San Cristóbal › San Cristóbal,122.0,,,2008
+12.01,21,,Stage 8 - La Tendida › Cerro El Cristo,156.0,,,2008
+11.01,34,,Stage 7 - El Vígia › El Vígia,94.0,,,2008
+10.01,33,,Stage 6 - Bailadores › La Azulita,122.0,,,2008
+09.01,38,,Stage 5 - Mérida › Bailadores,95.0,,,2008
+08.01,40,,Stage 4 - Ciudad Bolivia › Barinitas,163.0,,,2008
+07.01,9,,Stage 3 - Santa Bárbara › Ciudad Bolivia,108.0,,,2008
+06.01,5,,Stage 2 - Guasdualito › Santa Bárbara,176.0,,,2008
+05.01,8,,Stage 1 - Guasdualito › Guasdualito,110.0,,,2008
 07.10 » 14.10,,,Clásico Ciclístico Banfoandes (2.2),,,,2007
-13.10,58,54,Stage 7 - Lobatera › Tariba,125,,,2007
+13.10,58,54,Stage 7 - Lobatera › Tariba,125.0,,,2007
 11.10,96,69,Stage 5 - Trovar › San Juan de Colón,126.3,,,2007
 10.10,45,47,Stage 4 - La Fría › Bailadores,157.9,,,2007
 08.10,85,75,Stage 2 - Araure › Barinas,186.4,,,2007
@@ -400,7 +411,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,14,,Youth classification,,,,2007
 ,40,,Points classification,,,,2007
 ,53,,General classification,,,,2007
-09.09,41,,Stage 14 - Caracas › Caracas,80,,,2007
+09.09,41,,Stage 14 - Caracas › Caracas,80.0,,,2007
 08.09,51,55,Stage 13 - San Pablo de Yaracuy › Maracay,189.2,,,2007
 07.09,49,63,Stage 12 - La Libertad › San Felipe,220.9,,,2007
 06.09,48,67,Stage 11 - Santa Elena de Arenales › Valera,170.6,,,2007
@@ -415,7 +426,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.08,58,76,Stage 2 - Casanay › Santa Barbara de Tapirin,187.5,,,2007
 27.08,67,86,Stage 1b - Carúpano › Carúpano,76.8,,,2007
 27.08,92,92,Stage 1a (ITT) - Carúpano › Río Caribe,18.8,,,2007
-05.05,73,,Clasico Aniversario de la Federacion Venezolana de Ciclismo (1.2),130,,,2007
+05.05,73,,Clasico Aniversario de la Federacion Venezolana de Ciclismo (1.2),130.0,,,2007
 07.01 » 21.01,,,Vuelta ciclista al Táchira (2.2),,,,2007
 ,7,,Youth classification,,,,2007
 ,43,,Points classification,,,,2007
@@ -423,53 +434,53 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.01,47,,Stage 14 - El Piñal › Rubio,149.5,,,2007
 20.01,48,,Stage 13 - Rubio › Cordero,157.36,,,2007
 19.01,48,,Stage 12 (ITT) - San José de Bolívar › Queniquea,12.9,,,2007
-18.01,36,,Stage 11 - Cordero › El Cobre,145,,,2007
+18.01,36,,Stage 11 - Cordero › El Cobre,145.0,,,2007
 17.01,63,,Stage 10 - Pregonero › San Antonio,229.4,,,2007
-16.01,66,,Stage 9 - Táriba › Pregonero,188,,,2007
+16.01,66,,Stage 9 - Táriba › Pregonero,188.0,,,2007
 14.01,62,,Stage 8 - San Cristóbal › San Cristóbal,121.92,,,2007
-13.01,57,,Stage 7 - Seboruco › Cerro El Cristo,129,,,2007
+13.01,57,,Stage 7 - Seboruco › Cerro El Cristo,129.0,,,2007
 12.01,88,,Stage 6 - El Vigía › La Grita,182.8,,,2007
 11.01,82,,Stage 5 - La Azulita › Bailadores,119.3,,,2007
-10.01,98,,Stage 4 - Ejido › La Azulita,112,,,2007
+10.01,98,,Stage 4 - Ejido › La Azulita,112.0,,,2007
 09.01,81,,Stage 3 - Carora › Valera,151.2,,,2007
 01.10 » 08.10,,,Clásico Ciclístico Banfoandes (2.2),,,,2006
 ,16,,Youth classification,,,,2006
 ,39,,Points classification,,,,2006
 ,75,,General classification,,,,2006
-08.10,91,,Stage 8 (ITT) - Táriba › San Cristóbal,27,,,2006
-07.10,73,73,Stage 7 - San Josecito › Cerro El Cristo,114,,,2006
+08.10,91,,Stage 8 (ITT) - Táriba › San Cristóbal,27.0,,,2006
+07.10,73,73,Stage 7 - San Josecito › Cerro El Cristo,114.0,,,2006
 06.10,54,74,Stage 6 - Michelena › Rubio,150.9,,,2006
-05.10,70,88,Stage 5 - San Cristóbal › La Grita,125,,,2006
-04.10,112,96,Stage 4 - Santa Bárbara › Cordero,169,,,2006
-03.10,75,18,Stage 3 - Barinas › Santa Bárbara,150,,,2006
-02.10,92,17,Stage 2 - Barquisimeto › Guanare,167,,,2006
-01.10,52,5,Stage 1 - San Felipe › Barquisimeto,149,,,2006
+05.10,70,88,Stage 5 - San Cristóbal › La Grita,125.0,,,2006
+04.10,112,96,Stage 4 - Santa Bárbara › Cordero,169.0,,,2006
+03.10,75,18,Stage 3 - Barinas › Santa Bárbara,150.0,,,2006
+02.10,92,17,Stage 2 - Barquisimeto › Guanare,167.0,,,2006
+01.10,52,5,Stage 1 - San Felipe › Barquisimeto,149.0,,,2006
 28.08 » 10.09,,,Vuelta a Venezuela (2.2),,,,2006
 ,34,,General classification,,,,2006
-10.09,74,,Stage 14 - Maturín › Maturín,112,,,2006
+10.09,74,,Stage 14 - Maturín › Maturín,112.0,,,2006
 09.09,40,33,Stage 13 - Cumaná › Punta de Mata,173.3,,,2006
 08.09,26,36,Stage 12 - Puerto La Cruz › Cumaná,132.2,,,2006
 07.09,72,47,Stage 11 - El Tigre › Puerto La Cruz,171.3,,,2006
-06.09,48,50,Stage 10 - Valle de La Pascua › El Tigre,223,,,2006
-05.09,65,50,Stage 9 - Ortiz › Valle de La Pascua,163,,,2006
-04.09,52,50,Stage 8 - Los Teques › San Juan de Los Morros,146,,,2006
+06.09,48,50,Stage 10 - Valle de La Pascua › El Tigre,223.0,,,2006
+05.09,65,50,Stage 9 - Ortiz › Valle de La Pascua,163.0,,,2006
+04.09,52,50,Stage 8 - Los Teques › San Juan de Los Morros,146.0,,,2006
 03.09,82,45,Stage 7 - Caracas › Caracas,111.6,,,2006
 02.09,50,45,Stage 6 - Chivacoa › Maracay,200.4,,,2006
 01.09,49,54,Stage 5 - Acarigua › Sanare,143.5,,,2006
 31.08,97,79,Stage 4 (ITT) - Turen › Turen,47.5,,,2006
 30.08,54,40,Stage 3 - Barinas › Acarigua,189.4,,,2006
 29.08,37,35,Stage 2 - Abejales › Barinas,202.2,,,2006
-28.08,41,41,Stage 1 - Guasdualito › Guasdualito,114,,,2006
+28.08,41,41,Stage 1 - Guasdualito › Guasdualito,114.0,,,2006
 07.01 » 20.01,,,Vuelta al Tachira (2.2),,,,2006
 08.01,51,57,Stage 2 - Dabajuro › Maracaibo,140.1,,,2006
-07.01,58,59,Stage 1 - Santa Ana › Santa Ana,133,,,2006
+07.01,58,59,Stage 1 - Santa Ana › Santa Ana,133.0,,,2006
 02.10 » 09.10,,,Clásico Ciclístico Banfoandes (2.2),,,,2005
 ,38,,General classification,,,,2005
 09.10,53,,Stage 8 (ITT) - San Cristobal › San Cristobal,34.6,,,2005
 08.10,36,40,Stage 7 - Colón › Cerro El Cristo,144.2,,,2005
-07.10,42,47,Stage 6 - El Piñal › San Cristobal,177,,,2005
+07.10,42,47,Stage 6 - El Piñal › San Cristobal,177.0,,,2005
 06.10,37,46,Stage 5 - La Fría › Rubio,110.7,,,2005
 05.10,55,55,Stage 4 - San Cristobal › La Grita,126.9,,,2005
 04.10,68,65,Stage 3 - Santa Bárbara › Santa Ana del Táchira,161.5,,,2005
-03.10,31,68,Stage 2 - Guanare › Ciudad Bolivia,194,,,2005
+03.10,31,68,Stage 2 - Guanare › Ciudad Bolivia,194.0,,,2005
 02.10,103,103,Stage 1 - Barquisimeto › Guanare,174.5,,,2005

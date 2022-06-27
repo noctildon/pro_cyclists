@@ -30,15 +30,46 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.04,18,21,Stage 2 - Obrenovac › Bijeljina ,122,,,2021
 22.04,37,37,Stage 1 - Belgrade › Šabac ,89.7,,,2021
 28.03,38,,GP Adria Mobil (1.2) ,181.5,,,2021
+17.10,DNF,,Veneto Classic (1.1) ,206.5,,,2021
+13.10,93,,Giro del Veneto (1.1) ,168.8,,,2021
+10.07,103,,Visegrad 4 Kerekparverseny (1.2) ,157.3,,,2021
+03.07 » 06.07,,,Sibiu Cycling Tour (2.1) ,,,,2021
+,97,,General classification ,,,,2021
+06.07,61,,Stage 3 - Sibiu › Sibiu ,205.3,,,2021
+05.07,104,107,Stage 2 - Sibiu › Bâlea Lac ,187.5,,,2021
+04.07,105,105,Stage 1 - Sibiu › Paltinis ,177.9,,,2021
+03.07,18,18,Prologue - Sibiu › Sibiu ,2.5,,,2021
+20.06,DNF,,National Championships Austria - Road Race (NC) ,178.0,,,2021
+10.06 » 13.06,,,Oberösterreichrundfahrt (2.2) ,,,,2021
+,69,,General classification ,,,,2021
+13.06,78,,Stage 3 - Traun › Hinterstoder (Höss) ,124.6,,,2021
+12.06,59,64,Stage 2 - Efferding › Oberneukirchen ,142.9,,,2021
+11.06,61,64,Stage 1 - Felbermayr Wels › Maria Schmolln ,163.9,,,2021
+10.06,35,35,Prologue - Linz › Linz ,0.7,,,2021
+03.06 » 06.06,,,Tour of Malopolska (2.2) ,,,,2021
+,7,,Mountains classification ,,,,2021
+,121,,General classification ,,,,2021
+06.06,114,,Stage 3 - Jabłonka › Stary Sącz Przehyba ,123.0,,,2021
+05.06,50,125,Stage 2 - Niepołomice › Nowy Targ  ,142.0,,,2021
+04.06,130,128,Stage 1 - Wieliczka › Myślenice Góra Chełm ,124.0,,,2021
+03.06,40,40,Prologue - Cracow  › Cracow  ,1.4,,,2021
+30.05,56,,GP Slovenia (1.2) ,173.6,,,2021
+22.04 » 25.04,,,Belgrade Banjaluka (2.1) ,,,,2021
+,31,,General classification ,,,,2021
+25.04,21,,Stage 4 - Prijedor › Banjaluka ,163.5,,,2021
+24.04,41,39,Stage 3 - Bijeljina › Vlasenica ,124.1,,,2021
+23.04,18,21,Stage 2 - Obrenovac › Bijeljina ,122.0,,,2021
+22.04,37,37,Stage 1 - Belgrade › Šabac ,89.7,,,2021
+28.03,38,,GP Adria Mobil (1.2) ,181.5,,,2021
 23.08,30,,National Championships Austria - Road Race (NC) ,191.4,,,2020
 26.07,DNF,,GP Kranj (1.2) ,157.3,,,2020
-08.03,58,,Trofej Poreč - Poreč Trophy (1.2) ,156,,,2020
-04.03,19,,Trofej Umag - Umag Trophy (1.2) ,154,,,2020
+08.03,58,,Trofej Poreč - Poreč Trophy (1.2) ,156.0,,,2020
+04.03,19,,Trofej Umag - Umag Trophy (1.2) ,154.0,,,2020
 27.09,68,,World Championships U23 - Road Race (WC) ,171.6,,,2019
 15.09,7,,Int. Raiffeisen Grand Prix Gratwein-Straßengel (1.2) ,187.2,,5,2019
 01.09,6,,Croatia- Slovenia (1.2) ,179.6,1,10,2019
-16.08,68,,Gp Capodarco Comunita Di Capodarco (1.2U) ,180,,,2019
-10.08,DNF,,European Continental Championships U23 - Road Race (CC) ,138,,,2019
+16.08,68,,Gp Capodarco Comunita Di Capodarco (1.2U) ,180.0,,,2019
+10.08,DNF,,European Continental Championships U23 - Road Race (CC) ,138.0,,,2019
 21.07,18,,V4 Special Series Debrecen - Ibrany (1.2) ,171.4,,,2019
 20.07,32,,V4 Special Series Vasarosnameny - Nyiregyhaza (1.2) ,168.7,,,2019
 06.07 » 12.07,,,Int. Österreich-Rundfahrt-Tour of Austria (2.1) ,,,,2019
@@ -57,7 +88,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,48,,General classification ,,,,2019
 23.06,45,,Stage 5 - La Chambre › Saint-François-Longchamp ,134.8,,,2019
 22.06,60,58,Stage 4 - Saint-Martin d'Arc  › Les Karellis ,44.7,,,2019
-22.06,79,52,Stage 3 - Bessans › Saint-Martin-la-Porte ,75,,,2019
+22.06,79,52,Stage 3 - Bessans › Saint-Martin-la-Porte ,75.0,,,2019
 21.06,46,45,Stage 2 - Moûtiers › La Norma ,120.7,,,2019
 20.06,33,33,Stage 1 - Aix-les-Bains › Moûtiers ,145.3,,,2019
 13.06 » 16.06,,,Oberösterreichrundfahrt (2.2) ,,,,2019
@@ -70,27 +101,27 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.06,69,69,Prologue - Linz › Linz ,0.7,,,2019
 01.06 » 02.06,,,Orlen Nations Grand Prix (2.Ncup) ,,,,2019
 ,36,,General classification ,,,,2019
-02.06,27,,Stage 2 - Bukovina Resort › Bukowina Tatrzańska ,113,,,2019
-01.06,11,59,Stage 1 (TTT) - Jurgów › Bukowina Tatrzańska ,26,,,2019
-19.05,13,,National Championships Austria U23 - ITT (NC) ,30,,,2019
-12.05,38,,Visegrad 4 Bicycle Race- GP Slovakia (1.2) ,155,,,2019
+02.06,27,,Stage 2 - Bukovina Resort › Bukowina Tatrzańska ,113.0,,,2019
+01.06,11,59,Stage 1 (TTT) - Jurgów › Bukowina Tatrzańska ,26.0,,,2019
+19.05,13,,National Championships Austria U23 - ITT (NC) ,30.0,,,2019
+12.05,38,,Visegrad 4 Bicycle Race- GP Slovakia (1.2) ,155.0,,,2019
 11.05,DNF,,Visegrad 4 Kerekparverseny (1.2) ,168.7,,,2019
 30.04 » 05.05,,,Carpathian Couriers Race (2.2U) ,,,,2019
-05.05,DNF,,Stage 5 - Veszprem › Papa ,150,,,2019
+05.05,DNF,,Stage 5 - Veszprem › Papa ,150.0,,,2019
 04.05,7,19,Stage 4 - Poprad › Poprad ,112.6,,,2019
-03.05,3,21,Stage 3 - Oświęcim › Jabłonka ,108,1,,2019
-02.05,15,23,Stage 2 - Tarnow › Nowy Sacz ,140,,,2019
+03.05,3,21,Stage 3 - Oświęcim › Jabłonka ,108.0,1,,2019
+02.05,15,23,Stage 2 - Tarnow › Nowy Sacz ,140.0,,,2019
 01.05,46,45,Stage 1 - Polaniec › Tarnow ,145.2,,,2019
 30.04,41,41,Prologue - Lublin › Lublin ,1.4,,,2019
 18.04 » 21.04,,,Belgrade Banjaluka (2.1) ,,,,2019
 ,12,,Youth classification ,,,,2019
 ,40,,General classification ,,,,2019
-21.04,48,,Stage 4 - Prnjavor › Banjaluka ,175,,,2019
-20.04,50,86,Stage 3 - Brčko › Teslić ,174,,,2019
-19.04,55,91,Stage 2 - Vlasenica › Brčko ,151,,,2019
+21.04,48,,Stage 4 - Prnjavor › Banjaluka ,175.0,,,2019
+20.04,50,86,Stage 3 - Brčko › Teslić ,174.0,,,2019
+19.04,55,91,Stage 2 - Vlasenica › Brčko ,151.0,,,2019
 18.04,103,103,Stage 1 - Beograd › Vlasenica ,193.5,,,2019
 13.04,65,,Trofeo Edil c (1.2U) ,149.1,,,2019
-06.03,45,,Trofej Umag - Umag Trophy (1.2) ,161,,,2019
+06.03,45,,Trofej Umag - Umag Trophy (1.2) ,161.0,,,2019
 24.02,DNF,,GP Slovenian Istria (1.2) ,156.5,,,2019
 14.02 » 17.02,,,Tour de La Provence (2.1) ,,,,2019
 ,33,,Youth classification ,,,,2019
@@ -108,23 +139,23 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.09 » 09.09,,,Okolo Jižních Čech / Tour of South Bohemia (2.2) ,,,,2018
 ,22,,Youth classification ,,,,2018
 ,66,,General classification ,,,,2018
-09.09,79,,Stage 5 - České Velenice › Jindřichův Hradec ,150,,,2018
-08.09,52,54,Stage 4 - Třeboň › Protivín ,176,,,2018
+09.09,79,,Stage 5 - České Velenice › Jindřichův Hradec ,150.0,,,2018
+08.09,52,54,Stage 4 - Třeboň › Protivín ,176.0,,,2018
 07.09,72,60,Stage 3 (ITT) - Český Krumlov › Kleť ,10.7,,,2018
-06.09,22,33,Stage 2 - Litschau › Nová Bystřice ,158,,,2018
+06.09,22,33,Stage 2 - Litschau › Nová Bystřice ,158.0,,,2018
 05.09,10,47,Stage 1 (TTT) - Jindřichův Hradec › Jindřichův Hradec ,2.4,,,2018
 26.08,54,,Croatia-Slovenia (1.2) ,181.6,,,2018
-16.08,DNF,,GP Capodarco - Comunità di Capodarco (1.2U) ,180,,,2018
+16.08,DNF,,GP Capodarco - Comunità di Capodarco (1.2U) ,180.0,,,2018
 09.08 » 12.08,,,Czech Cycling Tour (2.1) ,,,,2018
 ,27,,Youth classification ,,,,2018
 ,104,,General classification ,,,,2018
 12.08,105,,Stage 4 - Olomouc › Dolany ,147.9,,,2018
-11.08,102,103,Stage 3 - Mohelnice › Šternberk ,178,,,2018
+11.08,102,103,Stage 3 - Mohelnice › Šternberk ,178.0,,,2018
 10.08,64,106,Stage 2 - Olomouc › Frýdek-Místek ,197.7,,,2018
 09.08,18,126,Stage 1 (TTT) - Uničov › Uničov ,18.2,,,2018
 29.07,32,,GP Kranj (1.2) ,157.3,,,2018
 22.07,23,,V4 Special Series Debrecen - Ibrany (1.2) ,157.6,,,2018
-01.07,DNF,,National Championships Austria - Road Race (NC) ,180,,,2018
+01.07,DNF,,National Championships Austria - Road Race (NC) ,180.0,,,2018
 29.06,25,,National Championships Austria - ITT (NC) ,28.4,,,2018
 14.06 » 17.06,,,Oberösterreichrundfahrt (2.2) ,,,,2018
 ,13,,Youth classification ,,,,2018
@@ -136,59 +167,57 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.06 » 03.06,,,Cycling Tour of Bihor - Bellotto (2.2) ,,,,2018
 ,24,,Youth classification ,,,,2018
 ,63,,General classification ,,,,2018
-03.06,56,,Stage 3 - Oradea › Oradea ,171,,,2018
-02.06,70,61,Stage 2a - Oradea › Stana de Vale ,86,,,2018
+03.06,56,,Stage 3 - Oradea › Oradea ,171.0,,,2018
+02.06,70,61,Stage 2a - Oradea › Stana de Vale ,86.0,,,2018
 02.06,45,61,Stage 2b (ITT) - Oradea › Oradea ,1.9,,,2018
-01.06,38,38,Stage 1 - Oradea › Oradea ,180,,,2018
+01.06,38,38,Stage 1 - Oradea › Oradea ,180.0,,,2018
 24.05 » 26.05,,,Gemenc Grand Prix (2.2) ,,,,2018
-,27,,Youth classification ,,,,2018
 ,71,,General classification ,,,,2018
-26.05,64,,Stage 2 - Szekszard › Szekszard ,131,,,2018
-25.05,73,73,Stage 1 - Szekszard › Szekszard ,162,,,2018
-24.05,76,76,Prologue - Szekszard › Szekszard ,2,,,2018
+26.05,64,,Stage 2 - Szekszard › Szekszard ,131.0,,,2018
+25.05,73,73,Stage 1 - Szekszard › Szekszard ,162.0,,,2018
+24.05,76,76,Prologue - Szekszard › Szekszard ,2.0,,,2018
 12.05,DNF,,Visegrad 4 Kerekparverseny (1.2) ,173.7,,,2018
 28.04 » 29.04,,,Belgrade Banjaluka (2.1) ,,,,2018
-29.04,DNF,,Stage 2 - Teslic › Banjaluka ,180,,,2018
+29.04,DNF,,Stage 2 - Teslic › Banjaluka ,180.0,,,2018
 28.04,76,80,Stage 1 - Belgrade › Brcko ,175.8,,,2018
-22.04,70,,Visegrad 4 Bicycle Race Grand Prix Poland (1.2) ,176,,,2018
+22.04,70,,Visegrad 4 Bicycle Race Grand Prix Poland (1.2) ,176.0,,,2018
 21.04,27,,Visegrad 4 Bicycle Race - GP Czech Republic (1.2) ,162.7,,,2018
 01.04,DNF,,GP Adria Mobil (1.2) ,183.8,,,2018
 31.03,OTL,,Visegrad 4 Bicycle Race- GP Slovakia (1.2) ,158.7,,,2018
-03.03,DNF,,Trofej Porec - Porec Trophy (1.2) ,156,,,2018
+03.03,DNF,,Trofej Porec - Porec Trophy (1.2) ,156.0,,,2018
 25.02,72,,GP Izola (1.2) ,106.5,,,2018
-18.02,53,,GP Laguna Porec (1.2) ,161,,,2018
-26.09,DNF,,Ruota d'Oro - GP Festa del Perdono (1.2U) ,167,,,2017
-17.09,31,,Visegrad 4 Bicycle Race Grand Prix Poland (1.2) ,180,,,2017
-16.09,26,,Visegrad 4 Bicycle Race - GP Czech Republic (1.2) ,165,,,2017
+18.02,53,,GP Laguna Porec (1.2) ,161.0,,,2018
+26.09,DNF,,Ruota d'Oro - GP Festa del Perdono (1.2U) ,167.0,,,2017
+17.09,31,,Visegrad 4 Bicycle Race Grand Prix Poland (1.2) ,180.0,,,2017
+16.09,26,,Visegrad 4 Bicycle Race - GP Czech Republic (1.2) ,165.0,,,2017
 10.09,DNF,,Int. Raiffeisen Grand Prix Judendorf/Straßengel (1.2) ,185.4,,,2017
 30.08 » 03.09,,,Okolo Jižních Čech / Tour of South Bohemia (2.2) ,,,,2017
-01.09,DNS,,Stage 3 - Ceske Velenic › Nova Bystrice ,152,,,2017
-31.08,140,139,Stage 2 - Ceske Budejovice › Tabor ,135,,,2017
+01.09,DNS,,Stage 3 - Ceske Velenic › Nova Bystrice ,152.0,,,2017
+31.08,140,139,Stage 2 - Ceske Budejovice › Tabor ,135.0,,,2017
 30.08,12,112,Stage 1 (TTT) - Jindrichuv Hradec › Jindrichuv Hradec ,2.5,,,2017
 27.08,DNF,,Croatia-Slovenia (1.2) ,177.8,,,2017
 25.08,DNF,,PRO Ötztaler 5500 (1.1) ,217.4,,,2017
-16.08,82,,GP Capodarco - Comunità di Capodarco (1.2U) ,180,,,2017
+16.08,82,,GP Capodarco - Comunità di Capodarco (1.2U) ,180.0,,,2017
 13.08,DNF,,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran premio Pasta Zara (1.2U) ,169.8,,,2017
 30.07,31,,GP Kranj (1.2) ,157.3,,,2017
-25.06,DNF,,National Championships Austria - Road Race (NC) ,160,,,2017
+25.06,DNF,,National Championships Austria - Road Race (NC) ,160.0,,,2017
 23.06,27,,National Championships Austria - ITT (NC) ,27.8,,,2017
 02.06 » 04.06,,,Tour of Bihor - Bellotto (2.2) ,,,,2017
 ,20,,Youth classification ,,,,2017
 ,67,,General classification ,,,,2017
-04.06,36,,Stage 3 - Oradea › Oradea ,161,,,2017
-03.06,86,66,Stage 2a - Oradea › Stana de Vale ,86,,,2017
+04.06,36,,Stage 3 - Oradea › Oradea ,161.0,,,2017
+03.06,86,66,Stage 2a - Oradea › Stana de Vale ,86.0,,,2017
 03.06,65,68,Stage 2b (ITT) - Oradea › Oradea ,1.9,,,2017
-02.06,34,34,Stage 1 - Oradea › Oradea ,180,,,2017
+02.06,34,34,Stage 1 - Oradea › Oradea ,180.0,,,2017
 25.05 » 27.05,,,Gemenc Grand Prix (2.2) ,,,,2017
-,20,,Youth classification ,,,,2017
 ,46,,General classification ,,,,2017
-27.05,41,,Stage 2 - Szekszárd › Szekszárd ,105,,,2017
-26.05,51,50,Stage 1 - Szekszárd › Szekszárd ,130,,,2017
-25.05,52,52,Prologue - Szekszárd › Szekszárd ,2,,,2017
+27.05,41,,Stage 2 - Szekszárd › Szekszárd ,105.0,,,2017
+26.05,51,50,Stage 1 - Szekszárd › Szekszárd ,130.0,,,2017
+25.05,52,52,Prologue - Szekszárd › Szekszárd ,2.0,,,2017
 23.04,DNF,,Visegrad 4 Bicycle Race -  GP Slovakia (1.2) ,181.6,,,2017
-22.04,74,,Visegrad 4 Kerekparverseny (1.2) ,176,,,2017
-09.04,DNF,,Giro dell'Appennino (1.1) ,199,,,2017
+22.04,74,,Visegrad 4 Kerekparverseny (1.2) ,176.0,,,2017
+09.04,DNF,,Giro dell'Appennino (1.1) ,199.0,,,2017
 08.04,DNF,,Trofeo Edil C (1.2U) ,149.1,,,2017
 02.04,DNF,,GP Adria Mobil (1.2) ,184.3,,,2017
-04.03,DNF,,Trofej Porec - Porec Trophy (1.2) ,154,,,2017
-19.02,DNF,,GP Laguna Porec (1.2) ,158,,,2017
+04.03,DNF,,Trofej Porec - Porec Trophy (1.2) ,154.0,,,2017
+19.02,DNF,,GP Laguna Porec (1.2) ,158.0,,,2017

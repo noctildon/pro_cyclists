@@ -1,12 +1,57 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,10,,National Championships Poland - Road Race (NC) ,,,3,2022
+10.06 » 12.06,,,Tour d'Eure-et-Loir (2.2) ,,,,2022
+,26,,Points classification ,,,,2022
+,21,,General classification ,,,,2022
+12.06,9,,Stage 3 - Bû › Chartres ,187,,,2022
+11.06,46,27,Stage 2 - Cloyes-les-Trois-Rivières › La Ferté-Vidame ,192,,,2022
+10.06,15,17,Stage 1 - La Loupe › Châteaudun ,161.5,,,2022
+03.06 » 05.06,,,Tour of Malopolska (2.2) ,,,,2022
+,6,,Mountains classification ,,,,2022
+,70,,General classification ,,,,2022
+05.06,46,,Stage 3 - Jabłonka › Przehyba ,125,,,2022
+04.06,1,88,Stage 2 - Niepolomice › Nowy Targ ,141,5,7,2022
+03.06,107,107,Stage 1 - Wieliczka › Góra Chelm ,131,,,2022
+26.05 » 28.05,,,Tour of Estonia (2.1) ,,,,2022
+,5,,Points classification ,,,,2022
+,6,,General classification ,,24,40,2022
+28.05,3,,Stage 2 - Tartu › Tartu ,164.8,7,3,2022
+27.05,7,7,Stage 1 - Tallinn › Tartu ,192.6,2,,2022
+26.05,12,12,Prologue - Tallinn › Tallinn ,3.7,,,2022
+22.05,1,,GP Gorenjska (1.2) ,171.8,15,40,2022
+30.04,7,,Grand Prix Wyszków (1.2) ,168,,5,2022
+29.04,2,,Grand Prix Nasielsk-Serock (1.2) ,140,10,30,2022
+13.04 » 17.04,,,Belgrade Banjaluka (2.1) ,,,,2022
+,3,,Points classification ,,,,2022
+,13,,General classification ,,8,5,2022
+17.04,2,,Stage 5 - Derventa › Banja Luka ,154.5,12,5,2022
+16.04,15,30,Stage 4 - Doboj › Prijedor ,165.5,,,2022
+15.04,6,31,Stage 3 - Bijeljina › Vlasenica ,123,3,,2022
+14.04,100,77,Stage 2 - Obrenovac › Bijeljina ,122,,,2022
+13.04,2,5,Stage 1 (TTT) - Belgrade › Belgrade ,4,1.14,0.43,2022
+06.04 » 09.04,,,Circuit des Ardennes (2.2) ,,,,2022
+,1,,Points classification ,,,,2022
+,18,,General classification ,,,,2022
+09.04,3,,Stage 4 - Charleville-Mézières › Charleville-Mézières ,172.7,1,1,2022
+07.04,26,21,Stage 2 - Bazeilles › Sedan ,92.5,,,2022
+06.04,2,2,Stage 1 - Signy-le-Petit › Signy-le-Petit ,165.2,2,3,2022
+20.03,10,,GP Slovenian Istria (1.2) ,156.5,,3,2022
+10.03 » 13.03,,,Istarsko Proljeće - Istrian Spring Trophy (2.2) ,,,,2022
+,18,,Points classification ,,,,2022
+,32,,General classification ,,,,2022
+13.03,10,,Stage 3 - Pazin › Umag ,114,,,2022
+12.03,32,33,Stage 2 - Novigrad › Motovun ,175,,,2022
+11.03,10,24,Stage 1 - Poreč › Funtana ,152,,,2022
+10.03,26,26,Prologue - Vrsar › Vrsar ,1.5,,,2022
+02.03,10,,Trofej Umag - Umag Trophy (1.2) ,154,,3,2022
 13.04 » 17.04,,,Belgrade Banjaluka (2.1),,,,2022
 ,3,,Points classification,,,,2022
 ,13,,General classification,,8,5,2022
 17.04,2,,Stage 5 - Derventa › Banja Luka,154.5,12,5,2022
 16.04,15,30,Stage 4 - Doboj › Prijedor,165.5,,,2022
-15.04,6,31,Stage 3 - Bijeljina › Vlasenica,123,3,,2022
-14.04,100,77,Stage 2 - Obrenovac › Bijeljina,122,,,2022
-13.04,2,5,Stage 1 (TTT) - Belgrade › Belgrade,4,1.14,0.43,2022
+15.04,6,31,Stage 3 - Bijeljina › Vlasenica,123.0,3,,2022
+14.04,100,77,Stage 2 - Obrenovac › Bijeljina,122.0,,,2022
+13.04,2,5,Stage 1 (TTT) - Belgrade › Belgrade,4.0,1.14,0.43,2022
 06.04 » 09.04,,,Circuit des Ardennes (2.2),,,,2022
 ,1,,Points classification,,,,2022
 ,18,,General classification,,,,2022
@@ -17,20 +62,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 10.03 » 13.03,,,Istarsko Proljeće - Istrian Spring Trophy (2.2),,,,2022
 ,18,,Points classification,,,,2022
 ,32,,General classification,,,,2022
-13.03,10,,Stage 3 - Pazin › Umag,114,,,2022
-12.03,32,33,Stage 2 - Novigrad › Motovun,175,,,2022
-11.03,10,24,Stage 1 - Poreč › Funtana,152,,,2022
+13.03,10,,Stage 3 - Pazin › Umag,114.0,,,2022
+12.03,32,33,Stage 2 - Novigrad › Motovun,175.0,,,2022
+11.03,10,24,Stage 1 - Poreč › Funtana,152.0,,,2022
 10.03,26,26,Prologue - Vrsar › Vrsar,1.5,,,2022
-02.03,10,,Trofej Umag - Umag Trophy (1.2),154,,3,2022
+02.03,10,,Trofej Umag - Umag Trophy (1.2),154.0,,3,2022
 07.10 » 10.10,,,Circuit des Ardennes International (2.2),,,,2021
 ,11,,Points classification,,,,2021
 ,75,,General classification,,,,2021
-10.10,1,,Stage 4 - Tournes › Charleville-Mézières,169,5,7,2021
+10.10,1,,Stage 4 - Tournes › Charleville-Mézières,169.0,5,7,2021
 09.10,106,82,Stage 3 - Chooz › Hargnies,172.4,,,2021
 08.10,96,18,Stage 2 - Vouziers › Vouziers,186.9,,,2021
 07.10,19,15,Stage 1 - Sedan › Sedan,115.3,,,2021
-19.09,12,,Gooikse Pijl (1.1),199,10,10,2021
-18.09,77,,PWZ Zuidenveld Tour (1.2),200,,,2021
+19.09,12,,Gooikse Pijl (1.1),199.0,10,10,2021
+18.09,77,,PWZ Zuidenveld Tour (1.2),200.0,,,2021
 09.09 » 12.09,,,Okolo jižních Čech / Tour of South Bohemia (2.2),,,,2021
 ,2,,Points classification,,,,2021
 ,4,,General classification,,11,20,2021
@@ -43,16 +88,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.09,1,,Stage 5 - Bucharest › Bucharest,98.6,20,14,2021
 ,21,,General classification,,,3,2021
 04.09,9,21,Stage 4 - Brasov › Bucharest,159.3,,,2021
-03.09,2,21,Stage 3 - Sibiu › Poiana Brașov,187,12,5,2021
+03.09,2,21,Stage 3 - Sibiu › Poiana Brașov,187.0,12,5,2021
 02.09,27,26,Stage 2 - Deva › Păltiniș,154.9,,,2021
 01.09,1,3,Stage 1 - Timișoara › Deva,201.5,20,14,2021
-31.08,15,15,Prologue - Timișoara › Timișoara,4,,,2021
+31.08,15,15,Prologue - Timișoara › Timișoara,4.0,,,2021
 20.08 » 22.08,,,CCC Tour - Grody Piastowskie (2.2),,,,2021
 ,4,,Points classification,,,,2021
 ,7,,General classification,,4,5,2021
 22.08,10,,Stage 3 - Jawor › Jawor,130.5,,,2021
 21.08,9,7,Stage 2 - Ostroszowice › Dzierżoniów,139.5,,,2021
-20.08,1,1,Stage 1 - Polkowice › Głogów,96,5,7,2021
+20.08,1,1,Stage 1 - Polkowice › Głogów,96.0,5,7,2021
 09.08 » 15.08,,,Tour de Pologne (2.UWT),,,,2021
 ,15,,Mountains classification,,,,2021
 ,74,,General classification,,5,,2021
@@ -64,26 +109,24 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 10.08,107,108,Stage 2 - Zamość › Przemyśl,200.8,,,2021
 09.08,115,117,Stage 1 - Lublin › Chełm,216.4,,,2021
 25.07,25,,GP Kranj (1.2),157.3,,,2021
-18.07,3,,Puchar MON (1.2),158,7,25,2021
+18.07,3,,Puchar MON (1.2),158.0,7,25,2021
 14.07 » 17.07,,,Dookoła Mazowsza (2.2),,,,2021
 ,12,,Points classification,,,,2021
 ,32,,General classification,,,,2021
-17.07,35,,Stage 4 - Kozienice › Kozienice,165,,,2021
-16.07,5,31,Stage 3 - Grodzisk Mazowiecki › Grodzisk Mazowiecki,165,,,2021
-15.07,25,29,Stage 2 - Baboszewo › Baboszewo,168,,,2021
-14.07,8,11,Stage 1 - Teresin › Teresin,168,,,2021
+17.07,35,,Stage 4 - Kozienice › Kozienice,165.0,,,2021
+16.07,5,31,Stage 3 - Grodzisk Mazowiecki › Grodzisk Mazowiecki,165.0,,,2021
+15.07,25,29,Stage 2 - Baboszewo › Baboszewo,168.0,,,2021
+14.07,8,11,Stage 1 - Teresin › Teresin,168.0,,,2021
 23.06 » 26.06,,,Course Cycliste de Solidarnosc et des Champions Olympiques (2.2),,,,2021
 ,4,,Mountains classification,,,,2021
-,4,,Points classification,,,,2021
 ,24,,General classification,,,,2021
 26.06,8,,Stage 5 - Ostrowiec Świętokrzyski › Stalowa Wola,165.3,,,2021
 25.06,21,24,Stage 4 - Tomaszów Mazowiecki › Kielce,212.7,,,2021
 24.06,58,31,Stage 3 - Koluszki › Sieradz,191.6,,,2021
 23.06,5,2,Stage 2 - Kutno › Płock,96.9,,,2021
 23.06,1,1,Stage 1 - Pabianice › Łódź,75.1,5,7,2021
-20.06,DNF,,National Championships Poland - Road Race (NC),187,,,2021
+20.06,DNF,,National Championships Poland - Road Race (NC),187.0,,,2021
 10.06 » 13.06,,,Oberösterreichrundfahrt (2.2),,,,2021
-,11,,Points classification,,,,2021
 ,26,,General classification,,,,2021
 13.06,36,,Stage 3 - Traun › Hinterstoder (Höss),124.6,,,2021
 12.06,21,24,Stage 2 - Efferding › Oberneukirchen,142.9,,,2021
@@ -92,59 +135,58 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.06 » 06.06,,,Tour of Malopolska (2.2),,,,2021
 ,10,,Mountains classification,,,,2021
 ,22,,General classification,,,,2021
-06.06,23,,Stage 3 - Jabłonka › Stary Sącz Przehyba,123,,,2021
-05.06,1,20,Stage 2 - Niepołomice › Nowy Targ ,142,5,7,2021
-04.06,33,29,Stage 1 - Wieliczka › Myślenice Góra Chełm,124,,,2021
+06.06,23,,Stage 3 - Jabłonka › Stary Sącz Przehyba,123.0,,,2021
+05.06,1,20,Stage 2 - Niepołomice › Nowy Targ ,142.0,5,7,2021
+04.06,33,29,Stage 1 - Wieliczka › Myślenice Góra Chełm,124.0,,,2021
 03.06,9,9,Prologue - Cracow  › Cracow ,1.4,,,2021
 12.05 » 16.05,,,Tour de Hongrie (2.1),,,,2021
 ,2,,Mountains classification,,,,2021
-,11,,Points classification,,,,2021
 ,50,,General classification,,,,2021
 16.05,15,,Stage 5 - Budapest › Budapest,92.4,,,2021
 15.05,52,50,Stage 4 - Balassagyarmat › Gyöngyös-Kékestető,202.2,,,2021
 14.05,121,3,Stage 3 - Veszprém › Tata,141.9,,,2021
 13.05,13,6,Stage 2 - Balatonfüred › Nagykanizsa,182.6,,,2021
-12.05,35,3,Stage 1 - Siófok › Kaposvár,173,,,2021
+12.05,35,3,Stage 1 - Siófok › Kaposvár,173.0,,,2021
 22.04 » 25.04,,,Belgrade Banjaluka (2.1),,,,2021
 ,3,,General classification,,50,70,2021
 25.04,24,,Stage 4 - Prijedor › Banjaluka,163.5,,,2021
 24.04,13,2,Stage 3 - Bijeljina › Vlasenica,124.1,,,2021
-23.04,1,2,Stage 2 - Obrenovac › Bijeljina,122,20,14,2021
+23.04,1,2,Stage 2 - Obrenovac › Bijeljina,122.0,20,14,2021
 22.04,2,2,Stage 1 - Belgrade › Šabac,89.7,12,5,2021
 28.03,DNF,,GP Adria Mobil (1.2),181.5,,,2021
 11.03 » 14.03,,,Istarsko Proljeće - Istrian Spring Trophy (2.2),,,,2021
 ,7,,Mountains classification,,,,2021
 ,10,,General classification,,1,3,2021
-14.03,22,,Stage 3 - Marčana › Umag,143,,,2021
-13.03,11,10,Stage 2 - Vižinada › Motovun,165,,,2021
-12.03,8,12,Stage 1 - Funtana › Poreč,168,,,2021
-11.03,13,13,Prologue - Umag › Umag,1,,,2021
-07.03,4,,Trofej Poreč - Poreč Trophy (1.2),156,4,20,2021
+14.03,22,,Stage 3 - Marčana › Umag,143.0,,,2021
+13.03,11,10,Stage 2 - Vižinada › Motovun,165.0,,,2021
+12.03,8,12,Stage 1 - Funtana › Poreč,168.0,,,2021
+11.03,13,13,Prologue - Umag › Umag,1.0,,,2021
+07.03,4,,Trofej Poreč - Poreč Trophy (1.2),156.0,4,20,2021
 17.09 » 20.09,,,Tour of Malopolska (2.2),,,,2020
 ,24,,General classification,,,,2020
-20.09,29,,Stage 3 - Chochołowskie Termy › Przehyba,131,,,2020
-19.09,40,6,Stage 2 - Niepołomice › Nowy Targ,142,,,2020
-18.09,11,6,Stage 1 - Wieliczka › Myślenice/Góra Chełm,116,,,2020
+20.09,29,,Stage 3 - Chochołowskie Termy › Przehyba,131.0,,,2020
+19.09,40,6,Stage 2 - Niepołomice › Nowy Targ,142.0,,,2020
+18.09,11,6,Stage 1 - Wieliczka › Myślenice/Góra Chełm,116.0,,,2020
 17.09,6,6,Prologue - Kraków › Kraków,1.2,,,2020
 04.09 » 07.09,,,Belgrade Banjaluka (2.1),,,,2020
 ,30,,General classification,,,,2020
 07.09,42,,Stage 4 - Derventa › Banjaluka,158.3,,,2020
-06.09,5,31,Stage 3 - Teslić › Prnjavor,122,4,,2020
-05.09,33,33,Stage 2 - Bijeljina › Vlasenica,181,,,2020
-04.09,41,41,Stage 1 - Beograd › Bijeljina,134,,,2020
+06.09,5,31,Stage 3 - Teslić › Prnjavor,122.0,4,,2020
+05.09,33,33,Stage 2 - Bijeljina › Vlasenica,181.0,,,2020
+04.09,41,41,Stage 1 - Beograd › Bijeljina,134.0,,,2020
 26.08,19,,European Continental Championships - Road Race (CC),177.45,2,5,2020
 23.08,8,,National Championships Poland - Road Race (NC),195.2,,10,2020
 12.08 » 16.08,,,Tour Bitwa Warszawska 1920 (2.2),,,,2020
 ,6,,General classification,,6,10,2020
-16.08,5,,Stage 4 - Płock › Płońsk,151,,,2020
-15.08,45,3,Stage 3 - Nasielsk › Nasielsk,122,,,2020
-13.08,3,7,Stage 1 - Radzymin › Radzymin,147,1,1,2020
+16.08,5,,Stage 4 - Płock › Płońsk,151.0,,,2020
+15.08,45,3,Stage 3 - Nasielsk › Nasielsk,122.0,,,2020
+13.08,3,7,Stage 1 - Radzymin › Radzymin,147.0,1,1,2020
 12.08,41,41,Prologue - Warsaw › Warsaw,1.6,,,2020
 05.08 » 09.08,,,Tour de Pologne (2.UWT),,,,2020
 ,1,,Mountains classification,,,,2020
 ,47,,Points classification,,,,2020
 ,84,,General classification,,5,,2020
-09.08,17,,Stage 5 - Zakopane › Kraków,188,,,2020
+09.08,17,,Stage 5 - Zakopane › Kraków,188.0,,,2020
 08.08,68,88,Stage 4 - Bukovina Resort › Bukowina Tatrzańska,152.9,,,2020
 07.08,111,108,Stage 3 - Wadowice › Bielsko-Biała,203.1,,,2020
 06.08,112,99,Stage 2 - Opole › Zabrze,151.5,,,2020
@@ -152,19 +194,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.07 » 31.07,,,Tour of Bulgaria (2.2),,,,2020
 ,7,,Mountains classification,,,,2020
 ,1,,General classification,,25,40,2020
-31.07,9,,Stage 4 - Sliven › Burgas,111,,,2020
-30.07,2,1,Stage 3 - Plovdiv › Sliven,151,2,3,2020
-29.07,1,2,Stage 2 - Pazardzhik › Plovdiv,131,5,7,2020
-28.07,2,2,Stage 1 - Sofia › Pazardzhik,128,2,3,2020
+31.07,9,,Stage 4 - Sliven › Burgas,111.0,,,2020
+30.07,2,1,Stage 3 - Plovdiv › Sliven,151.0,2,3,2020
+29.07,1,2,Stage 2 - Pazardzhik › Plovdiv,131.0,5,7,2020
+28.07,2,2,Stage 1 - Sofia › Pazardzhik,128.0,2,3,2020
 23.07 » 26.07,,,Sibiu Cycling Tour (2.1),,,,2020
 ,8,,Points classification,,,,2020
 ,50,,General classification,,,,2020
-26.07,7,,Stage 3b - Sibiu › Sibiu,109,2,,2020
+26.07,7,,Stage 3b - Sibiu › Sibiu,109.0,2,,2020
 26.07,18,50,Stage 3a (ITT) - Curmătura Ștezii › Arena Platos,12.5,,,2020
 25.07,6,55,Stage 2 - Sibiu › Sibiu,181.2,3,,2020
-24.07,63,61,Stage 1 - Sibiu › Bâlea Lac ,183,,,2020
+24.07,63,61,Stage 1 - Sibiu › Bâlea Lac ,183.0,,,2020
 23.07,7,7,Prologue - Sibiu › Sibiu,2.5,2,,2020
-19.07,7,,Puchar MON (1.2),149,,5,2020
+19.07,7,,Puchar MON (1.2),149.0,,5,2020
 11.09 » 15.09,,,Turul Romaniei (2.1),,,,2019
 ,3,,Mountains classification,,,,2019
 ,12,,General classification,,10,10,2019
@@ -172,19 +214,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.09,12,12,Stage 4 - Ploiești › Cabana Piatra Arsă (,119.2,,,2019
 13.09,10,13,Stage 3 - Buzău › Târgoviște,124.7,,,2019
 12.09,27,10,Stage 2 - Brașov › Focșani ,176.3,,,2019
-11.09,16,7,Stage 1 - Cluj-Napoca › Sighișoara,168,,,2019
+11.09,16,7,Stage 1 - Cluj-Napoca › Sighișoara,168.0,,,2019
 30.08 » 31.08,,,Tour of Almaty (2.1),,,,2019
 ,1,,Points classification,,,,2019
 ,49,,General classification,,,,2019
-31.08,56,,Stage 2 - Almaty › Medeo ice skating stadium,160,,,2019
+31.08,56,,Stage 2 - Almaty › Medeo ice skating stadium,160.0,,,2019
 30.08,1,1,Stage 1 - Almaty › Almaty,118.6,20,14,2019
 15.08 » 18.08,,,Czech Cycling Tour (2.1),,,,2019
 ,9,,Mountains classification,,,,2019
 ,46,,General classification,,,,2019
-18.08,47,,Stage 4 - Mohelnice › Šternberk,178,,,2019
+18.08,47,,Stage 4 - Mohelnice › Šternberk,178.0,,,2019
 17.08,19,63,Stage 3 - Olomouc › Uničov,175.3,,,2019
 16.08,72,67,Stage 2 - Olomouc › Frýdek-Místek,186.6,,,2019
-15.08,4,17,Stage 1 (TTT) - Ostrava › Ostrava,16,4,,2019
+15.08,4,17,Stage 1 (TTT) - Ostrava › Ostrava,16.0,4,,2019
 11.08,40,,European Continental Championships - Road Race (CC),172.6,,1,2019
 24.07 » 27.07,,,Dookoła Mazowsza (2.2),,,,2019
 ,29,,General classification,,,,2019
@@ -198,25 +240,24 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,2,,Points classification,,,,2019
 ,2,,General classification,,18,30,2019
 06.07,11,,Stage 5 - Tarnobrzeg › Krosno,177.6,,,2019
-05.07,4,2,Stage 4 - Skarżysko-Kamienna › Stalowa ,178,,,2019
+05.07,4,2,Stage 4 - Skarżysko-Kamienna › Stalowa ,178.0,,,2019
 04.07,3,2,Stage 3 - Kielce › Radom ,170.7,1,1,2019
-03.07,3,2,Stage 2 - Zgierz › Kutno ,148,1,1,2019
+03.07,3,2,Stage 2 - Zgierz › Kutno ,148.0,1,1,2019
 02.07,2,2,Stage 1 - Łódź  › Sieradz ,213.7,2,3,2019
 30.06,DNF,,National Championships Poland - Road Race (NC),183.6,,,2019
 23.06,1,,International Race Korona Kocich Gor (1.2),148.8,15,40,2019
-22.06,54,,Grand Prix Doliny Baryczy migród - XXIX Memoria Grundmanna i Wizowskiego (1.2),162,,,2019
+22.06,54,,Grand Prix Doliny Baryczy migród - XXIX Memoria Grundmanna i Wizowskiego (1.2),162.0,,,2019
 14.06 » 16.06,,,Tour of Malopolska (2.2),,,,2019
 ,17,,General classification,,,,2019
-16.06,22,,Stage 3 - Chochołowskie Termy  › Stary Sącz,136,,,2019
-15.06,2,12,Stage 2 - Niepołomice  › Nowy Targ,137,2,3,2019
-14.06,14,14,Stage 1 - Myślenice › Wieliczka,120,,,2019
+16.06,22,,Stage 3 - Chochołowskie Termy  › Stary Sącz,136.0,,,2019
+15.06,2,12,Stage 2 - Niepołomice  › Nowy Targ,137.0,2,3,2019
+14.06,14,14,Stage 1 - Myślenice › Wieliczka,120.0,,,2019
 31.05 » 02.06,,,Wyscig Mjr. Hubala - Sante Tour (2.1),,,,2019
 ,5,,Mountains classification,,,,2019
 ,10,,Points classification,,,,2019
-,12,,General classification,,10,10,2019
-02.06,12,,Stage 3 - Radoszyce  › Konskie,151,,,2019
+02.06,12,,Stage 3 - Radoszyce  › Konskie,151.0,,,2019
 01.06,4,12,Stage 2b - Morawica › Kazimierza Wielka,120.1,5,,2019
-01.06,12,13,Stage 2a (ITT) - Busko Zdroj  › Busko Zdroj ,5,,,2019
+01.06,12,13,Stage 2a (ITT) - Busko Zdroj  › Busko Zdroj ,5.0,,,2019
 31.05,51,51,Stage 1 - Poświętne › Opoczno,180.3,,,2019
 22.05 » 26.05,,,Baltyk - Karkonosze Tour (2.2),,,,2019
 ,9,,General classification,,2,3,2019
@@ -243,39 +284,39 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 31.03,121,,Stage 5 - Fiorano Modenese › Sassuolo,153.4,,,2019
 30.03,4,99,Stage 4 - Crevalcore › Crevalcore,171.4,5,,2019
 29.03,98,101,Stage 3 - Forlì › Forlì,166.2,,,2019
-28.03,111,101,Stage 2 - Riccione › Sogliano al Rubicone,140,,,2019
+28.03,111,101,Stage 2 - Riccione › Sogliano al Rubicone,140.0,,,2019
 27.03,22,50,Stage 1a - Gatteo › Gatteo,97.8,,,2019
 27.03,14,64,Stage 1b (TTT) - Gatteo a mare › Gatteo,13.3,,,2019
 14.03 » 17.03,,,Istarsko Proljeće - Istrian Spring Trophy (2.2),,,,2019
 ,16,,General classification,,,,2019
-17.03,16,,Stage 3 - Pazin › Umag,156,,,2019
-16.03,14,16,Stage 2 - Vrsar › Oprtalj,161,,,2019
-15.03,23,21,Stage 1 - Poreč › Labin,161,,,2019
-14.03,57,57,Prologue - Umag › Umag,2,,,2019
+17.03,16,,Stage 3 - Pazin › Umag,156.0,,,2019
+16.03,14,16,Stage 2 - Vrsar › Oprtalj,161.0,,,2019
+15.03,23,21,Stage 1 - Poreč › Labin,161.0,,,2019
+14.03,57,57,Prologue - Umag › Umag,2.0,,,2019
 21.02 » 24.02,,,Tour of Antalya (2.2),,,,2019
 ,31,,General classification,,,,2019
-24.02,9,,Stage 4 - Side › Antalya,158,,,2019
+24.02,9,,Stage 4 - Side › Antalya,158.0,,,2019
 23.02,37,31,Stage 3 - Perge › Termessos,91.8,,,2019
-22.02,17,13,Stage 2 - Antalya › Antalya,111,,,2019
+22.02,17,13,Stage 2 - Antalya › Antalya,111.0,,,2019
 21.02,16,17,Stage 1 - Beskonak › Antalya,140.9,,,2019
-10.02,3,,Grand Prix Alanya (1.2),153,7,25,2019
-09.02,4,,Grand Prix Gazipasa (1.2),153,4,20,2019
-23.09,23,,Trofeo Matteotti (1.1),195,,3,2018
+10.02,3,,Grand Prix Alanya (1.2),153.0,7,25,2019
+09.02,4,,Grand Prix Gazipasa (1.2),153.0,4,20,2019
+23.09,23,,Trofeo Matteotti (1.1),195.0,,3,2018
 22.09,DNF,,Memorial Marco Pantani (1.1),199.8,,,2018
 14.08 » 19.08,,,Tour de Hongrie (2.1),,,,2018
 ,1,,Mountains classification,,,,2018
 ,23,,General classification,,,3,2018
-19.08,72,,Stage 5 - Kazincbarcika › Kazincbarcika,128,,,2018
-18.08,17,24,Stage 4 - Karcag › Miskolc,182,,,2018
-17.08,72,31,Stage 3 - Cegléd › Hajdúszoboszló,206,,,2018
-16.08,9,32,Stage 2 - Velence › Székesfehérvár,190,,,2018
-15.08,30,32,Stage 1 - Balatonalmádi › Keszthely,154,,,2018
+19.08,72,,Stage 5 - Kazincbarcika › Kazincbarcika,128.0,,,2018
+18.08,17,24,Stage 4 - Karcag › Miskolc,182.0,,,2018
+17.08,72,31,Stage 3 - Cegléd › Hajdúszoboszló,206.0,,,2018
+16.08,9,32,Stage 2 - Velence › Székesfehérvár,190.0,,,2018
+15.08,30,32,Stage 1 - Balatonalmádi › Keszthely,154.0,,,2018
 14.08,122,122,Prologue - Siófok › Siófok,3.5,,,2018
 09.08 » 12.08,,,Czech Cycling Tour (2.1),,,,2018
 ,8,,Points classification,,,,2018
 ,16,,General classification,,5,3,2018
 12.08,8,,Stage 4 - Olomouc › Dolany,147.9,1,,2018
-11.08,21,17,Stage 3 - Mohelnice › Šternberk,178,,,2018
+11.08,21,17,Stage 3 - Mohelnice › Šternberk,178.0,,,2018
 10.08,9,6,Stage 2 - Olomouc › Frýdek-Místek,197.7,,,2018
 09.08,2,5,Stage 1 (TTT) - Uničov › Uničov,18.2,8,0.71,2018
 07.07 » 14.07,,,Int. Österreich-Rundfahrt-Tour of Austria (2.1),,,,2018
@@ -284,25 +325,25 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.07,54,68,Stage 7 - Waidhofen/Ybbs › Sonntagberg,129.3,,,2018
 12.07,71,74,Stage 6 - Knittelfeld › Wenigzell,167.4,,,2018
 11.07,48,73,Stage 5 - Matrei › Großglockner,92.9,,,2018
-10.07,53,89,Stage 4 - Kitzbühel › Prägraten,143,,,2018
+10.07,53,89,Stage 4 - Kitzbühel › Prägraten,143.0,,,2018
 09.07,88,102,Stage 3 - Kufstein › Kitzbüheler Horn,133.6,,,2018
 08.07,99,103,Stage 2 - Feldkirch › Fulpmes / Telfes,181.5,,,2018
 07.07,104,105,Stage 1 - Feldkirch › Feldkirch,152.8,,,2018
-24.06,8,,National Championships Poland - Road Race (NC),204,,10,2018
-22.06,11,,National Championships Poland - ITT (NC),33,,,2018
-17.06,31,,International Race Grand Prix Doliny Baryczy Milicz (1.2),160,,,2018
-16.06,10,,Grand Prix Doliny Baryczy Zmigrod - The XXVIII th Mem. Józefa Grundmana i Jerzego Wizowskiego (1.2),162,,3,2018
+24.06,8,,National Championships Poland - Road Race (NC),204.0,,10,2018
+22.06,11,,National Championships Poland - ITT (NC),33.0,,,2018
+17.06,31,,International Race Grand Prix Doliny Baryczy Milicz (1.2),160.0,,,2018
+16.06,10,,Grand Prix Doliny Baryczy Zmigrod - The XXVIII th Mem. Józefa Grundmana i Jerzego Wizowskiego (1.2),162.0,,3,2018
 08.06 » 10.06,,,Tour of Malopolska (2.2),,,,2018
 ,9,,Mountains classification,,,,2018
 ,19,,General classification,,,,2018
-10.06,19,,Stage 3 - Chochołowskie Termy › Stary Sącz (Przechyba),157,,,2018
-09.06,26,22,Stage 2 - Szaflary › Nowy Targ,101,,,2018
-08.06,9,10,Stage 1 - Trzebinia › Alwernia,133,,,2018
+10.06,19,,Stage 3 - Chochołowskie Termy › Stary Sącz (Przechyba),157.0,,,2018
+09.06,26,22,Stage 2 - Szaflary › Nowy Targ,101.0,,,2018
+08.06,9,10,Stage 1 - Trzebinia › Alwernia,133.0,,,2018
 30.05 » 03.06,,,Skoda-Tour de Luxembourg (2.HC),,,,2018
 ,25,,Youth classification,,,,2018
 ,2,,Mountains classification,,,,2018
 ,55,,General classification,,,,2018
-03.06,45,,Stage 4 - Mersch › Luxembourg,176,,,2018
+03.06,45,,Stage 4 - Mersch › Luxembourg,176.0,,,2018
 02.06,46,61,Stage 3 - Eschweiler › Differdange,163.8,,,2018
 01.06,55,94,Stage 2 - Junglinster › Schifflange,89.2,,,2018
 31.05,94,96,Stage 1 - Luxembourg › Hesperange,186.7,,,2018
@@ -329,8 +370,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.03 » 25.03,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2018
 ,89,,General classification,,,,2018
 25.03,103,,Stage 4 (ITT) - Fiorano Modenese › Montegibbio,12.5,,,2018
-24.03,101,89,Stage 3 - Crevalcore › Crevalcore,171,,,2018
-23.03,84,93,Stage 2 - Riccione › Sogliano al Rubicone,130,,,2018
+24.03,101,89,Stage 3 - Crevalcore › Crevalcore,171.0,,,2018
+23.03,84,93,Stage 2 - Riccione › Sogliano al Rubicone,130.0,,,2018
 22.03,47,47,Stage 1a - Gatteo › Gatteo,97.8,,,2018
 22.03,2,108,Stage 1b (TTT) - Gatteo a Mare › Gatteo,13.3,8,0.71,2018
 16.03,28,,Handzame Classic (1.HC),204.1,,5,2018
@@ -340,20 +381,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 18.02,80,,Stage 5 (ITT) - Barbate › Barbate,14.2,,,2018
 17.02,135,122,Stage 4 - Sevilla › Alcalá de los Gazules,191.2,,,2018
 16.02,60,116,Stage 3 - Mancha Real › Herrera,165.1,,,2018
-15.02,119,125,Stage 2 - Otura › La Guardia de Jaén,140,,,2018
+15.02,119,125,Stage 2 - Otura › La Guardia de Jaén,140.0,,,2018
 14.02,118,118,Stage 1 - Mijas › Granada,197.6,,,2018
 11.02,DNF,,Trofeo Laigueglia (1.HC),203.7,,,2018
 10.10 » 15.10,,,Presidential Cycling Tour of Turkey (2.UWT),,,,2017
 ,47,,Points classification,,,,2017
 ,51,,General classification,,5,2,2017
 15.10,71,,Stage 6 - Istanbul › Istanbul,143.7,,,2017
-14.10,15,45,Stage 5 - Selcuk › Izmir,166,,,2017
+14.10,15,45,Stage 5 - Selcuk › Izmir,166.0,,,2017
 13.10,65,59,Stage 4 - Marmaris › Selcuk,204.1,,,2017
 12.10,72,66,Stage 3 - Fethiye › Marmaris,128.6,,,2017
-11.10,27,29,Stage 2 - Kumlica › Fethiye,205,,,2017
+11.10,27,29,Stage 2 - Kumlica › Fethiye,205.0,,,2017
 10.10,42,46,Stage 1 - Alanya › Kemer,176.7,,,2017
 03.10,112,,Sparkassen Münsterland Giro (1.HC),198.7,,,2017
-17.09,14,,Visegrad 4 Bicycle Race Grand Prix Poland (1.2),180,,,2017
+17.09,14,,Visegrad 4 Bicycle Race Grand Prix Poland (1.2),180.0,,,2017
 02.09,146,,Brussels Cycling Classic (1.HC),201.3,,,2017
 25.08,31,,PRO Ötztaler 5500 (1.1),217.4,,,2017
 20.08,90,,Cyclassics Hamburg (1.UWT),220.9,5,,2017
@@ -376,55 +417,55 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.07,138,126,Stage 2 - Wieselburg › Pöggstall,199.6,,,2017
 03.07,121,77,Stage 1 - Graz › Wien,193.8,,,2017
 02.07,69,69,Prologue - Graz › Schlossberg,0.8,,,2017
-25.06,5,,National Championships Poland - Road Race (NC),261,2,25,2017
+25.06,5,,National Championships Poland - Road Race (NC),261.0,2,25,2017
 21.06,8,,National Championships Poland - ITT (NC),39.6,,1,2017
 18.06,8,,International Race Korona Kocich Gor (1.2),182.7,,3,2017
 17.06,DNF,,Grand Prix Doliny Baryczy Xxvii Memorial Grundmanna I Wizowskiego (1.2),177.5,,,2017
 09.06 » 11.06,,,Tour of Malopolska (2.2),,,,2017
 ,38,,General classification,,,,2017
-11.06,81,,Stage 3 - Chocholowskie Termy › Nowy Targ,140,,,2017
-10.06,2,32,Stage 2 - Kokotow › Stary Sacz,143,2,3,2017
-09.06,95,96,Stage 1 - Alwernia  › Trzebinia,123,,,2017
+11.06,81,,Stage 3 - Chocholowskie Termy › Nowy Targ,140.0,,,2017
+10.06,2,32,Stage 2 - Kokotow › Stary Sacz,143.0,2,3,2017
+09.06,95,96,Stage 1 - Alwernia  › Trzebinia,123.0,,,2017
 01.06 » 04.06,,,Szlakiem Walk Majora Hubala (2.1),,,,2017
 04.06,DNF,,Stage 5 - Radoszyce › Konskie    ,188.4,,,2017
 03.06,80,64,Stage 4 - Opoczno › Opoczno,174.1,,,2017
 02.06,19,38,Stage 2 (ITT) - Rawa Mazowiecka › Rawa Mazowiecka,14.66,,,2017
-01.06,45,37,Stage 1 - Skarzusko › Swiety Krzyz,187,,,2017
+01.06,45,37,Stage 1 - Skarzusko › Swiety Krzyz,187.0,,,2017
 17.05 » 21.05,,,Tour of Norway (2.HC),,,,2017
 ,48,,General classification,,,,2017
-21.05,62,,Stage 5 - Moss › Oslo,153,,,2017
-20.05,27,39,Stage 4 - Lillestrøm › Sarpsborg,192,,,2017
-19.05,43,41,Stage 3 - Hamar › Lillehammer,192,,,2017
-18.05,34,24,Stage 2 -  Eidsvoll › Brumunddal,194,,,2017
+21.05,62,,Stage 5 - Moss › Oslo,153.0,,,2017
+20.05,27,39,Stage 4 - Lillestrøm › Sarpsborg,192.0,,,2017
+19.05,43,41,Stage 3 - Hamar › Lillehammer,192.0,,,2017
+18.05,34,24,Stage 2 -  Eidsvoll › Brumunddal,194.0,,,2017
 17.05,40,40,Stage 1 - Hønefoss › Asker,169.4,,,2017
 05.05 » 07.05,,,CCC Tour - Grody Piastowskie (2.2),,,,2017
 ,20,,Mountains classification,,,,2017
 ,33,,General classification,,,,2017
 07.05,31,,Stage 3 - Glogow › Polkowice,130.8,,,2017
 06.05,37,37,Stage 2 - Dzierzoniow › Srebrna Gora,128.3,,,2017
-05.05,53,56,Stage 1 - Zlotoryja › Jawor,166,,,2017
+05.05,53,56,Stage 1 - Zlotoryja › Jawor,166.0,,,2017
 02.05,12,,Memoriał Romana Siemińskiego (1.2),174.6,,,2017
 01.05,DNF,,Memorial Andrzeja Trochanowskiego (1.2),168.8,,,2017
 20.03 » 26.03,,,Volta Ciclista a Catalunya (2.UWT),,,,2017
 25.03,OTL,,Stage 6 - Tortosa › Reus,189.7,,,2017
-24.03,165,165,Stage 5 - Valls › Lo Port (Tortosa),182,,,2017
-23.03,141,172,Stage 4 - La Seu d'Urgell › Igualada,134,,,2017
+24.03,165,165,Stage 5 - Valls › Lo Port (Tortosa),182.0,,,2017
+23.03,141,172,Stage 4 - La Seu d'Urgell › Igualada,134.0,,,2017
 22.03,174,173,Stage 3 - Mataró › La Molina,188.3,,,2017
 21.03,13,180,Stage 2 (TTT) - Banyoles › Banyoles,41.3,,,2017
 20.03,182,182,Stage 1 - Calella › Calella,178.9,,,2017
 17.03,36,,Handzame Classic (1.1),192.7,,,2017
 15.03,140,,Danilith - Nokere Koerse (1.HC),192.3,,,2017
 11.03,38,,Ronde van Drenthe (1.1),206.2,,,2017
-26.02,92,,Royal Bernard Drome Classic (1.1),209,,,2017
-25.02,DNF,,Classic Sud Ardèche - Souvenir Francis Delpech (1.1),209,,,2017
+26.02,92,,Royal Bernard Drome Classic (1.1),209.0,,,2017
+25.02,DNF,,Classic Sud Ardèche - Souvenir Francis Delpech (1.1),209.0,,,2017
 14.02 » 19.02,,,Tour of Oman (2.HC),,,,2017
 ,15,,Youth classification,,,,2017
 ,51,,General classification,,,,2017
 19.02,17,,Stage 6 - The Wave › Muttrah Corniche,130.5,,,2017
 18.02,60,52,Stage 5 - Samail › Jebel Akhdar (Green Mountain),152.5,,,2017
-17.02,62,54,Stage 4 - Yiti (Al Sifah) › Ministry of Tourism,118,,,2017
-16.02,46,47,Stage 3 - Sultan Qaboos University › Quriyat ,162,,,2017
-15.02,57,54,Stage 2 - Nakhal › Al Bustan,142,,,2017
+17.02,62,54,Stage 4 - Yiti (Al Sifah) › Ministry of Tourism,118.0,,,2017
+16.02,46,47,Stage 3 - Sultan Qaboos University › Quriyat ,162.0,,,2017
+15.02,57,54,Stage 2 - Nakhal › Al Bustan,142.0,,,2017
 14.02,67,69,Stage 1 - Al Sawadi Beach › Naseem Park,176.5,,,2017
 22.10 » 30.10,,,Tour of Hainan (2.HC),,,,2016
 ,12,,Points classification,,,,2016
@@ -435,7 +476,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.10,70,99,Stage 6 - Changjiang › Wuzhishan,197.2,,,2016
 26.10,41,114,Stage 5 - Danzhou › Changjiang,184.9,,,2016
 25.10,130,126,Stage 4 - Chengmai › Danzhou,159.4,,,2016
-24.10,12,113,Stage 3 - Haikou › Chengmai,208,,,2016
+24.10,12,113,Stage 3 - Haikou › Chengmai,208.0,,,2016
 23.10,119,119,Stage 2 - Xinglong › Haikou,230.2,,,2016
 22.10,113,115,Stage 1 - Xinglong › Xinglong,88.3,,,2016
 03.09,DNF,,Brussels Cycling Classic (1.HC),199.3,,,2016
@@ -457,45 +498,45 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.07,14,34,Stage 2 - Mondsee › Steyr,205.5,,,2016
 03.07,9,72,Stage 1 - Innsbruck › Salzburg,178.2,,,2016
 02.07,83,83,Prologue - Kitzbüheler Horn › Kitzbüheler Horn,0.6,,,2016
-25.06,11,,National Championships Poland U23 - Road Race (NC),148,,,2016
-22.06,1,,National Championships Poland U23 - ITT (NC),39,,,2016
+25.06,11,,National Championships Poland U23 - Road Race (NC),148.0,,,2016
+22.06,1,,National Championships Poland U23 - ITT (NC),39.0,,,2016
 19.06,11,,Korona Kocich Gór I Dolina Baryczy Żmigród-Milicz (1.2),186.1,,,2016
 03.06 » 05.06,,,Course de la Paix U23 / Závod Míru U23 (2.Ncup),,,,2016
 ,50,,General classification,,,,2016
-05.06,26,,Stage 3 - Jesenik › Jesenik,160,,,2016
-04.06,51,61,Stage 2 - Krnov › Dlouhe Strane,151,,,2016
-03.06,108,110,Stage 1 - Jesenik › Rymarov,133,,,2016
+05.06,26,,Stage 3 - Jesenik › Jesenik,160.0,,,2016
+04.06,51,61,Stage 2 - Krnov › Dlouhe Strane,151.0,,,2016
+03.06,108,110,Stage 1 - Jesenik › Rymarov,133.0,,,2016
 27.05 » 28.05,,,Tour of Estonia (2.1),,,,2016
 ,27,,Youth classification,,,,2016
 ,72,,General classification,,,,2016
-28.05,71,,Stage 2 -  Tartu ›  Tartu,144,,,2016
-27.05,86,86,Stage 1 - Tallinn  › Tartu,190,,,2016
-14.05,14,,Visegrad V4 Race - GP Polski (1.2),125,,,2016
+28.05,71,,Stage 2 -  Tartu ›  Tartu,144.0,,,2016
+27.05,86,86,Stage 1 - Tallinn  › Tartu,190.0,,,2016
+14.05,14,,Visegrad V4 Race - GP Polski (1.2),125.0,,,2016
 29.04 » 03.05,,,Carpathian Couriers Race U-23 (2.2U),,,,2016
 ,2,,Points classification,,,,2016
 ,28,,General classification,,,,2016
-03.05,47,,Stage 4 - Zabno  › Tarnów,130,,,2016
-02.05,88,37,Stage 3 - Jablonka › Ciezkowice,150,,,2016
-01.05,38,23,Stage 2 - Trencianske Teplice › Stará Bystrica,132,,,2016
-30.04,42,7,Stage 1 - Veszprém › Papá,150,,,2016
+03.05,47,,Stage 4 - Zabno  › Tarnów,130.0,,,2016
+02.05,88,37,Stage 3 - Jablonka › Ciezkowice,150.0,,,2016
+01.05,38,23,Stage 2 - Trencianske Teplice › Stará Bystrica,132.0,,,2016
+30.04,42,7,Stage 1 - Veszprém › Papá,150.0,,,2016
 29.04,12,12,Prologue - Veszprém › Veszprém,3.3,,,2016
 15.04 » 16.04,,,ZLM-Roompot tour (2.Ncup),,,,2016
 ,63,,General classification,,,,2016
 16.04,17,,Stage 3 - Goes  › Goes ,177.2,,,2016
-15.04,12,71,Stage 2 - Kamperland ›  Zierikzee,124,,,2016
-15.04,13,127,Stage 1 (TTT) - Tholen › Tholen,23,,,2016
-09.04,28,,Ronde van Vlaanderen Beloften (1.Ncup),166,,,2016
-03.04,DNF,,Ronde van Vlaanderen / Tour des Flandres ME (1.UWT),255,,,2016
-18.03,38,,Handzame Classic (1.1),199,,,2016
+15.04,12,71,Stage 2 - Kamperland ›  Zierikzee,124.0,,,2016
+15.04,13,127,Stage 1 (TTT) - Tholen › Tholen,23.0,,,2016
+09.04,28,,Ronde van Vlaanderen Beloften (1.Ncup),166.0,,,2016
+03.04,DNF,,Ronde van Vlaanderen / Tour des Flandres ME (1.UWT),255.0,,,2016
+18.03,38,,Handzame Classic (1.1),199.0,,,2016
 10.03 » 13.03,,,Istarsko proljece - Istrian Spring Trophy (2.2),,,,2016
 ,7,,Youth classification,,,,2016
 ,32,,General classification,,,,2016
-13.03,90,,Stage 3 - Pazin › Umag,146,,,2016
-12.03,47,36,Stage 2 - Vrsar › Motovun,157,,,2016
-11.03,36,19,Stage 1 - Porec › Labin,158,,,2016
+13.03,90,,Stage 3 - Pazin › Umag,146.0,,,2016
+12.03,47,36,Stage 2 - Vrsar › Motovun,157.0,,,2016
+11.03,36,19,Stage 1 - Porec › Labin,158.0,,,2016
 10.03,33,33,Prologue - Umag › Umag,1.6,,,2016
 05.03,115,,Porec Trophy - Trofej Porec (1.2),156.5,,,2016
-02.03,27,,Trofej Umag - Umag Trophy (1.2),154,,,2016
+02.03,27,,Trofej Umag - Umag Trophy (1.2),154.0,,,2016
 28.02,59,,GP Izola (1.2),156.5,,,2016
 13.02,91,,Vuelta Ciclista a la Region de Murcia 'Costa Calida' (1.1),199.3,,,2016
 19.09,52,,Primus Classic Impanis - Van Petegem (1.HC),199.2,,,2015
@@ -506,7 +547,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.08,35,34,Stage 6 - Bourg-Saint-Maurice › Saint-Michel-de-Maurienne,128.2,,,2015
 27.08,40,39,Stage 5 - Megève › La Rosière-Montvalezan,103.1,,,2015
 26.08,15,46,Stage 4 - Annemasse › Cluses,146.7,,,2015
-25.08,54,96,Stage 3 - Champagnole › Tournus,137,,,2015
+25.08,54,96,Stage 3 - Champagnole › Tournus,137.0,,,2015
 24.08,10,60,Stage 2 - Avallon › Arbois,193.5,,,2015
 23.08,23,66,Stage 1 - Chablis › Toucy,160.5,,,2015
 22.08,69,69,Prologue - Tonnerre › Tonnerre,3.5,,,2015
@@ -514,75 +555,74 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.07 » 01.08,,,Dookoła Mazowsza (2.2),,,,2015
 ,19,,Youth classification,,,,2015
 ,48,,General classification,,,,2015
-01.08,89,,Stage 4 - Kozienice › Kozienice,160,,,2015
-31.07,98,49,Stage 3 - Zwolen › Kozienice,150,,,2015
-30.07,99,47,Stage 2 - Ciechanow  › Nowy Dwor Mazowiecki ,156,,,2015
+01.08,89,,Stage 4 - Kozienice › Kozienice,160.0,,,2015
+31.07,98,49,Stage 3 - Zwolen › Kozienice,150.0,,,2015
+30.07,99,47,Stage 2 - Ciechanow  › Nowy Dwor Mazowiecki ,156.0,,,2015
 29.07,32,31,Stage 1 - Warszawa › Ciechanow,145.7,,,2015
 28.07,27,27,Prologue - Warszawa › Warszawa,2.5,,,2015
-26.07,63,,Coppa dei Laghi - Trofeo Almar (1.Ncup),180,,,2015
-27.06,52,,National Championships Poland U23 - Road Race (NC),180,,,2015
-24.06,2,,National Championships Poland U23 - ITT (NC),33,,,2015
-20.06,DNF,,Korona Kocich Gor (1.2),192,,,2015
+26.07,63,,Coppa dei Laghi - Trofeo Almar (1.Ncup),180.0,,,2015
+27.06,52,,National Championships Poland U23 - Road Race (NC),180.0,,,2015
+24.06,2,,National Championships Poland U23 - ITT (NC),33.0,,,2015
+20.06,DNF,,Korona Kocich Gor (1.2),192.0,,,2015
 12.06 » 14.06,,,Tour of Malopolska (2.2),,,,2015
 ,13,,Youth classification,,,,2015
 ,51,,General classification,,,,2015
-14.06,13,,Stage 3 - Nowy Targ › Stary Sacz,138,,,2015
-13.06,57,57,Stage 2 - Niepolomice - › Szczyrzyc,142,,,2015
-12.06,14,17,Stage 1 - Alwernia › Miechow,136,,,2015
+14.06,13,,Stage 3 - Nowy Targ › Stary Sacz,138.0,,,2015
+13.06,57,57,Stage 2 - Niepolomice - › Szczyrzyc,142.0,,,2015
+12.06,14,17,Stage 1 - Alwernia › Miechow,136.0,,,2015
 29.05 » 31.05,,,Course de la Paix U23 / Závod Míru U23 (2.Ncup),,,,2015
 ,25,,Points classification,,,,2015
 ,16,,General classification,,,,2015
-31.05,18,,Stage 3 - Jeseník › Jeseník,160,,,2015
-30.05,16,18,Stage 2 - Glucholazy › Praded,113,,,2015
-29.05,11,13,Stage 1 - Jeseník › Rýmarov,122,,,2015
+31.05,18,,Stage 3 - Jeseník › Jeseník,160.0,,,2015
+30.05,16,18,Stage 2 - Glucholazy › Praded,113.0,,,2015
+29.05,11,13,Stage 1 - Jeseník › Rýmarov,122.0,,,2015
 17.05,15,,Visegrad V4 Race - GP Polski (1.2),134.8,,,2015
-16.05,DNF,,Visegrad 4 Bicycle Race - GP Czech Republic (1.2),180,,,2015
+16.05,DNF,,Visegrad 4 Bicycle Race - GP Czech Republic (1.2),180.0,,,2015
 28.04 » 03.05,,,Carpathian Couriers Race U-23 (2.2U),,,,2015
 ,2,,Mountains classification,,,,2015
 ,9,,General classification,,2,,2015
-03.05,3,,Stage 5 - Veszprém › Veszprém,109,1,2,2015
-02.05,59,14,Stage 4 - Dohnany › Nové Mesto nad Váhom,125,,,2015
-01.05,8,13,Stage 3 - Stará Bystrica › Bytca,126,,,2015
-30.04,23,28,Stage 2 - Zapora Niedzica › Jablonka,129,,,2015
-29.04,70,42,Stage 1 - Tarnów › Ciezkowice,120,,,2015
+03.05,3,,Stage 5 - Veszprém › Veszprém,109.0,1,2,2015
+02.05,59,14,Stage 4 - Dohnany › Nové Mesto nad Váhom,125.0,,,2015
+01.05,8,13,Stage 3 - Stará Bystrica › Bytca,126.0,,,2015
+30.04,23,28,Stage 2 - Zapora Niedzica › Jablonka,129.0,,,2015
+29.04,70,42,Stage 1 - Tarnów › Ciezkowice,120.0,,,2015
 28.04,46,46,Prologue - Tarnów › Tarnów,1.8,,,2015
 17.04 » 18.04,,,ZLM Roompot Tour (2.Ncup),,,,2015
-,31,,General classification,,,,2015
 18.04,47,,Stage 3 - Goes › Goes,177.2,,,2015
 17.04,12,23,Stage 2 (TTT) - Kamperland › Kamperland,24.8,,,2015
-17.04,25,25,Stage 1 - Kamperland › Zierikzee,122,,,2015
+17.04,25,25,Stage 1 - Kamperland › Zierikzee,122.0,,,2015
 15.04,DNF,,La Côte Picarde (1.Ncup),180.7,,,2015
-11.04,55,,Ronde van Vlaanderen Beloften (1.Ncup),177,,,2015
-06.04,39,,Giro Belvedere di Villa di Cordignano (1.2U),154,,,2015
+11.04,55,,Ronde van Vlaanderen Beloften (1.Ncup),177.0,,,2015
+06.04,39,,Giro Belvedere di Villa di Cordignano (1.2U),154.0,,,2015
 05.04,61,,Trofeo Piva (1.2U),168.7,,,2015
 21.03,DNF,,Ronde van Zeeland Seaports (1.1),196.1,,,2015
 12.03 » 15.03,,,Istarsko proljece - Istrian Spring Trophy (2.2),,,,2015
 ,11,,Points classification,,,,2015
 ,159,,General classification,,,,2015
-15.03,26,,Stage 3 - Pazin › Umag,156,,,2015
-14.03,183,174,Stage 2 - Vrsar › Motovun,157,,,2015
-13.03,50,91,Stage 1 - Porec › Labin,158,,,2015
+15.03,26,,Stage 3 - Pazin › Umag,156.0,,,2015
+14.03,183,174,Stage 2 - Vrsar › Motovun,157.0,,,2015
+13.03,50,91,Stage 1 - Porec › Labin,158.0,,,2015
 12.03,122,122,Prologue - Umag › Umag,1.9,,,2015
-07.03,54,,Porec Trophy - Trofej Porec (1.2),143,,,2015
+07.03,54,,Porec Trophy - Trofej Porec (1.2),143.0,,,2015
 04.03,142,,Trofej Umag - Umag Trophy (1.2),157.5,,,2015
 23.08 » 30.08,,,Tour de l'Avenir (2.Ncup),,,,2014
 ,98,,General classification,,,,2014
-30.08,97,,Stage 7 - Saint-Michel-de-Maurienne › La Toussuire,94,,,2014
-29.08,106,106,Stage 6 - Saint-Gervais › La Rosière,108,,,2014
+30.08,97,,Stage 7 - Saint-Michel-de-Maurienne › La Toussuire,94.0,,,2014
+29.08,106,106,Stage 6 - Saint-Gervais › La Rosière,108.0,,,2014
 28.08,56,113,Stage 5 - Bons-en-Chablais › Les Carroz d'Arraches,101.6,,,2014
 27.08,94,119,Stage 4 - Saint-Vulbas › Plateau de Solaison,165.3,,,2014
-26.08,22,121,Stage 3 - Montrond-les-Bains › Paray-le-Monial,143,,,2014
-25.08,94,121,Stage 2 - Brioude › Saint-Galmier,143,,,2014
-24.08,122,122,Stage 1 - Saint-Flour › Brioude,145,,,2014
+26.08,22,121,Stage 3 - Montrond-les-Bains › Paray-le-Monial,143.0,,,2014
+25.08,94,121,Stage 2 - Brioude › Saint-Galmier,143.0,,,2014
+24.08,122,122,Stage 1 - Saint-Flour › Brioude,145.0,,,2014
 23.08,87,87,Prologue - Saint-Flour › Saint-Flour,4.45,,,2014
-17.08,55,,Puchar Uzdrowisk Karpackich (1.2),161,,,2014
+17.08,55,,Puchar Uzdrowisk Karpackich (1.2),161.0,,,2014
 16.08,69,,Memorial Henryka Lasaka (1.2),182.3,,,2014
-27.07,12,,Central European Tour Isaszeg-Budapest (1.2),131,,,2014
-26.07,18,,Central-European Tour Szerencs-Ibrany (1.2),127,,,2014
-25.07,15,,Central-European Tour Kosice-Miskolc (1.2),122,,,2014
+27.07,12,,Central European Tour Isaszeg-Budapest (1.2),131.0,,,2014
+26.07,18,,Central-European Tour Szerencs-Ibrany (1.2),127.0,,,2014
+25.07,15,,Central-European Tour Kosice-Miskolc (1.2),122.0,,,2014
 13.07,42,,European Championships U23 - Road Race (CC),172.8,,,2014
-28.06,DNF,,National Championships Poland U23 - Road Race (NC),176,,,2014
-25.06,6,,National Championships Poland U23 - ITT (NC),40,,,2014
+28.06,DNF,,National Championships Poland U23 - Road Race (NC),176.0,,,2014
+25.06,6,,National Championships Poland U23 - ITT (NC),40.0,,,2014
 21.06 » 22.06,,,Memorial im. J. Grundmanna J. Wizowskiego (2.2),,,,2014
 ,2,,Youth classification,,,,2014
 ,9,,General classification,,2,,2014
@@ -591,59 +631,59 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.06 » 14.06,,,Tour of Malopolska (2.2),,,,2014
 ,14,,Youth classification,,,,2014
 ,56,,General classification,,,,2014
-14.06,26,,Stage 3 - Muszyna › Stary Sacz,151,,,2014
-13.06,62,59,Stage 2 - Niepolomice › Jodlownik,149,,,2014
-12.06,8,10,Stage 1 - Miechow › Trzebinia,141,,,2014
+14.06,26,,Stage 3 - Muszyna › Stary Sacz,151.0,,,2014
+13.06,62,59,Stage 2 - Niepolomice › Jodlownik,149.0,,,2014
+12.06,8,10,Stage 1 - Miechow › Trzebinia,141.0,,,2014
 30.05 » 01.06,,,Course de la Paix U23 / Závod Míru U23 (2.2U),,,,2014
 ,16,,Points classification,,,,2014
 ,23,,General classification,,,,2014
-01.06,10,,Stage 3 - Jeseník › Jeseník,160,,,2014
-31.05,37,32,Stage 2 - Glucholazy › Praděd,93,,,2014
-30.05,11,11,Stage 1 - Jeseník › Rýmařov,122,,,2014
-17.05,16,,Visegrad 4 Bicycle Race - GP Hungary (1.2),158,,,2014
-16.05,47,,Visegrad 4 Bicycle Race - GP Slovakia (1.2),147,,,2014
+01.06,10,,Stage 3 - Jeseník › Jeseník,160.0,,,2014
+31.05,37,32,Stage 2 - Glucholazy › Praděd,93.0,,,2014
+30.05,11,11,Stage 1 - Jeseník › Rýmařov,122.0,,,2014
+17.05,16,,Visegrad 4 Bicycle Race - GP Hungary (1.2),158.0,,,2014
+16.05,47,,Visegrad 4 Bicycle Race - GP Slovakia (1.2),147.0,,,2014
 15.05,30,,Visegrad 4 Bicycle Race - GP Czech Republic (1.2),183.5,,,2014
-13.05,12,,Visegrad 4 Bicycle Race - GP Polski Via Odra (1.2),170,,,2014
+13.05,12,,Visegrad 4 Bicycle Race - GP Polski Via Odra (1.2),170.0,,,2014
 29.04 » 04.05,,,Carpathian Couriers Race U-23 (2.2U),,,,2014
 ,4,,Youth classification,,,,2014
 ,1,,Mountains classification,,,,2014
 ,19,,Points classification,,,,2014
 ,12,,General classification,,,,2014
-04.05,6,,Stage 6 - Dąbrowa Tarnowska › Tarnów,148,,,2014
-03.05,16,12,Stage 5 - Zapora Niedzica › Ciężkowice,143,,,2014
-02.05,33,12,Stage 4 - Stara Bystrica › Jabłonka,108,,,2014
-01.05,18,14,Stage 3 (ITT) - Horni Lidec › Horni Lidec,30,,,2014
-30.04,47,11,Stage 2 - Nitra › Povazka Bystrica,154,,,2014
-29.04,22,26,Stage 1 - Veszprem › Veszprem,109,,,2014
+04.05,6,,Stage 6 - Dąbrowa Tarnowska › Tarnów,148.0,,,2014
+03.05,16,12,Stage 5 - Zapora Niedzica › Ciężkowice,143.0,,,2014
+02.05,33,12,Stage 4 - Stara Bystrica › Jabłonka,108.0,,,2014
+01.05,18,14,Stage 3 (ITT) - Horni Lidec › Horni Lidec,30.0,,,2014
+30.04,47,11,Stage 2 - Nitra › Povazka Bystrica,154.0,,,2014
+29.04,22,26,Stage 1 - Veszprem › Veszprem,109.0,,,2014
 27.09,74,,World Championships U23 - Road Race (WC),173.2,,,2013
 14.09,21,,Tour du Jura (1.2),189.8,,,2013
 05.09 » 08.09,,,Okolo Jižních Čech (2.2),,,,2013
 07.09,DNF,,Stage 3 - Trhové Sviny › Tábor,181.8,,,2013
 06.09,12,97,Stage 2 - Týn nad Vltavou › Milevsko,143.2,,,2013
 05.09,125,125,Stage 1 - Třeboň › Nová Bystřice,53.3,,,2013
-17.08,DNF,,Puchar Ministra Obrony Narodowej (1.2),179,,,2013
+17.08,DNF,,Puchar Ministra Obrony Narodowej (1.2),179.0,,,2013
 11.08,DNF,,Puchar Uzdrowisk Karpackich (1.2),173.5,,,2013
 10.08,36,,Memorial Henryka Lasaka (1.2),178.8,,,2013
 23.07 » 27.07,,,Dookoła Mazowsza (2.2),,,,2013
 ,7,,Mountains classification,,,,2013
-27.07,DNS,,Stage 6 - Nowy Dwor Mazowieck › Nowy Dwor Mazowieck,160,,,2013
-26.07,14,43,Stage 5 - Modlin › Nowy Dwor Mazowieck,110,,,2013
+27.07,DNS,,Stage 6 - Nowy Dwor Mazowieck › Nowy Dwor Mazowieck,160.0,,,2013
+26.07,14,43,Stage 5 - Modlin › Nowy Dwor Mazowieck,110.0,,,2013
 26.07,15,43,Stage 4 (TTT) - Nowy Dwor Mazowieck › Nowy Dwor Mazowieck,26.7,,,2013
-25.07,69,39,Stage 3 - Wysokie Mazowieck › Łomża,160,,,2013
-24.07,32,23,Stage 2 - Warszawa-Wesola › Wysokie Mazowieck,186,,,2013
-23.07,16,18,Stage 1 - Kozienice › Kozienice,177,,,2013
-21.07,12,,European Championships U23 - Road Race (CC),165,6,3,2013
-07.07,33,,Giro del Medio Brenta (1.2),169,,,2013
-22.06,5,,National Championships Poland U23 - Road Race (NC),176,,,2013
-20.06,18,,National Championships Poland U23 - ITT (NC),40,,,2013
+25.07,69,39,Stage 3 - Wysokie Mazowieck › Łomża,160.0,,,2013
+24.07,32,23,Stage 2 - Warszawa-Wesola › Wysokie Mazowieck,186.0,,,2013
+23.07,16,18,Stage 1 - Kozienice › Kozienice,177.0,,,2013
+21.07,12,,European Championships U23 - Road Race (CC),165.0,6,3,2013
+07.07,33,,Giro del Medio Brenta (1.2),169.0,,,2013
+22.06,5,,National Championships Poland U23 - Road Race (NC),176.0,,,2013
+20.06,18,,National Championships Poland U23 - ITT (NC),40.0,,,2013
 13.06 » 15.06,,,Tour of Malopolska (2.2),,,,2013
-15.06,DNF,,Stage 3 - Niedzica › Niedzica,148,,,2013
-14.06,16,19,Stage 2 - Niepołomice › Jodłownik,149,,,2013
-13.06,14,17,Stage 1 - Trzebinia › Miechów,152,,,2013
+15.06,DNF,,Stage 3 - Niedzica › Niedzica,148.0,,,2013
+14.06,16,19,Stage 2 - Niepołomice › Jodłownik,149.0,,,2013
+13.06,14,17,Stage 1 - Trzebinia › Miechów,152.0,,,2013
 25.05 » 26.05,,,Course de la Paix U23 / Závod Míru U23 (2.2U),,,,2013
 ,1,,Mountains classification,,,,2013
 ,45,,General classification,,,,2013
-26.05,44,,Stage 3 - Jesenik › Jesenik,150,,,2013
+26.05,44,,Stage 3 - Jesenik › Jesenik,150.0,,,2013
 25.05,99,108,Stage 2 - Jesenik › Bruntal,112.5,,,2013
 25.05,125,125,Prologue - Jesenik › Jesenik,2.1,,,2013
 09.05 » 12.05,,,Tour de Berlin (2.2U),,,,2013
@@ -652,26 +692,25 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,33,,General classification,,,,2013
 12.05,5,,Stage 5 - Berlin › Berlin,182.1,,,2013
 11.05,8,36,Stage 4 - Rudow › Rudow,158.6,,,2013
-10.05,21,37,Stage 3 - Baruth( Mark) › Baruth( Mark),123,,,2013
+10.05,21,37,Stage 3 - Baruth( Mark) › Baruth( Mark),123.0,,,2013
 10.05,36,38,Stage 2 (ITT) - Baruth( Mark) › Baruth( Mark),19.2,,,2013
-09.05,35,35,Stage 1 - Birkenwerder › Birkenwerder,164,,,2013
+09.05,35,35,Stage 1 - Birkenwerder › Birkenwerder,164.0,,,2013
 01.05 » 05.05,,,Carpathian Couriers Race U-23 (2.2U),,,,2013
 ,9,,Youth classification,,,,2013
-,1,,Mountains classification,,,,2013
 ,14,,Points classification,,,,2013
 ,14,,General classification,,,,2013
-05.05,78,,Stage 4 - Radłów › Tarnów,118,,,2013
-04.05,14,14,Stage 3 - Jabłonka › Ciężkowice,143,,,2013
-03.05,8,16,Stage 2 - Dohňany › Stara Bystrica,131,,,2013
-02.05,12,16,Stage 1 - Dohňany › Dohňany,154,,,2013
-01.05,64,64,Prologue - Dohňany › Dohňany,2,,,2013
-01.04,30,,Giro del Belvedere di Villa di Cordignano (1.2U),154,,,2013
+05.05,78,,Stage 4 - Radłów › Tarnów,118.0,,,2013
+04.05,14,14,Stage 3 - Jabłonka › Ciężkowice,143.0,,,2013
+03.05,8,16,Stage 2 - Dohňany › Stara Bystrica,131.0,,,2013
+02.05,12,16,Stage 1 - Dohňany › Dohňany,154.0,,,2013
+01.05,64,64,Prologue - Dohňany › Dohňany,2.0,,,2013
+01.04,30,,Giro del Belvedere di Villa di Cordignano (1.2U),154.0,,,2013
 23.09,65,,World Championships MJ - Road Race (WC),128.8,,,2012
-11.08,42,,European Championships MJ - Road Race (CC),129,,,2012
+11.08,42,,European Championships MJ - Road Race (CC),129.0,,,2012
 26.07 » 29.07,,,Tour de la Région de Lódz (2.1),,,,2012
 ,35,,General classification,,,,2012
-29.07,25,,Stage 4 - Lask › Lask,111,,,2012
-28.07,43,39,Stage 3 - Lódz › Lódz,99,,,2012
+29.07,25,,Stage 4 - Lask › Lask,111.0,,,2012
+28.07,43,39,Stage 3 - Lódz › Lódz,99.0,,,2012
 27.07,60,59,Stage 2 - Buczek › Buczek,106.2,,,2012
 26.07,39,42,Stage 1 - Sedziejowice › Sedziejowice,106.5,,,2012
 13.07 » 15.07,,,Oberösterreich Juniorenrundfahrt (2.1),,,,2012
@@ -681,15 +720,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.07,41,35,Stage 2 - Linz  › Perg,110.3,,,2012
 13.07,6,6,Stage 1 - Haid  › Marchtrenk,98.2,3,,2012
 07.07 » 08.07,,,GP Général Patton (2.Ncup),,,,2012
-08.07,DNF,,Stage 2 - Wincrange › Wincrange,97,,,2012
+08.07,DNF,,Stage 2 - Wincrange › Wincrange,97.0,,,2012
 07.07,27,27,Stage 1 - Ettelbruck  › Troisvierges,103.6,,,2012
 17.05 » 20.05,,,Trofeo Karlsberg (2.Ncup),,,,2012
 ,58,,General classification,,5,,2012
-20.05,60,,Stage 4 - Reinheim › Reinheim,99,,,2012
-19.05,91,55,Stage 3b - Homburg › Homburg,79,,,2012
+20.05,60,,Stage 4 - Reinheim › Reinheim,99.0,,,2012
+19.05,91,55,Stage 3b - Homburg › Homburg,79.0,,,2012
 19.05,83,59,Stage 3a (ITT) - Habkirchen  › Reinheim,9.3,,,2012
-18.05,19,12,Stage 2 - Erfweiler-Ehlingen › Erfweiler-Ehlingen,90,,,2012
-17.05,10,10,Stage 1 - Großrosseln › Sankt Nikolaus,115,,,2012
+18.05,19,12,Stage 2 - Erfweiler-Ehlingen › Erfweiler-Ehlingen,90.0,,,2012
+17.05,10,10,Stage 1 - Großrosseln › Sankt Nikolaus,115.0,,,2012
 03.05 » 06.05,,,Course de la Paix Juniors (2.Ncup),,,,2012
 ,32,,General classification,,5,,2012
 06.05,71,,Stage 4 - Terezin › Terezin,99.8,,,2012
@@ -699,9 +738,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.05,20,20,Stage 1 - Litomerice    › Litomerice   ,95.5,,,2012
 20.04 » 22.04,,,Tour of Istria - Memorial Edi Rajkovic (2.Ncup),,,,2012
 ,15,,General classification,,20,,2012
-22.04,51,,Stage 3 - Vrsar  › Pula,105,,,2012
-21.04,15,13,Stage 2 - Umag  › Labin,90,,,2012
-20.04,40,40,Stage 1 - Rovinj  › Buzet,97,,,2012
+22.04,51,,Stage 3 - Vrsar  › Pula,105.0,,,2012
+21.04,15,13,Stage 2 - Umag  › Labin,90.0,,,2012
+20.04,40,40,Stage 1 - Rovinj  › Buzet,97.0,,,2012
 08.04,21,,Paris - Roubaix Juniors (1.Ncup),119.1,5,,2012
 01.09 » 03.09,,,Giro Internazionale della Lunigiana (2.1),,,,2011
 ,20,,General classification,,1,,2011
@@ -718,7 +757,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.07 » 31.07,,,Tour de la Région de Lodz (2.1),,,,2011
 ,27,,General classification,,,,2011
 31.07,35,,Stage 4 - Łask › Łask,,,,2011
-30.07,16,,Stage 3 - Łódź › Łódź,99,,,2011
+30.07,16,,Stage 3 - Łódź › Łódź,99.0,,,2011
 29.07,18,,Stage 2 - Pabianice › Pabianice,96.4,,,2011
 28.07,36,,Stage 1 - Sędziejowice › Sędziejowice,109.6,,,2011
 28.04 » 01.05,,,La Coupe du Président de la Ville de Grudziądz (2.1),,,,2011
@@ -726,7 +765,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,36,,Points classification,,,,2011
 ,30,,General classification,,,,2011
 01.05,29,,Stage 4 - Grudziądz › Grudziądz,109.5,,,2011
-30.04,19,33,Stage 3 - Świecie › Świecie,105,,,2011
+30.04,19,33,Stage 3 - Świecie › Świecie,105.0,,,2011
 29.04,27,75,Stage 2 - Jabłonowo Pomorskie › Jabłonowo Pomorskie,96.5,,,2011
-28.04,29,87,Stage 1b - Łasin › Łasin,90,,,2011
-28.04,22,106,Stage 1a (TTT) - Gruta › Gruta,10,,,2011
+28.04,29,87,Stage 1b - Łasin › Łasin,90.0,,,2011
+28.04,22,106,Stage 1a (TTT) - Gruta › Gruta,10.0,,,2011

@@ -1,40 +1,42 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
 15.04,1,,Tour du Maroc (2.5) ,,25,,1993
 09.03,2,,Paris-Troyes (1.2) ,,10,,1993
+15.04,1,,Tour du Maroc (2.5) ,,25,,1993
+09.03,2,,Paris-Troyes (1.2) ,,10,,1993
 07.06 » 11.06,,,Route du Sud () ,,,,1989
-08.06,10,,Stage 2 - Pau › Saint-Girons ,213,,,1989
+08.06,10,,Stage 2 - Pau › Saint-Girons ,213.0,,,1989
 07.06,5,,Stage 1b - Biarritz › Pau ,131.5,4,,1989
-16.04,114,,Liège - Bastogne - Liège (CDM) ,268,5,,1989
+16.04,114,,Liège - Bastogne - Liège (CDM) ,268.0,5,,1989
 03.04 » 07.04,,,Vuelta Ciclista al Pais Vasco () ,,,,1989
-06.04,10,,Stage 4 - Vera de Bidasoa  › Vitoria ,178,1,,1989
-19.03,48,,Grand Prix de Cholet-Mauléon-Moulins () ,238,,,1989
-26.02,3,,Grand Prix de Cannes () ,148,40,,1989
+06.04,10,,Stage 4 - Vera de Bidasoa  › Vitoria ,178.0,1,,1989
+19.03,48,,Grand Prix de Cholet-Mauléon-Moulins () ,238.0,,,1989
+26.02,3,,Grand Prix de Cannes () ,148.0,40,,1989
 09.02 » 12.02,,,Etoile de Bessèges () ,,,,1989
 ,22,,General classification ,,,,1989
-11.09,32,,GP de Fourmies / La Voix du Nord () ,226,,,1988
+11.09,32,,GP de Fourmies / La Voix du Nord () ,226.0,,,1988
 03.07 » 24.07,,,Tour de France () ,,,,1988
 ,123,,General classification ,,25,,1988
 24.07,19,,Stage 22 - Nemours › Paris ,172.5,,,1988
-23.07,142,,Stage 21 (ITT) - Santenay › Santenay ,46,,,1988
+23.07,142,,Stage 21 (ITT) - Santenay › Santenay ,46.0,,,1988
 22.07,45,,Stage 20 - Clermont Ferrand › Chalon-sur-Saône ,223.5,,,1988
-21.07,133,,Stage 19 - Limoges › Puy de Dôme ,188,,,1988
+21.07,133,,Stage 19 - Limoges › Puy de Dôme ,188.0,,,1988
 20.07,72,,Stage 18 - Ruelle › Limoges ,93.5,,,1988
-19.07,21,,Stage 17 - Pau › Bordeaux ,210,,,1988
-19.07,29,,Stage 16 - Tarbes › Pau ,38,,,1988
+19.07,21,,Stage 17 - Pau › Bordeaux ,210.0,,,1988
+19.07,29,,Stage 16 - Tarbes › Pau ,38.0,,,1988
 18.07,138,,Stage 15 - Saint Girons › Luz Ardiden ,187.5,,,1988
-17.07,163,,Stage 14 - Blagnac › Guzet-Neige ,163,,,1988
-15.07,16,,Stage 13 (ITT) - Grenoble › Villard de Lans ,38,,,1988
-14.07,130,,Stage 12 - Morzine › l'Alpe d'Huez ,227,,,1988
-13.07,153,,Stage 11 - Besançon › Morzine ,232,,,1988
+17.07,163,,Stage 14 - Blagnac › Guzet-Neige ,163.0,,,1988
+15.07,16,,Stage 13 (ITT) - Grenoble › Villard de Lans ,38.0,,,1988
+14.07,130,,Stage 12 - Morzine › l'Alpe d'Huez ,227.0,,,1988
+13.07,153,,Stage 11 - Besançon › Morzine ,232.0,,,1988
 12.07,165,,Stage 10 - Belfort › Besançon ,149.5,,,1988
 11.07,135,,Stage 9 - Nancy › Straatsburg ,160.5,,,1988
-10.07,120,,Stage 8 - Reims › Nancy ,219,,,1988
-09.07,17,,Stage 7 - Wasquehal › Reims ,225,,,1988
-08.07,140,,Stage 6 (ITT) - Liévin  › Wasquehal ,52,,,1988
+10.07,120,,Stage 8 - Reims › Nancy ,219.0,,,1988
+09.07,17,,Stage 7 - Wasquehal › Reims ,225.0,,,1988
+08.07,140,,Stage 6 (ITT) - Liévin  › Wasquehal ,52.0,,,1988
 07.07,65,,Stage 5 - Neufchâtel-en-Bray › Liévin ,147.5,,,1988
-06.07,35,,Stage 4 - Le Mans › Évreux ,158,,,1988
+06.07,35,,Stage 4 - Le Mans › Évreux ,158.0,,,1988
 05.07,26,,Stage 3 - Nantes › Le Mans ,213.5,,,1988
-04.07,20,,Stage 2 (TTT) - La Haie Fouassière › Ancenis ,48,,,1988
+04.07,20,,Stage 2 (TTT) - La Haie Fouassière › Ancenis ,48.0,,,1988
 04.07,17,24,Stage 1 - Pontchâteau › Machecoul ,91.5,,,1988
 17.06 » 19.06,,,Arrateko Igoera () ,,,,1988
 18.06,4,,Stage 2 - Durango › Eibar ,167.6,5,,1988
@@ -42,229 +44,229 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,21,,General classification ,,18,,1988
 10.06,2,,Stage 6b (ITT) - Grenoble › Grenoble ,26.7,30,,1988
 06.06,2,,Stage 2 - Romans › Lyon ,181.4,30,,1988
-12.05,20,,Grand Prix de Wallonie () ,239,1,,1988
+12.05,20,,Grand Prix de Wallonie () ,239.0,1,,1988
 06.05 » 11.05,,,4 Jours de Dunkerque / Tour du Nord-pas-de-Calais () ,,,,1988
 ,42,,General classification ,,,,1988
-11.05,15,,Stage 6b - Dunkerque › Dunkerque ,105,,,1988
-07.05,12,,Stage 2 - Dunkerque › Berck ,178,,,1988
-20.03,20,,Grand Prix de Cholet-Mauléon-Moulins () ,241,1,,1988
+11.05,15,,Stage 6b - Dunkerque › Dunkerque ,105.0,,,1988
+07.05,12,,Stage 2 - Dunkerque › Berck ,178.0,,,1988
+20.03,20,,Grand Prix de Cholet-Mauléon-Moulins () ,241.0,1,,1988
 06.03 » 12.03,,,Paris - Nice () ,,,,1988
 ,38,,General classification ,,5,,1988
 27.02 » 27.02,,,Tour du Haut Var () ,,,,1988
-,13,, ,210,8,,1988
+,13,, ,210.0,8,,1988
 16.02 » 22.02,,,Tour Méditerranéen Cycliste Professionnel () ,,,,1988
 ,15,,General classification ,,6,,1988
 11.02 » 14.02,,,Etoile de Bessèges () ,,,,1988
 ,2,,General classification ,,70,,1988
-14.02,1,,Stage 3 - Alés › Bessèges ,141,20,,1988
-12.02,5,,Stage 1 - Lunel › Lunel ,133,4,,1988
-09.02,15,,Grand Prix Bèsseges () ,133,6,,1988
+14.02,1,,Stage 3 - Alés › Bessèges ,141.0,20,,1988
+12.02,5,,Stage 1 - Lunel › Lunel ,133.0,4,,1988
+09.02,15,,Grand Prix Bèsseges () ,133.0,6,,1988
 11.10,12,,Paris - Tours (SPP) ,255.5,34,,1987
 08.09 » 19.09,,,Tour de la Communauté européenne () ,,,,1987
 ,83,,General classification ,,,,1987
 28.08 » 30.08,,,Paris-Bourges () ,,,,1987
 ,3,,General classification ,,50,,1987
-29.08,2,,Stage 2 - Saint-Amand › Saint-Germain-du-Puy ,98,12,,1987
+29.08,2,,Stage 2 - Saint-Amand › Saint-Germain-du-Puy ,98.0,12,,1987
 12.08 » 16.08,,,Tour of Britain (2.1) ,,,,1987
 ,42,,General classification ,,,,1987
-16.08,18,,Stage 5 - Westminster › Westminster ,97,,,1987
-15.08,19,,Stage 4 - Birmingham › Cardiff ,246,,,1987
+16.08,18,,Stage 5 - Westminster › Westminster ,97.0,,,1987
+15.08,19,,Stage 4 - Birmingham › Cardiff ,246.0,,,1987
 18.06 » 24.06,,,GP du Midi-Libre (SPP) ,,,,1987
 ,38,,General classification ,,,,1987
 08.06 » 12.06,,,Tour de Luxembourg () ,,,,1987
 ,29,,General classification ,,,,1987
 25.05 » 01.06,,,Critérium du Dauphiné Libéré (SPP) ,,,,1987
 ,7,,General classification ,,100,,1987
-01.06,DF,,Stage 7 - Sisteron › Carprentas ,193,,,1987
-31.05,DF,,Stage 6 - Bardonecchia  › Bardonecchia  ,170,,,1987
-30.05,DF,,Stage 5 - Chambéry › Modane  ,192,,,1987
-29.05,DF,,Stage 4 - Bourg-de-Péage  › Lyon ,202,,,1987
-28.05,5,,Stage 3a - Saint Etienne  › Valence ,106,10,,1987
-28.05,DF,,Stage 3b (ITT) - Valence › Valence ,32,,,1987
-27.05,9,,Stage 2 - Bellegarde  › Saint Etienne  ,195,2,,1987
-26.05,DF,,Stage 1 - Grenoble › Ferney-Voltaire ,202,,,1987
-25.05,DF,,Prologue - Grenoble › Grenoble ,3,,,1987
+01.06,DF,,Stage 7 - Sisteron › Carprentas ,193.0,,,1987
+31.05,DF,,Stage 6 - Bardonecchia  › Bardonecchia  ,170.0,,,1987
+30.05,DF,,Stage 5 - Chambéry › Modane  ,192.0,,,1987
+29.05,DF,,Stage 4 - Bourg-de-Péage  › Lyon ,202.0,,,1987
+28.05,5,,Stage 3a - Saint Etienne  › Valence ,106.0,10,,1987
+28.05,DF,,Stage 3b (ITT) - Valence › Valence ,32.0,,,1987
+27.05,9,,Stage 2 - Bellegarde  › Saint Etienne  ,195.0,2,,1987
+26.05,DF,,Stage 1 - Grenoble › Ferney-Voltaire ,202.0,,,1987
+25.05,DF,,Prologue - Grenoble › Grenoble ,3.0,,,1987
 05.05 » 10.05,,,4 Jours de Dunkerque - Tour du Nord-Pas-de-Calais (SPP) ,,,,1987
 ,31,,General classification ,,,,1987
-10.05,8,,Stage 5 - Saint-Pol-sur-Ternoise  › Dunkerque ,188,1,,1987
-09.05,DF,,Stage 4 - Denain › Saint Quentin    ,154,,,1987
-08.05,DF,,Stage 3a - Armentières › Cassel ,91,,,1987
-08.05,9,,Stage 3b - Lillers › Denain ,112,,,1987
-07.05,DF,,Stage 2 - Ghyvelde › Dunkerque ,164,,,1987
-06.05,DF,,Stage 1 - Dunkerque › Dunkerque ,188,,,1987
+10.05,8,,Stage 5 - Saint-Pol-sur-Ternoise  › Dunkerque ,188.0,1,,1987
+09.05,DF,,Stage 4 - Denain › Saint Quentin    ,154.0,,,1987
+08.05,DF,,Stage 3a - Armentières › Cassel ,91.0,,,1987
+08.05,9,,Stage 3b - Lillers › Denain ,112.0,,,1987
+07.05,DF,,Stage 2 - Ghyvelde › Dunkerque ,164.0,,,1987
+06.05,DF,,Stage 1 - Dunkerque › Dunkerque ,188.0,,,1987
 05.05,DF,,Prologue - Dunkerque › Dunkerque ,5.9,,,1987
-25.04,19,,Amstel Gold Race (SPP) ,242,16,,1987
-19.04,30,,Liège - Bastogne - Liège (SPP) ,260,10,,1987
+25.04,19,,Amstel Gold Race (SPP) ,242.0,16,,1987
+19.04,30,,Liège - Bastogne - Liège (SPP) ,260.0,10,,1987
 28.03 » 30.03,,,Critérium International () ,,,,1987
 ,72,,General classification ,,,,1987
-30.03,DF,,Stage 3 (ITT) - Antibes  › Antibes  ,10,,,1987
-29.03,DF,,Stage 2 - Juan-les-Pins  › Caussols ,84,,,1987
-28.03,DF,,Stage 1 - Antibes  › Juan-les-Pins  ,179,,,1987
-22.03,27,,Grand Prix de Mauléon-Moulins () ,241,,,1987
+30.03,DF,,Stage 3 (ITT) - Antibes  › Antibes  ,10.0,,,1987
+29.03,DF,,Stage 2 - Juan-les-Pins  › Caussols ,84.0,,,1987
+28.03,DF,,Stage 1 - Antibes  › Juan-les-Pins  ,179.0,,,1987
+22.03,27,,Grand Prix de Mauléon-Moulins () ,241.0,,,1987
 21.08 » 24.08,,,Tour du Limousin () ,,,,1986
-24.08,3,,Stage 4 - Guéret › Limoges ,205,7,,1986
-23.08,2,,Stage 3 - Tulle › Guéret ,191,12,,1986
+24.08,3,,Stage 4 - Guéret › Limoges ,205.0,7,,1986
+23.08,2,,Stage 3 - Tulle › Guéret ,191.0,12,,1986
 04.07 » 27.07,,,Tour de France (SPP) ,,,,1986
 ,93,,General classification ,,25,,1986
 27.07,7,,Stage 23 - Cosne sur Loire › Paris ,246.5,22,,1986
-26.07,42,,Stage 22 - Clermont Ferrand › Nevers ,196,,,1986
-25.07,81,,Stage 21 - Saint-Etienne › Puy de Dôme ,190,,,1986
-24.07,118,,Stage 20 (ITT) - Saint-Etienne › Saint-Etienne ,58,,,1986
+26.07,42,,Stage 22 - Clermont Ferrand › Nevers ,196.0,,,1986
+25.07,81,,Stage 21 - Saint-Etienne › Puy de Dôme ,190.0,,,1986
+24.07,118,,Stage 20 (ITT) - Saint-Etienne › Saint-Etienne ,58.0,,,1986
 23.07,112,,Stage 19 - Villard de Lans › Saint-Etienne ,179.5,,,1986
 20.07,67,,Stage 18 - Briançon › l'Alpe d'Huez ,162.5,,,1986
-20.07,60,94,Stage 17 - Gap › Col du Granon ,190,,,1986
+20.07,60,94,Stage 17 - Gap › Col du Granon ,190.0,,,1986
 19.07,31,,Stage 16 - Nîmes › Gap ,246.5,,,1986
 18.07,83,,Stage 15 - Carcassonne › Nîmes ,225.5,,,1986
-18.07,31,,Stage 14 - Luchon › Blagnac ,154,,,1986
-16.07,118,,Stage 13 - Pau › Superbagnères ,186,,,1986
+18.07,31,,Stage 14 - Luchon › Blagnac ,154.0,,,1986
+16.07,118,,Stage 13 - Pau › Superbagnères ,186.0,,,1986
 15.07,111,,Stage 12 - Bayonne › Pau ,217.5,,,1986
 14.07,46,,Stage 11 - Poitiers › Bordeaux ,258.5,,,1986
-13.07,25,,Stage 10 - Nantes › Futuroscope ,183,,,1986
+13.07,25,,Stage 10 - Nantes › Futuroscope ,183.0,,,1986
 12.07,88,,Stage 9 (ITT) - Nantes › Nantes ,61.5,,,1986
-11.07,90,,Stage 8 - Saint Hilaire du Harcouët › Nantes ,204,,,1986
-10.07,19,,Stage 7 - Cherbourg › Saint Hilaire du Harcouët ,201,,,1986
-09.07,23,,Stage 6 - Villers-sur-Mer › Cherbourg ,200,,,1986
+11.07,90,,Stage 8 - Saint Hilaire du Harcouët › Nantes ,204.0,,,1986
+10.07,19,,Stage 7 - Cherbourg › Saint Hilaire du Harcouët ,201.0,,,1986
+09.07,23,,Stage 6 - Villers-sur-Mer › Cherbourg ,200.0,,,1986
 08.07,25,,Stage 5 - Évreux › Villers-sur-Mer ,124.5,,,1986
-07.07,186,,Stage 4 - Liévin › Évreux ,243,,,1986
-06.07,36,,Stage 3 - Levallois-Perret  › Liévin ,214,,,1986
-05.07,DF,,Stage 2 (TTT) - Meudon › St-Quentin-en-Yvelines  ,56,,,1986
-05.07,28,,Stage 1 - Nanterre  › Sceaux ,85,,,1986
+07.07,186,,Stage 4 - Liévin › Évreux ,243.0,,,1986
+06.07,36,,Stage 3 - Levallois-Perret  › Liévin ,214.0,,,1986
+05.07,DF,,Stage 2 (TTT) - Meudon › St-Quentin-en-Yvelines  ,56.0,,,1986
+05.07,28,,Stage 1 - Nanterre  › Sceaux ,85.0,,,1986
 04.07,112,112,Prologue - Boulogne-Billancourt › Boulogne-Billancourt ,4.6,,,1986
 11.06 » 15.06,,,GP du Midi-Libre (SPP) ,,,,1986
 ,42,,General classification ,,,,1986
 26.05 » 02.06,,,Critérium du Dauphiné Libéré (SPP) ,,,,1986
 ,28,,General classification ,,7,,1986
-02.06,DF,,Stage 7a - Laragne › Camarade  ,106,,,1986
+02.06,DF,,Stage 7a - Laragne › Camarade  ,106.0,,,1986
 02.06,DF,,Stage 7b (ITT) - Camarade  › Nyons ,35.9,,,1986
-01.06,DF,,Stage 6 - Grenoble › Puy-Saint-Vincent ,207,,,1986
-31.05,DF,,Stage 5 - Chambéry  › Albertville ,184,,,1986
-30.05,DF,,Stage 4b - Charavines › Chambéry  ,94,,,1986
-30.05,9,,Stage 4a - Saint-Chamond  › Charavines ,100,2,,1986
-29.05,DF,,Stage 3 - Digoin › Saint Etienne  ,195,,,1986
-28.05,DF,,Stage 2 - Belleville  › Gueugnon    ,186,,,1986
-27.05,DF,,Stage 1 - Annecy › Villeurbanne ,176,,,1986
+01.06,DF,,Stage 6 - Grenoble › Puy-Saint-Vincent ,207.0,,,1986
+31.05,DF,,Stage 5 - Chambéry  › Albertville ,184.0,,,1986
+30.05,DF,,Stage 4b - Charavines › Chambéry  ,94.0,,,1986
+30.05,9,,Stage 4a - Saint-Chamond  › Charavines ,100.0,2,,1986
+29.05,DF,,Stage 3 - Digoin › Saint Etienne  ,195.0,,,1986
+28.05,DF,,Stage 2 - Belleville  › Gueugnon    ,186.0,,,1986
+27.05,DF,,Stage 1 - Annecy › Villeurbanne ,176.0,,,1986
 26.05,DF,,Prologue - Annecy › Annecy ,4.1,,,1986
 05.05 » 10.05,,,4 Jours de Dunkerque / Tour du Nord-pas-de-Calais (SPP) ,,,,1986
 ,2,,General classification ,,110,,1986
-10.05,11,,Stage 5b - Dunkerque › Dunkerque ,81,,,1986
-10.05,8,,Stage 5a - Armentières › Cassel ,98,1,,1986
-09.05,13,,Stage 4 - Dunkerque › Armentières ,168,,,1986
-08.05,2,,Stage 3 - Denain  › Dunkerque ,182,18,,1986
-06.05,2,,Stage 1 - Dunkerque › Saint Quentin  ,204,18,,1986
-16.04,24,,La Flèche Wallonne (SPP) ,248,11,,1986
-06.04,18,,GP de la Ville de Rennes () ,229,3,,1986
+10.05,11,,Stage 5b - Dunkerque › Dunkerque ,81.0,,,1986
+10.05,8,,Stage 5a - Armentières › Cassel ,98.0,1,,1986
+09.05,13,,Stage 4 - Dunkerque › Armentières ,168.0,,,1986
+08.05,2,,Stage 3 - Denain  › Dunkerque ,182.0,18,,1986
+06.05,2,,Stage 1 - Dunkerque › Saint Quentin  ,204.0,18,,1986
+16.04,24,,La Flèche Wallonne (SPP) ,248.0,11,,1986
+06.04,18,,GP de la Ville de Rennes () ,229.0,3,,1986
 22.03 » 24.03,,,Critérium International () ,,,,1986
 ,10,,General classification ,,40,,1986
-23.03,6,,Stage 2 - Juan-les-Pins  › Caussols ,84,3,,1986
-16.03,7,,Grand Prix de Mauléon-Moulins () ,237,20,,1986
+23.03,6,,Stage 2 - Juan-les-Pins  › Caussols ,84.0,3,,1986
+16.03,7,,Grand Prix de Mauléon-Moulins () ,237.0,20,,1986
 02.03 » 09.03,,,Paris - Nice (SPP) ,,,,1986
 ,13,,General classification ,,50,,1986
-09.03,9,,Stage 7a - Mandelieu › Nice ,101,2,,1986
-09.03,6,,Stage 7b (ITT) - Nice › Col d'eze ,10,7,,1986
-08.03,5,,Stage 6 - Toulon  › Mandelieu ,194,10,,1986
-06.03,9,,Stage 4a - Le Rouret › Mont ventoux ,118,2,,1986
-05.03,8,,Stage 3 - Saint-Étienne  › Domaine du rouret ,206,3,,1986
-04.03,20,,Stage 2 - Buxy › Saint-Étienne  ,223,,,1986
-03.03,25,,Stage 1 - Limeil › Brévannes ,148,,,1986
-22.02,38,,Tour du Haut Var () ,182,,,1986
+09.03,9,,Stage 7a - Mandelieu › Nice ,101.0,2,,1986
+09.03,6,,Stage 7b (ITT) - Nice › Col d'eze ,10.0,7,,1986
+08.03,5,,Stage 6 - Toulon  › Mandelieu ,194.0,10,,1986
+06.03,9,,Stage 4a - Le Rouret › Mont ventoux ,118.0,2,,1986
+05.03,8,,Stage 3 - Saint-Étienne  › Domaine du rouret ,206.0,3,,1986
+04.03,20,,Stage 2 - Buxy › Saint-Étienne  ,223.0,,,1986
+03.03,25,,Stage 1 - Limeil › Brévannes ,148.0,,,1986
+22.02,38,,Tour du Haut Var () ,182.0,,,1986
 25.09 » 29.09,,,Tour of Ireland () ,,,,1985
 ,50,,General classification ,,,,1985
 28.06 » 21.07,,,Tour de France (SPP) ,,,,1985
 ,100,,General classification ,,25,,1985
-21.07,13,,Stage 22 - Orléans › Paris ,217,4,,1985
+21.07,13,,Stage 22 - Orléans › Paris ,217.0,4,,1985
 20.07,69,,Stage 21 (ITT) - Limoges › Lac de Vassivière ,45.7,,,1985
-19.07,21,,Stage 20 - Montpon-Ménestérol › Limoges ,225,,,1985
-18.07,90,,Stage 19 - Pau › Bordeaux ,200,,,1985
+19.07,21,,Stage 20 - Montpon-Ménestérol › Limoges ,225.0,,,1985
+18.07,90,,Stage 19 - Pau › Bordeaux ,200.0,,,1985
 17.07,37,,Stage 18a - Luz-Saint Sauveur › Col d'Aubisque ,52.5,,,1985
 17.07,1,,Stage 18b - Laruns › Pau ,83.5,100,,1985
 16.07,41,,Stage 17 - Toulouse › Luz-Ardiden ,209.5,,,1985
-15.07,52,,Stage 16 - Aurillac › Toulouse ,247,,,1985
-14.07,75,,Stage 15 - Saint-Etienne › Aurillac ,237,,,1985
-13.07,142,,Stage 14 - Autrans › Saint-Etienne ,179,,,1985
+15.07,52,,Stage 16 - Aurillac › Toulouse ,247.0,,,1985
+14.07,75,,Stage 15 - Saint-Etienne › Aurillac ,237.0,,,1985
+13.07,142,,Stage 14 - Autrans › Saint-Etienne ,179.0,,,1985
 11.07,51,,Stage 13 (ITT) - Lans-en-Vercors › Villard-de-Lans ,31.8,,,1985
-10.07,99,,Stage 12 - Morzine › Lans en Vercors ,269,,,1985
-09.07,122,,Stage 11 - Pontarlier › Morzine-Avoriaz ,195,,,1985
+10.07,99,,Stage 12 - Morzine › Lans en Vercors ,269.0,,,1985
+09.07,122,,Stage 11 - Pontarlier › Morzine-Avoriaz ,195.0,,,1985
 08.07,160,,Stage 10 - Épinal › Pontarlier ,204.5,,,1985
 07.07,126,,Stage 9 - Straatsburg › Épinal ,173.5,,,1985
-06.07,80,,Stage 8 (ITT) - Sarrebourg › Straatsburg ,75,,,1985
-05.07,86,,Stage 7 - Reims › Nancy ,217,,,1985
-04.07,29,,Stage 6 - Roubaix › Reims ,221,,,1985
-03.07,125,,Stage 5 - Neufchâtel-en-Bray › Roubaix ,224,,,1985
-02.07,24,,Stage 4 - Fougères › Pont-Audemer ,240,,,1985
-01.07,DF,,Stage 3 (TTT) - Vitré › Fougères ,75,,,1985
-30.06,15,,Stage 2 - Lorient › Vitré ,242,1,,1985
-29.06,13,,Stage 1 - Vannes › Lanester ,256,4,,1985
+06.07,80,,Stage 8 (ITT) - Sarrebourg › Straatsburg ,75.0,,,1985
+05.07,86,,Stage 7 - Reims › Nancy ,217.0,,,1985
+04.07,29,,Stage 6 - Roubaix › Reims ,221.0,,,1985
+03.07,125,,Stage 5 - Neufchâtel-en-Bray › Roubaix ,224.0,,,1985
+02.07,24,,Stage 4 - Fougères › Pont-Audemer ,240.0,,,1985
+01.07,DF,,Stage 3 (TTT) - Vitré › Fougères ,75.0,,,1985
+30.06,15,,Stage 2 - Lorient › Vitré ,242.0,1,,1985
+29.06,13,,Stage 1 - Vannes › Lanester ,256.0,4,,1985
 28.06,25,25,Prologue - Plumelec › Plumelec ,6.8,,,1985
 12.06 » 16.06,,,GP du Midi-Libre (SPP) ,,,,1985
 ,77,,General classification ,,,,1985
-16.06,DF,,Stage 4 - Quissac  › Montpellier ,161,,,1985
-15.06,13,,Stage 3 - Nant  › Beaucaire    ,183,,,1985
-14.06,DF,,Stage 2 - Rodez  › Millau ,166,,,1985
-13.06,DF,,Stage 1 - Narbonne › Rodez  ,213,,,1985
+16.06,DF,,Stage 4 - Quissac  › Montpellier ,161.0,,,1985
+15.06,13,,Stage 3 - Nant  › Beaucaire    ,183.0,,,1985
+14.06,DF,,Stage 2 - Rodez  › Millau ,166.0,,,1985
+13.06,DF,,Stage 1 - Narbonne › Rodez  ,213.0,,,1985
 12.06,DF,,Prologue - Narbonne › Narbonne ,2.1,,,1985
 27.05 » 03.06,,,Critérium du Dauphiné Libéré (SPP) ,,,,1985
 ,43,,General classification ,,5,,1985
-03.06,5,,Stage 7a - Serres  › Orange  ,107,10,,1985
-28.05,4,,Stage 1b - Aix-les-Bains  › Ambérieu  ,91,13,,1985
+03.06,5,,Stage 7a - Serres  › Orange  ,107.0,10,,1985
+28.05,4,,Stage 1b - Aix-les-Bains  › Ambérieu  ,91.0,13,,1985
 07.05 » 12.05,,,4 Jours de Dunkerque / Tour du Nord-pas-de-Calais (SPP) ,,,,1985
 ,28,,General classification ,,,,1985
-10.05,8,,Stage 3 - Denain › Saint Quentin ,194,1,,1985
-09.05,15,,Stage 2 - Dunkerque › Denain ,201,,,1985
+10.05,8,,Stage 3 - Denain › Saint Quentin ,194.0,1,,1985
+09.05,15,,Stage 2 - Dunkerque › Denain ,201.0,,,1985
 07.05,19,,Prologue - Dunkerque › Dunkerque ,7.2,,,1985
-31.03,2,,GP de la Ville de Rennes () ,228,55,,1985
-07.10,57,,Paris - Tours (SPP) ,249,5,,1984
+31.03,2,,GP de la Ville de Rennes () ,228.0,55,,1985
+07.10,57,,Paris - Tours (SPP) ,249.0,5,,1984
 23.08 » 26.08,,,Tour du Limousin (2.1) ,,,,1984
 ,14,,General classification ,,7,,1984
-26.08,17,,Stage 4 - Uzerche › Limoges ,192,,,1984
-25.08,13,,Stage 3 - Saint-Yrieix › Uzerche ,171,,,1984
-24.08,11,,Stage 2 - Bellac › Saint-Yrieix ,168,,,1984
-23.08,24,,Stage 1a - Limoges › Bourganeuf ,94,,,1984
+26.08,17,,Stage 4 - Uzerche › Limoges ,192.0,,,1984
+25.08,13,,Stage 3 - Saint-Yrieix › Uzerche ,171.0,,,1984
+24.08,11,,Stage 2 - Bellac › Saint-Yrieix ,168.0,,,1984
+23.08,24,,Stage 1a - Limoges › Bourganeuf ,94.0,,,1984
 29.06 » 22.07,,,Tour de France (SPP) ,,,,1984
 ,111,,General classification ,,25,,1984
 22.07,74,,Stage 23 - Pantin › Paris ,196.5,,,1984
-21.07,118,,Stage 22 (ITT) - Villié-Morgon › Villefranche-sur-Saone ,51,,,1984
-20.07,23,,Stage 21 - Crans-Montana › Villefranche-sur-Saone ,320,,,1984
+21.07,118,,Stage 22 (ITT) - Villié-Morgon › Villefranche-sur-Saone ,51.0,,,1984
+20.07,23,,Stage 21 - Crans-Montana › Villefranche-sur-Saone ,320.0,,,1984
 19.07,90,,Stage 20 - Morzine › Crans-Montana ,140.5,,,1984
-18.07,99,,Stage 19 - Aime › Morzine-Avoriaz ,186,,,1984
-17.07,119,,Stage 18 - Bourg d'Oisans › La Plagne ,185,,,1984
-16.07,90,,Stage 17 - Grenoble › l'Alpe d'Huez ,223,,,1984
-15.07,77,,Stage 16 (ITT) - Les Échelles › La Ruchère ,22,,,1984
+18.07,99,,Stage 19 - Aime › Morzine-Avoriaz ,186.0,,,1984
+17.07,119,,Stage 18 - Bourg d'Oisans › La Plagne ,185.0,,,1984
+16.07,90,,Stage 17 - Grenoble › l'Alpe d'Huez ,223.0,,,1984
+15.07,77,,Stage 16 (ITT) - Les Échelles › La Ruchère ,22.0,,,1984
 13.07,92,,Stage 15 - Domaine du Rouret › Grenoble ,241.5,,,1984
 12.07,136,,Stage 14 - Rodez › Domaine du Rouret ,227.5,,,1984
 11.07,127,,Stage 13 - Blagnac › Rodez ,220.5,,,1984
-10.07,94,,Stage 12 - Saint Girons › Blagnac ,111,,,1984
+10.07,94,,Stage 12 - Saint Girons › Blagnac ,111.0,,,1984
 09.07,139,,Stage 11 - Pau › Guzet-Neige ,226.5,,,1984
-08.07,65,,Stage 10 - Langon › Pau ,198,,,1984
-07.07,92,,Stage 9 - Nantes › Bordeaux ,338,,,1984
-06.07,70,,Stage 8 - Le Mans › Nantes ,192,,,1984
-05.07,102,,Stage 7 (ITT) - Alençon › Le Mans ,67,,,1984
-04.07,83,,Stage 6 - Cergy Pontoise › Alençon ,202,,,1984
-03.07,34,,Stage 5 - Béthune › Cergy Pontoise ,207,,,1984
-02.07,69,,Stage 4 - Valenciennes › Béthune ,83,,,1984
-02.07,DF,,Stage 3 (TTT) - Louvroil › Valenciennes ,51,,,1984
-01.07,71,,Stage 2 - Bobigny › Louvroil ,250,,,1984
-30.06,93,,Stage 1 - Bondy › Saint Denis ,149,,,1984
+08.07,65,,Stage 10 - Langon › Pau ,198.0,,,1984
+07.07,92,,Stage 9 - Nantes › Bordeaux ,338.0,,,1984
+06.07,70,,Stage 8 - Le Mans › Nantes ,192.0,,,1984
+05.07,102,,Stage 7 (ITT) - Alençon › Le Mans ,67.0,,,1984
+04.07,83,,Stage 6 - Cergy Pontoise › Alençon ,202.0,,,1984
+03.07,34,,Stage 5 - Béthune › Cergy Pontoise ,207.0,,,1984
+02.07,69,,Stage 4 - Valenciennes › Béthune ,83.0,,,1984
+02.07,DF,,Stage 3 (TTT) - Louvroil › Valenciennes ,51.0,,,1984
+01.07,71,,Stage 2 - Bobigny › Louvroil ,250.0,,,1984
+30.06,93,,Stage 1 - Bondy › Saint Denis ,149.0,,,1984
 29.06,37,37,Prologue - Montreuil sous Bois › Noisy le Sec ,5.4,,,1984
 08.05 » 13.05,,,Tour de Romandie (SPP) ,,,,1984
 ,40,,General classification ,,5,,1984
 13.04 » 17.04,,,Tour du Vaucluse () ,,,,1984
 17.04,1,,Stage 4 - Le Pontet › Avignon ,,20,,1984
-01.04,7,,GP de la Ville de Rennes () ,228,20,,1984
+01.04,7,,GP de la Ville de Rennes () ,228.0,20,,1984
 07.03 » 14.03,,,Paris - Nice (SPP) ,,,,1984
 ,30,,General classification ,,5,,1984
-11.03,15,,Stage 4b - Sault › Miramas ,96,,,1984
-10.03,12,,Stage 3 - Moulins › Saint-Étienne ,190,,,1984
-09.03,20,,Stage 2a - Chalon-sur-Saône › Bourbon-lancy ,101,,,1984
+11.03,15,,Stage 4b - Sault › Miramas ,96.0,,,1984
+10.03,12,,Stage 3 - Moulins › Saint-Étienne ,190.0,,,1984
+09.03,20,,Stage 2a - Chalon-sur-Saône › Bourbon-lancy ,101.0,,,1984
 26.02 » 26.02,,,Tour du Haut Var () ,,,,1984
-,12,, ,202,10,,1984
+,12,, ,202.0,10,,1984
 09.02 » 12.02,,,Etoile de Bessèges () ,,,,1984
 ,5,,General classification ,,28,,1984
-12.02,4,,Stage 3 - Bessèges › Bessèges ,136,5,,1984
+12.02,4,,Stage 3 - Bessèges › Bessèges ,136.0,5,,1984
 25.04,7,,Gran Premio della Liberazione () ,121.9,,,1983
 08.09 » 19.09,,,Tour de l'Avenir () ,,,,1982
 19.09,14,,Stage 11 - Morzine › Morzine ,79.1,,,1982
 09.09,12,,Stage 1 - Divonne-les-Bains  › Bourg-en-Bresse ,156.5,,,1982
 25.04,3,,Gran Premio della Liberazione () ,121.9,7,,1982
 23.08 » 26.08,,,Tour du Limousin (2.1) ,,,,1981
-25.08,20,,Stage 3 - Tulle › Brive-la-Gaillarde ,163,,,1981
-21.04,33,,Paris-Camembert () ,231,,,1981
+25.08,20,,Stage 3 - Tulle › Brive-la-Gaillarde ,163.0,,,1981
+21.04,33,,Paris-Camembert () ,231.0,,,1981

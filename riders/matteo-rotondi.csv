@@ -1,23 +1,45 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+01.09 » 04.09,,,Settimana Internazionale Coppi e Bartali (2.1) ,,,,2020
+03.09,DNF,,Stage 3 - Riccione › Riccione ,168.9,,,2020
+02.09,117,139,Stage 2 - Riccione › Sogliano al Rubicone ,166.5,,,2020
+01.09,141,141,Stage 1a - Gatteo › Gatteo ,97.8,,,2020
+01.09,27,132,Stage 1b (TTT) - Gatteo a Mare › Gatteo ,13.3,,,2020
+30.08,DNF,,Memorial Marco Pantani (1.1) ,199.8,,,2020
+29.08,DNF,,Trofeo Matteotti (1.1) ,195,,,2020
+23.08,DNF,,National Championships Italy - Road Race (NC) ,253.8,,,2020
+02.08,58,,Circuito de Getxo-Memorial Hermanos Otxoa (1.1) ,177,,,2020
+23.07 » 26.07,,,Sibiu Cycling Tour (2.1) ,,,,2020
+,18,,Points classification ,,,,2020
+,68,,General classification ,,,,2020
+26.07,20,,Stage 3b - Sibiu › Sibiu ,109,,,2020
+26.07,79,69,Stage 3a (ITT) - Curmătura Ștezii › Arena Platos ,12.5,,,2020
+25.07,42,69,Stage 2 - Sibiu › Sibiu ,181.2,,,2020
+24.07,75,72,Stage 1 - Sibiu › Bâlea Lac  ,183,,,2020
+23.07,5,5,Prologue - Sibiu › Sibiu ,2.5,4,,2020
+04.03,6,,Trofej Umag - Umag Trophy (1.2) ,154,1,10,2020
+16.02,DNF,,Trofeo Laigueglia (1.Pro) ,202,,,2020
+02.02,115,,Trofeo Playa de Palma - Palma (1.1) ,159.6,,,2020
+31.01,DNF,,Trofeo Serra de Tramuntana (1.1) ,160.5,,,2020
+30.01,83,,"Trofeo Felanitx, Ses Salines, Campos, Porreres (1.1) ",170.7,,,2020
 01.09 » 04.09,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2020
 03.09,DNF,,Stage 3 - Riccione › Riccione,168.9,,,2020
 02.09,117,139,Stage 2 - Riccione › Sogliano al Rubicone,166.5,,,2020
 01.09,141,141,Stage 1a - Gatteo › Gatteo,97.8,,,2020
 01.09,27,132,Stage 1b (TTT) - Gatteo a Mare › Gatteo,13.3,,,2020
 30.08,DNF,,Memorial Marco Pantani (1.1),199.8,,,2020
-29.08,DNF,,Trofeo Matteotti (1.1),195,,,2020
+29.08,DNF,,Trofeo Matteotti (1.1),195.0,,,2020
 23.08,DNF,,National Championships Italy - Road Race (NC),253.8,,,2020
-02.08,58,,Circuito de Getxo-Memorial Hermanos Otxoa (1.1),177,,,2020
+02.08,58,,Circuito de Getxo-Memorial Hermanos Otxoa (1.1),177.0,,,2020
 23.07 » 26.07,,,Sibiu Cycling Tour (2.1),,,,2020
 ,18,,Points classification,,,,2020
 ,68,,General classification,,,,2020
-26.07,20,,Stage 3b - Sibiu › Sibiu,109,,,2020
+26.07,20,,Stage 3b - Sibiu › Sibiu,109.0,,,2020
 26.07,79,69,Stage 3a (ITT) - Curmătura Ștezii › Arena Platos,12.5,,,2020
 25.07,42,69,Stage 2 - Sibiu › Sibiu,181.2,,,2020
-24.07,75,72,Stage 1 - Sibiu › Bâlea Lac ,183,,,2020
+24.07,75,72,Stage 1 - Sibiu › Bâlea Lac ,183.0,,,2020
 23.07,5,5,Prologue - Sibiu › Sibiu,2.5,4,,2020
-04.03,6,,Trofej Umag - Umag Trophy (1.2),154,1,10,2020
-16.02,DNF,,Trofeo Laigueglia (1.Pro),202,,,2020
+04.03,6,,Trofej Umag - Umag Trophy (1.2),154.0,1,10,2020
+16.02,DNF,,Trofeo Laigueglia (1.Pro),202.0,,,2020
 02.02,115,,Trofeo Playa de Palma - Palma (1.1),159.6,,,2020
 31.01,DNF,,Trofeo Serra de Tramuntana (1.1),160.5,,,2020
 30.01,83,,"Trofeo Felanitx, Ses Salines, Campos, Porreres (1.1)",170.7,,,2020
@@ -25,7 +47,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,109,,General classification,,,,2019
 07.09,80,,Stage 4 - Forgaria nel Friuli › San Daniele del Friuli,144.5,,,2019
 06.09,122,118,Stage 3 - Pordenone › Gorizia ,177.5,,,2019
-05.09,58,62,Stage 2 - Gemona del Friuli › Lignano,160,,,2019
+05.09,58,62,Stage 2 - Gemona del Friuli › Lignano,160.0,,,2019
 04.09,17,76,Stage 1 (TTT) - Torreano di Martignacco › Martignacco,16.1,,,2019
 02.07,43,,Trofeo Città di Brescia (1.2),121.8,,,2019
 10.05 » 12.05,,,CCC Tour - Grody Piastowskie (2.2),,,,2019
@@ -33,14 +55,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 11.05,76,79,Stage 2 - Złotoryja › Jawor,144.3,,,2019
 10.05,72,80,Stage 1b - Głogów › Polkowice,112.5,,,2019
 10.05,88,88,Stage 1a (ITT) - Polkowice › Polkowice,16.2,,,2019
-16.08,27,,GP Capodarco - Comunità di Capodarco (1.2U),180,,,2018
+16.08,27,,GP Capodarco - Comunità di Capodarco (1.2U),180.0,,,2018
 23.06,DNF,,National Championships Italy U23 - Road Race (NC),174.6,,,2018
-03.06,15,,Coppa della Pace - Trofeo F.lli Anelli (1.2),172,,,2018
+03.06,15,,Coppa della Pace - Trofeo F.lli Anelli (1.2),172.0,,,2018
 13.05,DNF,,Gran Premio Industrie del Marmo (1.2U),174.7,,,2018
 01.10,62,,Gran Premio Bruno Beghelli (1.HC),196.3,,,2017
 30.09,DNF,,Giro dell'Emilia (1.HC),223.3,,,2017
 16.09,74,,Memorial Marco Pantani (1.1),189.8,,,2017
-14.09,133,,Coppa Bernocchi (1.1),194,,,2017
+14.09,133,,Coppa Bernocchi (1.1),194.0,,,2017
 13.09,DNF,,Coppa Agostoni - Giro delle Brianze (1.1),199.9,,,2017
 04.08 » 15.08,,,Volta a Portugal em Bicicleta Santander Totta (2.1),,,,2017
 ,14,,Youth classification,,,,2017
@@ -55,40 +77,40 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.08,78,61,Stage 4 - Macedo de Cavaleiros  › Mondim de Basto (Sr.ª da Graça) ,152.7,,,2017
 07.08,60,57,Stage 3 - F. C. Rodrigo  › Bragança,162.1,,,2017
 06.08,9,69,Stage 2 - Reguengos de Monsaraz  › Castelo Branco ,214.7,,,2017
-05.08,69,76,Stage 1 - Vila Franca de Xira  › Setúbal,203,,,2017
+05.08,69,76,Stage 1 - Vila Franca de Xira  › Setúbal,203.0,,,2017
 04.08,115,115,Prologue - Lisboa › Lisboa,5.4,,,2017
 16.07,49,,Trofeo Matteotti (1.1),188.5,,,2017
-09.07,19,,Giro del Medio Brenta (1.2),175,,,2017
+09.07,19,,Giro del Medio Brenta (1.2),175.0,,,2017
 09.06 » 15.06,,,Giro Ciclistico d'Italia (2.2U),,,,2017
 ,55,,Points classification,,,,2017
 ,45,,General classification,,,,2017
 15.06,47,,Stage 7 - Campo Imperatore Cima Pantin › Francavilla al Mare,148.9,,,2017
 14.06,36,45,Stage 6 - Castalincontrada › Francavilla al Mare,133.2,,,2017
 13.06,66,47,Stage 5a - Osima › Senigallia,87.2,,,2017
-13.06,85,48,Stage 5b (ITT) - Campocavallo di Osima › Campocavallo di Osima,14,,,2017
+13.06,85,48,Stage 5b (ITT) - Campocavallo di Osima › Campocavallo di Osima,14.0,,,2017
 12.06,76,50,Stage 4 - Gabicce Mare › Gabicce Mare,155.5,,,2017
 11.06,61,52,Stage 3 - Forli › Barnara di Romagna,140.5,,,2017
 10.06,43,37,Stage 2 - San Valentino di Castellarano › Castellarano,145.8,,,2017
 09.06,20,21,Stage 1 - Imola › Imola,131.7,,,2017
-04.06,DNF,,Coppa della Pace - Trofeo F.lli Anelli (1.2),170,,,2017
+04.06,DNF,,Coppa della Pace - Trofeo F.lli Anelli (1.2),170.0,,,2017
 14.05,46,,Gran Premio Industrie del Marmo (1.2U),174.7,,,2017
 07.05,6,,Circuito del Porto - Trofeo Arvedi (1.2),174.7,1,10,2017
-25.04,67,,Gran Premio della Liberazione (1.2U),138,,,2017
-09.04,71,,Giro dell'Appennino (1.1),199,,,2017
+25.04,67,,Gran Premio della Liberazione (1.2U),138.0,,,2017
+09.04,71,,Giro dell'Appennino (1.1),199.0,,,2017
 02.04,26,,Trofeo Piva (1.2U),179.8,,,2017
 23.03 » 26.03,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2017
 ,24,,Youth classification,,,,2017
 ,102,,General classification,,,,2017
-26.03,76,,Stage 4 - Fiorano modenese › Sassuolo,160,,,2017
+26.03,76,,Stage 4 - Fiorano modenese › Sassuolo,160.0,,,2017
 25.03,120,116,Stage 3 - Crevalcore › Crevalcore,171.4,,,2017
-24.03,93,110,Stage 2 - Riccione › Sogliano sul Rubicone,130,,,2017
+24.03,93,110,Stage 2 - Riccione › Sogliano sul Rubicone,130.0,,,2017
 23.03,125,125,Stage 1a - Gatteo › Gatteo,97.8,,,2017
 23.03,38,136,Stage 1b (TTT) - Gatteo a mare › Gatteo,13.3,,,2017
 09.03 » 12.03,,,Istarsko Proljece - Istrian Spring Trophy (2.2),,,,2017
 ,96,,General classification,,,,2017
-12.03,7,,Stage 3 - Pazin › Umag,156,,,2017
-11.03,103,102,Stage 2 - Vrsar › Motovun,186,,,2017
-10.03,121,115,Stage 1 - Porec › Labin,161,,,2017
+12.03,7,,Stage 3 - Pazin › Umag,156.0,,,2017
+11.03,103,102,Stage 2 - Vrsar › Motovun,186.0,,,2017
+10.03,121,115,Stage 1 - Porec › Labin,161.0,,,2017
 09.03,31,31,Prologue - Umag › Umag,1.8,,,2017
 05.03,75,,GP Industria & Artigianato (1.HC),199.2,,,2017
 21.02 » 23.02,,,Tour Cycliste International La Provence (2.1),,,,2017
@@ -105,65 +127,65 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.02,DNF,,Trofeo Laigueglia (1.HC),192.5,,,2017
 05.02,52,,G.P. Costa degli Etruschi (1.1),190.6,,,2017
 25.09,43,,Gran Premio Bruno Beghelli (1.HC),196.3,,,2016
-24.09,DNF,,Giro dell'Emilia (1.HC),213,,,2016
+24.09,DNF,,Giro dell'Emilia (1.HC),213.0,,,2016
 17.09,DNF,,Memorial Marco Pantani (1.1),189.8,,,2016
-15.09,DNF,,Coppa Agostoni - Giro delle Brianze (1.1),199,,,2016
-14.09,DNF,,Coppa Bernocchi - GP BPM (1.1),192,,,2016
+15.09,DNF,,Coppa Agostoni - Giro delle Brianze (1.1),199.0,,,2016
+14.09,DNF,,Coppa Bernocchi - GP BPM (1.1),192.0,,,2016
 28.08,62,,Croatia-Slovenia (1.2),179.1,,,2016
-17.08,DNF,,Trofeo Beato Bernardo - Coppa Citta' di Offida (1.2U),152,,,2016
-16.08,DNF,,GP Capodarco - Comunità di Capodarco (1.2U),180,,,2016
-17.07,46,,Trofeo Matteotti (1.1),195,,,2016
-10.07,DNF,,Giro del Medio Brenta (1.2),177,,,2016
-25.06,8,,National Championships Italy U23 - Road Race (NC),178,,,2016
+17.08,DNF,,Trofeo Beato Bernardo - Coppa Citta' di Offida (1.2U),152.0,,,2016
+16.08,DNF,,GP Capodarco - Comunità di Capodarco (1.2U),180.0,,,2016
+17.07,46,,Trofeo Matteotti (1.1),195.0,,,2016
+10.07,DNF,,Giro del Medio Brenta (1.2),177.0,,,2016
+25.06,8,,National Championships Italy U23 - Road Race (NC),178.0,,,2016
 14.06 » 19.06,,,Tour de Serbia (2.2),,,,2016
 ,28,,Youth classification,,,,2016
 ,61,,General classification,,,,2016
-19.06,11,,Stage 6 - Vrnjacka Banja › Mladenovac,124,,,2016
+19.06,11,,Stage 6 - Vrnjacka Banja › Mladenovac,124.0,,,2016
 18.06,65,63,Stage 5 - Sokobanja › Vrnjacka Banja,117.5,,,2016
 17.06,68,65,Stage 4 - Novi Pazar › Sokobanja,191.4,,,2016
 16.06,39,57,Stage 3 - Priboj › Novi Pazar,123.6,,,2016
 15.06,70,56,Stage 2 - Bajina Basta › Pribojska Baja,106.4,,,2016
-14.06,40,40,Stage 1 - Beograd › Loznica,144,,,2016
+14.06,40,40,Stage 1 - Beograd › Loznica,144.0,,,2016
 29.05,DNF,,Boucles de l'Aulne - Chateaulin (1.1),169.8,,,2016
-28.05,96,,Grand Prix de Plumelec-Morbihan (1.1),182,,,2016
-15.05,36,,Gran Premio Industrie del Marmo (1.2),174,,,2016
-01.05,DNF,,Circuito del Porto - Trofeo Arvedi (1.2),180,,,2016
-25.04,DNF,,Gran Premio della Liberazione (1.2U),138,,,2016
+28.05,96,,Grand Prix de Plumelec-Morbihan (1.1),182.0,,,2016
+15.05,36,,Gran Premio Industrie del Marmo (1.2),174.0,,,2016
+01.05,DNF,,Circuito del Porto - Trofeo Arvedi (1.2),180.0,,,2016
+25.04,DNF,,Gran Premio della Liberazione (1.2U),138.0,,,2016
 17.04,DNF,,Giro dell'Appennino (1.1),196.6,,,2016
 03.04,DNF,,Trofeo Piva (1.2U),179.8,,,2016
 24.03 » 27.03,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2016
 ,13,,Youth classification,,,,2016
 ,101,,General classification,,,,2016
 27.03,108,,Stage 4 - Pavullo › Pavullo,163.6,,,2016
-26.03,104,122,Stage 3 - Calderara di Reno  › Calderara di Reno ,172,,,2016
+26.03,104,122,Stage 3 - Calderara di Reno  › Calderara di Reno ,172.0,,,2016
 25.03,102,124,Stage 2 - Riccione › Sogliano al Rubicone,146.6,,,2016
 24.03,125,125,Stage 1a - Gatteo › Gatteo,95.9,,,2016
 24.03,46,127,Stage 1b (TTT) - Gatteo a mare › Gatteo,13.3,,,2016
 10.03 » 13.03,,,Istarsko proljece - Istrian Spring Trophy (2.2),,,,2016
 ,17,,Youth classification,,,,2016
 ,50,,General classification,,,,2016
-13.03,43,,Stage 3 - Pazin › Umag,146,,,2016
-12.03,71,58,Stage 2 - Vrsar › Motovun,157,,,2016
-11.03,75,67,Stage 1 - Porec › Labin,158,,,2016
+13.03,43,,Stage 3 - Pazin › Umag,146.0,,,2016
+12.03,71,58,Stage 2 - Vrsar › Motovun,157.0,,,2016
+11.03,75,67,Stage 1 - Porec › Labin,158.0,,,2016
 10.03,87,88,Prologue - Umag › Umag,1.6,,,2016
 05.03,DNS,,Porec Trophy - Trofej Porec (1.2),156.5,,,2016
-02.03,71,,Trofej Umag - Umag Trophy (1.2),154,,,2016
+02.03,71,,Trofej Umag - Umag Trophy (1.2),154.0,,,2016
 14.02,DNF,,Trofeo Laigueglia (1.HC),192.5,,,2016
 07.02,50,,G.P. Costa degli Etruschi (1.1),190.6,,,2016
 31.01,134,,Trofeo Playa de Palma - Palma (1.1),161.5,,,2016
 30.01,DNF,,Trofeo Serra de Tramuntana (1.1),149.9,,,2016
-28.01,65,,Trofeo Felanitx - Ses Salines - Campos - Porreres (1.1),174,,,2016
-11.10,DNF,,Gran Premio Bruno Beghelli (1.HC),196,,,2015
-10.10,DNF,,Giro dell'Emilia (1.HC),200,,,2015
+28.01,65,,Trofeo Felanitx - Ses Salines - Campos - Porreres (1.1),174.0,,,2016
+11.10,DNF,,Gran Premio Bruno Beghelli (1.HC),196.0,,,2015
+10.10,DNF,,Giro dell'Emilia (1.HC),200.0,,,2015
 30.09,DNF,,Tre Valli Varesine (1.HC),198.5,,,2015
 20.09,DNF,,GP Industria & Commercio di Prato (1.1),185.8,,,2015
 19.09,DNF,,Memorial Marco Pantani (1.1),199.5,,,2015
-17.09,DNF,,Coppa Bernocchi (1.1),192,,,2015
+17.09,DNF,,Coppa Bernocchi (1.1),192.0,,,2015
 16.09,DNF,,Coppa Agostoni - Giro delle Brianze (1.1),198.2,,,2015
-16.08,45,,GP Capodarco - Comunità di Capodarco (1.2U),156,,,2015
-02.08,DNF,,Trofeo Internazionale Bastianelli (1.2),143,,,2015
-19.07,DNF,,Trofeo Matteotti (1.1),195,,,2015
-12.07,DNF,,Giro del Medio Brenta (1.2),177,,,2015
+16.08,45,,GP Capodarco - Comunità di Capodarco (1.2U),156.0,,,2015
+02.08,DNF,,Trofeo Internazionale Bastianelli (1.2),143.0,,,2015
+19.07,DNF,,Trofeo Matteotti (1.1),195.0,,,2015
+12.07,DNF,,Giro del Medio Brenta (1.2),177.0,,,2015
 01.07 » 05.07,,,Cycling Tour of Sibiu (2.1),,,,2015
 ,16,,Youth classification,,,,2015
 ,53,,General classification,,,,2015
@@ -172,7 +194,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.07,63,52,Stage 2 - Sibiu › Paltinis,154.4,,,2015
 02.07,54,48,Stage 1 - Sibiu › Sibiu,215.9,,,2015
 01.07,16,16,Prologue - Sibiu › Sibiu,2.3,,,2015
-07.06,DNF,,Coppa della Pace - Trofeo F.lli Anelli (1.2),170,,,2015
+07.06,DNF,,Coppa della Pace - Trofeo F.lli Anelli (1.2),170.0,,,2015
 17.05,DNF,,Gran Premio Industrie del Marmo (1.2),158.7,,,2015
 09.05,34,,Berner Rundfahrt / Tour de Berne (1.2),169.75,,,2015
 26.03 » 29.03,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2015
@@ -180,10 +202,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 26.03,120,120,Stage 1a - Gatteo › Gatteo,99.5,,,2015
 26.03,47,149,Stage 1b (TTT) - Gatteo a mare › Gatteo,13.3,,,2015
 08.02,69,,G.P. Costa degli Etruschi (1.1),190.6,,,2015
-14.09,DNF,,Trofeo Buffoni (1.1),135,,,2014
+14.09,DNF,,Trofeo Buffoni (1.1),135.0,,,2014
 18.05,44,,Tf GD Dorigo - MO Biemmereti - MO Cristiano Floriani - MO F. Mazzero (1.1),137.2,,,2014
 20.09 » 22.09,,,Giro di Basilicata (2.1),,,,2013
 ,40,,General classification,,,,2013
-22.09,32,,Stage 3 - Tramutola › Viggiano,117,,,2013
-21.09,53,49,Stage 2 - Tito Scalo › Tito,80,,,2013
-20.09,43,43,Stage 1 - Marina di Nova Siri › Matera,109,,,2013
+22.09,32,,Stage 3 - Tramutola › Viggiano,117.0,,,2013
+21.09,53,49,Stage 2 - Tito Scalo › Tito,80.0,,,2013
+20.09,43,43,Stage 1 - Marina di Nova Siri › Matera,109.0,,,2013

@@ -1,10 +1,36 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,15,,Juegos Bolivarianos ME - Road Race (CC) ,170.8,,,2022
+24.06,5,,Juegos Bolivarianos ME - ITT (CC) ,30.3,,25,2022
+03.06 » 12.06,,,Vuelta a Colombia (2.2) ,,,,2022
+,42,,Points classification ,,,,2022
+,51,,General classification ,,,,2022
+12.06,8,,Stage 10 - Paipa › Tunja ,41.9,,,2022
+11.06,87,51,Stage 9 - Guateque › Santa Rosa Viterbo ,182.2,,,2022
+10.06,30,37,Stage 8 - Sopo › Somondoco ,96.3,,,2022
+09.06,38,39,Stage 7 - Mariquita › Alto del Vino ,140.4,,,2022
+08.06,61,47,Stage 6 - Rionegro › La Dorada ,202.6,,,2022
+07.06,36,50,Stage 5 - Yarumal › La Union ,189.1,,,2022
+06.06,75,75,Stage 4 - Caucasia › Yarumal ,158.4,,,2022
+05.06,47,51,Stage 3 - Sincelejo › Monteria ,116.9,,,2022
+04.06,70,58,Stage 2 - Cartagena › Sincelejo ,176.7,,,2022
+03.06,64,67,Stage 1 - Barranquilla › Cartagena ,123.4,,,2022
+15.05,22,,Campeonato Panamericano de Ruta - Road Race (CC) ,176,,5,2022
+12.05,9,,Campeonato Panamericano de Ruta ME - ITT (CC) ,46.6,,5,2022
+07.04 » 10.04,,,Vuelta a Formosa Internacional (2.2) ,,,,2022
+,15,,General classification ,,,,2022
+10.04,37,,Stage 4 - Formosa › Formosa ,98.8,,,2022
+09.04,40,20,Stage 3 - Villa 213 › Formosa ,175.7,,,2022
+08.04,17,21,Stage 2b - Formosa › Formosa ,102.4,,,2022
+08.04,18,21,Stage 2a (ITT) - Formosa › Formosa ,8,,,2022
+07.04,21,25,Stage 1 - Laguna Blanca › Formosa ,138.1,,,2022
+20.02,8,,National Championships Ecuador - Road Race (NC) ,163.2,,10,2022
+18.02,3,,National Championships Ecuador - ITT (NC) ,38.2,2,20,2022
 07.04 » 10.04,,,Vuelta a Formosa Internacional (2.2),,,,2022
 ,15,,General classification,,,,2022
 10.04,37,,Stage 4 - Formosa › Formosa,98.8,,,2022
 09.04,40,20,Stage 3 - Villa 213 › Formosa,175.7,,,2022
 08.04,17,21,Stage 2b - Formosa › Formosa,102.4,,,2022
-08.04,18,21,Stage 2a (ITT) - Formosa › Formosa,8,,,2022
+08.04,18,21,Stage 2a (ITT) - Formosa › Formosa,8.0,,,2022
 07.04,21,25,Stage 1 - Laguna Blanca › Formosa,138.1,,,2022
 20.02,8,,National Championships Ecuador - Road Race (NC),163.2,,10,2022
 18.02,3,,National Championships Ecuador - ITT (NC),38.2,2,20,2022
@@ -14,11 +40,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.06,28,,WHIM-Memorial Momparler (NAT),,,13,2021
 23.11 » 28.11,,,Vuelta al Ecuador (2.2),,,,2020
 ,22,,General classification,,,,2020
-28.11,54,,Stage 6 - Quito › Quito,100,,,2020
-27.11,25,17,Stage 5 - Playón de San Francisco  › Atuntaqui,130,,,2020
-26.11,22,16,Stage 4 - San Roque › La Estrellita,117,,,2020
-25.11,7,14,Stage 3 - Machachi › Olmedo,131,,,2020
-24.11,59,28,Stage 2 - Pedernales › Santo Domingo,133,,,2020
+28.11,54,,Stage 6 - Quito › Quito,100.0,,,2020
+27.11,25,17,Stage 5 - Playón de San Francisco  › Atuntaqui,130.0,,,2020
+26.11,22,16,Stage 4 - San Roque › La Estrellita,117.0,,,2020
+25.11,7,14,Stage 3 - Machachi › Olmedo,131.0,,,2020
+24.11,59,28,Stage 2 - Pedernales › Santo Domingo,133.0,,,2020
 23.11,14,14,Stage 1 - Los Bancos › Pedernales,177.47,,,2020
 15.08 » 25.08,,,Tour de l'Avenir (2.Ncup),,,,2019
 ,47,,General classification,,,,2019
@@ -26,7 +52,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.08,36,46,Stage 9 - Villaroger › Tignes,67.2,,,2019
 23.08,54,54,Stage 8 - Brides-les-Bains › Col de la Loze/Méribel,23.1,,,2019
 22.08,27,59,Stage 7 - Grésy-sur-Isere › La Giettaz,103.5,,,2019
-20.08,106,82,Stage 6 - Saint-Julien-Chapteuil › Privas,124,,,2019
+20.08,106,82,Stage 6 - Saint-Julien-Chapteuil › Privas,124.0,,,2019
 19.08,79,74,Stage 5 - Espalion › Saint-Julien-Chapteuil ,158.9,,,2019
 18.08,57,78,Stage 4 - Mauriac › Espalion,158.2,,,2019
 17.08,58,83,Stage 3 - Montignac-Lascaux › Mauriac,162.3,,,2019
@@ -36,28 +62,26 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,4,,Youth classification,,,,2019
 ,26,,Points classification,,,,2019
 ,12,,General classification,,,,2019
-24.07,50,,Stage 8 - La Guaira › La Guaira,97,,,2019
+24.07,50,,Stage 8 - La Guaira › La Guaira,97.0,,,2019
 23.07,36,12,Stage 7 - San Felipe › Cagua,187.6,,,2019
 22.07,5,12,Stage 6 - Quíbor › San Felipe,135.2,,,2019
 21.07,17,13,Stage 5 (ITT) - Pavia › Pavia,28.4,,,2019
-20.07,10,14,Stage 4 - Guanare › Barquisimeto,166,,,2019
+20.07,10,14,Stage 4 - Guanare › Barquisimeto,166.0,,,2019
 19.07,14,36,Stage 3 - Valencia › Acarigua,177.5,,,2019
-18.07,56,45,Stage 2 - San Francisco de Yare › Valencia,165,,,2019
-17.07,20,23,Stage 1 - Caracas › Caracas,85,,,2019
+18.07,56,45,Stage 2 - San Francisco de Yare › Valencia,165.0,,,2019
+17.07,20,23,Stage 1 - Caracas › Caracas,85.0,,,2019
 09.07 » 14.07,,,Vuelta Ciclista a Miranda (2.2),,,,2019
-,4,,Youth classification,,,,2019
-,26,,Points classification,,,,2019
 ,21,,General classification,,,,2019
 14.07,25,,Stage 6 - Ocumare del Tuy › Ocumare del Tuy,109.5,,,2019
 13.07,8,22,Stage 5 - Cota Mil › Cota Mil,126.7,,,2019
-12.07,55,25,Stage 4 - Caucagua › Rio Chico,111,,,2019
+12.07,55,25,Stage 4 - Caucagua › Rio Chico,111.0,,,2019
 11.07,19,25,Stage 3 - Carrizal › Los Teques,71.8,,,2019
 10.07,53,39,Stage 2 - Charallave › Charallave,99.1,,,2019
-09.07,9,12,Stage 1 - Guatire › Guaneras,90,,,2019
+09.07,9,12,Stage 1 - Guatire › Guaneras,90.0,,,2019
 23.06,1,,National Championships Ecuador U23 - Road Race (NC),,,50,2019
 22.06,2,,National Championships Ecuador U23 - ITT (NC),,,15,2019
 04.05,9,,Pan American Championships U23 - Road Race (CC),132.3,16,25,2019
-01.05,2,,Pan American Championships U23 - ITT (CC),33,7,30,2019
+01.05,2,,Pan American Championships U23 - ITT (CC),33.0,7,30,2019
 04.02 » 09.02,,,Tour de l'Espoir (2.Ncup),,,,2019
 ,5,,Mountains classification,,,,2019
 ,10,,Points classification,,,,2019
@@ -65,10 +89,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 09.02,11,,Stage 5 - Yaoundé › Yaoundé,103.4,,,2019
 08.02,7,3,Stage 4 - Ngoulemakong › Yaoundé,105.7,,,2019
 06.02,2,4,Stage 3 - Nkongsamba › Dschang,66.8,2,8,2019
-05.02,33,36,Stage 2 - Douala › Douala,92,,,2019
+05.02,33,36,Stage 2 - Douala › Douala,92.0,,,2019
 04.02,8,36,Stage 1 (TTT) - Douala › Douala,18.8,,,2019
 11.01 » 18.01,,,Vuelta al Tachira en Bicicleta (2.2),,,,2019
-,4,,Youth classification,,,,2019
 ,50,,Points classification,,,,2019
 ,24,,General classification,,,,2019
 18.01,38,,Stage 8 - San Cristobal › San Cristobal,115.2,,,2019
@@ -101,35 +124,35 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.08,87,89,Stage 2 - Beja › Portalegre,203.6,,,2018
 02.08,96,96,Stage 1 - Alcácer do Sal › Albufeira,191.8,,,2018
 01.08,117,117,Prologue - Setúbal › Setúbal,1.8,,,2018
-18.07,13,,National Championships Ecuador - Road Race (NC),120,,,2018
-17.07,DNS,,National Championships Ecuador - ITT (NC),40,,,2018
+18.07,13,,National Championships Ecuador - Road Race (NC),120.0,,,2018
+17.07,DNS,,National Championships Ecuador - ITT (NC),40.0,,,2018
 05.07 » 14.07,,,Vuelta Ciclista a Venezuela (2.2),,,,2018
-14.07,DNF,,Stage 10 - Valencia › Valencia,96,,,2018
+14.07,DNF,,Stage 10 - Valencia › Valencia,96.0,,,2018
 13.07,39,32,Stage 9 - Ocumare del Tuy › Valencia,180.6,,,2018
 12.07,56,31,Stage 8 - Morón › Charallave,190.1,,,2018
 11.07,63,28,Stage 7 - Nirgua › Morón,145.4,,,2018
 10.07,17,28,Stage 6 - Ospino › Nirgua,215.7,,,2018
 09.07,36,40,Stage 5 (ITT) - Santuario de la Virgen del Coromoto › Guanare,34.5,,,2018
 08.07,20,35,Stage 4 - Quíbor › Guanare,221.8,,,2018
-07.07,41,39,Stage 3 - Monay › Barquisimeto,184,,,2018
-06.07,28,36,Stage 2 - Cabimas › Sabana de Mendoza,175,,,2018
+07.07,41,39,Stage 3 - Monay › Barquisimeto,184.0,,,2018
+06.07,28,36,Stage 2 - Cabimas › Sabana de Mendoza,175.0,,,2018
 05.07,36,40,Stage 1 - Maracaibo › Maracaibo,96.2,,,2018
 03.06,DNF,,Juegos Suramericanos - Road Race (JR),163.8,,,2018
-05.05,15,,Pan American Championships U23 - Road Race (CC),144,6,,2018
+05.05,15,,Pan American Championships U23 - Road Race (CC),144.0,6,,2018
 23.10 » 01.11,,,Vuelta a Guatemala (2.2),,,,2017
 ,11,,Youth classification,,,,2017
 ,32,,General classification,,,,2017
-01.11,34,,Stage 10 - Ciudad de Guatemala › Ciudad de Guatemala,105,,,2017
-31.10,11,32,Stage 9 - Tecpán › Tecpán,112,,,2017
-30.10,42,35,Stage 8 - Quetzaltenango › Quetzaltenango,121,,,2017
-29.10,5,36,Stage 7 - San Pedro  › San Pedro San Marcos,116,,,2017
+01.11,34,,Stage 10 - Ciudad de Guatemala › Ciudad de Guatemala,105.0,,,2017
+31.10,11,32,Stage 9 - Tecpán › Tecpán,112.0,,,2017
+30.10,42,35,Stage 8 - Quetzaltenango › Quetzaltenango,121.0,,,2017
+29.10,5,36,Stage 7 - San Pedro  › San Pedro San Marcos,116.0,,,2017
 28.10,18,47,Stage 6 (ITT) - San Sebastiá › Champerico,43.6,,,2017
-27.10,18,49,Stage 5 - Villa Nueva › San José El Idolo,132,,,2017
+27.10,18,49,Stage 5 - Villa Nueva › San José El Idolo,132.0,,,2017
 26.10,11,50,Stage 4 - Jutiapa › San José Pinula,118.3,,,2017
 25.10,62,67,Stage 3a - Asunción Mita › Quesada,83.2,,,2017
 25.10,3,66,Stage 3b (TTT) - Quesada › Jutiapa,27.5,3,,2017
 24.10,89,68,Stage 2 - Teculutá › Guastatoya,106.5,,,2017
-23.10,14,14,Stage 1 - Ciudad de Guatemala › Zacapa,142,,,2017
+23.10,14,14,Stage 1 - Ciudad de Guatemala › Zacapa,142.0,,,2017
 19.07 » 23.07,,,Cascade Cycling Classic (2.2),,,,2017
 ,24,,Youth classification,,,,2017
 ,75,,General classification,,,,2017
@@ -138,30 +161,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.07,25,75,Stage 3 - Bend › Kapka Butte Snow Park,172.7,,,2017
 20.07,123,120,Stage 2 (ITT) - Bend › Bend,22.9,,,2017
 19.07,111,111,Stage 1 - Princeville ›  Dee Wright Observatory,172.9,,,2017
-06.05,33,,Campeonato Panamericano de Ruta U23 - Road Race (CC),140,,,2017
-05.05,11,,Campeonato Panamericano de Ruta U23 - ITT (CC),30,,,2017
+06.05,33,,Campeonato Panamericano de Ruta U23 - Road Race (CC),140.0,,,2017
+05.05,11,,Campeonato Panamericano de Ruta U23 - ITT (CC),30.0,,,2017
 19.04 » 23.04,,,Tour of the Gila (2.2),,,,2017
-21.04,DSQ,,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2017
+21.04,DSQ,,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2017
 20.04,125,119,Stage 2 - Fort Bayard › Fort Bayard,120.7,,,2017
 19.04,95,95,Stage 1 - Silver City › Whitewater Mesa,143.4,,,2017
 26.02 » 05.03,,,Vuelta Independencia Nacional Republica Dominicana (2.2),,,,2017
 ,38,,General classification,,,,2017
 05.03,83,,Stage 8 - Santo Domingo › Santo Domingo,,,,2017
-04.03,41,36,Stage 7 - Moca › Constanza,121,,,2017
+04.03,41,36,Stage 7 - Moca › Constanza,121.0,,,2017
 03.03,81,37,Stage 6 - Samana › San Francisco de Macoris,135.8,,,2017
-02.03,55,37,Stage 5 - Santo Domingo › Samana,191,,,2017
-01.03,18,34,Stage 4 - Santo Domingo › El Seibo,173,,,2017
-28.02,48,46,Stage 3 - San Cristobal › San Juan de la Maguana,163,,,2017
-27.02,50,44,Stage 2 - Villa Altagracia › Villa Altagracia,138,,,2017
-26.02,9,49,Stage 1 (TTT) - Mirador del Sur › Mirador del Sur,20,,,2017
+02.03,55,37,Stage 5 - Santo Domingo › Samana,191.0,,,2017
+01.03,18,34,Stage 4 - Santo Domingo › El Seibo,173.0,,,2017
+28.02,48,46,Stage 3 - San Cristobal › San Juan de la Maguana,163.0,,,2017
+27.02,50,44,Stage 2 - Villa Altagracia › Villa Altagracia,138.0,,,2017
+26.02,9,49,Stage 1 (TTT) - Mirador del Sur › Mirador del Sur,20.0,,,2017
 24.10 » 01.11,,,Vuelta a Guatemala (2.2),,,,2016
 ,47,,General classification,,,,2016
-01.11,43,,Stage 9 - Guatemala › Guatemala,105,,,2016
+01.11,43,,Stage 9 - Guatemala › Guatemala,105.0,,,2016
 31.10,40,48,Stage 8 - Chimaltenango › Tecpán,109.1,,,2016
 30.10,50,49,Stage 7 - San Cristóbal  › Sololá,96.7,,,2016
-29.10,49,49,Stage 6 - Totonicapán › Totonicapán,117,,,2016
+29.10,49,49,Stage 6 - Totonicapán › Totonicapán,117.0,,,2016
 28.10,35,49,Stage 5 - San Pedro › San Marcos,125.5,,,2016
 27.10,48,56,Stage 4 (ITT) - Puerto Camperico › Retalhuleu,37.8,,,2016
-26.10,54,56,Stage 3 - Puerto San José › Mazatenango,174,,,2016
+26.10,54,56,Stage 3 - Puerto San José › Mazatenango,174.0,,,2016
 25.10,48,57,Stage 2 - Jutiapa › Chiquimulilla,112.5,,,2016
-24.10,62,62,Stage 1 - Guatemala › Jutiapa,130,,,2016
+24.10,62,62,Stage 1 - Guatemala › Jutiapa,130.0,,,2016

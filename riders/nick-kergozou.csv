@@ -1,4 +1,14 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+11.02,9,,National championships New Zealand  - ITT (NC) ,42.5,,1,2022
+05.01 » 09.01,,,New Zealand Cycle Classic (2.2) ,,,,2022
+,8,,Mountains classification ,,,,2022
+,1,,Points classification ,,,,2022
+,54,,General classification ,,,,2022
+09.01,4,,Stage 5 - Wellington › Wellington ,,,,2022
+08.01,63,59,Stage 4 - Masterton › Te Wharau Hill ,137.2,,,2022
+07.01,1,24,Stage 3 - Masterton › Martinborough ,127.3,5,7,2022
+06.01,71,38,Stage 2 - Masterton › Masterton ,158.1,,,2022
+05.01,4,14,Stage 1 (TTT) - Masterton › Masterton ,10,2,,2022
 11.02,9,,National championships New Zealand  - ITT (NC),42.5,,1,2022
 05.01 » 09.01,,,New Zealand Cycle Classic (2.2),,,,2022
 ,8,,Mountains classification,,,,2022
@@ -8,33 +18,33 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.01,63,59,Stage 4 - Masterton › Te Wharau Hill,137.2,,,2022
 07.01,1,24,Stage 3 - Masterton › Martinborough,127.3,5,7,2022
 06.01,71,38,Stage 2 - Masterton › Masterton,158.1,,,2022
-05.01,4,14,Stage 1 (TTT) - Masterton › Masterton,10,2,,2022
+05.01,4,14,Stage 1 (TTT) - Masterton › Masterton,10.0,2,,2022
 14.02,DNF,,National championships New Zealand  - Road Race (NC),174.4,,,2021
-23.01,DNF,,Gravel and Tar Classic (1.2),164,,,2021
+23.01,DNF,,Gravel and Tar Classic (1.2),164.0,,,2021
 13.01 » 17.01,,,New Zealand Cycle Classic (2.2),,,,2021
 ,14,,Points classification,,,,2021
 ,57,,General classification,,,,2021
-17.01,63,,Stage 5 - Wellington › Wellington,42,,,2021
+17.01,63,,Stage 5 - Wellington › Wellington,42.0,,,2021
 16.01,54,56,Stage 4 - Masterton  › Admiral Hill,125.6,,,2021
-15.01,9,65,Stage 3 - Masterton › Martinborough,127,,,2021
+15.01,9,65,Stage 3 - Masterton › Martinborough,127.0,,,2021
 14.01,69,65,Stage 2 - Masterton › Masterton,158.1,,,2021
-13.01,3,14,Stage 1 (TTT) - Masterton › Masterton,10,3,0.167,2021
+13.01,3,14,Stage 1 (TTT) - Masterton › Masterton,10.0,3,0.167,2021
 15.01 » 19.01,,,New Zealand Cycle Classic (2.2),,,,2020
 ,7,,Points classification,,,,2020
 ,50,,General classification,,,,2020
-19.01,8,,Stage 5 - Masterton › Masterton,120,,,2020
+19.01,8,,Stage 5 - Masterton › Masterton,120.0,,,2020
 18.01,55,52,Stage 4 - Masterton › Admiral Hill,178.9,,,2020
 17.01,17,7,Stage 3 - Masterton › Martinborough,126.3,,,2020
-16.01,2,12,Stage 2 - Masterton › Masterton,121,2,3,2020
+16.01,2,12,Stage 2 - Masterton › Masterton,121.0,2,3,2020
 15.01,23,23,Stage 1 - Masterton › Masterton,121.6,,,2020
 07.07,16,,White Spot / Delta Road Race (1.2),155.46,,,2019
-07.01,DNF,,National Championships New Zealand - Road Race (NC),171,,,2018
-05.01,13,,National Championships New Zealand U23 - ITT (NC),40,,,2018
+07.01,DNF,,National Championships New Zealand - Road Race (NC),171.0,,,2018
+05.01,13,,National Championships New Zealand U23 - ITT (NC),40.0,,,2018
 09.07,5,,White Spot / Delta Road Race (1.2),155.5,2,15,2017
 22.05 » 29.05,,,An Post Ras (2.2),,,,2016
 ,74,,General classification,,,,2016
 29.05,19,,Stage 8 - Kildare › Skerries,148.4,,,2016
-28.05,70,80,Stage 7 - Dungarvan › Baltinglass,155,,,2016
+28.05,70,80,Stage 7 - Dungarvan › Baltinglass,155.0,,,2016
 27.05,93,84,Stage 6 - Cionakilty › Dungarvan,159.1,,,2016
 26.05,73,87,Stage 5 - Sneem › Cionakilty,166.8,,,2016
 25.05,108,95,Stage 4 - Dingle › Sneem,162.8,,,2016
@@ -42,9 +52,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.05,20,88,Stage 2 - Mullingar › Charleville,183.7,,,2016
 22.05,121,121,Stage 1 - Dublin Castle  › Multyfarnham,144.6,,,2016
 20.01 » 24.01,,,New Zealand Cycle Classic (2.2),,,,2016
-22.01,DNF,,Stage 3 - Carrington › Carrington,130,,,2016
+22.01,DNF,,Stage 3 - Carrington › Carrington,130.0,,,2016
 21.01,13,17,Stage 2 - Masterton › Martinborough,136.8,,,2016
-20.01,31,31,Stage 1 - Masterton › Masterton,123,,,2016
+20.01,31,31,Stage 1 - Masterton › Masterton,123.0,,,2016
 07.06,118,,Memorial Philippe Van Coningsloo (1.2),180.8,,,2015
 17.05 » 24.05,,,An Post Rás (2.2),,,,2015
 ,17,,Youth classification,,,,2015
@@ -53,8 +63,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.05,75,44,Stage 7 - Ballinamore › Drogheda,142.4,,,2015
 22.05,33,46,Stage 6 - Ballina › Ballinamore,160.1,,,2015
 21.05,49,45,Stage 5 - Newport › Ballina,142.4,,,2015
-20.05,46,58,Stage 4 - Bearna › Newport,155,,,2015
+20.05,46,58,Stage 4 - Bearna › Newport,155.0,,,2015
 19.05,25,54,Stage 3 - Tipperary › Bearna,155.9,,,2015
 18.05,30,58,Stage 2 - Carlow › Tipperary,137.2,,,2015
 17.05,104,104,Stage 1 - Dunboyne › Carlow,154.4,,,2015
-28.02,20,,The REV Classic (1.2),137,,,2015
+28.02,20,,The REV Classic (1.2),137.0,,,2015

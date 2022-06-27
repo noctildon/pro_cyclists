@@ -1,31 +1,32 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
 06.01,80,,Copa America de Ciclismo (1.2) ,38.4,,,2008
+06.01,80,,Copa America de Ciclismo (1.2) ,38.4,,,2008
 15.11 » 25.11,,,Tour de Santa Catarina (2.2) ,,,,2007
 ,14,,General classification ,,,,2007
-25.11,20,,Stage 11 - São Ludjero › Serre do Rio do Rastro ,80,,,2007
+25.11,20,,Stage 11 - São Ludjero › Serre do Rio do Rastro ,80.0,,,2007
 24.11,17,10,Stage 10 - Tubarão › São Ludjero ,67.4,,,2007
-23.11,25,9,Stage 9 - Fraiburgo › Lages ,122,,,2007
-22.11,19,9,Stage 8 - Piratuba › Fraiburgo ,157,,,2007
-21.11,11,7,Stage 7 - Treze Tílias › Piratuba ,133,,,2007
-20.11,16,5,Stage 6 - Caçador › Treze Tílias ,112,,,2007
-19.11,23,5,Stage 5 - Porto União › Caçador ,81,,,2007
-18.11,11,5,Stage 4 (ITT) - Porto União › Porto União ,16,,,2007
-17.11,32,3,Stage 3 - Rio Negrinho › Porto União ,173,,,2007
-16.11,5,2,Stage 2 - Bursque › Rio Negrinho ,150,,,2007
+23.11,25,9,Stage 9 - Fraiburgo › Lages ,122.0,,,2007
+22.11,19,9,Stage 8 - Piratuba › Fraiburgo ,157.0,,,2007
+21.11,11,7,Stage 7 - Treze Tílias › Piratuba ,133.0,,,2007
+20.11,16,5,Stage 6 - Caçador › Treze Tílias ,112.0,,,2007
+19.11,23,5,Stage 5 - Porto União › Caçador ,81.0,,,2007
+18.11,11,5,Stage 4 (ITT) - Porto União › Porto União ,16.0,,,2007
+17.11,32,3,Stage 3 - Rio Negrinho › Porto União ,173.0,,,2007
+16.11,5,2,Stage 2 - Bursque › Rio Negrinho ,150.0,,,2007
 16.05 » 20.05,,,Volta Ciclistica Internacional do Paraná (2.2) ,,,,2007
 ,10,,General classification ,,1,,2007
-20.05,12,,Stage 5 - Rolândia › Rolândia ,110,,,2007
-19.05,22,9,Stage 4 - Jaguapitã › Jaguapitã ,160,,,2007
-18.05,8,,Stage 3 - Ibiporã › Ibiporã ,167,,,2007
+20.05,12,,Stage 5 - Rolândia › Rolândia ,110.0,,,2007
+19.05,22,9,Stage 4 - Jaguapitã › Jaguapitã ,160.0,,,2007
+18.05,8,,Stage 3 - Ibiporã › Ibiporã ,167.0,,,2007
 17.05,25,16,Stage 2 - Londrina › Londrina ,91.5,,,2007
 16.05,21,21,Stage 1 - Bela Vista do Paraíso › Bela Vista do Paraíso ,128.4,,,2007
 22.04 » 29.04,,,Volta de Ciclismo Internacional do Estado de São Paulo (2.2) ,,,,2007
 ,51,,General classification ,,,,2007
 29.04,43,,Stage 10 - São Paulo › São Paulo ,46.4,,,2007
-28.04,63,,Stage 9 - Ribeirão Preto › Campinas ,259,,,2007
+28.04,63,,Stage 9 - Ribeirão Preto › Campinas ,259.0,,,2007
 27.04,42,,Stage 8 - São José do Rio Preto › Ribeirão Preto ,208.4,,,2007
-26.04,49,,Stage 6 - Ribeirão Bonito › Bauru ,116,,,2007
-25.04,55,,Stage 7 - Bauru › São José do Rio Preto ,170,,,2007
+26.04,49,,Stage 6 - Ribeirão Bonito › Bauru ,116.0,,,2007
+25.04,55,,Stage 7 - Bauru › São José do Rio Preto ,170.0,,,2007
 25.04,17,,Stage 5 (ITT) - São Carlos › Ribeirão Bonito ,11.4,,,2007
 24.04,62,,Stage 4 - Atibaia › São Carlos ,249.5,,,2007
 23.04,13,,Stage 3 - São José dos Campos › Atibaia ,108.7,,,2007
@@ -34,13 +35,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 11.04 » 15.04,,,Volta do Rio de Janeiro (2.2) ,,,,2007
 ,32,,General classification ,,,,2007
 15.04,16,,Stage 5 - Campos › Campos ,118.4,,,2007
-14.04,48,,Stage 4 - Campos › Campos ,151,,,2007
-13.04,46,,Stage 3 - Campos › Campos ,98,,,2007
-12.04,37,,Stage 2 (ITT) - São Fidelis › São Fidelis ,15,,,2007
-11.04,59,,Stage 1 - Campos › Campos ,171,,,2007
+14.04,48,,Stage 4 - Campos › Campos ,151.0,,,2007
+13.04,46,,Stage 3 - Campos › Campos ,98.0,,,2007
+12.04,37,,Stage 2 (ITT) - São Fidelis › São Fidelis ,15.0,,,2007
+11.04,59,,Stage 1 - Campos › Campos ,171.0,,,2007
 15.03 » 25.03,,,Vuelta por un Chile Lider (2.2) ,,,,2007
 ,18,,General classification ,,,,2007
-25.03,47,,Stage 10 - Santiago › Santiago ,52,,,2007
+25.03,47,,Stage 10 - Santiago › Santiago ,52.0,,,2007
 24.03,19,,Stage 9 - Santiago › Valle Nevado ,46.5,,,2007
 23.03,22,,Stage 8 - Curicó › Maitenes ,159.7,,,2007
 22.03,37,,Stage 7a - Talca › Curicó ,86.1,,,2007
@@ -54,24 +55,24 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.01 » 28.01,,,Tour de San Luis (2.2) ,,,,2007
 ,64,,General classification ,,,,2007
 28.01,67,,Stage 5 - San Luis › San Luis ,130.5,,,2007
-27.01,71,70,Stage 4 - La Toma › Merlo ,173,,,2007
-26.01,99,,Stage 3 (ITT) - La Punta › Mirador del Potrero ,11,,,2007
-25.01,77,72,Stage 2 - San Luis › Quines ,170,,,2007
-24.01,75,71,Stage 1 - San Luis › Villa Mercedes ,170,,,2007
+27.01,71,70,Stage 4 - La Toma › Merlo ,173.0,,,2007
+26.01,99,,Stage 3 (ITT) - La Punta › Mirador del Potrero ,11.0,,,2007
+25.01,77,72,Stage 2 - San Luis › Quines ,170.0,,,2007
+24.01,75,71,Stage 1 - San Luis › Villa Mercedes ,170.0,,,2007
 23.01,61,61,Prologue - San Luis › San Luis ,3.7,,,2007
 07.01,67,,Copa America de Ciclismo (1.2) ,68.672,,,2007
 14.11 » 25.11,,,Tour de Santa Catarina (2.2) ,,,,2006
 ,9,,General classification ,,2,,2006
-25.11,20,,Stage 11 - Joinville › São Francisco do Sul ,80,,,2006
-24.11,45,9,Stage 10 - Mafra › Joinville ,130,,,2006
-23.11,26,9,Stage 9 - Porto União › Mafra ,110,,,2006
-22.11,33,,Stage 8 - Caçador › Porto União ,80,,,2006
-21.11,24,,Stage 7 - Curitibanos › Caçador ,100,,,2006
-20.11,25,9,Stage 6 - Rio do Sul › Curitibanos ,110,,,2006
-19.11,8,3,Stage 5 (ITT) - Ituporanga › Rio do Sul ,25,,,2006
-18.11,30,2,Stage 4 - Bom Retiro › Rio do Sul ,110,,,2006
-17.11,15,2,Stage 3 - São Joaquim › Bom Retiro ,120,,,2006
-16.11,3,2,Stage 2 - Braço do Norte › São Joaquim ,110,1,,2006
+25.11,20,,Stage 11 - Joinville › São Francisco do Sul ,80.0,,,2006
+24.11,45,9,Stage 10 - Mafra › Joinville ,130.0,,,2006
+23.11,26,9,Stage 9 - Porto União › Mafra ,110.0,,,2006
+22.11,33,,Stage 8 - Caçador › Porto União ,80.0,,,2006
+21.11,24,,Stage 7 - Curitibanos › Caçador ,100.0,,,2006
+20.11,25,9,Stage 6 - Rio do Sul › Curitibanos ,110.0,,,2006
+19.11,8,3,Stage 5 (ITT) - Ituporanga › Rio do Sul ,25.0,,,2006
+18.11,30,2,Stage 4 - Bom Retiro › Rio do Sul ,110.0,,,2006
+17.11,15,2,Stage 3 - São Joaquim › Bom Retiro ,120.0,,,2006
+16.11,3,2,Stage 2 - Braço do Norte › São Joaquim ,110.0,1,,2006
 15.11,30,17,Stage 1 - Criciúma › Braço do Norte ,82.9,,,2006
 14.11,15,15,Prologue - Criciúma › Criciúma ,2.4,,,2006
 24.09,DNF,,World Championships - Road Race (WC) ,265.8,,,2006
@@ -80,18 +81,18 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.05 » 28.05,,,Volta Ciclística Internacional do Paraná (2.2) ,,,,2006
 ,5,,Points classification ,,,,2006
 ,1,,General classification ,,25,,2006
-28.05,11,,Stage 5 - Rolândia › Rolândia ,110,,,2006
-27.05,4,1,Stage 4 - Jaguapitã › Jaguapitã ,160,,,2006
-26.05,10,1,Stage 3 - Ibiporã › Ibiporã ,160,,,2006
+28.05,11,,Stage 5 - Rolândia › Rolândia ,110.0,,,2006
+27.05,4,1,Stage 4 - Jaguapitã › Jaguapitã ,160.0,,,2006
+26.05,10,1,Stage 3 - Ibiporã › Ibiporã ,160.0,,,2006
 25.05,33,1,Stage 2 - Londrina › Londrina ,91.5,,,2006
-24.05,1,1,Stage 1 - Bela Vista do Paraíso › Bela Vista do Paraíso ,125,5,,2006
+24.05,1,1,Stage 1 - Bela Vista do Paraíso › Bela Vista do Paraíso ,125.0,5,,2006
 19.03 » 26.03,,,Volta de Ciclismo Internacional do Estado de São Paulo (2.2) ,,,,2006
 ,16,,Points classification ,,,,2006
 ,16,,General classification ,,,,2006
-26.03,53,,Stage 9 - Jundiai › São Paulo ,48,,,2006
-25.03,32,16,Stage 8 - Ribeirão Preto › Campinas ,223,,,2006
+26.03,53,,Stage 9 - Jundiai › São Paulo ,48.0,,,2006
+25.03,32,16,Stage 8 - Ribeirão Preto › Campinas ,223.0,,,2006
 24.03,37,16,Stage 7 - São José di Rio Preto › Ribeirão Preto ,208.4,,,2006
-23.03,22,13,Stage 6 (ITT) - São José di Rio Preto › São José di Rio Preto ,10,,,2006
+23.03,22,13,Stage 6 (ITT) - São José di Rio Preto › São José di Rio Preto ,10.0,,,2006
 22.03,32,4,Stage 5 - São Carlos › Bauru ,173.4,,,2006
 21.03,35,4,Stage 4 - Atibaia › São Carlos ,249.5,,,2006
 20.03,2,3,Stage 3 - São José dos Campos › Atibaia ,108.7,2,,2006
@@ -106,9 +107,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 09.03,17,13,Stage 2b (ITT) - Torres › Torres ,10.9,,,2006
 08.03,27,,Stage 1 - Porto Alegre › Tramandaí ,148.5,,,2006
 08.01,19,,Copa America de Ciclismo (1.2) ,34.4,,,2006
-25.09,131,,World Championships - Road Race (WC) ,273,15,,2005
-11.06,2,,National Championships Brazil - ITT (NC) ,31,7,,2005
-01.05,19,,Pan-American Championships - Road Race (CC) ,192,2,,2005
+25.09,131,,World Championships - Road Race (WC) ,273.0,15,,2005
+11.06,2,,National Championships Brazil - ITT (NC) ,31.0,7,,2005
+01.05,19,,Pan-American Championships - Road Race (CC) ,192.0,2,,2005
 09.03 » 13.03,,,Volta Ciclística de Porto Alegre (2.2) ,,,,2005
 ,2,,General classification ,,18,,2005
 13.03,37,,Stage 5 - Gravataí › Porto Alegre ,83.1,,,2005
@@ -127,54 +128,54 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 18.01,26,24,Stage 4 - Atibaia › São Carlos ,219.2,,,2005
 17.01,17,30,Stage 3 - São José dos Campos › Atibaia ,108.7,,,2005
 16.01,53,44,Stage 2 - São Paulo › São José dos Campos ,88.5,,,2005
-16.01,54,54,Stage 1 - São Paulo › São Paulo ,16,,,2005
-12.09,27,,Volta do ABC Paulista (1.5) ,117,,,2004
+16.01,54,54,Stage 1 - São Paulo › São Paulo ,16.0,,,2005
+12.09,27,,Volta do ABC Paulista (1.5) ,117.0,,,2004
 28.08 » 07.09,,,Tour Internacional de Santa Catarina (2.5) ,,,,2004
 ,6,,General classification ,,6,,2004
 07.09,30,,Stage 10 - Joinville › São Francisco do Sul ,,,,2004
-06.09,44,6,Stage 9 - Pomerode › Joinville ,90,,,2004
-05.09,20,8,Stage 8a - Rio do Sul › Pomerode ,110,,,2004
-05.09,4,6,Stage 8b (ITT) - Pomerode › Pomerode ,25,,,2004
-04.09,54,9,Stage 7 - Bom Retiro › Rio do Sul ,110,,,2004
-03.09,13,9,Stage 6 - Tubarão › Bom Jardim da Serra ,100,,,2004
+06.09,44,6,Stage 9 - Pomerode › Joinville ,90.0,,,2004
+05.09,20,8,Stage 8a - Rio do Sul › Pomerode ,110.0,,,2004
+05.09,4,6,Stage 8b (ITT) - Pomerode › Pomerode ,25.0,,,2004
+04.09,54,9,Stage 7 - Bom Retiro › Rio do Sul ,110.0,,,2004
+03.09,13,9,Stage 6 - Tubarão › Bom Jardim da Serra ,100.0,,,2004
 02.09,41,8,Stage 5 - Tubarão › Tubarão ,,,,2004
-01.09,25,10,Stage 4 - Curitibanos › Lages ,121,,,2004
-31.08,23,10,Stage 3 - Joaçaba › Curitibanos ,170,,,2004
-30.08,6,9,Stage 2 - Concórdia › Joaçaba ,110,,,2004
-29.08,13,12,Stage 1 - Chapecó › Concórdia ,82,,,2004
-28.08,24,24,Prologue - Chapecó › Chapecó ,2,,,2004
+01.09,25,10,Stage 4 - Curitibanos › Lages ,121.0,,,2004
+31.08,23,10,Stage 3 - Joaçaba › Curitibanos ,170.0,,,2004
+30.08,6,9,Stage 2 - Concórdia › Joaçaba ,110.0,,,2004
+29.08,13,12,Stage 1 - Chapecó › Concórdia ,82.0,,,2004
+28.08,24,24,Prologue - Chapecó › Chapecó ,2.0,,,2004
 14.08,DNF,,Olympic Games Road Race (Olympics) ,224.4,,,2004
 13.04 » 18.04,,,Volta do Rio de Janeiro (2.3) ,,,,2004
 ,1,,General classification ,,100,,2004
 18.04,24,,Stage 5 - Niterói › Rio de Janeiro ,,,,2004
 17.04,32,1,Stage 4 - Nova Friburgo › Niterói ,129.8,,,2004
 16.04,8,1,Stage 3 - Conceição de Macabu › Nova Friburgo ,113.2,1,,2004
-15.04,1,2,Stage 2 (ITT) - Cabo Frio › Cabo Frio ,30,20,,2004
+15.04,1,2,Stage 2 (ITT) - Cabo Frio › Cabo Frio ,30.0,20,,2004
 14.04,54,28,Stage 1 - Niterói › Cabo Frio ,132.8,,,2004
 13.04,23,23,Prologue - Praia do Leme › Praia do Leme ,1.5,,,2004
 24.03 » 28.03,,,Volta Ciclística de Porto Alegre (2.5) ,,,,2004
 ,4,,General classification ,,11,,2004
-28.03,20,,Stage 4 - Gravataí › Porto Alegre ,120,,,2004
-27.03,13,4,Stage 3 - Capão da Canoa › Gravataí ,148,,,2004
-26.03,17,4,Stage 2 - Tramandaí › Capão da Canoa ,126,,,2004
-25.03,3,4,Stage 1 - Porto Alegre › Tramandaí ,149,1,,2004
-24.03,15,15,Prologue - Porto Alegre › Porto Alegre ,7,,,2004
+28.03,20,,Stage 4 - Gravataí › Porto Alegre ,120.0,,,2004
+27.03,13,4,Stage 3 - Capão da Canoa › Gravataí ,148.0,,,2004
+26.03,17,4,Stage 2 - Tramandaí › Capão da Canoa ,126.0,,,2004
+25.03,3,4,Stage 1 - Porto Alegre › Tramandaí ,149.0,1,,2004
+24.03,15,15,Prologue - Porto Alegre › Porto Alegre ,7.0,,,2004
 16.03 » 20.03,,,Volta Ciclística Internacional do Paraná (2.5) ,,,,2004
 ,20,,General classification ,,,,2004
 20.03,32,,Stage 4 - Londrina › Londrina ,44.4,,,2004
-19.03,19,20,Stage 3 - Londrina › Londrina ,136,,,2004
-18.03,27,23,Stage 2 - Londrina › Arapongas ,165,,,2004
-17.03,28,22,Stage 1 - Londrina › Rolândia ,167,,,2004
+19.03,19,20,Stage 3 - Londrina › Londrina ,136.0,,,2004
+18.03,27,23,Stage 2 - Londrina › Arapongas ,165.0,,,2004
+17.03,28,22,Stage 1 - Londrina › Rolândia ,167.0,,,2004
 16.03,16,16,Prologue - Goiânia › Londrina ,3.05,,,2004
 11.01 » 19.01,,,Volta de Ciclismo Internacional do Estado de São Paulo (2.5) ,,,,2004
 ,5,,Mountains classification ,,,,2004
 ,5,,General classification ,,8,,2004
-19.01,20,,Stage 8 - Campinas › São Paulo ,55,,,2004
+19.01,20,,Stage 8 - Campinas › São Paulo ,55.0,,,2004
 18.01,39,4,Stage 7 - Ribeirão Preto › Campinas ,228.3,,,2004
-17.01,3,2,Stage 6 (ITT) - Ribeirão Preto › Ribeirão Preto ,23,1,,2004
+17.01,3,2,Stage 6 (ITT) - Ribeirão Preto › Ribeirão Preto ,23.0,1,,2004
 16.01,11,1,Stage 5 - Bauru › Ribeirão Preto ,230.3,,,2004
 15.01,21,1,Stage 4 - São Carlos › Bauru ,175.4,,,2004
-14.01,15,1,Stage 3 - Atibaia › São Carlos ,215,,,2004
+14.01,15,1,Stage 3 - Atibaia › São Carlos ,215.0,,,2004
 13.01,1,1,Stage 2 - São José dos Campos › Atibaia ,109.4,5,,2004
 12.01,1,1,Stage 1b - São Paulo › São José dos Campos ,91.8,5,,2004
 11.01,10,15,Stage 1a - São Paulo › São Paulo ,12.75,,,2004
@@ -182,7 +183,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.06,2,,National Championships Brazil - ITT (NC) ,,7,,2003
 23.04 » 27.04,,,Volta do Rio de Janeiro de Ciclismo (2.5) ,,,,2003
 ,7,,General classification ,,4,,2003
-27.04,25,,Stage 5 - Rio de Janeiro › Rio de Janeiro ,61,,,2003
+27.04,25,,Stage 5 - Rio de Janeiro › Rio de Janeiro ,61.0,,,2003
 26.04,22,,Stage 4 - São Pedro da Aldeia › Niterói ,127.2,,,2003
 25.04,28,7,Stage 3 - Nova Friburgo › São Pedro da Aldeia ,186.3,,,2003
 24.04,5,6,Stage 2 - Teresópolis › Nova Friburgo ,108.4,,,2003
@@ -192,18 +193,18 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,11,,Points classification ,,,,2003
 ,17,,General classification ,,,,2003
 06.04,24,,Stage 10 - Santiago › Santiago ,71.4,,,2003
-05.04,13,17,Stage 9 - Quilpue › Quilicura ,190,,,2003
-04.04,13,19,Stage 8 - CCU › Limache ,128,,,2003
-03.04,24,19,Stage 7 - Melipilla › Farellones ,125,,,2003
-02.04,25,12,Stage 6 - Pichilemu › San Antonio ,140,,,2003
-01.04,10,11,Stage 5 - Curico › Pichilemu ,160,,,2003
-31.03,7,11,Stage 4a - Talca › Licante ,70,,,2003
-31.03,25,11,Stage 4b - Licante › Curico ,120,,,2003
-30.03,29,16,Stage 3a - Linares › Talca ,122,,,2003
-30.03,9,11,Stage 3b (ITT) - Talca › Pencahue ,20,,,2003
-29.03,4,16,Stage 2 - Chillan › Linares ,211,,,2003
-28.03,5,16,Stage 1 - San Pedro de La Paz › Chillan ,135,,,2003
+05.04,13,17,Stage 9 - Quilpue › Quilicura ,190.0,,,2003
+04.04,13,19,Stage 8 - CCU › Limache ,128.0,,,2003
+03.04,24,19,Stage 7 - Melipilla › Farellones ,125.0,,,2003
+02.04,25,12,Stage 6 - Pichilemu › San Antonio ,140.0,,,2003
+01.04,10,11,Stage 5 - Curico › Pichilemu ,160.0,,,2003
+31.03,7,11,Stage 4a - Talca › Licante ,70.0,,,2003
+31.03,25,11,Stage 4b - Licante › Curico ,120.0,,,2003
+30.03,29,16,Stage 3a - Linares › Talca ,122.0,,,2003
+30.03,9,11,Stage 3b (ITT) - Talca › Pencahue ,20.0,,,2003
+29.03,4,16,Stage 2 - Chillan › Linares ,211.0,,,2003
+28.03,5,16,Stage 1 - San Pedro de La Paz › Chillan ,135.0,,,2003
 27.03,18,18,Prologue - Concepción › Concepción ,4.5,,,2003
-29.06,2,,National Championships Brazil - ITT (NC) ,35,7,,2001
-07.01,9,,Copa América de Ciclismo (1.5) ,42,,,2001
+29.06,2,,National Championships Brazil - ITT (NC) ,35.0,7,,2001
+07.01,9,,Copa América de Ciclismo (1.5) ,42.0,,,2001
 31.07,DNF,,Olympic Games Road Race (Olympics) ,221.85,,,1996

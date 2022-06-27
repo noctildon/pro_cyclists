@@ -1,4 +1,34 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+17.04,DNF,,Paris-Roubaix (1.UWT) ,257.2,,,2022
+06.04,DNF,,Scheldeprijs (1.Pro) ,198.7,,,2022
+03.04,DNF,,Ronde van Vlaanderen - Tour des Flandres ME (1.UWT) ,272.5,,,2022
+25.03,DNF,,E3 Saxo Bank Classic (1.UWT) ,203.9,,,2022
+23.03,62,,Minerva Classic Brugge-De Panne (1.UWT) ,207.9,5,,2022
+20.03,DNF,,Per Sempre Alfredo (1.1) ,172.7,,,2022
+18.03,19,,Bredene Koksijde Classic (1.Pro) ,200.9,7,5,2022
+17.03,77,,Grand Prix de Denain - Porte du Hainaut (1.Pro) ,200.3,,,2022
+16.03,67,,Danilith Nokere Koerse (1.Pro) ,189.8,,,2022
+06.03,54,,Grote Prijs Jean-Pierre Monseré (1.1) ,203.2,,,2022
+01.03,96,,Le Samyn (1.1) ,209,,,2022
+10.02 » 15.02,,,Tour of Oman (2.Pro) ,,,,2022
+,27,,Youth classification ,,,,2022
+,24,,Points classification ,,,,2022
+,53,,General classification ,,,,2022
+15.02,7,,Stage 6 - Al Mouj Muscat › Matrah Corniche ,132.5,2,,2022
+14.02,46,55,Stage 5 - Samail › Jabal Al Akhdhar ,150.5,,,2022
+13.02,56,62,Stage 4 - Al Sifah › Muscat ,119.5,,,2022
+12.02,56,54,Stage 3 - Sultan Qaboos University › Qurayyat  ,180,,,2022
+11.02,63,55,Stage 2 - Naseem Park › Suhar Corniche ,167.5,,,2022
+10.02,38,40,Stage 1 - Al Rustaq Fort › Muscat ,138,,,2022
+01.02 » 05.02,,,Saudi Tour (2.1) ,,,,2022
+,11,,Youth classification ,,,,2022
+,21,,Points classification ,,,,2022
+,49,,General classification ,,,,2022
+05.02,38,,Stage 5 - AlUla Old Town › AlUla Old Town ,138.9,,,2022
+04.02,45,52,Stage 4 - Winter Park › Skyviews of Harrat Uwayrid ,149.3,,,2022
+03.02,65,70,Stage 3 - Tayma Hadaj Well › AlUla Old Town ,181.2,,,2022
+02.02,63,53,Stage 2 - Taibah University › Abu Rakah ,163.9,,,2022
+01.02,6,9,Stage 1 - Winter Park › Winter Park ,198,3,,2022
 17.04,DNF,,Paris-Roubaix (1.UWT),257.2,,,2022
 06.04,DNF,,Scheldeprijs (1.Pro),198.7,,,2022
 03.04,DNF,,Ronde van Vlaanderen - Tour des Flandres ME (1.UWT),272.5,,,2022
@@ -9,7 +39,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.03,77,,Grand Prix de Denain - Porte du Hainaut (1.Pro),200.3,,,2022
 16.03,67,,Danilith Nokere Koerse (1.Pro),189.8,,,2022
 06.03,54,,Grote Prijs Jean-Pierre Monseré (1.1),203.2,,,2022
-01.03,96,,Le Samyn (1.1),209,,,2022
+01.03,96,,Le Samyn (1.1),209.0,,,2022
 10.02 » 15.02,,,Tour of Oman (2.Pro),,,,2022
 ,27,,Youth classification,,,,2022
 ,24,,Points classification,,,,2022
@@ -17,9 +47,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.02,7,,Stage 6 - Al Mouj Muscat › Matrah Corniche,132.5,2,,2022
 14.02,46,55,Stage 5 - Samail › Jabal Al Akhdhar,150.5,,,2022
 13.02,56,62,Stage 4 - Al Sifah › Muscat,119.5,,,2022
-12.02,56,54,Stage 3 - Sultan Qaboos University › Qurayyat ,180,,,2022
+12.02,56,54,Stage 3 - Sultan Qaboos University › Qurayyat ,180.0,,,2022
 11.02,63,55,Stage 2 - Naseem Park › Suhar Corniche,167.5,,,2022
-10.02,38,40,Stage 1 - Al Rustaq Fort › Muscat,138,,,2022
+10.02,38,40,Stage 1 - Al Rustaq Fort › Muscat,138.0,,,2022
 01.02 » 05.02,,,Saudi Tour (2.1),,,,2022
 ,11,,Youth classification,,,,2022
 ,21,,Points classification,,,,2022
@@ -28,7 +58,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.02,45,52,Stage 4 - Winter Park › Skyviews of Harrat Uwayrid,149.3,,,2022
 03.02,65,70,Stage 3 - Tayma Hadaj Well › AlUla Old Town,181.2,,,2022
 02.02,63,53,Stage 2 - Taibah University › Abu Rakah,163.9,,,2022
-01.02,6,9,Stage 1 - Winter Park › Winter Park,198,3,,2022
+01.02,6,9,Stage 1 - Winter Park › Winter Park,198.0,3,,2022
 04.10,DNF,,Coppa Bernocchi - GP BPM (1.Pro),197.15,,,2021
 26.08 » 29.08,,,Deutschland Tour (2.Pro),,,,2021
 ,52,,Youth classification,,,,2021
@@ -38,39 +68,38 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.08,104,108,Stage 2 - Sangerhausen › Ilmenau,180.6,,,2021
 26.08,128,124,Stage 1 - Stralsund › Schwerin,191.4,,,2021
 19.08 » 22.08,,,Tour of Norway (2.Pro),,,,2021
-,99,,General classification,,,,2021
 22.08,94,,Stage 4 - Hinna Park › Stavanger,156.5,,,2021
 21.08,57,100,Stage 3 - Jørpeland › Jørpeland,159.9,,,2021
 20.08,85,102,Stage 2 - Sirdal (Tjørhomfjellet) › Sirdal (Fidjeland),185.3,,,2021
 19.08,104,104,Stage 1 - Egersund › Sokndal (Kroheia),150.8,,,2021
 03.06 » 06.06,,,Tour of Malopolska (2.2),,,,2021
-05.06,DNS,,Stage 2 - Niepołomice › Nowy Targ ,142,,,2021
-04.06,138,137,Stage 1 - Wieliczka › Myślenice Góra Chełm,124,,,2021
+05.06,DNS,,Stage 2 - Niepołomice › Nowy Targ ,142.0,,,2021
+04.06,138,137,Stage 1 - Wieliczka › Myślenice Góra Chełm,124.0,,,2021
 03.06,44,44,Prologue - Cracow  › Cracow ,1.4,,,2021
 03.09 » 06.09,,,Albertina Baltyk - Karkonosze Tour (2.2),,,,2020
 06.09,DNF,,Stage 4 - Piechowice › Piechowice,87.5,,,2020
-05.09,7,12,Stage 3 - Kożuchów › Osiecznica,62,,,2020
+05.09,7,12,Stage 3 - Kożuchów › Osiecznica,62.0,,,2020
 04.09,5,12,Stage 2 - Babimost › Zbąszynek,128.5,,,2020
-19.07,1,,Puchar MON (1.2),149,15,40,2020
+19.07,1,,Puchar MON (1.2),149.0,15,40,2020
 15.07 » 18.07,,,Dookoła Mazowsza (2.2),,,,2020
 ,1,,Youth classification,,,,2020
 ,1,,Points classification,,,,2020
 ,4,,General classification,,11,20,2020
-18.07,1,,Stage 4 - Kozienice › Kozienice,165,5,7,2020
-17.07,4,4,Stage 3 - Grodzisk Mazowiecki › Grodzisk Mazowiecki,166,,,2020
+18.07,1,,Stage 4 - Kozienice › Kozienice,165.0,5,7,2020
+17.07,4,4,Stage 3 - Grodzisk Mazowiecki › Grodzisk Mazowiecki,166.0,,,2020
 16.07,1,1,Stage 2 (ITT) - Służewiec › Służewiec,2.5,5,7,2020
 30.06,DNF,,National Championships Germany - Road Race (NC),178.1,,,2019
-28.06,12,,National Championships Germany U23 - ITT (NC),35,,,2019
-01.05,DNF,,Eschborn-Frankfurt (1.2U),119,,,2019
-29.06,21,,National Championships Germany U23 - ITT (NC),30,,,2018
+28.06,12,,National Championships Germany U23 - ITT (NC),35.0,,,2019
+01.05,DNF,,Eschborn-Frankfurt (1.2U),119.0,,,2019
+29.06,21,,National Championships Germany U23 - ITT (NC),30.0,,,2018
 17.06,4,,National Championships Germany U23 - Road Race (NC),169.6,,15,2018
 10.06,DNF,,Rund um Köln (1.1),207.7,,,2018
-01.05,DNF,,Eschborn-Frankfurt U23 (1.2U),143,,,2018
-15.09,DNF,,Kampioenschap van Vlaanderen (1.1),192,,,2017
+01.05,DNF,,Eschborn-Frankfurt U23 (1.2U),143.0,,,2018
+15.09,DNF,,Kampioenschap van Vlaanderen (1.1),192.0,,,2017
 26.08 » 27.08,,,Ronde van Midden Nederland (2.2),,,,2017
 ,29,,Youth classification,,,,2017
 ,56,,General classification,,,,2017
-27.08,13,,Stage 2 - Utrecht › Utrecht,187,,,2017
+27.08,13,,Stage 2 - Utrecht › Utrecht,187.0,,,2017
 26.08,14,68,Stage 1 (TTT) - Doorn › Doorn,26.3,,,2017
 18.08,DNF,,Veenendaal Veenendaal Classic (1.1),195.8,,,2017
 25.07 » 29.07,,,Dookoła Mazowsza (2.2),,,,2017
@@ -91,9 +120,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,89,,General classification,,,,2017
 07.05,13,,Stage 3 - Glogow › Polkowice,130.8,,,2017
 06.05,102,96,Stage 2 - Dzierzoniow › Srebrna Gora,128.3,,,2017
-05.05,20,24,Stage 1 - Zlotoryja › Jawor,166,,,2017
+05.05,20,24,Stage 1 - Zlotoryja › Jawor,166.0,,,2017
 01.05,DNF,,Rund um den Finanzplatz Eschborn-Frankfurt (U23) (1.2U),152.8,,,2017
-22.04,DNF,,Arno Wallaard Memorial (1.2),184,,,2017
+22.04,DNF,,Arno Wallaard Memorial (1.2),184.0,,,2017
 15.04,59,,ZLM Tour (1.Ncup),181.3,,,2017
 07.04 » 09.04,,,Circuit des Ardennes International (2.2),,,,2017
 08.04,OTL,,Stage 2 - Rochehaut   › Rochehaut  ,174.8,,,2017
@@ -104,7 +133,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.09 » 04.09,,,Grand Prix Rüebliland (2.1),,,,2016
 ,15,,Points classification,,,,2016
 ,48,,General classification,,,,2016
-04.09,4,,Stage 4 - Aarburg › Aarburg,111,5,,2016
+04.09,4,,Stage 4 - Aarburg › Aarburg,111.0,5,,2016
 03.09,32,59,Stage 3 (ITT) - Muhen › Muhen,8.6,,,2016
 03.09,12,59,Stage 2 - Muhen › Muhen,86.2,,,2016
 02.09,68,70,Stage 1 - Gunzwil › Gunzwil,104.2,,,2016
@@ -130,9 +159,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 20.05,65,66,Stage 1 - Axel › Axel,101.7,,,2016
 08.04 » 10.04,,,Internationale Cottbuser Junioren-Etappenfahrt 2016 (2.1),,,,2016
 ,10,,General classification,,14,,2016
-10.04,72,,Stage 3 - Dissen › Dissen,120,,,2016
-09.04,12,7,Stage 2b - Cottbus › Cottbus,60,,,2016
-09.04,9,10,Stage 2a (ITT) - Fehrow › Drachhausen,11,,,2016
+10.04,72,,Stage 3 - Dissen › Dissen,120.0,,,2016
+09.04,12,7,Stage 2b - Cottbus › Cottbus,60.0,,,2016
+09.04,9,10,Stage 2a (ITT) - Fehrow › Drachhausen,11.0,,,2016
 08.04,106,106,Stage 1 - Drebkau › Drebkau,77.2,,,2016
 04.09 » 06.09,,,Grand Prix Rüebliland (2.1),,,,2015
 ,7,,Youth classification,,,,2015

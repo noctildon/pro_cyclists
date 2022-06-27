@@ -1,13 +1,15 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
 10.08,7,,Trofeo Internazionale Bastianelli (1.2) ,148,,,2008
 04.05,70,,Giro di Toscana (1.1) ,199.8,,,2008
+10.08,7,,Trofeo Internazionale Bastianelli (1.2) ,148.0,,,2008
+04.05,70,,Giro di Toscana (1.1) ,199.8,,,2008
 07.10 » 14.10,,,Vuelta a Chihuahua Internacional (2.2) ,,,,2007
 ,50,,General classification ,,,,2007
-14.10,52,,Stage 7 - Chihuahua › Chihuahua ,84,,,2007
+14.10,52,,Stage 7 - Chihuahua › Chihuahua ,84.0,,,2007
 13.10,39,52,Stage 6 - Cuauhtémoc › Chihuahua ,127.8,,,2007
 12.10,55,52,Stage 5 - Creel › Cuauhtémoc ,152.8,,,2007
 10.10,48,53,Stage 4 - Guachochi › Creel ,157.3,,,2007
-09.10,61,61,Stage 3 - Parral › Guachochi ,198,,,2007
+09.10,61,61,Stage 3 - Parral › Guachochi ,198.0,,,2007
 08.10,93,91,Stage 2 - Chihuahua › Camargo ,147.8,,,2007
 07.10,89,89,Stage 1 - Juarez › Juarez ,82.6,,,2007
 09.09 » 15.09,,,Tour of Britain (2.1) ,,,,2007
@@ -22,18 +24,18 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.08 » 31.08,,,Tour du Poitou Charentes et de la Vienne (2.1) ,,,,2007
 ,11,,General classification ,,12,,2007
 31.08,27,,Stage 4b - Futuroscope › Poitiers ,105.8,,,2007
-31.08,27,,Stage 4a (ITT) - Jaunay-Clan › Jaunay-Clan ,20,,,2007
+31.08,27,,Stage 4a (ITT) - Jaunay-Clan › Jaunay-Clan ,20.0,,,2007
 30.08,6,,Stage 3 - Châtellerault › Châtellerault ,183.9,3,,2007
 29.08,19,,Stage 2 - La Rochelle  › Cerizay ,173.1,,,2007
 28.08,5,,Stage 1 - Ruelle-sur-Touvre  › La Rochelle ,187.9,4,,2007
-26.08,5,,Clasica a los Puertos (1.1) ,146,28,,2007
+26.08,5,,Clasica a los Puertos (1.1) ,146.0,28,,2007
 04.08 » 15.08,,,Volta a Portugal (2.HC) ,,,,2007
 ,87,,General classification ,,,,2007
 15.08,79,,Stage 10 (ITT) - Viseu › Viseu ,38.8,,,2007
 14.08,82,90,Stage 9 - Oliveira do Bairro › Alto da Torre ,154.2,,,2007
 13.08,18,89,Stage 8 - Aveiro › São João da Madeira ,157.1,,,2007
-12.08,34,92,Stage 7 - Lixa › Gondomar ,168,,,2007
-11.08,75,94,Stage 6 - Celorico de Basto › Mondim de Basto (Senhora da Graça) ,143,,,2007
+12.08,34,92,Stage 7 - Lixa › Gondomar ,168.0,,,2007
+11.08,75,94,Stage 6 - Celorico de Basto › Mondim de Basto (Senhora da Graça) ,143.0,,,2007
 09.08,73,105,Stage 5 - Felgueiras › Fafe ,167.7,,,2007
 08.08,136,113,Stage 4 - Guarda › Santo Tirso ,222.1,,,2007
 07.08,113,77,Stage 3 - Idanha-a-Nova › Gouveia ,176.3,,,2007
@@ -44,7 +46,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.06 » 17.06,,,GP CTT Correios de Portugal (2.1) ,,,,2007
 17.06,DNF,,Stage 4 - Viseu › Agueda ,156.9,,,2007
 16.06,92,92,Stage 3 - Aveiro › Torre (Serre Estrela) ,153.2,,,2007
-15.06,11,49,Stage 2 - Povoa de Varzim › Oliveira do Barro ,196,,,2007
+15.06,11,49,Stage 2 - Povoa de Varzim › Oliveira do Barro ,196.0,,,2007
 14.06,94,95,Stage 1 - Santo Tirso › Povoa de Varzim ,197.6,,,2007
 12.05 » 14.05,,,Clásica Internacional de Alcobendas y Villalba () ,,,,2007
 ,15,,General classification ,,6,,2007
@@ -52,9 +54,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,4,,Points classification ,,,,2007
 ,8,,General classification ,,18,,2007
 07.05,5,,Stage 5 - Gijón › Oviedo ,180.2,4,,2007
-06.05,23,9,Stage 4 - Cangas del Narcea › Gijón ,158,,,2007
+06.05,23,9,Stage 4 - Cangas del Narcea › Gijón ,158.0,,,2007
 05.05,10,9,Stage 3 - Cafés Toscaf › Alto del Acebo ,180.2,,,2007
-04.05,4,4,Stage 2 - Llanes › Avilés ,168,5,,2007
+04.05,4,4,Stage 2 - Llanes › Avilés ,168.0,5,,2007
 03.05,6,6,Stage 1 - Oviedo › Llanes ,150.6,3,,2007
 11.04 » 15.04,,,Volta ao Alentejo em Bicicleta (2.1) ,,,,2007
 ,55,,General classification ,,,,2007
@@ -67,44 +69,43 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.04,48,,Gran Premio Miguel Indurain (1.HC) ,198.6,,,2007
 07.03 » 11.03,,,Vuelta ciclista a la region de Murcia (2.1) ,,,,2007
 ,101,,General classification ,,,,2007
-11.03,44,,Stage 5 ,151,,,2007
-10.03,86,,Stage 4 (ITT) ,23,,,2007
-09.03,103,,Stage 3 ,146,,,2007
-07.03,98,,Stage 1 ,166,,,2007
+11.03,44,,Stage 5 ,151.0,,,2007
+10.03,86,,Stage 4 (ITT) ,23.0,,,2007
+09.03,103,,Stage 3 ,146.0,,,2007
+07.03,98,,Stage 1 ,166.0,,,2007
 27.02 » 03.03,,,Vuelta a la Comunidad Valenciana (2.1) ,,,,2007
-,101,,General classification ,,,,2007
 03.03,19,,Stage 5 - Valencia › Valencia ,146.9,,,2007
-02.03,130,,Stage 4 - Albaida › Alto del Campello ,162,,,2007
+02.03,130,,Stage 4 - Albaida › Alto del Campello ,162.0,,,2007
 01.03,87,,Stage 3 - Villarreal › Villarreal ,151.8,,,2007
 28.02,56,,Stage 2 - Calpe › Calpe ,148.2,,,2007
 27.02,32,,Stage 1 - Alcira › Alcira ,162.7,,,2007
 14.02,129,,Trofeo Sóller (1.1) ,150.6,,,2007
-11.02,82,,Trofeo Mallorca (1.1) ,100,,,2007
+11.02,82,,Trofeo Mallorca (1.1) ,100.0,,,2007
 31.07,24,,Circuito de Getxo (1.1) ,185.4,,,2006
 16.06 » 20.06,,,Vuelta Asturias (2.1) ,,,,2006
-20.06,DNF,,Stage 5 - Llanes › Oviedo ,184,,,2006
-19.06,115,133,Stage 4 - Gijón › Llanes ,154,,,2006
-18.06,105,134,Stage 3 - Cangas Del Narcea › Gijón ,174,,,2006
-17.06,130,135,Stage 2 - Cafés Toscaf › Alto Del Acebo ,180,,,2006
-16.06,133,133,Stage 1 - Oviedo › Aviles ,171,,,2006
+20.06,DNF,,Stage 5 - Llanes › Oviedo ,184.0,,,2006
+19.06,115,133,Stage 4 - Gijón › Llanes ,154.0,,,2006
+18.06,105,134,Stage 3 - Cangas Del Narcea › Gijón ,174.0,,,2006
+17.06,130,135,Stage 2 - Cafés Toscaf › Alto Del Acebo ,180.0,,,2006
+16.06,133,133,Stage 1 - Oviedo › Aviles ,171.0,,,2006
 06.05 » 07.05,,,Clásica Internacional de Alcobendas y Villalba (2.1) ,,,,2006
 ,88,,General classification ,,,,2006
 07.05,69,,Stage 3 (ITT) - Alcobendas › Alcobendas ,9.7,,,2006
-07.05,21,88,Stage 2 - Collado Villalba › Collado Villalba ,79,,,2006
-06.05,101,101,Stage 1 - Alcobendas › Puerto de Nevacerrada ,170,,,2006
+07.05,21,88,Stage 2 - Collado Villalba › Collado Villalba ,79.0,,,2006
+06.05,101,101,Stage 1 - Alcobendas › Puerto de Nevacerrada ,170.0,,,2006
 18.04 » 21.04,,,Giro del Trentino (2.1) ,,,,2006
 ,48,,General classification ,,,,2006
-21.04,6,,Stage 4 - Tione › Arco ,172,3,,2006
-20.04,1,,Stage 3 - Romeno › Tione ,168,20,,2006
-19.04,108,,Stage 2 - Castello Tesino › Clès ,174,,,2006
-18.04,17,,Stage 1 - Arco › Castello Tesino ,162,,,2006
-16.04,6,,Giro d'Oro (1.1) ,192,24,,2006
-09.04,13,,Klasika Primavera (1.1) ,171,8,,2006
+21.04,6,,Stage 4 - Tione › Arco ,172.0,3,,2006
+20.04,1,,Stage 3 - Romeno › Tione ,168.0,20,,2006
+19.04,108,,Stage 2 - Castello Tesino › Clès ,174.0,,,2006
+18.04,17,,Stage 1 - Arco › Castello Tesino ,162.0,,,2006
+16.04,6,,Giro d'Oro (1.1) ,192.0,24,,2006
+09.04,13,,Klasika Primavera (1.1) ,171.0,8,,2006
 25.03 » 26.03,,,Critérium International (2.HC) ,,,,2006
 ,49,,General classification ,,,,2006
 26.03,48,,Stage 3 (ITT) - Charleville-Mézières › Charleville-Mézières ,8.3,,,2006
-26.03,38,,Stage 2 - Les Vieilles-Forges › Monthermé ,101,,,2006
-25.03,95,,Stage 1 - Sedan › Charleville-Mézières ,192,,,2006
+26.03,38,,Stage 2 - Les Vieilles-Forges › Monthermé ,101.0,,,2006
+25.03,95,,Stage 1 - Sedan › Charleville-Mézières ,192.0,,,2006
 01.03 » 05.03,,,Vuelta a Murcia (2.1) ,,,,2006
 ,11,,Points classification ,,,,2006
 ,46,,General classification ,,,,2006
@@ -116,8 +117,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 26.02,DNF,,Clasica de Almeria (1.1) ,173.1,,,2006
 21.02 » 25.02,,,Vuelta Ciclista a la Comunidad Valenciana (2.1) ,,,,2006
 ,82,,General classification ,,,,2006
-25.02,95,,Stage 5 - Valencia › Valencia ,176,,,2006
-24.02,52,,Stage 4 - Alzira › Vallada (Alto del Campello) ,161,,,2006
+25.02,95,,Stage 5 - Valencia › Valencia ,176.0,,,2006
+24.02,52,,Stage 4 - Alzira › Vallada (Alto del Campello) ,161.0,,,2006
 23.02,40,,Stage 3 - Sagunt › Punto Sagunt ,162.5,,,2006
 22.02,15,,Stage 2 - Vila Real › Vila Real ,151.8,,,2006
 21.02,82,,Stage 1 - Calpe › Calpe ,148.2,,,2006
@@ -125,15 +126,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.02,51,,Trofeo Sóller (1.1) ,150.6,,,2006
 07.02,4,,Trofeo Pollença (1.1) ,149.6,32,,2006
 06.02,25,,Trofeo Cala Millor - Cala Bona (1.1) ,159.4,,,2006
-05.02,26,,Trofeo Mallorca (1.1) ,100,,,2006
+05.02,26,,Trofeo Mallorca (1.1) ,100.0,,,2006
 30.08 » 04.09,,,Tour of Britain (2.1) ,,,,2005
 ,67,,General classification ,,,,2005
-04.09,86,,Stage 6 - London › London ,60,,,2005
-03.09,47,48,Stage 5 (ITT) - Birmingham › Birmingham ,4,,,2005
-02.09,62,47,Stage 4 - Buxton › Nottingham ,195,,,2005
-01.09,23,45,Stage 3 - Leeds › Sheffield ,160,,,2005
-31.08,42,46,Stage 2 - Carlisle › Blackpool ,160,,,2005
-30.08,47,47,Stage 1 - Glasgow › Castle Douglas ,185,,,2005
+04.09,86,,Stage 6 - London › London ,60.0,,,2005
+03.09,47,48,Stage 5 (ITT) - Birmingham › Birmingham ,4.0,,,2005
+02.09,62,47,Stage 4 - Buxton › Nottingham ,195.0,,,2005
+01.09,23,45,Stage 3 - Leeds › Sheffield ,160.0,,,2005
+31.08,42,46,Stage 2 - Carlisle › Blackpool ,160.0,,,2005
+30.08,47,47,Stage 1 - Glasgow › Castle Douglas ,185.0,,,2005
 05.08 » 14.08,,,Volta a Portugal (2.HC) ,,,,2005
 ,69,,General classification ,,,,2005
 14.08,58,,Stage 10 (ITT) - Viseu › Viseu ITT ,36.8,,,2005
@@ -145,79 +146,79 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.08,4,,Stage 4 - Penamacor › Castelo Branco ,216.7,7,,2005
 07.08,128,,Stage 3 - Lousã › Fundão ,156.2,,,2005
 06.08,51,,Stage 2 - Cartaxo › Figueira Da Foz ,187.9,,,2005
-05.08,59,60,Stage 1 - Oeiras › Lisboa ,169,,,2005
+05.08,59,60,Stage 1 - Oeiras › Lisboa ,169.0,,,2005
 30.07,8,,Circuito de Getxo (1.1) ,185.4,18,,2005
 24.06,DNF,,Giro dell'Appennino (1.1) ,198.3,,,2005
 10.06 » 12.06,,,GP CTT Correios de Portugal (2.1) ,,,,2005
 10.06,119,120,Stage 1 - Porto › Figueira da Foz ,197.1,,,2005
 01.06 » 05.06,,,Euskal Bizikleta (2.HC) ,,,,2005
-04.06,79,,Stage 4a - Murgia-Zuia › Abadiño ,89,,,2005
+04.06,79,,Stage 4a - Murgia-Zuia › Abadiño ,89.0,,,2005
 04.06,86,,Stage 4b (ITT) - Elorrio › Abadiño (Matiena) ITT ,13.7,,,2005
 03.06,86,,Stage 3 - Tolosa › Strio. de Oro ,135.8,,,2005
 02.06,96,,Stage 2 - Sopelana › Tolosa ,181.5,,,2005
 01.06,69,,Stage 1 - Eibar › Sopelana ,164.8,,,2005
 19.04 » 22.04,,,Giro del Trentino (2.1) ,,,,2005
 ,83,,General classification ,,,,2005
-22.04,36,,Stage 4 - Puegnago del Garda › Arco di Trento ,162,,,2005
-21.04,75,,Stage 3 - Revò › Salò ,175,,,2005
-20.04,105,,Stage 2 - Arco › Marcena di Rumo ,179,,,2005
-19.04,66,,Stage 1 - Mori-Ronzo › Chienis ,175,,,2005
-17.04,28,,Giro d'Oro (1.1) ,184,,,2005
+22.04,36,,Stage 4 - Puegnago del Garda › Arco di Trento ,162.0,,,2005
+21.04,75,,Stage 3 - Revò › Salò ,175.0,,,2005
+20.04,105,,Stage 2 - Arco › Marcena di Rumo ,179.0,,,2005
+19.04,66,,Stage 1 - Mori-Ronzo › Chienis ,175.0,,,2005
+17.04,28,,Giro d'Oro (1.1) ,184.0,,,2005
 04.04 » 08.04,,,Vuelta a Pais Vasco (PT) ,,,,2005
-07.04,115,,Stage 4 - Gasteiz › Altsasu ,167,,,2005
-06.04,63,,Stage 3 - Ortuella › Gasteiz ,176,,,2005
-05.04,111,,Stage 2 - Zarautz › La Lejana-Trapagaran ,166,,,2005
-04.04,134,,Stage 1 - Zarautz › Zarautz ,133,,,2005
-02.04,19,,Gran Premio Miguel Indurain (1.1) ,191,2,,2005
+07.04,115,,Stage 4 - Gasteiz › Altsasu ,167.0,,,2005
+06.04,63,,Stage 3 - Ortuella › Gasteiz ,176.0,,,2005
+05.04,111,,Stage 2 - Zarautz › La Lejana-Trapagaran ,166.0,,,2005
+04.04,134,,Stage 1 - Zarautz › Zarautz ,133.0,,,2005
+02.04,19,,Gran Premio Miguel Indurain (1.1) ,191.0,2,,2005
 26.03 » 27.03,,,Critérium International (2.HC) ,,,,2005
 ,39,,General classification ,,,,2005
 27.03,31,,Stage 3 (ITT) - Charleville-Mézières › Charleville-Mézières ,8.3,,,2005
 27.03,38,,Stage 2 - Les Vieilles Forges › Monthermé ,98.5,,,2005
-26.03,26,,Stage 1 - Vouziers › Charleville-Mézières ,187,,,2005
+26.03,26,,Stage 1 - Vouziers › Charleville-Mézières ,187.0,,,2005
 27.02,3,,Clasica de Almeria (1.1) ,173.4,40,,2005
 22.02 » 26.02,,,Vuelta Ciclista a la Comunidad Valenciana (2.1) ,,,,2005
 ,12,,Points classification ,,,,2005
 ,7,,General classification ,,20,,2005
 26.02,23,,Stage 5 - Valencia › Valencia ,149.5,,,2005
-25.02,7,7,Stage 4 - Alzira › Alt Del Campello (Vallada) ,161,2,,2005
+25.02,7,7,Stage 4 - Alzira › Alt Del Campello (Vallada) ,161.0,2,,2005
 24.02,43,20,Stage 3 - Sagunto › Alzira ,151.5,,,2005
-23.02,7,10,Stage 2 - Xabia › Pto. Sagunto ,178,2,,2005
+23.02,7,10,Stage 2 - Xabia › Pto. Sagunto ,178.0,2,,2005
 22.02,12,15,Stage 1 - Calpe › Calpe ,150.2,,,2005
 19.02,21,,Trofeo Luis Puig (1.1) ,174.2,,,2005
 10.02,13,,Trofeo Calvia (1.1) ,148.3,8,,2005
 09.02,6,,Trofeo Soller (1.1) ,150.6,24,,2005
 08.02,4,,Trofeo Manacor (1.1) ,165.4,32,,2005
 07.02,9,,Trofeo Alcudia (1.1) ,163.2,16,,2005
-06.02,16,,Trofeo Mallorca (1.1) ,76,5,,2005
+06.02,16,,Trofeo Mallorca (1.1) ,76.0,5,,2005
 11.03 » 21.03,,,Vuelta de Chile (2.5) ,,,,2004
-14.03,3,,Stage 4a - Talca › Curepto ,77,1,,2004
-13.03,4,,Stage 3 - San Nicolás › Talca ,197,,,2004
-12.03,6,,Stage 2 - Concepción › Chillán ,117,,,2004
+14.03,3,,Stage 4a - Talca › Curepto ,77.0,1,,2004
+13.03,4,,Stage 3 - San Nicolás › Talca ,197.0,,,2004
+12.03,6,,Stage 2 - Concepción › Chillán ,117.0,,,2004
 29.02,13,,Clasica de Almeria (1.3) ,187.2,8,,2004
-10.08,DNF,,Urkiola Igoera - Subida Urkiola (1.3) ,160,,,2003
+10.08,DNF,,Urkiola Igoera - Subida Urkiola (1.3) ,160.0,,,2003
 05.07 » 27.07,,,Tour de France () ,,,,2003
 ,21,,Youth classification ,,,,2003
 ,83,,Points classification ,,,,2003
 ,139,,General classification ,,25,,2003
-27.07,16,,Stage 20 - Ville d'Avray › Paris ,152,,,2003
-26.07,139,140,Stage 19 (ITT) - Pornic › Nantes ,49,,,2003
+27.07,16,,Stage 20 - Ville d'Avray › Paris ,152.0,,,2003
+26.07,139,140,Stage 19 (ITT) - Pornic › Nantes ,49.0,,,2003
 25.07,36,143,Stage 18 - Bordeaux › Saint-Maixent-l'Ecole ,202.5,,,2003
-24.07,124,144,Stage 17 - Dax › Bordeaux ,181,,,2003
+24.07,124,144,Stage 17 - Dax › Bordeaux ,181.0,,,2003
 23.07,143,144,Stage 16 - Pau › Bayonne ,197.5,,,2003
 21.07,104,142,Stage 15 - Bagnères-de-Bigorre › Luz-Ardiden ,159.5,,,2003
 20.07,114,145,Stage 14 - Saint-Girons › Loudenvielle-Le-Louron ,191.5,,,2003
 19.07,118,147,Stage 13 - Toulouse › Ax-3 Domaines ,197.5,,,2003
-18.07,159,151,Stage 12 (ITT) - Gaillac › Cap Découverte ,47,,,2003
+18.07,159,151,Stage 12 (ITT) - Gaillac › Cap Découverte ,47.0,,,2003
 17.07,124,144,Stage 11 - Narbonne › Toulouse ,153.5,,,2003
 15.07,32,148,Stage 10 - Gap › Marseille ,219.5,,,2003
 14.07,133,147,Stage 9 - Bourg d'Oisans › Gap ,184.5,,,2003
-13.07,138,143,Stage 8 - Sallanches › L'Alpe d'Huez ,219,,,2003
+13.07,138,143,Stage 8 - Sallanches › L'Alpe d'Huez ,219.0,,,2003
 12.07,136,141,Stage 7 - Lyon › Morzine ,230.5,,,2003
-11.07,150,136,Stage 6 - Nevers › Lyon ,230,,,2003
+11.07,150,136,Stage 6 - Nevers › Lyon ,230.0,,,2003
 10.07,131,144,Stage 5 - Troyes › Nevers ,196.5,,,2003
 08.07,103,128,Stage 3 - Charleville-Mézières › Saint-Dizier ,167.5,,,2003
 07.07,75,131,Stage 2 - La Ferté-sous-Jouarre › Sedan ,204.5,,,2003
-06.07,128,158,Stage 1 - Saint-Denis-Montgeron › Meaux ,168,,,2003
+06.07,128,158,Stage 1 - Saint-Denis-Montgeron › Meaux ,168.0,,,2003
 05.07,159,159,Prologue - Paris › Paris ,6.5,,,2003
 04.06 » 08.06,,,Euskal Bizikleta (2.1) ,,,,2003
 ,64,,General classification ,,,,2003
@@ -228,21 +229,21 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.06,OTL,,Stage 2 - Ispaster › Aizarnazabal ,167.2,,,2003
 04.06,96,96,Stage 1 - Eibar › Ispaster ,146.5,,,2003
 20.05 » 24.05,,,Vuelta a Castilla y Leon (2.3) ,,,,2003
-24.05,DNF,,Stage 5 - Avila › Avila ,182,,,2003
+24.05,DNF,,Stage 5 - Avila › Avila ,182.0,,,2003
 23.05,129,113,Stage 4 - El Burgo de Osma › La Granja de San Ildefonso ,173.4,,,2003
 22.05,121,100,Stage 3 - Lerma › Almazan ,164.3,,,2003
 20.05,123,123,Stage 1 - San Andrés del Rabanedo › Valladolid ,165.6,,,2003
 05.03 » 09.03,,,Vuelta a Murcia (2.3) ,,,,2003
 ,84,,General classification ,,,,2003
 09.03,27,,Stage 5 (ITT) - Murcia › Murcia ,12.9,,,2003
-08.03,69,89,Stage 4 - Cartagena › Alto de La Santa ,167,,,2003
+08.03,69,89,Stage 4 - Cartagena › Alto de La Santa ,167.0,,,2003
 07.03,125,121,Stage 3 - Caravaca › Caravaca ,160.8,,,2003
 06.03,66,63,Stage 2 - Alguazas › Alto Cresta del Gallo ,153.6,,,2003
 05.03,14,16,Stage 1 - Murcia › Ceuti ,162.2,,,2003
 25.02 » 01.03,,,Vuelta Ciclista a la Comunidad Valenciana (2.3) ,,,,2003
 ,20,,Points classification ,,,,2003
 ,68,,General classification ,,,,2003
-01.03,13,,Stage 5 - Valencia › Valencia ,165,,,2003
+01.03,13,,Stage 5 - Valencia › Valencia ,165.0,,,2003
 28.02,36,77,Stage 4 - Sagunto › Alto del Campello ,158.2,,,2003
 27.02,6,79,Stage 3 - Onda › Sagunto ,157.6,3,,2003
 26.02,99,128,Stage 2 - Xorret de Cati › Villajoyosa ,159.7,,,2003
@@ -250,53 +251,52 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.02 » 23.02,,,Volta ao Algarve (2.3) ,,,,2003
 ,6,,Mountains classification ,,,,2003
 ,11,,Points classification ,,,,2003
-,68,,General classification ,,,,2003
 23.02,5,,Stage 5 - Loule  › Alto do Malhão ,161.6,4,4,2003
 22.02,3,87,Stage 4 (ITT) - Guia  › Albufeira  ,10.5,7,6,2003
 21.02,7,87,Stage 3 - Lagos  › Lagos  ,153.8,2,,2003
-20.02,31,88,Stage 2 - Lagoa › Vila Real de Santo António ,172,,,2003
-19.02,90,90,Stage 1 - Tavira  › Tavira  ,178,,,2003
+20.02,31,88,Stage 2 - Lagoa › Vila Real de Santo António ,172.0,,,2003
+19.02,90,90,Stage 1 - Tavira  › Tavira  ,178.0,,,2003
 06.02,29,,Challenge Illes Balears - Trofeo Calvia (1.3) ,149.4,,,2003
 03.02,29,,Trofeo Cala: Cala Bona - Cala Rajada (1.3) ,164.5,,,2003
-02.02,51,,Trofeo Mallorca (1.3) ,80,,,2003
-06.10,DNF,,Paris - Tours (CDM) ,257,,,2002
+02.02,51,,Trofeo Mallorca (1.3) ,80.0,,,2003
+06.10,DNF,,Paris - Tours (CDM) ,257.0,,,2002
 05.09 » 14.09,,,Tour de l'Avenir (2.5) ,,,,2002
 ,3,,General classification ,,14,,2002
-14.09,2,,Stage 10 - Saint-Flour  › Saint-Flour  ,138,2,,2002
-13.09,6,,Stage 9 - Chomelix  › Saint-Flour  ,156,,,2002
-12.09,5,,Stage 8 - Besse  › La Chaise-Dieu ,144,,,2002
-11.09,4,,Stage 7 - Guéret  › Super Besse  ,180,,,2002
+14.09,2,,Stage 10 - Saint-Flour  › Saint-Flour  ,138.0,2,,2002
+13.09,6,,Stage 9 - Chomelix  › Saint-Flour  ,156.0,,,2002
+12.09,5,,Stage 8 - Besse  › La Chaise-Dieu ,144.0,,,2002
+11.09,4,,Stage 7 - Guéret  › Super Besse  ,180.0,,,2002
 10.09,3,,Stage 6 - Saint-Amand-Montrond  › Guéret  ,147.5,1,,2002
-09.09,33,,Stage 5 - Vatan › Saint-Amand-Montrond  ,148,,,2002
-08.09,89,,Stage 4 - Montlouis-sur-Loire  › Valence  ,147,,,2002
-07.09,50,,Stage 3 - Bonchamp-lès-Laval › Montlouis-sur-Loire ,200,,,2002
-06.09,32,,Stage 2 - Saint-Grégoire › Bonchamp-lès-Laval  ,147,,,2002
-05.09,60,,Stage 1 (ITT) - Saint-Grégoire › Saint-Grégoire ,9,,,2002
+09.09,33,,Stage 5 - Vatan › Saint-Amand-Montrond  ,148.0,,,2002
+08.09,89,,Stage 4 - Montlouis-sur-Loire  › Valence  ,147.0,,,2002
+07.09,50,,Stage 3 - Bonchamp-lès-Laval › Montlouis-sur-Loire ,200.0,,,2002
+06.09,32,,Stage 2 - Saint-Grégoire › Bonchamp-lès-Laval  ,147.0,,,2002
+05.09,60,,Stage 1 (ITT) - Saint-Grégoire › Saint-Grégoire ,9.0,,,2002
 02.08 » 15.08,,,Volta a Portugal (2.2) ,,,,2002
 ,51,,General classification ,,,,2002
 09.08,1,,Stage 7 - Cantanhede › Alcobaça ,182.7,20,,2002
 26.04 » 28.04,,,Vuelta Ciclista a la Rioja (2.3) ,,,,2002
 ,56,,General classification ,,,,2002
-28.04,29,,Stage 3 - Haro › Logroño ,192,,,2002
-27.04,56,61,Stage 2 - Bodegas Lan › Albelda de Iregua ,222,,,2002
-26.04,75,75,Stage 1 - Autol › llegada en Calahorra ,159,,,2002
-21.04,66,,Liège - Bastogne - Liège (CDM) ,258,5,,2002
-17.04,128,,La Flèche Wallonne (1.HC) ,198,5,,2002
+28.04,29,,Stage 3 - Haro › Logroño ,192.0,,,2002
+27.04,56,61,Stage 2 - Bodegas Lan › Albelda de Iregua ,222.0,,,2002
+26.04,75,75,Stage 1 - Autol › llegada en Calahorra ,159.0,,,2002
+21.04,66,,Liège - Bastogne - Liège (CDM) ,258.0,5,,2002
+17.04,128,,La Flèche Wallonne (1.HC) ,198.0,5,,2002
 30.03 » 31.03,,,Critérium International (2.1) ,,,,2002
 ,76,,General classification ,,,,2002
 31.03,78,,Stage 3 (ITT) - Charleville Mezieres ITT ›  ,8.5,,,2002
 31.03,78,,Stage 2 - Les Mazures › Montherme ,98.5,,,2002
-30.03,77,,Stage 1 - Charleville Mezieres › Charleville Mezieres ,192,,,2002
-23.03,DNF,,Milano-Sanremo (CDM) ,287,,,2002
+30.03,77,,Stage 1 - Charleville Mezieres › Charleville Mezieres ,192.0,,,2002
+23.03,DNF,,Milano-Sanremo (CDM) ,287.0,,,2002
 14.03 » 20.03,,,Tirreno-Adriatico (2.HC) ,,,,2002
 ,154,,General classification ,,5,,2002
-20.03,97,,Stage 7 - San Benedetto › San Benedetto ,162,,,2002
-19.03,141,,Stage 6 - Rapagnano › Montegranaro ,208,,,2002
-18.03,142,,Stage 5 - Rieti › Torricella Sicura ,150,,,2002
+20.03,97,,Stage 7 - San Benedetto › San Benedetto ,162.0,,,2002
+19.03,141,,Stage 6 - Rapagnano › Montegranaro ,208.0,,,2002
+18.03,142,,Stage 5 - Rieti › Torricella Sicura ,150.0,,,2002
 17.03,182,,Stage 4 (ITT) - Rieti › Rieti ,12.7,,,2002
-16.03,153,,Stage 3 - Anagni › Rocca di Cambio ,180,,,2002
-15.03,138,,Stage 2 - Sorrento › Frosinone ,212,,,2002
-14.03,114,,Stage 1 - Massa Lubrense › Sorrento ,124,,,2002
+16.03,153,,Stage 3 - Anagni › Rocca di Cambio ,180.0,,,2002
+15.03,138,,Stage 2 - Sorrento › Frosinone ,212.0,,,2002
+14.03,114,,Stage 1 - Massa Lubrense › Sorrento ,124.0,,,2002
 06.03 » 10.03,,,Vuelta Ciclista a Murcia (2.3) ,,,,2002
 ,70,,General classification ,,,,2002
 10.03,83,,Stage 5 (ITT) - Murcia › Murcia ,12.9,,,2002
@@ -304,32 +304,32 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.03,18,106,Stage 3 - Molina › Alguazas ,180.3,,,2002
 07.03,112,107,Stage 2 - Beniel › San Javier ,160.3,,,2002
 06.03,88,6,Stage 1 - Murcia › Fortuna ,176.8,,,2002
-06.02,3,,Challenge Illes Balears - Trofeo Calvia (1.3) ,156,40,,2002
-03.02,43,,Clasica de Almeria (1.3) ,174,,,2002
-25.08,10,,Gran Premio Llodio (1.4) ,196,14,,2001
+06.02,3,,Challenge Illes Balears - Trofeo Calvia (1.3) ,156.0,40,,2002
+03.02,43,,Clasica de Almeria (1.3) ,174.0,,,2002
+25.08,10,,Gran Premio Llodio (1.4) ,196.0,14,,2001
 21.08 » 24.08,,,Tour du Limousin (2.1) ,,,,2001
 ,41,,General classification ,,,,2001
-24.08,49,,Stage 4 - La Souterraine › Limoges ,173,,,2001
+24.08,49,,Stage 4 - La Souterraine › Limoges ,173.0,,,2001
 23.08,65,47,Stage 3 - Ussel › La Souterraine ,193.2,,,2001
-21.08,6,6,Stage 1 - Limoges › St-Yrieix-la-Perche ,169,3,,2001
+21.08,6,6,Stage 1 - Limoges › St-Yrieix-la-Perche ,169.0,3,,2001
 02.08 » 15.08,,,Volta a Portugal (2.3) ,,,,2001
 ,76,,General classification ,,,,2001
 13.08,7,,Stage 12 - Mondim de Basto › Fafe ,189.2,2,,2001
 07.08,127,,Stage 6 - Reguengos de Monsara › Cabeço do Mouro (Portalegre) ,158.5,,,2001
 23.06 » 26.06,,,Route du Sud (2.3) ,,,,2001
-26.06,50,,Stage 4 - Saint-Gaudens › Plateau de Beille ,181,,,2001
-25.06,111,,Stage 3 - Saint-Salvy › Saint-Gaudens ,206,,,2001
-24.06,104,,Stage 2a - Carcassonne › Castres ,118,,,2001
-24.06,114,,Stage 2b (ITT) - Castres › Castres ,17,,,2001
-23.06,66,,Stage 1 - Carcassonne › Carcassonee ,168,,,2001
+26.06,50,,Stage 4 - Saint-Gaudens › Plateau de Beille ,181.0,,,2001
+25.06,111,,Stage 3 - Saint-Salvy › Saint-Gaudens ,206.0,,,2001
+24.06,104,,Stage 2a - Carcassonne › Castres ,118.0,,,2001
+24.06,114,,Stage 2b (ITT) - Castres › Castres ,17.0,,,2001
+23.06,66,,Stage 1 - Carcassonne › Carcassonee ,168.0,,,2001
 02.05 » 06.05,,,Grande Prémio Jornal de Notícias (2.5) ,,,,2001
 ,51,,General classification ,,,,2001
 05.05,56,,Stage 4 - Porto › Lordelo ,142.5,,,2001
 04.05,32,,Stage 3 - Porto › Matosinhos ,147.2,,,2001
-03.05,132,,Stage 2 - Porto › Gondomar ,145,,,2001
+03.05,132,,Stage 2 - Porto › Gondomar ,145.0,,,2001
 02.05,96,,Stage 1 - Porto › Gaia ,160.4,,,2001
-28.04,DNF,,Amstel Gold Race (CDM) ,257,,,2001
-22.04,101,,Liège - Bastogne - Liège (CDM) ,258,5,,2001
+28.04,DNF,,Amstel Gold Race (CDM) ,257.0,,,2001
+22.04,101,,Liège - Bastogne - Liège (CDM) ,258.0,5,,2001
 15.04,DNF,,Paris - Roubaix (CDM) ,254.5,,,2001
 07.03 » 11.03,,,Vuelta Ciclista a Murcia (2.3) ,,,,2001
 ,108,,General classification ,,,,2001

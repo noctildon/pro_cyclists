@@ -1,4 +1,48 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,4,,National Championships Canada - Road Race (NC) ,,4,50,2022
+23.06,8,,National Championships Canada U23 - ITT (NC) ,48,,,2022
+06.06,96,,Paris - Troyes (1.2) ,180,,,2022
+02.06 » 05.06,,,Ronde de l'Oise (2.2) ,,,,2022
+,16,,Youth classification ,,,,2022
+,14,,Mountains classification ,,,,2022
+,41,,General classification ,,,,2022
+05.06,64,,Stage 4 - Compiègne › Beauvais ,176.3,,,2022
+04.06,24,35,Stage 3 - La Croix-Saint-Ouen › Ressons-sur-Matz ,176.7,,,2022
+03.06,40,40,Stage 2 - Le Plessis-Belleville › Ribécourt Dreslincourt ,205.7,,,2022
+02.06,39,42,Stage 1 - Labruyère › Liancourt ,142.8,,,2022
+26.05 » 29.05,,,Tour de la Mirabelle (2.2) ,,,,2022
+,18,,Youth classification ,,,,2022
+,36,,General classification ,,,,2022
+29.05,33,,Stage 4 - Baccarat › Damelevières ,165.8,,,2022
+28.05,37,40,Stage 3 - Breuches › Saint-Amarin ,155.7,,,2022
+27.05,62,103,Stage 2 - Pont-à-Mousson › Pagny-sur-Moselle ,175.4,,,2022
+26.05,124,124,Stage 1 - Vandœuvre-lès-Nancy › Vandœuvre-lès-Nancy ,2.6,,,2022
+21.05,66,,Tour du Finistère (1.1) ,193.3,,,2022
+14.05,83,,Grand Prix du Morbihan (1.Pro)  122k,185.4,,,2022
+08.05,44,,Flèche Ardennaise (1.2) ,168.6,,,2022
+29.04 » 03.05,,,Carpathian Couriers Race in memory of Wacław Felczak (2.2U) ,,,,2022
+,26,,Points classification ,,,,2022
+,14,,General classification ,,,,2022
+03.05,11,,Stage 4 (ITT) - Vysoké Tatry › Vysoké Tatry ,3,,,2022
+02.05,20,18,Stage 2 - Piwniczna-Zdrój › Niedzica Zapora ,149,,,2022
+01.05,31,24,Stage 1 - Stará Ľubovňa › Stará Ľubovňa ,138.4,,,2022
+29.04,34,34,Prologue - Budapest › Budapest ,2.05,,,2022
+06.04 » 09.04,,,Circuit des Ardennes (2.2) ,,,,2022
+,51,,Youth classification ,,,,2022
+,6,,Mountains classification ,,,,2022
+,83,,General classification ,,,,2022
+09.04,83,,Stage 4 - Charleville-Mézières › Charleville-Mézières ,172.7,,,2022
+07.04,67,95,Stage 2 - Bazeilles › Sedan ,92.5,,,2022
+06.04,96,96,Stage 1 - Signy-le-Petit › Signy-le-Petit ,165.2,,,2022
+01.04 » 03.04,,,Le Triptyque des Monts et Châteaux (2.2U) ,,,,2022
+,69,,General classification ,,,,2022
+03.04,80,,Stage 3b - Ellezelles › Frasnes-lez-Anvaing ,95.7,,,2022
+03.04,38,69,Stage 3a (ITT) - Wodecq › Wodecq ,14.2,,,2022
+02.04,88,75,Stage 2 - Bernissart › Tertre ,169.9,,,2022
+01.04,69,69,Stage 1 - Antoing › Mont Saint-Aubert ,131.7,,,2022
+27.03,88,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup) ,177,,,2022
+18.03,DNF,,Youngster Coast Challenge (1.2U) ,167.2,,,2022
+06.03,109,,Grand Prix de la Ville de Lillers Souvenir Bruno Comini (1.2) ,180,,,2022
 06.04 » 09.04,,,Circuit des Ardennes (2.2),,,,2022
 ,51,,Youth classification,,,,2022
 ,6,,Mountains classification,,,,2022
@@ -12,11 +56,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.04,38,69,Stage 3a (ITT) - Wodecq › Wodecq,14.2,,,2022
 02.04,88,75,Stage 2 - Bernissart › Tertre,169.9,,,2022
 01.04,69,69,Stage 1 - Antoing › Mont Saint-Aubert,131.7,,,2022
-27.03,88,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup),177,,,2022
+27.03,88,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup),177.0,,,2022
 18.03,DNF,,Youngster Coast Challenge (1.2U),167.2,,,2022
-06.03,109,,Grand Prix de la Ville de Lillers Souvenir Bruno Comini (1.2),180,,,2022
+06.03,109,,Grand Prix de la Ville de Lillers Souvenir Bruno Comini (1.2),180.0,,,2022
 11.09,6,,National Championships Canada - Road Race (NC),198.9,1,30,2021
-10.09,9,,National Championships Canada - ITT (NC),34,,1,2021
+10.09,9,,National Championships Canada - ITT (NC),34.0,,1,2021
 13.08 » 22.08,,,Tour de l'Avenir (2.Ncup),,,,2021
 ,13,,Mountains classification,,,,2021
 ,31,,Points classification,,,,2021
@@ -24,13 +68,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.08,40,,Stage 9 - La Toussuire › Col du Petit Saint-Bernard,151.6,,,2021
 21.08,52,57,Stage 8 - La Tour-en-Maurienne › Saint Jean d’Arves,71.3,,,2021
 20.08,55,63,Stage 7 - Saint-Vulbas › Grand Colombier,97.9,,,2021
-19.08,51,71,Stage 6 - Champagnole › Septmoncel,111,,,2021
+19.08,51,71,Stage 6 - Champagnole › Septmoncel,111.0,,,2021
 18.08,53,99,Stage 5 - Tomblaine › Bar-sur-Aube,150.7,,,2021
 17.08,143,104,Stage 4 - Provins › Bar-le-Duc,183.9,,,2021
 16.08,73,71,Stage 3 - Château-Thierry › Donnemarie-Dontilly,153.4,,,2021
 15.08,20,93,Stage 2 (TTT) - Laon › Laon,26.8,,,2021
 14.08,41,103,Stage 1 - Charleville-Mézières › Soissons,161.2,,,2021
-13.08,160,160,Prologue - Charleville-Mézières › Charleville-Mézières,5,,,2021
+13.08,160,160,Prologue - Charleville-Mézières › Charleville-Mézières,5.0,,,2021
 21.07 » 25.07,,,Tour Alsace (2.2),,,,2021
 ,37,,Youth classification,,,,2021
 ,64,,General classification,,,,2021
@@ -40,7 +84,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.07,103,104,Stage 2 - Colmar › Altkirch,163.1,,,2021
 21.07,42,117,Prologue - Sausheim › Sausheim,4.3,,,2021
 08.10 » 11.10,,,Giro della Regione Friuli Venezia Giulia (2.2),,,,2020
-10.10,DNS,,Stage 3 - San Vito al Tagliamento  › Buja,148,,,2020
+10.10,DNS,,Stage 3 - San Vito al Tagliamento  › Buja,148.0,,,2020
 09.10,152,153,Stage 2 - Variano › San Marco di Mereto di Tomba,164.5,,,2020
 08.10,25,114,Stage 1 (TTT) - Aquileia › Grado,23.7,,,2020
 04.10,51,,Il Piccolo Lombardia (1.2U),177.7,,,2020
@@ -48,7 +92,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,16,,Youth classification,,,,2020
 ,31,,General classification,,,,2020
 06.09,29,,Stage 4 - Piechowice › Piechowice,87.5,,,2020
-05.09,49,49,Stage 3 - Kożuchów › Osiecznica,62,,,2020
+05.09,49,49,Stage 3 - Kożuchów › Osiecznica,62.0,,,2020
 04.09,56,59,Stage 2 - Babimost › Zbąszynek,128.5,,,2020
 31.08,DNF,,Carpathian Couriers Race in memory of Wacław Felczak (1.2U),134.5,,,2020
 05.08 » 08.08,,,Le Tour de Savoie Mont Blanc (2.2),,,,2020
@@ -58,24 +102,24 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.08,74,78,Stage 4 - Aix-les-Bains  › Notre-Dame-du-Pré ,143.3,,,2020
 06.08,51,75,Stage 3 - Saint-Michel-de-Maurienne › Valmeinier ,37.4,,,2020
 06.08,58,77,Stage 2 - Moûtiers › Valfréjus ,97.4,,,2020
-05.08,95,95,Stage 1 - Annemasse › Praz-sur-Arly ,109,,,2020
+05.08,95,95,Stage 1 - Annemasse › Praz-sur-Arly ,109.0,,,2020
 26.07,82,,GP Kranj (1.2),157.3,,,2020
-19.07,81,,Puchar MON (1.2),149,,,2020
+19.07,81,,Puchar MON (1.2),149.0,,,2020
 15.07 » 18.07,,,Dookoła Mazowsza (2.2),,,,2020
 ,40,,Youth classification,,,,2020
 ,79,,General classification,,,,2020
-18.07,59,,Stage 4 - Kozienice › Kozienice,165,,,2020
-17.07,55,82,Stage 3 - Grodzisk Mazowiecki › Grodzisk Mazowiecki,166,,,2020
+18.07,59,,Stage 4 - Kozienice › Kozienice,165.0,,,2020
+17.07,55,82,Stage 3 - Grodzisk Mazowiecki › Grodzisk Mazowiecki,166.0,,,2020
 16.07,83,83,Stage 2 (ITT) - Służewiec › Służewiec,2.5,,,2020
 12.07,20,,Chrono Kristin Armstrong (1.2),24.8,,,2019
 30.06,62,,National Championships Canada - Road Race (NC),186.2,,,2019
-28.06,20,,National Championships Canada - ITT (NC),34,,,2019
+28.06,20,,National Championships Canada - ITT (NC),34.0,,,2019
 01.05 » 05.05,,,Tour of the Gila (2.2),,,,2019
 05.05,DNF,,Stage 5 - Silver City › Pinos Altos,161.9,,,2019
 04.05,80,77,Stage 4 - Silver City › Silver City,69.5,,,2019
-03.05,36,68,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2019
+03.05,36,68,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2019
 02.05,69,73,Stage 2 - Fort Bayard › Fort Bayard,122.6,,,2019
-01.05,77,77,Stage 1 - Silver City › Mogollon ,148,,,2019
+01.05,77,77,Stage 1 - Silver City › Mogollon ,148.0,,,2019
 04.04 » 07.04,,,Joe Martin Stage Race (2.2),,,,2019
 ,3,,Youth classification,,,,2019
 ,16,,General classification,,,,2019
@@ -87,8 +131,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.07 » 22.07,,,Tour de l'Abitibi - Coupe des Nations Junior (2.Ncup),,,,2018
 ,31,,Points classification,,,,2018
 ,67,,General classification,,5,,2018
-22.07,62,,Stage 7 - Senneterre › Val-d'Or,120,,,2018
-21.07,88,76,Stage 6 - Val-d'Or › Val-d'Or,104,,,2018
+22.07,62,,Stage 7 - Senneterre › Val-d'Or,120.0,,,2018
+21.07,88,76,Stage 6 - Val-d'Or › Val-d'Or,104.0,,,2018
 20.07,94,79,Stage 5 - Amos › Val-d'Or,99.8,,,2018
 19.07,125,69,Stage 4 - Malartic › Malartic,52.8,,,2018
 19.07,84,56,Stage 3 (ITT) - Val-d'Or › Val-d'Or,11.4,,,2018
@@ -98,10 +142,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 18.07 » 23.07,,,Tour de l'Abitibi - Coupe des Nations Junior (2.Ncup),,,,2017
 ,5,,Youth classification,,,,2017
 ,11,,General classification,,36,,2017
-23.07,56,,Stage 7 - La Sarre › Amos,115,,,2017
+23.07,56,,Stage 7 - La Sarre › Amos,115.0,,,2017
 22.07,52,11,Stage 6 - Amos › Amos,97.2,,,2017
-21.07,29,13,Stage 5 - Lebel-sur-Quévillon › Lebel-sur-Quévillon,96,,,2017
+21.07,29,13,Stage 5 - Lebel-sur-Quévillon › Lebel-sur-Quévillon,96.0,,,2017
 20.07,37,14,Stage 4 - Malartic › Malartic,51.5,,,2017
-20.07,11,14,Stage 3 (ITT) - Amos › Amos,10,,,2017
+20.07,11,14,Stage 3 (ITT) - Amos › Amos,10.0,,,2017
 19.07,51,51,Stage 2 - Val-d'Or › Amos,111.3,,,2017
 18.07,61,61,Stage 1 - Rouyn-Noranda › Amos,119.2,,,2017

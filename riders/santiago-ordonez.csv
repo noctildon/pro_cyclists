@@ -1,42 +1,77 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+23.11 » 28.11,,,Vuelta al Ecuador (2.2) ,,,,2020
+,19,,Mountains classification ,,,,2020
+,12,,General classification ,,,,2020
+28.11,5,,Stage 6 - Quito › Quito ,100,,,2020
+27.11,10,11,Stage 5 - Playón de San Francisco  › Atuntaqui ,130,,,2020
+26.11,26,15,Stage 4 - San Roque › La Estrellita ,117,,,2020
+25.11,16,3,Stage 3 - Machachi › Olmedo ,131,,,2020
+24.11,40,4,Stage 2 - Pedernales › Santo Domingo ,133,,,2020
+23.11,4,4,Stage 1 - Los Bancos › Pedernales ,177.47,,,2020
+23.10 » 01.11,,,Vuelta a Guatemala (2.2) ,,,,2020
+,25,,Mountains classification ,,,,2020
+,5,,Points classification ,,,,2020
+,2,,General classification ,,18,30,2020
+01.11,26,,Stage 10 - Guatemala City › Guatemala City ,105,,,2020
+31.10,7,2,"Stage 9 - Santa Apolonia › Chimaltenango (Aldea Chuchucá Alto, Altos de Patzú ",139,,,2020
+30.10,18,2,Stage 8 - San Pablo La Laguna › Iximché Ruins ,90,,,2020
+29.10,6,2,Stage 7 - Tejutla › Santa Catarina Ixtahuacan ,101,,,2020
+28.10,4,2,Stage 6 - Totonicapán › Esquipulas Palo Gordo ,106,,,2020
+27.10,6,2,Stage 5 - Suchitepéquez › Cerro El Baúl ,106,,,2020
+26.10,2,2,Stage 4 (ITT) - Champerico › Retalhuleu ,43,2,3,2020
+25.10,28,6,Stage 3 - Guatemala City › Coatepeque ,218,,,2020
+24.10,4,6,Stage 2 - Cerecitos › Barbarena ,156,,,2020
+23.10,11,11,Stage 1 - Chiquimula › Guastatoya ,148,,,2020
+15.03,4,,Gran Premio de la Patagonia (1.2) ,138.6,4,20,2020
+11.02 » 16.02,,,Tour Colombia 2.1 (2.1) ,,,,2020
+,24,,Youth classification ,,,,2020
+,52,,General classification ,,,,2020
+16.02,52,,Stage 6 - Zipaquirá › El Once/Alto del Verjón ,182.6,,,2020
+15.02,56,64,Stage 5 - Paipa › Zipaquirá ,180.5,,,2020
+14.02,72,66,Stage 4 - Paipa › Santa Rosa de Viterbo ,168.6,,,2020
+13.02,25,88,Stage 3 - Paipa › Sogamoso ,177.7,,,2020
+12.02,76,103,Stage 2 - Paipa › Duitama ,152.4,,,2020
+11.02,23,106,Stage 1 (TTT) - Tunja › Tunja ,16.7,,,2020
+02.02,33,,National Championships Colombia - Road Race (NC) ,217,,,2020
+30.01,21,,National Championships Colombia - ITT (NC) ,41.4,,,2020
 23.11 » 28.11,,,Vuelta al Ecuador (2.2),,,,2020
-,19,,Mountains classification,,,,2020
-,12,,General classification,,,,2020
-28.11,5,,Stage 6 - Quito › Quito,100,,,2020
-27.11,10,11,Stage 5 - Playón de San Francisco  › Atuntaqui,130,,,2020
-26.11,26,15,Stage 4 - San Roque › La Estrellita,117,,,2020
-25.11,16,3,Stage 3 - Machachi › Olmedo,131,,,2020
-24.11,40,4,Stage 2 - Pedernales › Santo Domingo,133,,,2020
-23.11,4,4,Stage 1 - Los Bancos › Pedernales,177.47,,,2020
+,19.0,,Mountains classification,,,,2020
+,12.0,,General classification,,,,2020
+28.11,5.0,,Stage 6 - Quito › Quito,100.0,,,2020
+27.11,10.0,11,Stage 5 - Playón de San Francisco  › Atuntaqui,130.0,,,2020
+26.11,26.0,15,Stage 4 - San Roque › La Estrellita,117.0,,,2020
+25.11,16.0,3,Stage 3 - Machachi › Olmedo,131.0,,,2020
+24.11,40.0,4,Stage 2 - Pedernales › Santo Domingo,133.0,,,2020
+23.11,4.0,4,Stage 1 - Los Bancos › Pedernales,177.47,,,2020
 23.10 » 01.11,,,Vuelta a Guatemala (2.2),,,,2020
-,25,,Mountains classification,,,,2020
-,5,,Points classification,,,,2020
-,2,,General classification,,18,30,2020
-01.11,26,,Stage 10 - Guatemala City › Guatemala City,105,,,2020
-31.10,7,2,"Stage 9 - Santa Apolonia › Chimaltenango (Aldea Chuchucá Alto, Altos de Patzú",139,,,2020
-30.10,18,2,Stage 8 - San Pablo La Laguna › Iximché Ruins,90,,,2020
-29.10,6,2,Stage 7 - Tejutla › Santa Catarina Ixtahuacan,101,,,2020
-28.10,4,2,Stage 6 - Totonicapán › Esquipulas Palo Gordo,106,,,2020
-27.10,6,2,Stage 5 - Suchitepéquez › Cerro El Baúl,106,,,2020
-26.10,2,2,Stage 4 (ITT) - Champerico › Retalhuleu,43,2,3,2020
-25.10,28,6,Stage 3 - Guatemala City › Coatepeque,218,,,2020
-24.10,4,6,Stage 2 - Cerecitos › Barbarena,156,,,2020
-23.10,11,11,Stage 1 - Chiquimula › Guastatoya,148,,,2020
-15.03,4,,Gran Premio de la Patagonia (1.2),138.6,4,20,2020
+,25.0,,Mountains classification,,,,2020
+,5.0,,Points classification,,,,2020
+,2.0,,General classification,,18,30,2020
+01.11,26.0,,Stage 10 - Guatemala City › Guatemala City,105.0,,,2020
+31.10,7.0,2,"Stage 9 - Santa Apolonia › Chimaltenango (Aldea Chuchucá Alto, Altos de Patzú",139.0,,,2020
+30.10,18.0,2,Stage 8 - San Pablo La Laguna › Iximché Ruins,90.0,,,2020
+29.10,6.0,2,Stage 7 - Tejutla › Santa Catarina Ixtahuacan,101.0,,,2020
+28.10,4.0,2,Stage 6 - Totonicapán › Esquipulas Palo Gordo,106.0,,,2020
+27.10,6.0,2,Stage 5 - Suchitepéquez › Cerro El Baúl,106.0,,,2020
+26.10,2.0,2,Stage 4 (ITT) - Champerico › Retalhuleu,43.0,2,3,2020
+25.10,28.0,6,Stage 3 - Guatemala City › Coatepeque,218.0,,,2020
+24.10,4.0,6,Stage 2 - Cerecitos › Barbarena,156.0,,,2020
+23.10,11.0,11,Stage 1 - Chiquimula › Guastatoya,148.0,,,2020
+15.03,4.0,,Gran Premio de la Patagonia (1.2),138.6,4,20,2020
 11.02 » 16.02,,,Tour Colombia 2.1 (2.1),,,,2020
-,24,,Youth classification,,,,2020
-,52,,General classification,,,,2020
-16.02,52,,Stage 6 - Zipaquirá › El Once/Alto del Verjón,182.6,,,2020
-15.02,56,64,Stage 5 - Paipa › Zipaquirá,180.5,,,2020
-14.02,72,66,Stage 4 - Paipa › Santa Rosa de Viterbo,168.6,,,2020
-13.02,25,88,Stage 3 - Paipa › Sogamoso,177.7,,,2020
-12.02,76,103,Stage 2 - Paipa › Duitama,152.4,,,2020
-11.02,23,106,Stage 1 (TTT) - Tunja › Tunja,16.7,,,2020
-02.02,33,,National Championships Colombia - Road Race (NC),217,,,2020
-30.01,21,,National Championships Colombia - ITT (NC),41.4,,,2020
-04.05,7,,Pan American Championships U23 - Road Race (CC),132.3,20,35,2019
-01.05,5,,Pan American Championships U23 - ITT (CC),33,,10,2019
-02.02,3,,National Championships Colombia U23 - Road Race (NC),217.5,,20,2019
-01.02,3,,National Championships Colombia U23 - ITT (NC),28.2,,10,2019
-11.11,5,,National Championships Colombia U23 - Road Race (NC),161,,10,2018
-24.02,26,,National Championships Colombia U23 - ITT (NC),34.5,,,2017
+,24.0,,Youth classification,,,,2020
+,52.0,,General classification,,,,2020
+16.02,52.0,,Stage 6 - Zipaquirá › El Once/Alto del Verjón,182.6,,,2020
+15.02,56.0,64,Stage 5 - Paipa › Zipaquirá,180.5,,,2020
+14.02,72.0,66,Stage 4 - Paipa › Santa Rosa de Viterbo,168.6,,,2020
+13.02,25.0,88,Stage 3 - Paipa › Sogamoso,177.7,,,2020
+12.02,76.0,103,Stage 2 - Paipa › Duitama,152.4,,,2020
+11.02,23.0,106,Stage 1 (TTT) - Tunja › Tunja,16.7,,,2020
+02.02,33.0,,National Championships Colombia - Road Race (NC),217.0,,,2020
+30.01,21.0,,National Championships Colombia - ITT (NC),41.4,,,2020
+04.05,7.0,,Pan American Championships U23 - Road Race (CC),132.3,20,35,2019
+01.05,5.0,,Pan American Championships U23 - ITT (CC),33.0,,10,2019
+02.02,3.0,,National Championships Colombia U23 - Road Race (NC),217.5,,20,2019
+01.02,3.0,,National Championships Colombia U23 - ITT (NC),28.2,,10,2019
+11.11,5.0,,National Championships Colombia U23 - Road Race (NC),161.0,,10,2018
+24.02,26.0,,National Championships Colombia U23 - ITT (NC),34.5,,,2017

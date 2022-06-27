@@ -1,36 +1,37 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+06.09,6,,National Championships Greece - Road Race (NC) ,,1,30,2020
 06.09,6,,National Championships Greece - Road Race (NC),,1,30,2020
-30.06,11,,National Championships Greece - Road Race (NC),154,,3,2019
-24.06,11,,National Championships Greece - Road Race (NC),145,,3,2018
+30.06,11,,National Championships Greece - Road Race (NC),154.0,,3,2019
+24.06,11,,National Championships Greece - Road Race (NC),145.0,,3,2018
 09.03 » 11.03,,,International Tour of Rhodes (2.2),,,,2018
 ,70,,General classification,,,,2018
 11.03,91,,Stage 3 - Rhodes › Rhodes,174.8,,,2018
 10.03,55,49,Stage 2 - Rhodos › Rhodos,172.7,,,2018
 09.03,68,68,Stage 1 - Rhodos › Rhodos ,156.5,,,2018
-25.06,5,,National Championships Greece - Road Race (NC),174,2,25,2017
+25.06,5,,National Championships Greece - Road Race (NC),174.0,2,25,2017
 10.03 » 12.03,,,International Tour of Rhodes (2.2),,,,2017
-11.03,DNF,,Stage 2 - Rhodos › Rhodos,172,,,2017
-10.03,117,117,Stage 1 - Rhodos › Rhodos,156,,,2017
-05.03,37,,International Rhodes Grand Prix (1.2),191,,,2017
+11.03,DNF,,Stage 2 - Rhodos › Rhodos,172.0,,,2017
+10.03,117,117,Stage 1 - Rhodos › Rhodos,156.0,,,2017
+05.03,37,,International Rhodes Grand Prix (1.2),191.0,,,2017
 24.06,14,,National Championships Greece - ITT (NC),44.8,,,2016
-28.06,11,,National Championships Greece - Road Race (NC),183,,,2015
-26.06,13,,National Championships Greece - ITT (NC),38,,,2015
-22.06,9,,National Championships Greece - ITT (NC),37,,,2012
+28.06,11,,National Championships Greece - Road Race (NC),183.0,,,2015
+26.06,13,,National Championships Greece - ITT (NC),38.0,,,2015
+22.06,9,,National Championships Greece - ITT (NC),37.0,,,2012
 16.05 » 20.05,,,International Tour of Hellas (2.2),,,,2012
 ,24,,General classification,,,,2012
-20.05,50,,Stage 5 - Korinthos  › Athens,104,,,2012
-19.05,24,24,Stage 4 - Olympia  › Kalavrita,149,,,2012
+20.05,50,,Stage 5 - Korinthos  › Athens,104.0,,,2012
+19.05,24,24,Stage 4 - Olympia  › Kalavrita,149.0,,,2012
 18.05,44,34,Stage 3 - Sparta  › Methoni,135.2,,,2012
-17.05,41,34,Stage 2 - Leonidio  › Sparta,133,,,2012
-16.05,38,38,Stage 1 - Korinthos  › Leonidio,138,,,2012
+17.05,41,34,Stage 2 - Leonidio  › Sparta,133.0,,,2012
+16.05,38,38,Stage 1 - Korinthos  › Leonidio,138.0,,,2012
 13.04 » 17.04,,,International Tour of Hellas (2.2),,,,2011
 ,23,,General classification,,,,2011
-17.04,31,,Stage 6 - Marathon › Athens,104,,,2011
+17.04,31,,Stage 6 - Marathon › Athens,104.0,,,2011
 16.04,39,,Stage 5 - Delfi › Marathon,172.4,,,2011
 15.04,39,,Stage 4 - Mesologgi › Delphi,141.8,,,2011
-14.04,70,,Stage 3 - Preveza › Mesolongion,118,,,2011
-14.04,32,,Stage 2 (ITT) - Archangelos › Archangelos,20,,,2011
-13.04,68,,Stage 1 - Ioannina › Preveza,149,,,2011
+14.04,70,,Stage 3 - Preveza › Mesolongion,118.0,,,2011
+14.04,32,,Stage 2 (ITT) - Archangelos › Archangelos,20.0,,,2011
+13.04,68,,Stage 1 - Ioannina › Preveza,149.0,,,2011
 01.10 » 03.10,,,Cinturó De L'empordà (2.2),,,,2010
 ,81,,General classification,,,,2010
 03.10,84,,Stage 3 - Empuriabrava › Figueres,149.5,,,2010
@@ -38,10 +39,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.10,85,,Stage 1 - Castello d'Empuries › Roses,189.9,,,2010
 05.08 » 08.08,,,Tour Des Pyrénées - Vuelta A Los Pirineos (2.2),,,,2010
 ,76,,General classification,,,,2010
-08.08,82,,Stage 4 - Huesca › Zaragoza,148,,,2010
-07.08,72,,Stage 3 - Lannemezan › Boltaña,160,,,2010
-06.08,94,,Stage 2 - Perrefite-Nestalas › Saint-Lary-Soulan (Pla d'Adet),147,,,2010
-05.08,67,,Stage 1 - Semeac › Tarbes,159,,,2010
+08.08,82,,Stage 4 - Huesca › Zaragoza,148.0,,,2010
+07.08,72,,Stage 3 - Lannemezan › Boltaña,160.0,,,2010
+06.08,94,,Stage 2 - Perrefite-Nestalas › Saint-Lary-Soulan (Pla d'Adet),147.0,,,2010
+05.08,67,,Stage 1 - Semeac › Tarbes,159.0,,,2010
 05.06 » 12.06,,,Tour of Romania (2.2),,,,2010
 ,52,,General classification,,,,2010
 12.06,59,,Stage 8 - Slobozia › Constanta,154.1,,,2010
@@ -50,20 +51,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 09.06,51,,Stage 5 - Suceava › Botosani,219.2,,,2010
 08.06,34,,Stage 4 - Vatra Dornei › Suceava,137.6,,,2010
 07.06,25,,Stage 3 - Targu Mures › Vatra Dornei,174.8,,,2010
-06.06,45,,Stage 2 - Alba Iulia › Targu Mures,118,,,2010
-05.06,60,,Prologue - Deva › Deva,3,,,2010
+06.06,45,,Stage 2 - Alba Iulia › Targu Mures,118.0,,,2010
+05.06,60,,Prologue - Deva › Deva,3.0,,,2010
 29.05,DNF,,Gp Kranj (1.1),177.3,,,2010
 02.04,DNF,,Route Adélie de Vitré (1.1),197.8,,,2010
 15.10 » 20.10,,,International Azerbaïjan Tour (2.2),,,,2009
 ,30,,General classification,,,,2009
-20.10,37,,Stage 6 - Tabriz › Tabriz,173,,,2009
-19.10,19,,Stage 5 - Jolfa › Tabriz,145,,,2009
+20.10,37,,Stage 6 - Tabriz › Tabriz,173.0,,,2009
+19.10,19,,Stage 5 - Jolfa › Tabriz,145.0,,,2009
 18.10,48,,Stage 4 - Naxçivan › Naxçivan,,,,2009
-17.10,19,,Stage 3 - Tabriz › Jolfa,129,,,2009
-16.10,41,,Stage 2 - Urmia › Shabestar,175,,,2009
-15.10,19,,Stage 1 - Tabriz  › Urmia,146,,,2009
+17.10,19,,Stage 3 - Tabriz › Jolfa,129.0,,,2009
+16.10,41,,Stage 2 - Urmia › Shabestar,175.0,,,2009
+15.10,19,,Stage 1 - Tabriz  › Urmia,146.0,,,2009
 02.10 » 04.10,,,Cinturó De L'empordà (2.2),,,,2009
-03.10,103,,Stage 2 - Besalú › Empúriabrava,141,,,2009
+03.10,103,,Stage 2 - Besalú › Empúriabrava,141.0,,,2009
 02.10,86,,Stage 1 - Empúriabrava › Roses,159.9,,,2009
 02.08,79,,Urkiola Igoera - Subida Urkiola (1.1),160.5,,,2009
-22.07,DNF,,European Championships U23 - Road Race (CC),168,,,2007
+22.07,DNF,,European Championships U23 - Road Race (CC),168.0,,,2007

@@ -1,8 +1,30 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,DNF,,National Championships Spain - Road Race (NC) ,186.1,,,2022
+17.06 » 19.06,,,Tour du Pays de Montbéliard (2.2) ,,,,2022
+19.06,DNF,,Stage 3 - Valentigney › Valentigney ,155.2,,,2022
+18.06,31,31,Stage 2 - Pont-de-Roide › Pont-de-Roide ,161.7,,,2022
+17.06,41,41,Stage 1 - Mandeure › Mathay ,4.1,,,2022
+24.03 » 27.03,,,International Tour of Rhodes (2.2) ,,,,2022
+25.03,DNS,,Stage 1 - Rhodes › Kalamonas ,138.5,,,2022
+24.03,20,20,Prologue - Ialyssos › Ialyssos ,3.8,,,2022
+20.03,41,,International Rhodes Grand Prix (1.2) ,186,,,2022
+12.03 » 13.03,,,South Aegean Tour (2.2) ,,,,2022
+,11,,General classification ,,,,2022
+13.03,14,,Stage 2 - Rhodes › Salakos ,168.8,,,2022
+12.03,16,17,Stage 1 - Koskinou › Koskinou ,172.1,,,2022
+28.01 » 01.02,,,Tour of Sharjah (2.2) ,,,,2022
+,3,,Mountains classification ,,,,2022
+,2,,Points classification ,,,,2022
+,2,,General classification ,,18,30,2022
+01.02,45,,Stage 5 - Khor Fakkan › Sharjah ,103,,,2022
+31.01,2,1,Stage 4 - Al Badayer Oases › Wadi al Hedo ,122.8,2,3 +1,2022
+30.01,3,2,Stage 3 - Al Fujayrak › Khor Fakkan (Al Suhub Rest Area) ,107.8,1,1,2022
+29.01,81,3,Stage 2 - Sharjah › Ahd Dhayd ,95.35,,,2022
+28.01,3,3,Stage 1 (ITT) - Sharjah › Sharjah ,8.86,1,1,2022
 24.03 » 27.03,,,International Tour of Rhodes (2.2),,,,2022
 25.03,DNS,,Stage 1 - Rhodes › Kalamonas,138.5,,,2022
 24.03,20,20,Prologue - Ialyssos › Ialyssos,3.8,,,2022
-20.03,41,,International Rhodes Grand Prix (1.2),186,,,2022
+20.03,41,,International Rhodes Grand Prix (1.2),186.0,,,2022
 12.03 » 13.03,,,South Aegean Tour (2.2),,,,2022
 ,11,,General classification,,,,2022
 13.03,14,,Stage 2 - Rhodes › Salakos,168.8,,,2022
@@ -11,15 +33,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,3,,Mountains classification,,,,2022
 ,2,,Points classification,,,,2022
 ,2,,General classification,,18,30,2022
-01.02,45,,Stage 5 - Khor Fakkan › Sharjah,103,,,2022
+01.02,45,,Stage 5 - Khor Fakkan › Sharjah,103.0,,,2022
 31.01,2,1,Stage 4 - Al Badayer Oases › Wadi al Hedo,122.8,2,3,2022
 30.01,3,2,Stage 3 - Al Fujayrak › Khor Fakkan (Al Suhub Rest Area),107.8,1,1,2022
 29.01,81,3,Stage 2 - Sharjah › Ahd Dhayd,95.35,,,2022
 28.01,3,3,Stage 1 (ITT) - Sharjah › Sharjah,8.86,1,1,2022
 04.08 » 08.08,,,Le Tour de Savoie Mont Blanc (2.2),,,,2021
 ,35,,General classification,,,,2021
-08.08,63,,Stage 4 - Saint-Jean-de-Maurienne › La Toussuire,124,,,2021
-07.08,37,21,Stage 3 - Orelle › Aussois,128,,,2021
+08.08,63,,Stage 4 - Saint-Jean-de-Maurienne › La Toussuire,124.0,,,2021
+07.08,37,21,Stage 3 - Orelle › Aussois,128.0,,,2021
 06.08,20,21,Stage 2 - Val Cenis Termignon › Col du Galibier ,150.6,,,2021
 05.08,45,35,Stage 1 - Bonneville › Praz-sur-Arly ,122.1,,,2021
 04.08,44,44,Prologue - Sallanches › Sallanches,5.6,,,2021
@@ -31,7 +53,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 30.07,25,112,Stage 1 (TTT) - Ploumagoar › Ploumagoar,12.5,,,2021
 25.07,57,,Prueba Villafranca - Ordiziako Klasika (1.1),165.7,,,2021
 20.06,41,,National Championships Spain - Road Race (NC),183.4,,,2021
-08.06,82,,Mont Ventoux Dénivelé Challenge (1.1),153,,,2021
+08.06,82,,Mont Ventoux Dénivelé Challenge (1.1),153.0,,,2021
 23.05,DNF,,"Vuelta Ciclista a la Región de Murcia ""Costa Calida"" (1.1)",192.4,,,2021
 01.04 » 04.04,,,Tour of Mevlana (2.2),,,,2021
 ,9,,General classification,,2,3,2021
@@ -43,7 +65,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.03,97,,Grand Prix Mediterrennean ME (1.2),157.4,,,2021
 12.10,42,,Prueba Villafranca-Ordiziako Klasika (1.1),165.7,,,2020
 15.09,DNF,,Grand Prix Central Anatolia (1.2),131.5,,,2020
-14.09,15,,Grand Prix Velo Erciyes (1.2),176,,,2020
+14.09,15,,Grand Prix Velo Erciyes (1.2),176.0,,,2020
 23.08,DNF,,National Championships Spain - Road Race (NC),185.1,,,2020
 05.08 » 08.08,,,Le Tour de Savoie Mont Blanc (2.2),,,,2020
 ,33,,General classification,,,,2020
@@ -51,14 +73,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.08,66,34,Stage 4 - Aix-les-Bains  › Notre-Dame-du-Pré ,143.3,,,2020
 06.08,31,25,Stage 3 - Saint-Michel-de-Maurienne › Valmeinier ,37.4,,,2020
 06.08,11,23,Stage 2 - Moûtiers › Valfréjus ,97.4,,,2020
-05.08,40,40,Stage 1 - Annemasse › Praz-sur-Arly ,109,,,2020
+05.08,40,40,Stage 1 - Annemasse › Praz-sur-Arly ,109.0,,,2020
 20.02 » 23.02,,,Tour of Antalya (2.1),,,,2020
 ,50,,General classification,,,,2020
 23.02,84,,Stage 4 - Side › Antalya,136.8,,,2020
 22.02,20,50,Stage 3 - Aspendos › Termessos,101.6,,,2020
 21.02,94,94,Stage 2 - Kemer › Antalya,165.3,,,2020
 20.02,114,115,Stage 1 - Antalya › Antalya,149.2,,,2020
-22.09,DNF,,Trofeo Matteotti (1.1),195,,,2019
+22.09,DNF,,Trofeo Matteotti (1.1),195.0,,,2019
 21.09,DNF,,Memorial Marco Pantani (1.1),194.7,,,2019
 19.09,DNF,,Coppa Sabatini - Gran Premio città di Peccioli (1.1),195.9,,,2019
 18.09,DNF,,Giro della Toscana - Memorial Alfredo Martini (1.1),204.4,,,2019
@@ -70,7 +92,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.08,48,47,Stage 2 - Base départementale de Rouffiac › Trélissac,182.9,,,2019
 21.08,51,51,Stage 1 - Condat-sur-Vienne › Guéret,172.2,,,2019
 30.06,52,,National Championships Spain - Road Race (NC),194.9,,,2019
-24.06,DNF,,National Championships Spain - Road Race (NC),215,,,2018
+24.06,DNF,,National Championships Spain - Road Race (NC),215.0,,,2018
 24.06,22,,National Championships Spain U23 - Road Race (NC),145.8,,,2017
 05.05 » 07.05,,,Vuelta Ciclista Comunidad de Madrid (2.1),,,,2017
 ,14,,Youth classification,,,,2017

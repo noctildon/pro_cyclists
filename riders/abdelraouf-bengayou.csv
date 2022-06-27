@@ -1,4 +1,18 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+18.07,DNF,,Grand Prix Develi ME (1.2) ,130.8,,,2021
+17.07,41,,Grand Prix Velo Erciyes ME (1.2) ,139.9,,,2021
+11.07,OTL,,Grand Prix Kayseri ME (1.2) ,136.7,,,2021
+10.07,47,,Grand Prix Erciyes - Mimar Sinan ME (1.2) ,149.3,,,2021
+04.07,DNF,,National Championships Algeria - Road Race (NC) ,161.2,,,2021
+01.04 » 04.04,,,Tour of Mevlana (2.2) ,,,,2021
+,84,,General classification ,,,,2021
+04.04,25,,Stage 4 - Konya › Konya ,139.3,,,2021
+03.04,91,85,Stage 3 - Konya › Sille ,113.6,,,2021
+02.04,83,79,Stage 2 - Konya › Konya ,136.1,,,2021
+01.04,48,47,Stage 1 - Konya › Konya ,133.5,,,2021
+06.03,DNF,,African Continental Championships ME - Road Race (CC) ,140,,,2021
+21.02,OTL,,Grand Prix Velo Alanya ME (1.2) ,104.5,,,2021
+20.02,89,,Grand Prix Velo Manavgat ME (1.2) ,147.5,,,2021
 18.07,DNF,,Grand Prix Develi ME (1.2),130.8,,,2021
 17.07,41,,Grand Prix Velo Erciyes ME (1.2),139.9,,,2021
 11.07,OTL,,Grand Prix Kayseri ME (1.2),136.7,,,2021
@@ -10,7 +24,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.04,91,85,Stage 3 - Konya › Sille,113.6,,,2021
 02.04,83,79,Stage 2 - Konya › Konya,136.1,,,2021
 01.04,48,47,Stage 1 - Konya › Konya,133.5,,,2021
-06.03,DNF,,African Continental Championships ME - Road Race (CC),140,,,2021
+06.03,DNF,,African Continental Championships ME - Road Race (CC),140.0,,,2021
 21.02,OTL,,Grand Prix Velo Alanya ME (1.2),104.5,,,2021
 20.02,89,,Grand Prix Velo Manavgat ME (1.2),147.5,,,2021
 23.02 » 01.03,,,Tour du Rwanda (2.1),,,,2020
@@ -19,7 +33,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.02,43,66,Stage 6 - Musanze › Muhanga,127.3,,,2020
 27.02,58,71,Stage 5 - Rubavu › Musanze,84.7,,,2020
 26.02,69,71,Stage 4 - Rusizi › Rubavu,206.3,,,2020
-25.02,74,74,Stage 3 - Huye › Rusizi,142,,,2020
+25.02,74,74,Stage 3 - Huye › Rusizi,142.0,,,2020
 24.02,76,77,Stage 2 - Kigali  › Huye,120.5,,,2020
 23.02,78,78,Stage 1 - Kigali  › Kigali ,114.4,,,2020
 20.07,DNF,,National Championships Algeria - Road Race (NC),164.9,,,2019
@@ -42,21 +56,21 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 09.02,61,,Stage 5 - Yaoundé › Yaoundé,103.4,,,2019
 08.02,73,38,Stage 4 - Ngoulemakong › Yaoundé,105.7,,,2019
 06.02,38,32,Stage 3 - Nkongsamba › Dschang,66.8,,,2019
-05.02,38,9,Stage 2 - Douala › Douala,92,,,2019
+05.02,38,9,Stage 2 - Douala › Douala,92.0,,,2019
 04.02,2,9,Stage 1 (TTT) - Douala › Douala,18.8,,1.333,2019
-10.07,DNF,,National Championships Algeria - Road Race (NC),156,,,2018
-27.06,DNF,,Mediterranean Games - Road Race (JR),143,,,2018
+10.07,DNF,,National Championships Algeria - Road Race (NC),156.0,,,2018
+27.06,DNF,,Mediterranean Games - Road Race (JR),143.0,,,2018
 27.03 » 02.04,,,Tour d'Algérie Cycliste (2.2),,,,2018
 ,5,,Youth classification,,,,2018
 ,1,,Mountains classification,,,,2018
 ,19,,Points classification,,,,2018
 ,27,,General classification,,,,2018
-02.04,14,,Stage 7 - Béjaïa › Ouzou,121,,,2018
-01.04,4,30,Stage 6 - Bouira › Béjaïa,133,,,2018
+02.04,14,,Stage 7 - Béjaïa › Ouzou,121.0,,,2018
+01.04,4,30,Stage 6 - Bouira › Béjaïa,133.0,,,2018
 31.03,10,32,Stage 5 - Médéa  › Bouira (Tikjda) ,126.5,,,2018
-30.03,70,55,Stage 4 - Tiaret › Médéa ,178,,,2018
-29.03,60,40,Stage 3 - Mascara › Tiaret,157,,,2018
-28.03,33,37,Stage 2 - Tlemcen › Sidi Bel-Abbès,160,,,2018
+30.03,70,55,Stage 4 - Tiaret › Médéa ,178.0,,,2018
+29.03,60,40,Stage 3 - Mascara › Tiaret,157.0,,,2018
+28.03,33,37,Stage 2 - Tlemcen › Sidi Bel-Abbès,160.0,,,2018
 27.03,37,37,Stage 1 - Tamanrasset › Tamanrasset,136.5,,,2018
 20.02 » 23.02,,,Grand Prix International de la ville d'Alger (2.2),,,,2018
 ,2,,Youth classification,,,,2018
@@ -66,27 +80,27 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.02,31,12,Stage 3 - Rouiba › Rouiba,112.5,,,2018
 21.02,28,12,Stage 2 - Zéralda › Zéralda,137.3,,,2018
 20.02,13,13,Prologue - Souidania › Souidania,2.4,,,2018
-18.02,18,,African Continental Championships - Road Race (CC),156,3,5,2018
+18.02,18,,African Continental Championships - Road Race (CC),156.0,3,5,2018
 31.01 » 04.02,,,Coupe des Nations de l'Espoir Blue Line (2.Ncup),,,,2018
 ,4,,Mountains classification,,,,2018
 ,16,,Points classification,,,,2018
 ,23,,General classification,,,,2018
 04.02,3,,Stage 4 - Akono › Yaoundé,71.5,1,4,2018
 03.02,32,28,Stage 3 - Yaoundé › Yaoundé,101.8,,,2018
-01.02,13,21,Stage 2 - Idenao › Douala,147,,,2018
-31.01,21,21,Stage 1 - Douala › Douala,92,,,2018
+01.02,13,21,Stage 2 - Idenao › Douala,147.0,,,2018
+31.01,21,21,Stage 1 - Douala › Douala,92.0,,,2018
 26.01 » 29.01,,,Tour International des Zibans (2.2),,,,2018
-29.01,DNS,,Stage 4 - Biskra ›  Tolga,146,,,2018
+29.01,DNS,,Stage 4 - Biskra ›  Tolga,146.0,,,2018
 28.01,17,19,Stage 3 - Biskra › El Kantara,154.1,,,2018
-27.01,64,49,Stage 2 - Biskra › Biskra,120,,,2018
-26.01,5,5,Stage 1 - Biskra › Biskra,197,,,2018
+27.01,64,49,Stage 2 - Biskra › Biskra,120.0,,,2018
+26.01,5,5,Stage 1 - Biskra › Biskra,197.0,,,2018
 26.07,6,,National Championships Algeria U23 - Road Race (NC),,,,2017
 24.07,6,,National Championships Algeria U23 - ITT (NC),,,,2017
 10.05 » 14.05,,,Tour de Tunisie (2.2),,,,2017
-13.05,DNF,,Stage 4 - Le Kef › Kairouan,175,,,2017
-12.05,28,28,Stage 3 - Tabarka › Le Kef,153,,,2017
+13.05,DNF,,Stage 4 - Le Kef › Kairouan,175.0,,,2017
+12.05,28,28,Stage 3 - Tabarka › Le Kef,153.0,,,2017
 11.05,29,29,Stage 2 - Bizerte › Tabarka,170.5,,,2017
-10.05,14,14,Stage 1 - Tunis › Bizerte,130,,,2017
+10.05,14,14,Stage 1 - Tunis › Bizerte,130.0,,,2017
 19.02,73,,African Continental Championships - Road Race (CC),163.6,,,2017
 14.10,52,,World Championships MJ - Road Race (WC),135.3,,,2016
 11.10,60,,World Championships MJ - ITT (WC),28.9,,,2016
@@ -94,7 +108,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.07,3,,National Championships Algeria MJ - ITT (NC),,6,,2016
 21.05 » 22.05,,,Trophée Centre Morbihan (2.Ncup),,,,2016
 22.05,DNF,,Stage 3 - Cruguel › Locmine,106.6,,,2016
-22.05,48,43,Stage 2 (ITT) - Reguiny › Naizin,7,,,2016
+22.05,48,43,Stage 2 (ITT) - Reguiny › Naizin,7.0,,,2016
 21.05,69,68,Stage 1 - Brandivy › Grand-Champ,105.6,,,2016
 17.03,DNF,,Criterium International de Setif (1.2),81.2,,,2016
 13.03 » 16.03,,,Tour International de Setif (2.2),,,,2016
@@ -105,12 +119,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.03,36,35,Stage 2 - Sétif › Sétif,117.1,,,2016
 13.03,35,35,Stage 1 - Alger › Bouira,133.3,,,2016
 10.03 » 12.03,,,Tour International de Blida (2.2),,,,2016
-10.03,DNF,,Stage 1 - Tipasa › Mouzaia ,107,,,2016
-08.03,DNF,,Grand Prix de la Ville d'Oran (1.2),100,,,2016
+10.03,DNF,,Stage 1 - Tipasa › Mouzaia ,107.0,,,2016
+08.03,DNF,,Grand Prix de la Ville d'Oran (1.2),100.0,,,2016
 05.03 » 07.03,,,Tour Internationale d'Oranie (2.2),,,,2016
 06.03,OTL,,Stage 2 - Haï Khemisti › Haï Khemisti,151.6,,,2016
 05.03,73,73,Stage 1 - Zeralda › Ain Defla,119.75,,,2016
-04.03,40,,Circuit International d'Alger (1.2),105,,,2016
-25.02,3,,African Continental Championships MJ - Road Race (CC),120,50,,2016
+04.03,40,,Circuit International d'Alger (1.2),105.0,,,2016
+25.02,3,,African Continental Championships MJ - Road Race (CC),120.0,50,,2016
 23.02,1,,African Continental Championships MJ - ITT (CC),25.2,30,,2016
-21.02,2,,African Continental Championships MJ - TTT (CC),31,,,2016
+21.02,2,,African Continental Championships MJ - TTT (CC),31.0,,,2016

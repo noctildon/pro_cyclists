@@ -1,7 +1,8 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
 01.02,9,,National Championships Colombia - ITT (NC) ,28.2,,1,2019
-04.02,DNF,,National Championships Colombia - Road Race (NC) ,228,,,2018
-02.02,20,,National Championships Colombia - ITT (NC) ,25,,,2018
+01.02,9,,National Championships Colombia - ITT (NC) ,28.2,,1,2019
+04.02,DNF,,National Championships Colombia - Road Race (NC) ,228.0,,,2018
+02.02,20,,National Championships Colombia - ITT (NC) ,25.0,,,2018
 12.01 » 21.01,,,Vuelta al Tachira en Bicicleta (2.2) ,,,,2018
 ,47,,Points classification ,,,,2018
 ,56,,General classification ,,,,2018
@@ -10,15 +11,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.01,83,67,Stage 8 - Rubio › Rubio ,124.8,,,2018
 18.01,63,66,Stage 7 - Umuquena › Michelena ,104.8,,,2018
 17.01,65,66,Stage 6 - Santa Cruz de Mora › La Grita ,167.8,,,2018
-16.01,76,69,Stage 5 - La Fría › Tovar ,147,,,2018
+16.01,76,69,Stage 5 - La Fría › Tovar ,147.0,,,2018
 15.01,60,57,Stage 4 - San Juan de Colón › San Simón ,147.9,,,2018
 14.01,55,70,Stage 3 - San Cristóbal › Táriba ,117.6,,,2018
-13.01,71,72,Stage 2 - Suripá › Suripá ,173,,,2018
+13.01,71,72,Stage 2 - Suripá › Suripá ,173.0,,,2018
 12.01,43,46,Stage 1 - Bramón › Santa Bárbara de Barinas ,182.6,,,2018
 01.08 » 13.08,,,Vuelta a Colombia (2.2) ,,,,2017
 ,38,,Points classification ,,,,2017
 ,52,,General classification ,,,,2017
-13.08,34,,Stage 12 - Pereira › Pereira ,107,,,2017
+13.08,34,,Stage 12 - Pereira › Pereira ,107.0,,,2017
 12.08,123,58,Stage 11 - Palmira › Dosquebradas ,190.8,,,2017
 11.08,89,52,Stage 10 - Cartago › Yumbo ,176.1,,,2017
 10.08,69,52,Stage 9 - La Dorada › Alto de Letras ,131.6,,,2017
@@ -35,25 +36,25 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.05,2,,Campeonato Panamericano de Ruta ITT - U23 (CC) ,26.4,7,20,2016
 20.02,6,,National Championships Colombia U23 - Road Race (NC) ,129.6,,,2016
 19.02,1,,National Championships Colombia U23 - ITT (NC) ,35.2,,,2016
-18.02,8,,National Championships Colombia - TTT (NC) ,43,,,2016
+18.02,8,,National Championships Colombia - TTT (NC) ,43.0,,,2016
 08.10 » 11.10,,,Abu Dhabi Tour (2.1) ,,,,2015
 ,35,,General classification ,,,,2015
-11.10,50,,Stage 4 - Yas Marina › Yas Marina ,110,,,2015
-10.10,39,36,Stage 3 - Al Ain › Jebel Hafeet ,140,,,2015
-09.10,56,44,Stage 2 - Abu Dhabi › Abu Dhabi ,130,,,2015
+11.10,50,,Stage 4 - Yas Marina › Yas Marina ,110.0,,,2015
+10.10,39,36,Stage 3 - Al Ain › Jebel Hafeet ,140.0,,,2015
+09.10,56,44,Stage 2 - Abu Dhabi › Abu Dhabi ,130.0,,,2015
 08.10,33,36,Stage 1 - Qasr Al Sarab › Madinat Zayed ,159.5,,,2015
-02.10,DNF,,Giro del Piemonte (1.HC) ,185,,,2015
-01.10,74,,Milano-Torino (1.HC) ,186,,,2015
+02.10,DNF,,Giro del Piemonte (1.HC) ,185.0,,,2015
+01.10,74,,Milano-Torino (1.HC) ,186.0,,,2015
 30.09,DNF,,Tre Valli Varesine (1.HC) ,198.5,,,2015
 20.09,44,,GP Industria & Commercio di Prato (1.1) ,185.8,,,2015
-17.09,DNF,,Coppa Bernocchi (1.1) ,192,,,2015
+17.09,DNF,,Coppa Bernocchi (1.1) ,192.0,,,2015
 16.09,DNF,,Coppa Agostoni - Giro delle Brianze (1.1) ,198.2,,,2015
 03.08 » 09.08,,,The Larry H.Miller Tour of Utah (2.HC) ,,,,2015
 ,15,,Youth classification ,,,,2015
 ,29,,Mountains classification ,,,,2015
 ,42,,Points classification ,,,,2015
 ,43,,General classification ,,,,2015
-09.08,25,,Stage 7 - Park City › Park City ,78,,,2015
+09.08,25,,Stage 7 - Park City › Park City ,78.0,,,2015
 08.08,43,53,Stage 6 - Salt Lake City › Snowbird Ski and Summer Resort ,177.7,,,2015
 07.08,37,60,Stage 5 - Salt Lake City › Salt Lake City ,89.1,,,2015
 06.08,57,64,Stage 4 - Soldier Hollow › Heber Valley ,205.2,,,2015
@@ -65,7 +66,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,81,,General classification ,,,,2015
 21.06,83,,Stage 4 - Roga?ka Slatina  › Novo mesto ,165.5,,,2015
 20.06,82,83,Stage 3 - Dobrovnik › Trije Kralji ,178.5,,,2015
-19.06,88,78,Stage 2 - Skofja Loka › Kocevje ,182,,,2015
+19.06,88,78,Stage 2 - Skofja Loka › Kocevje ,182.0,,,2015
 18.06,68,68,Stage 1 (ITT) - Ljubljana › Ljubljana ,8.8,,,2015
 13.05 » 17.05,,,Bayern Rundfahrt (2.HC) ,,,,2015
 ,25,,Youth classification ,,,,2015
@@ -77,58 +78,55 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.05,82,83,Stage 1 - Regensburg › Waldsassen ,221.3,,,2015
 26.04 » 03.05,,,Presidential Cycling Tour of Turkey (2.HC) ,,,,2015
 ,92,,General classification ,,,,2015
-03.05,49,,Stage 8 - Istanbul › Istanbul ,121,,,2015
-02.05,105,102,Stage 7 - Selçuk › Izmir ,165,,,2015
-01.05,40,92,Stage 6 - Denizli › Selçuk ,184,,,2015
-30.04,43,115,Stage 5 - Mugla › Pamukkale ,160,,,2015
-29.04,107,127,Stage 4 - Fethiye › Marmaris ,132,,,2015
-28.04,128,131,Stage 3 - Kemer › Elmali ,163,,,2015
-27.04,66,55,Stage 2 - Alanya › Antalya ,182,,,2015
-26.04,62,62,Stage 1 - Alanya › Alanya ,145,,,2015
+03.05,49,,Stage 8 - Istanbul › Istanbul ,121.0,,,2015
+02.05,105,102,Stage 7 - Selçuk › Izmir ,165.0,,,2015
+01.05,40,92,Stage 6 - Denizli › Selçuk ,184.0,,,2015
+30.04,43,115,Stage 5 - Mugla › Pamukkale ,160.0,,,2015
+29.04,107,127,Stage 4 - Fethiye › Marmaris ,132.0,,,2015
+28.04,128,131,Stage 3 - Kemer › Elmali ,163.0,,,2015
+27.04,66,55,Stage 2 - Alanya › Antalya ,182.0,,,2015
+26.04,62,62,Stage 1 - Alanya › Alanya ,145.0,,,2015
 07.04 » 10.04,,,Circuit Cycliste Sarthe - Pays de la Loire (2.1) ,,,,2015
-,15,,Youth classification ,,,,2015
 ,8,,Mountains classification ,,,,2015
 ,39,,Points classification ,,,,2015
-,76,,General classification ,,,,2015
 10.04,45,,Stage 5 - Abbaye de l'Epau › Le Lude ,178.5,,,2015
 09.04,92,90,Stage 4 - Angers › Pré-en-Pail ,190.3,,,2015
 08.04,74,85,Stage 3 (ITT) - Angers › Angers ,6.8,,,2015
 08.04,62,85,Stage 2 - Varades › Angers ,83.9,,,2015
 07.04,86,86,Stage 1 - Sablé-sur-Sarthe › Varades ,188.2,,,2015
-05.04,DNF,,Paris-Camembert (1.1) ,202,,,2015
+05.04,DNF,,Paris-Camembert (1.1) ,202.0,,,2015
 03.04,DNF,,Route Adélie de Vitré (1.1) ,197.8,,,2015
 26.03 » 29.03,,,Settimana Internazionale Coppi e Bartali (2.1) ,,,,2015
 29.03,DNF,,Stage 4 - Pavullo › Roccapelago ,152.6,,,2015
-28.03,50,144,Stage 3 - Calderara di Reno › Crevalcore ,173,,,2015
+28.03,50,144,Stage 3 - Calderara di Reno › Crevalcore ,173.0,,,2015
 27.03,137,146,Stage 2 - Cesenatico › Sogliano al Rubicone ,156.2,,,2015
 26.03,167,167,Stage 1a - Gatteo › Gatteo ,99.5,,,2015
 26.03,30,163,Stage 1b (TTT) - Gatteo a mare › Gatteo ,13.3,,,2015
-22.03,DNF,,Milano-Sanremo (1.UWT) ,293,,,2015
+22.03,DNF,,Milano-Sanremo (1.UWT) ,293.0,,,2015
 19.03,137,,GP Nobili Rubinetterie-Coppa Papa Carlo-Coppa Cittá  di Stresa (1.HC) ,187.5,,,2015
-01.03,OTL,,La Drome Classic (1.1) ,201,,,2015
-28.02,DNF,,Classic Sud Ardèche - Souvenir Francis Delpech (1.1) ,198,,,2015
+01.03,OTL,,La Drome Classic (1.1) ,201.0,,,2015
+28.02,DNF,,Classic Sud Ardèche - Souvenir Francis Delpech (1.1) ,198.0,,,2015
 04.02 » 08.02,,,Etoile de Bessèges (2.1) ,,,,2015
-,15,,Youth classification ,,,,2015
 ,130,,General classification ,,,,2015
-08.02,103,,Stage 5 (ITT) - Alès › Alès ,12,,,2015
+08.02,103,,Stage 5 (ITT) - Alès › Alès ,12.0,,,2015
 07.02,139,134,Stage 4 - L'Ardoise › Laudun ,156.3,,,2015
 06.02,104,130,Stage 3 - Bessèges › Bessèges ,152.6,,,2015
-05.02,46,138,Stage 2 - Nîmes › Les Fumades ,155,,,2015
-04.02,155,155,Stage 1 - Bellegarde › Beaucaire ,152,,,2015
+05.02,46,138,Stage 2 - Nîmes › Les Fumades ,155.0,,,2015
+04.02,155,155,Stage 1 - Bellegarde › Beaucaire ,152.0,,,2015
 01.02,96,,Grand Prix Cycliste la Marseillaise (1.1) ,139.7,,,2015
-26.09,99,,World Championships U23 - Road Race (WC) ,182,,,2014
+26.09,99,,World Championships U23 - Road Race (WC) ,182.0,,,2014
 22.09,39,,World Championships U23 - ITT (WC) ,36.15,,,2014
 23.08 » 30.08,,,Tour de l'Avenir (2.Ncup) ,,,,2014
 ,89,,General classification ,,,,2014
-30.08,94,,Stage 7 - Saint-Michel-de-Maurienne › La Toussuire ,94,,,2014
-29.08,101,85,Stage 6 - Saint-Gervais › La Rosière ,108,,,2014
+30.08,94,,Stage 7 - Saint-Michel-de-Maurienne › La Toussuire ,94.0,,,2014
+29.08,101,85,Stage 6 - Saint-Gervais › La Rosière ,108.0,,,2014
 28.08,76,69,Stage 5 - Bons-en-Chablais › Les Carroz d'Arraches ,101.6,,,2014
 27.08,71,67,Stage 4 - Saint-Vulbas › Plateau de Solaison ,165.3,,,2014
-26.08,82,80,Stage 3 - Montrond-les-Bains › Paray-le-Monial ,143,,,2014
-25.08,87,89,Stage 2 - Brioude › Saint-Galmier ,143,,,2014
-24.08,28,81,Stage 1 - Saint-Flour › Brioude ,145,,,2014
+26.08,82,80,Stage 3 - Montrond-les-Bains › Paray-le-Monial ,143.0,,,2014
+25.08,87,89,Stage 2 - Brioude › Saint-Galmier ,143.0,,,2014
+24.08,28,81,Stage 1 - Saint-Flour › Brioude ,145.0,,,2014
 23.08,84,84,Prologue - Saint-Flour › Saint-Flour ,4.45,,,2014
-16.08,39,,GP Capodarco - Comunità di Capodarco (1.2) ,180,,,2014
+16.08,39,,GP Capodarco - Comunità di Capodarco (1.2) ,180.0,,,2014
 10.05,5,,Champ. Panaméricain en ligne / Panamerican Champ. RR - MU (CC) ,,,,2014
 08.05,3,,Champ. Panaméricain c.l.m. ind. / Panamerican Champ. ind. TT - MU (CC) ,29.7,,,2014
 10.04,1,,National Championships Colombia U23 - ITT (NC) ,25.2,,,2014

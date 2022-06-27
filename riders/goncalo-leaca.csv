@@ -1,4 +1,16 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+16.03 » 20.03,,,Volta ao Alentejo (2.2) ,,,,2022
+18.03,DNF,,Stage 3 - Elvas › Ponte de Sor ,176.7,,,2022
+17.03,116,115,Stage 2 - Beja › Portel ,187.7,,,2022
+16.03,121,112,Stage 1 - Vendas Novas › Sines ,176.7,,,2022
+13.03,8,,Classica da Arrabida - Cyclin'Portugal (1.2) ,161.8,,3,2022
+16.02 » 20.02,,,Volta ao Algarve em Bicicleta (2.Pro) ,,,,2022
+,103,,General classification ,,,,2022
+20.02,122,,Stage 5 - Lagoa › Malhão (Loulé) ,173,,,2022
+19.02,120,86,Stage 4 (ITT) - Vila Real de Santo António › Tavira ,32.2,,,2022
+18.02,55,81,Stage 3 - Almodôvar › Faro ,211.4,,,2022
+17.02,88,92,Stage 2 - Albufeira › Fóia (Monchique) ,182.4,,,2022
+16.02,139,139,Stage 1 - Portimão  › Lagos ,199.1,,,2022
 16.03 » 20.03,,,Volta ao Alentejo (2.2),,,,2022
 18.03,DNF,,Stage 3 - Elvas › Ponte de Sor,176.7,,,2022
 17.03,116,115,Stage 2 - Beja › Portel,187.7,,,2022
@@ -6,7 +18,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.03,8,,Classica da Arrabida - Cyclin'Portugal (1.2),161.8,,3,2022
 16.02 » 20.02,,,Volta ao Algarve em Bicicleta (2.Pro),,,,2022
 ,103,,General classification,,,,2022
-20.02,122,,Stage 5 - Lagoa › Malhão (Loulé),173,,,2022
+20.02,122,,Stage 5 - Lagoa › Malhão (Loulé),173.0,,,2022
 19.02,120,86,Stage 4 (ITT) - Vila Real de Santo António › Tavira,32.2,,,2022
 18.02,55,81,Stage 3 - Almodôvar › Faro,211.4,,,2022
 17.02,88,92,Stage 2 - Albufeira › Fóia (Monchique),182.4,,,2022
@@ -26,14 +38,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.08,82,82,Prologue - Lisboa › Lisboa,5.4,,,2021
 16.07 » 18.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2021
 ,63,,General classification,,,,2021
-18.07,58,,Stage 3 - Serra d'El-Rei › Alto do Montejunto,185,,,2021
-17.07,70,64,Stage 2 - Arruda dos Vinhos   › Torres Vedras,166,,,2021
+18.07,58,,Stage 3 - Serra d'El-Rei › Alto do Montejunto,185.0,,,2021
+17.07,70,64,Stage 2 - Arruda dos Vinhos   › Torres Vedras,166.0,,,2021
 16.07,41,41,Stage 1 - Turcifal › Serra do Socorro ,85.3,,,2021
 23.06 » 27.06,,,Volta ao Alentejo (2.2),,,,2021
 ,35,,General classification,,,,2021
 27.06,72,,Stage 6 - Portalegre › Evora,162.9,,,2021
 26.06,60,38,Stage 5 (ITT) - Castelo de Vide › Castelo de Vide,8.4,,,2021
-26.06,40,38,Stage 4 - Monforte › Castelo de Vide,85,,,2021
+26.06,40,38,Stage 4 - Monforte › Castelo de Vide,85.0,,,2021
 25.06,76,76,Stage 3 - Alcacer do Sal › Mora,171.7,,,2021
 24.06,80,79,Stage 2 - Almodovar › Sines,195.5,,,2021
 23.06,82,82,Stage 1 - Reguengos de Monsaraz › Beja,193.7,,,2021
@@ -44,14 +56,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,48,,Points classification,,,,2020
 ,46,,General classification,,,,2020
 05.10,71,,Stage 8 (ITT) - Lisbon › Lisbon,17.7,,,2020
-04.10,24,45,Stage 7 - Loures › Setúbal,161,,,2020
-03.10,40,53,Stage 6 - Caldas da Rainha › Torres Vedras,155,,,2020
+04.10,24,45,Stage 7 - Loures › Setúbal,161.0,,,2020
+03.10,40,53,Stage 6 - Caldas da Rainha › Torres Vedras,155.0,,,2020
 02.10,59,53,Stage 5 - Oliveira do Hospital › Águeda,176.3,,,2020
-01.10,31,54,Stage 4 - Guarda › Torre (Covilhã),148,,,2020
+01.10,31,54,Stage 4 - Guarda › Torre (Covilhã),148.0,,,2020
 30.09,87,71,Stage 3 - Felgueiras › Viseu,171.9,,,2020
-29.09,67,60,"Stage 2 - Paredes › Mondim, Alto da Senhora da Graça",167,,,2020
-28.09,52,56,"Stage 1 - Montalegre › Viana do Castelo, Alto Santa Luzia",180,,,2020
-27.09,74,74,Prologue - Fafe › Fafe,7,,,2020
+29.09,67,60,"Stage 2 - Paredes › Mondim, Alto da Senhora da Graça",167.0,,,2020
+28.09,52,56,"Stage 1 - Montalegre › Viana do Castelo, Alto Santa Luzia",180.0,,,2020
+27.09,74,74,Prologue - Fafe › Fafe,7.0,,,2020
 19.09 » 20.09,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2020
 ,6,,Youth classification,,,,2020
 ,26,,General classification,,,,2020
@@ -73,39 +85,39 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,56,,General classification,,,,2019
 11.08,64,,Stage 10 (ITT) - Vila Nova de Gaia › Porto,19.5,,,2019
 10.08,46,56,Stage 9 - Fafe › Senhora da Graça,133.5,,,2019
-09.08,42,56,Stage 8 - Viana do Castelo › Santa Quitéria,158,,,2019
+09.08,42,56,Stage 8 - Viana do Castelo › Santa Quitéria,158.0,,,2019
 08.08,93,61,Stage 7 - Bragança › Serra do Larouco,156.2,,,2019
 07.08,7,52,Stage 6 - Torre de Moncorvo › Bragança,189.2,2,,2019
-05.08,57,67,Stage 5 - Oliveira do Hospital › Guarda,158,,,2019
-04.08,78,73,Stage 4 - Pampilhosa da Serra › Torre,145,,,2019
+05.08,57,67,Stage 5 - Oliveira do Hospital › Guarda,158.0,,,2019
+04.08,78,73,Stage 4 - Pampilhosa da Serra › Torre,145.0,,,2019
 03.08,83,66,Stage 3 - Santarém › Castelo Branco,194.1,,,2019
 02.08,61,57,Stage 2 - Marinha Grande › St.º António dos Cavaleiros,198.5,,,2019
 01.08,38,66,Stage 1 - Miranda do Corvo › Leiria,174.7,,,2019
-31.07,80,80,Prologue - Viseu › Viseu,6,,,2019
+31.07,80,80,Prologue - Viseu › Viseu,6.0,,,2019
 11.07 » 14.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2019
 ,22,,Youth classification,,,,2019
 ,49,,General classification,,,,2019
 14.07,66,,Stage 3 - Foz do Arelho › Alto do Montejunto,179.3,,,2019
 13.07,34,32,Stage 2 - Atouguia da Baleia › Torres Vedras,152.7,,,2019
 12.07,40,36,Stage 1 - Ventosa › Sobral de Monte Agraço,156.8,,,2019
-11.07,57,57,Prologue - Turcifal  › Turcifal ,8,,,2019
+11.07,57,57,Prologue - Turcifal  › Turcifal ,8.0,,,2019
 29.06,11,,National Championships Portugal U23 - Road Race (NC),143.2,,,2019
 20.03 » 24.03,,,Volta ao Alentejo (2.2),,,,2019
 ,9,,Youth classification,,,,2019
 ,25,,Points classification,,,,2019
 ,32,,General classification,,,,2019
-24.03,55,,Stage 6 - Portalegre › Évora,152,,,2019
+24.03,55,,Stage 6 - Portalegre › Évora,152.0,,,2019
 23.03,71,34,Stage 5 (ITT) - Castelo de Vide › Castelo de Vide,8.4,,,2019
 23.03,29,31,Stage 4 - Ponte de Sor › Portalegre,74.3,,,2019
 22.03,43,40,Stage 3 - Santiago do Cacém › Mora,176.5,,,2019
 21.03,45,45,Stage 2 - Mértola › Odemira,182.8,,,2019
 20.03,55,57,Stage 1 - Montemor-o-Novo › Moura,208.1,,,2019
-17.03,29,,Classica da Arrabida - Cyclin'Portugal (1.2),185,,,2019
+17.03,29,,Classica da Arrabida - Cyclin'Portugal (1.2),185.0,,,2019
 04.02 » 09.02,,,Tour de l'Espoir (2.Ncup),,,,2019
 09.02,DNF,,Stage 5 - Yaoundé › Yaoundé,103.4,,,2019
 08.02,62,63,Stage 4 - Ngoulemakong › Yaoundé,105.7,,,2019
 06.02,85,65,Stage 3 - Nkongsamba › Dschang,66.8,,,2019
-05.02,54,15,Stage 2 - Douala › Douala,92,,,2019
+05.02,54,15,Stage 2 - Douala › Douala,92.0,,,2019
 04.02,3,15,Stage 1 (TTT) - Douala › Douala,18.8,,0.666,2019
 01.08 » 12.08,,,Volta a Portugal em Bicicleta Santander Totta (2.1),,,,2018
 ,16,,Youth classification,,,,2018
@@ -132,22 +144,22 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.07 » 15.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2018
 ,39,,Youth classification,,,,2018
 ,79,,General classification,,,,2018
-15.07,57,,Stage 4 - Cadaval › Montejunto,172,,,2018
-14.07,70,81,Stage 3 - Serra d'El-Rei › Torres Vedras,144,,,2018
-13.07,93,83,Stage 2 - Ventosa › Sobral Monte Agraço,162,,,2018
-12.07,58,58,Prologue - Turcifal › Turcifal,8,,,2018
+15.07,57,,Stage 4 - Cadaval › Montejunto,172.0,,,2018
+14.07,70,81,Stage 3 - Serra d'El-Rei › Torres Vedras,144.0,,,2018
+13.07,93,83,Stage 2 - Ventosa › Sobral Monte Agraço,162.0,,,2018
+12.07,58,58,Prologue - Turcifal › Turcifal,8.0,,,2018
 31.05 » 03.06,,,Grand Prix Priessnitz spa (2.Ncup),,,,2018
 ,92,,General classification,,,,2018
-03.06,97,,Stage 3 - Jeseník › Jeseník,158,,,2018
+03.06,97,,Stage 3 - Jeseník › Jeseník,158.0,,,2018
 02.06,94,91,Stage 2 - Krnov › Dlouhé stráně,148.9,,,2018
-01.06,96,73,Stage 1 - Jeseník › Rýmařov,133,,,2018
-31.05,83,83,Prologue - Krnov › Krnov,2,,,2018
+01.06,96,73,Stage 1 - Jeseník › Rýmařov,133.0,,,2018
+31.05,83,83,Prologue - Krnov › Krnov,2.0,,,2018
 13.04 » 15.04,,,GP Beiras e Serra da Estrela (2.1),,,,2018
 ,78,,General classification,,,,2018
 15.04,71,,Stage 3 - Gouveia › Guarda,168.3,,,2018
 14.04,73,91,Stage 2 - Sabugal › Seia,193.9,,,2018
 13.04,102,102,Stage 1 - Mêda › Figueira de Castelo Rodrigo,177.2,,,2018
-25.03,59,,Classica Aldeias do Xisto - Cyclin'Portugal (1.2),145,,,2018
+25.03,59,,Classica Aldeias do Xisto - Cyclin'Portugal (1.2),145.0,,,2018
 14.03 » 18.03,,,Volta ao Alentejo (2.2),,,,2018
 ,26,,Youth classification,,,,2018
 ,77,,General classification,,,,2018
@@ -169,12 +181,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.07 » 09.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2017
 ,19,,Youth classification,,,,2017
 ,55,,General classification,,,,2017
-09.07,39,,Stage 4 - Sao Martinho do Porto › Carvoeira,162,,,2017
-08.07,52,37,Stage 3a - Atouguia da Baleia › Vimeiro,78,,,2017
-08.07,78,64,Stage 3b - Torres Vedras › Torres Vedras,111,,,2017
-07.07,41,37,Stage 2 - Sobral Monte Agraco › Alto de Montejunto,155,,,2017
-06.07,64,42,Stage 1 - Ventosa › Arruda dos Vinhos,140,,,2017
-05.07,46,46,Prologue - Turcifal › Turcifal,8,,,2017
+09.07,39,,Stage 4 - Sao Martinho do Porto › Carvoeira,162.0,,,2017
+08.07,52,37,Stage 3a - Atouguia da Baleia › Vimeiro,78.0,,,2017
+08.07,78,64,Stage 3b - Torres Vedras › Torres Vedras,111.0,,,2017
+07.07,41,37,Stage 2 - Sobral Monte Agraco › Alto de Montejunto,155.0,,,2017
+06.07,64,42,Stage 1 - Ventosa › Arruda dos Vinhos,140.0,,,2017
+05.07,46,46,Prologue - Turcifal › Turcifal,8.0,,,2017
 29.06 » 02.07,,,Volta a Portugal do Futuro (2.2U),,,,2017
 ,6,,Youth classification,,,,2017
 ,20,,General classification,,,,2017
@@ -188,15 +200,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.07 » 17.07,,,Volta a Portugal do Futuro / Liberty Seguros (2.2U),,,,2016
 17.07,DNF,,Stage 4 - Boticas  › Montalegre (Serra do Larouco) ,119.4,,,2016
 16.07,23,20,Stage 3 - Lousada › Boticas ,134.1,,,2016
-15.07,30,26,Stage 2 - Penela › Oliveira de Azeméis ,145,,,2016
+15.07,30,26,Stage 2 - Penela › Oliveira de Azeméis ,145.0,,,2016
 14.07,16,16,Stage 1 - Soure › Condeixa-a-Nova ,138.6,,,2016
 07.07 » 10.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2016
 ,18,,Youth classification,,,,2016
 ,83,,General classification,,,,2016
-10.07,60,,Stage 3 - Atouguia de Baleia › Carvoeira,147,,,2016
+10.07,60,,Stage 3 - Atouguia de Baleia › Carvoeira,147.0,,,2016
 09.07,85,89,Stage 2 - Palhagueiras › Torres Vedras,154.3,,,2016
-08.07,81,82,Stage 1 - Ventosa › Alto de Montejunto,179,,,2016
-07.07,90,90,Prologue - Turcifal › Turcifal,8,,,2016
+08.07,81,82,Stage 1 - Ventosa › Alto de Montejunto,179.0,,,2016
+07.07,90,90,Prologue - Turcifal › Turcifal,8.0,,,2016
 27.05 » 29.05,,,Tour de Gironde (2.2),,,,2016
 ,48,,Youth classification,,,,2016
 ,105,,General classification,,,,2016
@@ -210,6 +222,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.03,91,108,Stage 4 - Aljustrel › Grândola,184.7,,,2016
 18.03,137,119,Stage 3 - Portel › Beja,186.6,,,2016
 17.03,74,100,Stage 2 - Monforte › Montemor-o-novo,206.2,,,2016
-16.03,118,118,Stage 1 - Portalegre › Castelo de Vide,158,,,2016
+16.03,118,118,Stage 1 - Portalegre › Castelo de Vide,158.0,,,2016
 12.03 » 13.03,,,GP Liberty Seguros - Troféu Alpendre (2.2),,,,2016
-12.03,158,,Stage 1 - Vila Nova de Cacela › Vila Nova de Cacela,154,,,2016
+12.03,158,,Stage 1 - Vila Nova de Cacela › Vila Nova de Cacela,154.0,,,2016

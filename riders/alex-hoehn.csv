@@ -1,15 +1,20 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+10.04,92,,Memorial Valenciaga (NAT) ,153.5,,,2022
+03.04,60,,Clásica Ciudad De Torredonjimeno (NAT) ,165,,,2022
+21.03,89,,Gran Premio de Primavera Ontur (NAT) ,172,,,2022
+06.03,31,,Trofeo Guerrita Memorial Juan Romero y Diego Sánchez (NAT) ,167,,10,2022
+27.02,110,,Circuito Del Guadiana (NAT) ,171.4,,,2022
 10.04,92,,Memorial Valenciaga (NAT),153.5,,,2022
-03.04,60,,Clásica Ciudad De Torredonjimeno (NAT),165,,,2022
-21.03,89,,Gran Premio de Primavera Ontur (NAT),172,,,2022
-06.03,31,,Trofeo Guerrita Memorial Juan Romero y Diego Sánchez (NAT),167,,10,2022
+03.04,60,,Clásica Ciudad De Torredonjimeno (NAT),165.0,,,2022
+21.03,89,,Gran Premio de Primavera Ontur (NAT),172.0,,,2022
+06.03,31,,Trofeo Guerrita Memorial Juan Romero y Diego Sánchez (NAT),167.0,,10,2022
 27.02,110,,Circuito Del Guadiana (NAT),171.4,,,2022
 09.09 » 12.09,,,Tour de Serbie (2.2),,,,2021
 ,9,,Points classification,,,,2021
 ,11,,General classification,,,,2021
 12.09,2,,Stage 4 - Prijepolje › Čačak,156.5,2,3,2021
 11.09,13,11,Stage 3 - Čačak › Prijepolje,153.3,,,2021
-10.09,15,26,Stage 2 - Mionica › Čačak,144,,,2021
+10.09,15,26,Stage 2 - Mionica › Čačak,144.0,,,2021
 09.09,26,26,Stage 1 - Požarevac › Mionica,147.6,,,2021
 31.08 » 05.09,,,Turul Romaniei (2.1),,,,2021
 ,18,,Mountains classification,,,,2021
@@ -17,10 +22,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.09,20,,Stage 5 - Bucharest › Bucharest,98.6,,,2021
 ,19,,General classification,,2,3,2021
 04.09,71,19,Stage 4 - Brasov › Bucharest,159.3,,,2021
-03.09,31,19,Stage 3 - Sibiu › Poiana Brașov,187,,,2021
+03.09,31,19,Stage 3 - Sibiu › Poiana Brașov,187.0,,,2021
 02.09,20,17,Stage 2 - Deva › Păltiniș,154.9,,,2021
 01.09,30,9,Stage 1 - Timișoara › Deva,201.5,,,2021
-31.08,7,7,Prologue - Timișoara › Timișoara,4,2,,2021
+31.08,7,7,Prologue - Timișoara › Timișoara,4.0,2,,2021
 18.07,8,,Grand Prix Develi ME (1.2),130.8,,3,2021
 17.07,21,,Grand Prix Velo Erciyes ME (1.2),139.9,,,2021
 11.07,6,,Grand Prix Kayseri ME (1.2),136.7,1,10,2021
@@ -47,7 +52,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,49,,Points classification,,,,2021
 ,13,,General classification,,28,20,2021
 18.04,18,,Stage 8 - Bodrum › Kusadasi,160.3,,,2021
-17.04,40,12,Stage 7 - Marmaris › Turgutreis,180,,,2021
+17.04,40,12,Stage 7 - Marmaris › Turgutreis,180.0,,,2021
 16.04,32,13,Stage 6 - Fethiye › Marmaris,129.1,,,2021
 15.04,14,14,Stage 5 - Kemer › Elmalı (Göğübeli),160.3,,,2021
 14.04,42,45,Stage 4 - Alanya › Kemer,184.4,,,2021
@@ -64,7 +69,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.03,117,,Grand Prix Mediterrennean ME (1.2),157.4,,,2021
 21.02,2,,Grand Prix Velo Alanya ME (1.2),104.5,10,30,2021
 06.02,5,,Grand Prix Alanya (1.2),147.8,2,15,2021
-15.02,10,,Malaysian International Classic Race (1.1),159,14,20,2020
+15.02,10,,Malaysian International Classic Race (1.1),159.0,14,20,2020
 07.02 » 14.02,,,PETRONAS Le Tour de Langkawi (2.Pro),,,,2020
 ,15,,General classification,,20,10,2020
 14.02,23,,Stage 8 - Dataran Lang › Kuah,108.5,,,2020
@@ -79,7 +84,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,2,,Youth classification,,,,2019
 ,16,,General classification,,16,5,2019
 18.08,17,,Stage 6 - Park City › Park City,125.9,,,2019
-17.08,25,17,Stage 5 - Canyons Village › Canyons Village,128,,,2019
+17.08,25,17,Stage 5 - Canyons Village › Canyons Village,128.0,,,2019
 16.08,40,16,Stage 4 - Salt Lake City › Salt Lake City,86.5,,,2019
 15.08,24,16,Stage 3 - Antelope Island › North Salt Lake,138.3,,,2019
 14.08,18,17,Stage 2 - Brigham City › Powder Mountain Resort,135.8,,,2019
@@ -101,22 +106,21 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,2,,Mountains classification,,,,2019
 ,36,,Points classification,,,,2019
 ,54,,General classification,,5,2,2019
-18.05,71,,Stage 7 - Santa Clarita › Pasadena,141,,,2019
+18.05,71,,Stage 7 - Santa Clarita › Pasadena,141.0,,,2019
 17.05,60,56,Stage 6 - Ontario › Mount Baldy,127.5,,,2019
 16.05,114,57,Stage 5 - Pismo Beach › Ventura,218.5,,,2019
 15.05,83,47,Stage 4 -  Raceway Laguna Seca › Morro Bay,212.5,,,2019
-14.05,63,48,Stage 3 - Stockton › Morgan Hill,207,,,2019
+14.05,63,48,Stage 3 - Stockton › Morgan Hill,207.0,,,2019
 13.05,51,49,Stage 2 - Rancho Cordova › South Lake Tahoe,194.5,,,2019
-12.05,51,53,Stage 1 - Sacramento › Sacramento,143,,,2019
+12.05,51,53,Stage 1 - Sacramento › Sacramento,143.0,,,2019
 01.05 » 05.05,,,Tour of the Gila (2.2),,,,2019
-,2,,Youth classification,,,,2019
 ,7,,Mountains classification,,,,2019
 ,4,,General classification,,11,20,2019
 05.05,2,,Stage 5 - Silver City › Pinos Altos,161.9,2,3,2019
 04.05,10,5,Stage 4 - Silver City › Silver City,69.5,,,2019
-03.05,13,5,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2019
+03.05,13,5,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2019
 02.05,4,8,Stage 2 - Fort Bayard › Fort Bayard,122.6,,,2019
-01.05,10,10,Stage 1 - Silver City › Mogollon ,148,,,2019
+01.05,10,10,Stage 1 - Silver City › Mogollon ,148.0,,,2019
 04.04 » 07.04,,,Joe Martin Stage Race (2.2),,,,2019
 ,1,,Youth classification,,,,2019
 ,14,,Mountains classification,,,,2019
@@ -131,10 +135,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,41,,General classification,,,,2019
 17.02,26,,Stage 6 - El Retiro › Alto de Palmas,173.8,,,2019
 16.02,40,53,Stage 5 - La Union › La Union,176.8,,,2019
-15.02,38,63,Stage 4 - Medellín › Medellín,144,,,2019
+15.02,38,63,Stage 4 - Medellín › Medellín,144.0,,,2019
 14.02,64,68,Stage 3 - Llanogrande › Llanogrande,167.6,,,2019
-13.02,62,93,Stage 2 - La Ceja › La Ceja,157,,,2019
-12.02,22,110,Stage 1 (TTT) - Medellín › Medellín,14,,,2019
+13.02,62,93,Stage 2 - La Ceja › La Ceja,157.0,,,2019
+12.02,22,110,Stage 1 (TTT) - Medellín › Medellín,14.0,,,2019
 28.09,DNF,,World Championships U23 - Road Race (WC),179.5,,,2018
 16.09,36,,Int. RAIFFEISEN Grand Prix Judendorf-Straßengel (1.2),185.4,,,2018
 16.08 » 19.08,,,Colorado Classic (2.HC),,,,2018
@@ -150,7 +154,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.08,19,,Stage 6 - Park City › Park City,122.3,,,2018
 11.08,22,20,Stage 5 - Canyons Village  › Snowbird Ski and Summer ,157.7,,,2018
 10.08,29,24,Stage 4 - Salt Lake City › Salt Lake City,109.4,,,2018
-09.08,17,24,Stage 3 - Antelope Island › Layton City,188,,,2018
+09.08,17,24,Stage 3 - Antelope Island › Layton City,188.0,,,2018
 08.08,19,24,Stage 2 - Payson City › Payson City,138.4,,,2018
 07.08,47,35,Stage 1 - Cedar City › Cedar City,162.5,,,2018
 06.08,44,44,Prologue - St. George › St. George,5.31,,,2018
@@ -159,30 +163,28 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.06,30,,National Championships United States - ITT (NC),34.2,,,2018
 31.05 » 03.06,,,Grand Prix Priessnitz spa (2.Ncup),,,,2018
 ,41,,General classification,,,,2018
-03.06,55,,Stage 3 - Jeseník › Jeseník,158,,,2018
+03.06,55,,Stage 3 - Jeseník › Jeseník,158.0,,,2018
 02.06,41,40,Stage 2 - Krnov › Dlouhé stráně,148.9,,,2018
-01.06,32,24,Stage 1 - Jeseník › Rýmařov,133,,,2018
-31.05,26,26,Prologue - Krnov › Krnov,2,,,2018
+01.06,32,24,Stage 1 - Jeseník › Rýmařov,133.0,,,2018
+31.05,26,26,Prologue - Krnov › Krnov,2.0,,,2018
 27.05,63,,Circuit de Wallonie (1.2),176.9,,,2018
 17.05 » 20.05,,,Ronde de l'Isard (2.2U),,,,2018
 18.05,DNF,,Stage 2 - Fonsorbes › Goulier-Neige,154.3,,,2018
 17.05,44,44,Stage 1 - Lorp-Sentaraille › Eycheil (Ouerdes),125.9,,,2018
-12.05,62,,Ronde van Overijssel (1.2),199,,,2018
+12.05,62,,Ronde van Overijssel (1.2),199.0,,,2018
 18.04 » 22.04,,,Tour of the Gila (2.2),,,,2018
-,4,,Youth classification,,,,2018
 ,18,,Mountains classification,,,,2018
 ,26,,Points classification,,,,2018
 ,17,,General classification,,,,2018
 22.04,17,,Stage 5 - Silver City › Pinos Altos,161.9,,,2018
 21.04,15,34,Stage 4 - Silver City › Silver City,69.5,,,2018
-20.04,56,36,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2018
+20.04,56,36,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2018
 19.04,16,33,Stage 2 - Fort Bayard › Fort Bayard,120.7,,,2018
-18.04,33,33,Stage 1 - Silver City › Mogollon,148,,,2018
+18.04,33,33,Stage 1 - Silver City › Mogollon,148.0,,,2018
 12.04 » 15.04,,,Joe Martin Stage Race (2.2),,,,2018
 ,10,,Youth classification,,,,2018
-,26,,Points classification,,,,2018
 ,28,,General classification,,,,2018
-15.04,19,,Stage 4 - Fayetteville › Fayetteville,60,,,2018
+15.04,19,,Stage 4 - Fayetteville › Fayetteville,60.0,,,2018
 14.04,10,31,Stage 3 (ITT) - Devil's Den State Park › Devil's Den State Park,4.84,,,2018
 13.04,26,36,Stage 2 - Fayetteville › Fayetteville,176.5,,,2018
 12.04,40,40,Stage 1 - Fayetteville › Fayetteville (Mount Sequoyah),166.9,,,2018
@@ -190,8 +192,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,5,,Youth classification,,,,2017
 ,48,,General classification,,,,2017
 13.08,40,,Stage 4 - Denver › Denver,120.1,,,2017
-12.08,27,52,Stage 3 - Denver  › Denver ,130,,,2017
-11.08,57,51,Stage 2 - Breckenridge › Breckenridge,103,,,2017
+12.08,27,52,Stage 3 - Denver  › Denver ,130.0,,,2017
+11.08,57,51,Stage 2 - Breckenridge › Breckenridge,103.0,,,2017
 10.08,22,23,Stage 1 - Colorado Springs › Colorado Springs,150.4,,,2017
 31.07 » 06.08,,,The Larry H.Miller Tour of Utah (2.HC),,,,2017
 ,4,,Youth classification,,,,2017
@@ -200,19 +202,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.08,36,38,Stage 6 - Heber Valley › Snowbird Resort,97.8,,,2017
 04.08,45,41,Stage 5 - Layton › Bountiful,185.4,,,2017
 03.08,55,39,Stage 4 - South Jordan City › South Jordan City,201.1,,,2017
-02.08,44,39,Stage 3 (ITT) - Big Cottonwood Canyon › Big Cottonwood Canyon,9,,,2017
-01.08,39,39,Stage 2 - Brigham City › Snowbasin Resort,151,,,2017
+02.08,44,39,Stage 3 (ITT) - Big Cottonwood Canyon › Big Cottonwood Canyon,9.0,,,2017
+01.08,39,39,Stage 2 - Brigham City › Snowbasin Resort,151.0,,,2017
 31.07,17,18,Stage 1 - Logan › Logan,211.2,,,2017
-30.06,28,,National Championships United States U23 - Road Race (NC),177,,,2017
-29.06,13,,National Championships United States U23 - ITT (NC),34,,,2017
-25.06,22,,National Championships United States - Road Race (NC),179,,,2017
+30.06,28,,National Championships United States U23 - Road Race (NC),177.0,,,2017
+29.06,13,,National Championships United States U23 - ITT (NC),34.0,,,2017
+25.06,22,,National Championships United States - Road Race (NC),179.0,,,2017
 24.06,31,,National Championships United States - ITT (NC),30.7,,,2017
 19.04 » 23.04,,,Tour of the Gila (2.2),,,,2017
 ,13,,Youth classification,,,,2017
 ,55,,General classification,,,,2017
 23.04,35,,Stage 5 - Silver City › Pinos Altos,161.9,,,2017
 22.04,65,88,Stage 4 - Silver City › Silver City,69.5,,,2017
-21.04,62,89,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2017
+21.04,62,89,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2017
 20.04,78,92,Stage 2 - Fort Bayard › Fort Bayard,120.7,,,2017
 19.04,118,118,Stage 1 - Silver City › Whitewater Mesa,143.4,,,2017
 26.03 » 30.03,,,Tour de Taiwan (2.1),,,,2017
@@ -226,7 +228,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,16,,General classification,,16,,2015
 26.07,21,,Stage 7 - Senneterre › Val-d'Or,119.4,,,2015
 25.07,32,15,Stage 6 - Preissac › Val-d'Or,93.6,,,2015
-24.07,25,18,Stage 5 - Lebel-sur-Quévillon › Lebel-sur-Quévillon,104,,,2015
+24.07,25,18,Stage 5 - Lebel-sur-Quévillon › Lebel-sur-Quévillon,104.0,,,2015
 23.07,37,18,Stage 4 - Malartic › Malartic,51.5,,,2015
 23.07,46,21,Stage 3 (ITT) - Val-d'Or › Val-d'Or,10.6,,,2015
 22.07,41,25,Stage 2 - Amos › Val-d'Or,104.4,,,2015

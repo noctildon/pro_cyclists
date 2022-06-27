@@ -1,8 +1,12 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
-29.03,9,,Asian Cycling Championships - Road Race (CC),175,16,60,2022
-25.03,3,,Asian Cycling Championships - TTT (CC),24,,10,2022
+29.03,9,,Asian Cycling Championships - Road Race (CC) ,175,16,60,2022
+25.03,3,,Asian Cycling Championships - TTT (CC) ,24,,10,2022
+20.03,57,,Grand Prix Gündoğmuş (1.2) ,100.5,,,2022
+19.03,33,,Grand Prix Manavgat Side (1.2) ,126,,,2022
+29.03,9,,Asian Cycling Championships - Road Race (CC),175.0,16,60,2022
+25.03,3,,Asian Cycling Championships - TTT (CC),24.0,,10,2022
 20.03,57,,Grand Prix Gündoğmuş (1.2),100.5,,,2022
-19.03,33,,Grand Prix Manavgat Side (1.2),126,,,2022
+19.03,33,,Grand Prix Manavgat Side (1.2),126.0,,,2022
 11.07,36,,Grand Prix Kayseri ME (1.2),136.7,,,2021
 10.07,5,,Grand Prix Erciyes - Mimar Sinan ME (1.2),149.3,2,15,2021
 04.07,DSQ,,Kahramanmaraş Grand Prix Road Race ME (1.2),124.5,,,2021
@@ -10,7 +14,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.06,7,,National Championships Iran - ITT (NC),,,,2021
 27.06,2,,National Championships Iran - Road Race (NC),,10,30,2021
 01.03,110,,Grand Prix Manavgat - Side ME (1.2),147.5,,,2020
-29.02,DNF,,Grand Prix Velo Alanya ME (1.2),106,,,2020
+29.02,DNF,,Grand Prix Velo Alanya ME (1.2),106.0,,,2020
 02.11 » 10.11,,,Tour de Singkarak (2.2),,,,2019
 ,22,,Mountains classification,,,,2019
 ,6,,Points classification,,,,2019
@@ -29,8 +33,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,33,,General classification,,,,2019
 06.10,2,,Stage 5 - Sarein › Tabriz,188.9,12,5,2019
 05.10,32,37,Stage 4 - Tabriz › Sarein,198.2,,,2019
-04.10,49,43,Stage 3 - Urmia › Tabriz,163,,,2019
-03.10,3,2,Stage 2 - Aras › Khoy,180,7,3,2019
+04.10,49,43,Stage 3 - Urmia › Tabriz,163.0,,,2019
+03.10,3,2,Stage 2 - Aras › Khoy,180.0,7,3,2019
 02.10,14,3,Stage 1 - Tabriz › Aras,148.3,,,2019
 25.09 » 28.09,,,International Tour de Banyuwangi Ijen (2.2),,,,2019
 28.09,DNS,,Stage 4 - Purwohardo › Ijen,129.9,,,2019
@@ -46,15 +50,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.09 » 04.09,,,Tour of Xingtai (2.2),,,,2019
 ,2,,Points classification,,,,2019
 ,70,,General classification,,,,2019
-04.09,2,,Stage 3 - Guangzong › Xingtai,176,2,3,2019
-03.09,81,73,Stage 2 - Licheng Reservoir › Wangao Ancient Village ,206,,,2019
-02.09,40,40,Stage 1 - Xingtai › Zijinshan Jiuliwan Scenic Area ,145,,,2019
+04.09,2,,Stage 3 - Guangzong › Xingtai,176.0,2,3,2019
+03.09,81,73,Stage 2 - Licheng Reservoir › Wangao Ancient Village ,206.0,,,2019
+02.09,40,40,Stage 1 - Xingtai › Zijinshan Jiuliwan Scenic Area ,145.0,,,2019
 19.08 » 23.08,,,Tour of Indonesia (2.1),,,,2019
 ,12,,Points classification,,,,2019
 ,42,,General classification,,,,2019
 23.08,50,,Stage 5 - Gilimanuk › Gianyar,136.8,,,2019
 22.08,54,40,Stage 4 - Jember › Banyuwangi,147.3,,,2019
-21.08,12,26,Stage 3 - Kota Batu › Jember,193,,,2019
+21.08,12,26,Stage 3 - Kota Batu › Jember,193.0,,,2019
 20.08,36,24,Stage 2 - Madiun › Kota Batu,157.8,,,2019
 19.08,10,10,Stage 1 - Yogyakarta › Madiun,182.7,,,2019
 25.06,2,,National Championships Iran  U23 - ITT (NC),,,15,2019
@@ -70,22 +74,22 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.10,6,2,Stage 2 - Urmia › Arras Free Zone,209.4,3,,2018
 30.09,1,1,Stage 1 - Tabriz › Urmia,150.1,20,14,2018
 23.08,33,,Summer Asian Games - Road Race (JR),145.5,,,2018
-30.06,8,,National Championships Iran - ITT (NC),30,,3,2018
-29.06,5,,National Championships Iran - Road Race (NC),160,2,40,2018
+30.06,8,,National Championships Iran - ITT (NC),30.0,,3,2018
+29.06,5,,National Championships Iran - Road Race (NC),160.0,2,40,2018
 18.06 » 21.06,,,Tour of Mevlana (2.2),,,,2018
 ,1,,Points classification,,,,2018
 ,6,,General classification,,6,10,2018
 21.06,5,,Stage 4 - Konya › Konya,110.3,,,2018
 20.06,1,7,Stage 3 - Konya › Beyşehir,193.5,5,7,2018
 19.06,5,9,Stage 2 - Konya › Konya,140.4,,,2018
-18.06,11,11,Prologue - Konya › Konya,8,,,2018
-11.02,2,,Asian Cycling Championships U23 - Road Race (CC),156,55,55,2018
-09.02,6,,Asian Cycling Championships U23 - ITT (CC),34,,3,2018
+18.06,11,11,Prologue - Konya › Konya,8.0,,,2018
+11.02,2,,Asian Cycling Championships U23 - Road Race (CC),156.0,55,55,2018
+09.02,6,,Asian Cycling Championships U23 - ITT (CC),34.0,,3,2018
 08.10 » 13.10,,,Tour of Iran (Azarbaijan) (2.1),,,,2017
 ,18,,Youth classification,,,,2017
 ,24,,Mountains classification,,,,2017
 ,39,,General classification,,,,2017
-13.10,2,,Stage 6 - Tabriz › Tabriz,114,12,5,2017
+13.10,2,,Stage 6 - Tabriz › Tabriz,114.0,12,5,2017
 12.10,3,40,Stage 5 - Sarein › Tabriz,191.7,7,3,2017
 11.10,33,43,Stage 4 - Tabriz › Sarein,196.2,,,2017
 10.10,3,40,Stage 3 - Aras Free Zone › Tabriz,155.1,7,3,2017
@@ -95,27 +99,27 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,77,,General classification,,,,2017
 01.10,81,,Stage 2 - Almaty › Almaty,160.5,,,2017
 30.09,20,93,Stage 1 - Almaty › Almaty,171.2,,,2017
-02.07,4,,National Championships Iran - ITT (NC),35,,15,2017
-01.07,19,,National Championships Iran - Road Race (NC),160,,,2017
+02.07,4,,National Championships Iran - ITT (NC),35.0,,15,2017
+01.07,19,,National Championships Iran - Road Race (NC),160.0,,,2017
 01.03,3,,Asian Cycling Championships U23 - Road Race (CC),115.2,40,40,2017
 27.02,11,,Asian Cycling Championships U23 - ITT (CC),25.6,,,2017
-13.10,23,,World Championships U23 - Road Race (WC),166,,5,2016
+13.10,23,,World Championships U23 - Road Race (WC),166.0,,5,2016
 10.10,49,,World Championships U23 - ITT (WC),28.9,,,2016
 13.05 » 18.05,,,Tour of Iran (Azarbaijan) (2.1),,,,2016
 ,22,,Points classification,,,,2016
 ,29,,General classification,,,,2016
-18.05,6,,Stage 6 - Tabriz › Tabriz,114,3,,2016
+18.05,6,,Stage 6 - Tabriz › Tabriz,114.0,3,,2016
 17.05,17,30,Stage 5 - Sarein › Sahand,181.3,,,2016
 16.05,40,38,Stage 4 - Tabriz › Sarein,198.2,,,2016
 15.05,19,38,Stage 3 - Aras › Tabriz,139.9,,,2016
 14.05,37,41,Stage 2 - Urmia › Aras,209.4,,,2016
 13.05,30,31,Stage 1 - Tabriz › Urmia,162.4,,,2016
-09.05,3,,National Championships Iran - Road Race (NC),200,7,40,2016
-08.05,12,,National Championships Iran - ITT (NC),40,,,2016
-23.01,3,,Asian Cycling Championships U23 - Road Race (CC),119,40,40,2016
+09.05,3,,National Championships Iran - Road Race (NC),200.0,7,40,2016
+08.05,12,,National Championships Iran - ITT (NC),40.0,,,2016
+23.01,3,,Asian Cycling Championships U23 - Road Race (CC),119.0,40,40,2016
 16.06,1,,National Championships Iran MJ - Road Race (NC),,,,2015
 15.06,2,,National Championships Iran MJ - ITT (NC),,,,2015
 14.02,3,,Asian Continental Championships MJ - ITT (CC),21.8,14,,2015
-10.02,5,,Asian Cycling Championships MJ - Road Race (CC),90,4,,2015
+10.02,5,,Asian Cycling Championships MJ - Road Race (CC),90.0,4,,2015
 30.05,8,,Asian Cycling Championships - en ligne / ind. road race - MJ (CC),125.6,18,,2014
-28.05,9,,Asian Cycling Championships - c.l.m. ind. / ind. TT - MJ (CC),30,,,2014
+28.05,9,,Asian Cycling Championships - c.l.m. ind. / ind. TT - MJ (CC),30.0,,,2014

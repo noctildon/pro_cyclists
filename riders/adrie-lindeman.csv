@@ -1,9 +1,24 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+24.10,DNF,,Ronde van Drenthe (1.1) ,188.5,,,2021
+16.10,56,,Craft Ster van Zwolle (1.2) ,194.5,,,2021
+02.10,DNF,,Classic Loire Atlantique (1.1) ,182.8,,,2021
+01.10,DNF,,La Route Adélie de Vitré (1.1) ,197.8,,,2021
+18.09,73,,PWZ Zuidenveld Tour (1.2) ,200,,,2021
+12.09,DNF,,Antwerp Port Epic / Sels Trophy (1.1) ,183.4,,,2021
+30.07 » 02.08,,,Kreiz Breizh Elites (2.2) ,,,,2021
+01.08,DNF,,Stage 3 - Ploërdut › Carhaix ,180.5,,,2021
+31.07,137,144,Stage 2 - Calanhel › Plouray ,189.9,,,2021
+30.07,2,160,Stage 1 (TTT) - Ploumagoar › Ploumagoar ,12.5,4,0.5,2021
+20.06,DNF,,National Championships Netherlands - Road Race (NC) ,182.5,,,2021
+06.06,108,,Elfstedenronde (1.1) ,193.1,,,2021
+05.06,DNF,,Dwars door het Hageland (1.Pro) ,177,,,2021
+24.05,DNF,,Ronde van Limburg (1.1) ,199.8,,,2021
+07.03,77,,Grote Prijs Jean-Pierre Monseré (1.1) ,202.1,,,2021
 24.10,DNF,,Ronde van Drenthe (1.1),188.5,,,2021
 16.10,56,,Craft Ster van Zwolle (1.2),194.5,,,2021
 02.10,DNF,,Classic Loire Atlantique (1.1),182.8,,,2021
 01.10,DNF,,La Route Adélie de Vitré (1.1),197.8,,,2021
-18.09,73,,PWZ Zuidenveld Tour (1.2),200,,,2021
+18.09,73,,PWZ Zuidenveld Tour (1.2),200.0,,,2021
 12.09,DNF,,Antwerp Port Epic / Sels Trophy (1.1),183.4,,,2021
 30.07 » 02.08,,,Kreiz Breizh Elites (2.2),,,,2021
 01.08,DNF,,Stage 3 - Ploërdut › Carhaix,180.5,,,2021
@@ -11,30 +26,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 30.07,2,160,Stage 1 (TTT) - Ploumagoar › Ploumagoar,12.5,4,0.5,2021
 20.06,DNF,,National Championships Netherlands - Road Race (NC),182.5,,,2021
 06.06,108,,Elfstedenronde (1.1),193.1,,,2021
-05.06,DNF,,Dwars door het Hageland (1.Pro),177,,,2021
+05.06,DNF,,Dwars door het Hageland (1.Pro),177.0,,,2021
 24.05,DNF,,Ronde van Limburg (1.1),199.8,,,2021
 07.03,77,,Grote Prijs Jean-Pierre Monseré (1.1),202.1,,,2021
 08.03,48,,Dorpenomloop Rucphen (1.2),201.4,,,2020
 29.02,53,,Craft Ster van Zwolle (1.2),179.1,,,2020
 11.05,27,,PWZ Zuidenveld Tour (1.2),197.3,,,2019
-04.05,56,,Ronde van Overijssel (1.2),200,,,2019
+04.05,56,,Ronde van Overijssel (1.2),200.0,,,2019
 26.08,72,,Ronde van Midden Nederland (1.2),191.6,,,2018
 13.05,78,,Profronde van Noord-Holland (1.2),193.4,,,2018
-12.05,17,,Ronde van Overijssel (1.2),199,,,2018
+12.05,17,,Ronde van Overijssel (1.2),199.0,,,2018
 28.04,31,,PWZ Zuidenveld Tour (1.2),197.3,,,2018
 11.03,86,,Rabobank Dorpenomloop Rucphen (1.2),187.5,,,2018
 03.03,30,,Ster van Zwolle (NAT),179.1,,,2018
-03.09,99,,Kernen Omloop Echt-Susteren (1.2),191,,,2017
+03.09,99,,Kernen Omloop Echt-Susteren (1.2),191.0,,,2017
 09.07,84,,Midden Brabant-Poort Omloop (1.2),197.2,,,2017
 14.05,63,,Profronde van Noord-Holland (1.2),199.6,,,2017
-29.04,57,,ZODC Zuidenveld Tour (1.2),200,,,2017
-22.04,DNF,,Arno Wallaard Memorial (1.2),184,,,2017
+29.04,57,,ZODC Zuidenveld Tour (1.2),200.0,,,2017
+22.04,DNF,,Arno Wallaard Memorial (1.2),184.0,,,2017
 04.03,91,,Craft Ster van Zwolle (NAT),,,,2017
-04.09,DNF,,Kernen Omloop Echt-Susteren (1.2),197,,,2016
-14.08,DNF,,KOGA Slag om Norg (1.2),204,,,2016
-14.05,67,,Ronde van Overijssel (1.2),199,,,2016
-30.04,19,,ZODC Zuidenveld Tour (1.2),200,,,2016
-05.03,115,,Craft Ster van Zwolle (1.2),177,,,2016
+04.09,DNF,,Kernen Omloop Echt-Susteren (1.2),197.0,,,2016
+14.08,DNF,,KOGA Slag om Norg (1.2),204.0,,,2016
+14.05,67,,Ronde van Overijssel (1.2),199.0,,,2016
+30.04,19,,ZODC Zuidenveld Tour (1.2),200.0,,,2016
+05.03,115,,Craft Ster van Zwolle (1.2),177.0,,,2016
 29.08 » 30.08,,,Ronde van Midden-Nederland (2.2),,,,2015
 ,141,,General classification,,,,2015
 30.08,133,,Stage 2 - Utrecht › Utrecht,203.6,,,2015
@@ -52,20 +67,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.05,71,,Ronde van Overijssel (1.2),200.7,,,2015
 28.02,56,,Ster van Zwolle (1.2),177.3,,,2015
 28.09,99,,Gooikse Pijl (1.2),197.9,,,2014
-21.09,DNF,,Rabo Baronie Breda Classic (1.2),200,,,2014
-19.08,98,,GP Stad Zottegem (1.1),189,,,2014
-29.06,DNF,,National Championships Netherlands - Road Race (NC),243,,,2014
+21.09,DNF,,Rabo Baronie Breda Classic (1.2),200.0,,,2014
+19.08,98,,GP Stad Zottegem (1.1),189.0,,,2014
+29.06,DNF,,National Championships Netherlands - Road Race (NC),243.0,,,2014
 08.06,110,,Memorial Philippe Van Coningsloo (1.2),180.8,,,2014
-25.05,116,,Simac Omloop der Kempen (1.2),200,,,2014
+25.05,116,,Simac Omloop der Kempen (1.2),200.0,,,2014
 11.05,91,,Circuit de Wallonie Ville de Fleurus (1.2),176.5,,,2014
-04.05,DNF,,Destination Thy (1.2),180,,,2014
+04.05,DNF,,Destination Thy (1.2),180.0,,,2014
 03.05,68,,Himmerland Rundt \'Made in Aars\' (1.2),189.5,,,2014
-27.04,DNF,,Rutland - Melton International CiCLE Classic (1.2),179,,,2014
-19.04,69,,Arno Wallaard Memorial (1.2),192,,,2014
+27.04,DNF,,Rutland - Melton International CiCLE Classic (1.2),179.0,,,2014
+19.04,69,,Arno Wallaard Memorial (1.2),192.0,,,2014
 16.03,DNF,,Energiewacht Dwars door Drenthe (1.1),202.7,,,2014
 15.03,DNF,,Albert Achterhes Pet Ronde van Drenthe (1.1),204.7,,,2014
 09.03,73,,Rabobank Dorpenomloop Rucphen (1.2),187.2,,,2014
-08.03,65,,Ster van Zwolle (1.2),178,,,2014
+08.03,65,,Ster van Zwolle (1.2),178.0,,,2014
 20.08,DNF,,GP Stad Zottegem (1.1),181.7,,,2013
 26.06 » 29.06,,,Course Cycliste de Solidarnosc et des Champions Olympiques (2.1),,,,2013
 ,81,,General classification,,,,2013
@@ -77,23 +92,23 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.06,72,,Ronde van Zeeland Seaports (1.1),197.2,,,2013
 04.05,78,,Ronde van Overijssel (1.2),202.5,,,2013
 28.04,52,,Zuid Oost Drenthe Classic II (1.2),209.1,,,2013
-27.04,21,,Zuid Oost Drenthe Classic I (1.2),180,,,2013
-20.04,8,,Arno Wallaard Memorial (1.2),184,,3,2013
+27.04,21,,Zuid Oost Drenthe Classic I (1.2),180.0,,,2013
+20.04,8,,Arno Wallaard Memorial (1.2),184.0,,3,2013
 09.03,DNF,,Albert Achterhes Pet Ronde van Drenthe (1.1),195.5,,,2013
 09.10,128,,Nationale Sluitingprijs Putte-Kapellen (1.1),183.6,,,2012
 02.09,97,,Kernen Omloop Echt-Susteren (1.2),186.8,,,2012
 26.08,99,,Ronde van Midden-Nederland (1.2),199.4,,,2012
 21.08,114,,GP Stad Zottegem (1.1),181.7,,,2012
-05.08,103,,Antwerpse Havenpijl (1.2),173,,,2012
-11.07,117,,GP van de stad Geel (1.2),155,,,2012
+05.08,103,,Antwerpse Havenpijl (1.2),173.0,,,2012
+11.07,117,,GP van de stad Geel (1.2),155.0,,,2012
 24.06,DNF,,National Championships Netherlands - Road Race (NC),228.8,,,2012
 14.06 » 17.06,,,Ster ZLM Toer GP Jan van Heeswijk (2.1),,,,2012
 ,136,,General classification,,,,2012
 17.06,109,136,Stage 4 - Schijndel › Boxtel,163.5,,,2012
-16.06,138,139,Stage 3 - Verviers › La Gileppe,189,,,2012
-15.06,151,148,Stage 2 - Schimmert › Schimmert,167,,,2012
-14.06,132,134,Stage 1 - Eindhoven › Sittard-Geleen,151,,,2012
-09.06,DNF,,Ronde van Zeeland Seaports (1.1),201,,,2012
+16.06,138,139,Stage 3 - Verviers › La Gileppe,189.0,,,2012
+15.06,151,148,Stage 2 - Schimmert › Schimmert,167.0,,,2012
+14.06,132,134,Stage 1 - Eindhoven › Sittard-Geleen,151.0,,,2012
+09.06,DNF,,Ronde van Zeeland Seaports (1.1),201.0,,,2012
 14.05 » 19.05,,,Royal Smilde Olympia’s Tour (2.2),,,,2012
 ,59,,General classification,,,,2012
 19.05,94,,Stage 6 - Reuver › Reuver,96.3,,,2012
@@ -105,13 +120,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.05,121,121,Prologue - Zandvoort › Zandvoort,3.6,,,2012
 04.05 » 05.05,,,Ronde van Overijssel (2.2),,,,2012
 ,115,,General classification,,,,2012
-05.05,115,,Stage 1 - Rijssen › Rijssen,202,,,2012
+05.05,115,,Stage 1 - Rijssen › Rijssen,202.0,,,2012
 04.05,157,157,Prologue - Holten › Holten,2.8,,,2012
 22.04,21,,Ronde van Noord-Holland (1.2),204.9,,,2012
 11.03,155,,Dorpenomloop Rucphen (1.2),192.2,,,2012
 09.03,76,,Dwars door Drenthe (1.1),204.8,,,2012
 25.02,51,,Ster van Zwolle (1.2),172.2,,,2012
-04.09,83,,Kernen Omloop Echt-Susteren (1.2),177,,,2011
+04.09,83,,Kernen Omloop Echt-Susteren (1.2),177.0,,,2011
 16.05 » 21.05,,,Royal Smilde Olympia’s Tour (2.2),,,,2011
 21.05,DNF,,Stage 6 - Reuver › Buchten,223.3,,,2011
 20.05,89,,Stage 5 (ITT) - Reuver › Reuver,12.1,,,2011
@@ -123,6 +138,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 26.02,64,,Ster van Zwolle (1.2),172.2,,,2011
 06.03,21,,Ster van Zwolle (),170.3,,,2010
 23.05 » 25.05,,,Int. Junioren Driedaagse van Axel (SC),,,,2003
-24.05,112,118,Stage 3 - Axel › Axel,108,,,2003
+24.05,112,118,Stage 3 - Axel › Axel,108.0,,,2003
 24.05,122,,Stage 2 (ITT) - Zuiddorpe › Zuiddorpe,10.5,,,2003
 23.05,141,141,Stage 1 - Terneuzen › Philippine,102.5,,,2003

@@ -1,4 +1,22 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,2,,National Championships Ireland - Road Race (NC) ,,10,75,2022
+10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro) ,,,,2022
+,111,,General classification ,,,,2022
+16.04,144,111,Stage 7 - Gelibolu › Tekirdağ ,131.3,,,2022
+15.04,140,98,Stage 6 - Edremit (Akçay) › Eceabat (57.Alay Şehitliği) ,201.5,,,2022
+14.04,118,94,Stage 5 - Manisa › Ayvalık ,186.1,,,2022
+13.04,136,97,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park) ,146.2,,,2022
+12.04,114,86,Stage 3 - Çeşme › İzmir (Karşıyaka) ,117.9,,,2022
+11.04,115,88,Stage 2 - Selçuk (Efes) › Alaçatı ,156.4,,,2022
+10.04,102,102,Stage 1 - Bodrum › Kuşadası ,202,,,2022
+20.03,30,,Grand Prix Gündoğmuş (1.2) ,100.5,,,2022
+06.03,19,,Grand Prix Mediterrennean (1.2) ,98,,,2022
+10.02 » 13.02,,,Tour of Antalya (2.1) ,,,,2022
+,26,,General classification ,,,,2022
+13.02,68,,Stage 4 - Antalya › Antalya ,156.5,,,2022
+12.02,28,27,Stage 3 - Aspendos › Termessos ,110.6,,,2022
+11.02,93,83,Stage 2 - Kemer › Antalya ,180.3,,,2022
+10.02,93,93,Stage 1 - Side › Antalya ,142.4,,,2022
 10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro),,,,2022
 ,111,,General classification,,,,2022
 16.04,144,111,Stage 7 - Gelibolu › Tekirdağ,131.3,,,2022
@@ -7,9 +25,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.04,136,97,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park),146.2,,,2022
 12.04,114,86,Stage 3 - Çeşme › İzmir (Karşıyaka),117.9,,,2022
 11.04,115,88,Stage 2 - Selçuk (Efes) › Alaçatı,156.4,,,2022
-10.04,102,102,Stage 1 - Bodrum › Kuşadası,202,,,2022
+10.04,102,102,Stage 1 - Bodrum › Kuşadası,202.0,,,2022
 20.03,30,,Grand Prix Gündoğmuş (1.2),100.5,,,2022
-06.03,19,,Grand Prix Mediterrennean (1.2),98,,,2022
+06.03,19,,Grand Prix Mediterrennean (1.2),98.0,,,2022
 10.02 » 13.02,,,Tour of Antalya (2.1),,,,2022
 ,26,,General classification,,,,2022
 13.02,68,,Stage 4 - Antalya › Antalya,156.5,,,2022
@@ -21,25 +39,25 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.12,20,,Stage 6 - Satun › Hat Yai Park,159.4,,,2021
 05.12,64,38,Stage 5 - Trang › Satun,156.6,,,2021
 04.12,57,36,Stage 4 - Trang › Trang,143.7,,,2021
-03.12,28,35,Stage 3 - Phatthalung › Trang,146,,,2021
-02.12,38,47,Stage 2 - Phatthalung › Phatthalung,228,,,2021
-01.12,46,49,Stage 1 - Hat Yai Park › Phatthalung,145,,,2021
+03.12,28,35,Stage 3 - Phatthalung › Trang,146.0,,,2021
+02.12,38,47,Stage 2 - Phatthalung › Phatthalung,228.0,,,2021
+01.12,46,49,Stage 1 - Hat Yai Park › Phatthalung,145.0,,,2021
 03.10,DNF,,National Championships Ireland - Road Race (NC),160.8,,,2021
 09.09 » 12.09,,,Tour de Serbie (2.2),,,,2021
 ,37,,Points classification,,,,2021
 ,9,,General classification,,2,3,2021
 12.09,33,,Stage 4 - Prijepolje › Čačak,156.5,,,2021
 11.09,16,9,Stage 3 - Čačak › Prijepolje,153.3,,,2021
-10.09,76,15,Stage 2 - Mionica › Čačak,144,,,2021
+10.09,76,15,Stage 2 - Mionica › Čačak,144.0,,,2021
 09.09,15,15,Stage 1 - Požarevac › Mionica,147.6,,,2021
 31.08 » 05.09,,,Turul Romaniei (2.1),,,,2021
 05.09,62,,Stage 5 - Bucharest › Bucharest,98.6,,,2021
 ,62,,General classification,,,,2021
 04.09,77,66,Stage 4 - Brasov › Bucharest,159.3,,,2021
-03.09,90,67,Stage 3 - Sibiu › Poiana Brașov,187,,,2021
+03.09,90,67,Stage 3 - Sibiu › Poiana Brașov,187.0,,,2021
 02.09,60,60,Stage 2 - Deva › Păltiniș,154.9,,,2021
 01.09,64,38,Stage 1 - Timișoara › Deva,201.5,,,2021
-31.08,37,37,Prologue - Timișoara › Timișoara,4,,,2021
+31.08,37,37,Prologue - Timișoara › Timișoara,4.0,,,2021
 18.07,DNS,,Grand Prix Develi ME (1.2),130.8,,,2021
 17.07,DNS,,Grand Prix Velo Erciyes ME (1.2),139.9,,,2021
 03.07 » 06.07,,,Sibiu Cycling Tour (2.1),,,,2021
@@ -59,7 +77,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,20,,Mountains classification,,,,2021
 ,87,,General classification,,,,2021
 18.04,99,,Stage 8 - Bodrum › Kusadasi,160.3,,,2021
-17.04,111,91,Stage 7 - Marmaris › Turgutreis,180,,,2021
+17.04,111,91,Stage 7 - Marmaris › Turgutreis,180.0,,,2021
 16.04,122,87,Stage 6 - Fethiye › Marmaris,129.1,,,2021
 15.04,77,77,Stage 5 - Kemer › Elmalı (Göğübeli),160.3,,,2021
 14.04,154,148,Stage 4 - Alanya › Kemer,184.4,,,2021
@@ -77,7 +95,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.02,34,,Grand Prix Velo Alanya ME (1.2),104.5,,,2021
 20.02,159,,Grand Prix Velo Manavgat ME (1.2),147.5,,,2021
 06.02,44,,Grand Prix Alanya (1.2),147.8,,,2021
-15.02,DNF,,Malaysian International Classic Race (1.1),159,,,2020
+15.02,DNF,,Malaysian International Classic Race (1.1),159.0,,,2020
 07.02 » 14.02,,,PETRONAS Le Tour de Langkawi (2.Pro),,,,2020
 ,53,,Points classification,,,,2020
 ,56,,General classification,,,,2020
@@ -92,7 +110,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 30.06,DNF,,National Championships Ireland - Road Race (NC),163.3,,,2019
 26.06,DNF,,Halle Ingooigem (1.1),200.9,,,2019
 23.06,DNF,,Elfstedenronde (1.1),196.8,,,2019
-22.06,DNF,,Heylen Vastgoed Heistse Pijl (1.1),194,,,2019
+22.06,DNF,,Heylen Vastgoed Heistse Pijl (1.1),194.0,,,2019
 16.06,DNF,,Midden-Brabant Poort Omloop (1.2),197.2,,,2019
 10.06,DNF,,Ronde van Limburg (1.1),201.1,,,2019
 02.06,DNF,,Rund um Köln (1.1),206.6,,,2019
@@ -106,7 +124,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,106,,General classification,,,,2019
 19.05,106,,Stage 3 - Châteauneuf-en-Thymerais › Chartres,192.2,,,2019
 18.05,104,105,Stage 2 - Maintenon › Authon-du-Perche,188.6,,,2019
-17.05,113,113,Stage 1 - Dreux › Châteaudun,124,,,2019
+17.05,113,113,Stage 1 - Dreux › Châteaudun,124.0,,,2019
 05.05,DNF,,Entre Brenne et Montmorillonnais (1.2),183.3,,,2019
 22.04,70,,Tro-Bro Léon (1.1),205.4,,,2019
 20.04,108,,Arno Wallaard Memorial (1.2),183.9,,,2019
@@ -114,7 +132,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.04,DNF,,Stage 2 - Rocroi › Monthermé,157.7,,,2019
 12.04,126,127,Stage 1 - Neuvizy › Launois-sur-Vence,188.7,,,2019
 31.03,DNF,,Cholet - Pays de la Loire (1.1),203.2,,,2019
-17.03,DNF,,Paris-Troyes (1.2),184,,,2019
+17.03,DNF,,Paris-Troyes (1.2),184.0,,,2019
 03.02,63,,Trofeo Palma (1.1),159.6,,,2019
 02.02,DNF,,Trofeo de Tramuntana: Soller - Deia (1.1),179.3,,,2019
 01.02,DNF,,Trofeo Andratx - Lloseta (1.1),172.2,,,2019
@@ -123,19 +141,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,2,,Youth classification,,,,2018
 ,13,,General classification,,8,5,2018
 14.10,42,,Stage 7 - Wuxing › Changxing,137.5,,,2018
-13.10,47,13,Stage 6 - Wujiang › Wujiang,116,,,2018
+13.10,47,13,Stage 6 - Wujiang › Wujiang,116.0,,,2018
 12.10,45,10,Stage 5 - Nantong › Haimen,146.5,,,2018
 11.10,34,8,Stage 4 - Jiangyan › Jiangyan,98.6,,,2018
 10.10,53,8,Stage 3 - Jinhu › Jinhu,88.5,,,2018
 09.10,25,8,Stage 2 - Jurong › Maoshan,130.6,,,2018
-08.10,56,11,Stage 1 - Wuxi › Wuxi,85,,,2018
+08.10,56,11,Stage 1 - Wuxi › Wuxi,85.0,,,2018
 07.10,11,11,Prologue - Wuxi › Wuxi,5.5,,,2018
 03.09 » 05.09,,,Tour of Xingtai (2.2),,,,2018
 ,16,,Points classification,,,,2018
 ,43,,General classification,,,,2018
-05.09,111,,Stage 3 - Xingtai › Xingtai,150,,,2018
-04.09,81,39,Stage 2 - Xingtai › Lincheng,125,,,2018
-03.09,35,35,Stage 1 - Xingtai › Yegoumen Réservoir,123,,,2018
+05.09,111,,Stage 3 - Xingtai › Xingtai,150.0,,,2018
+04.09,81,39,Stage 2 - Xingtai › Lincheng,125.0,,,2018
+03.09,35,35,Stage 1 - Xingtai › Yegoumen Réservoir,123.0,,,2018
 06.08 » 12.08,,,The Larry H.Miller Tour of Utah (2.HC),,,,2018
 ,26,,Youth classification,,,,2018
 ,32,,Points classification,,,,2018
@@ -143,18 +161,18 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.08,79,,Stage 6 - Park City › Park City,122.3,,,2018
 11.08,65,94,Stage 5 - Canyons Village  › Snowbird Ski and Summer ,157.7,,,2018
 10.08,76,97,Stage 4 - Salt Lake City › Salt Lake City,109.4,,,2018
-09.08,88,101,Stage 3 - Antelope Island › Layton City,188,,,2018
+09.08,88,101,Stage 3 - Antelope Island › Layton City,188.0,,,2018
 08.08,108,96,Stage 2 - Payson City › Payson City,138.4,,,2018
 07.08,91,94,Stage 1 - Cedar City › Cedar City,162.5,,,2018
 06.08,55,55,Prologue - St. George › St. George,5.31,,,2018
 08.07,28,,White Spot / Delta Road Race (1.2),155.46,,,2018
 13.06 » 17.06,,,Tour de Beauce (2.2),,,,2018
 17.06,DNF,,Stage 5 - Saint-Georges › Saint-Georges,122.4,,,2018
-16.06,82,68,Stage 4 - Québec › Québec,70,,,2018
-15.06,97,71,Stage 3b - Saint-Georges › Notre-Dame-des-Pins,77,,,2018
+16.06,82,68,Stage 4 - Québec › Québec,70.0,,,2018
+15.06,97,71,Stage 3b - Saint-Georges › Notre-Dame-des-Pins,77.0,,,2018
 15.06,110,73,Stage 3a (ITT) - Saint-Prosper › Saint-Prosper,19.4,,,2018
-14.06,65,63,Stage 2 - Lac-Mégantic › Lac-Mégantic,169,,,2018
-13.06,47,50,Stage 1 - Saint-Georges › Saint-Georges,177,,,2018
+14.06,65,63,Stage 2 - Lac-Mégantic › Lac-Mégantic,169.0,,,2018
+13.06,47,50,Stage 1 - Saint-Georges › Saint-Georges,177.0,,,2018
 18.04 » 22.04,,,Tour of the Gila (2.2),,,,2018
 ,13,,Youth classification,,,,2018
 ,19,,Mountains classification,,,,2018
@@ -162,9 +180,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,40,,General classification,,,,2018
 22.04,43,,Stage 5 - Silver City › Pinos Altos,161.9,,,2018
 21.04,78,22,Stage 4 - Silver City › Silver City,69.5,,,2018
-20.04,39,20,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2018
+20.04,39,20,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2018
 19.04,3,11,Stage 2 - Fort Bayard › Fort Bayard,120.7,1,1,2018
-18.04,30,30,Stage 1 - Silver City › Mogollon,148,,,2018
+18.04,30,30,Stage 1 - Silver City › Mogollon,148.0,,,2018
 19.07 » 23.07,,,Cascade Cycling Classic (2.2),,,,2017
 ,9,,Youth classification,,,,2017
 ,34,,General classification,,,,2017
@@ -173,14 +191,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.07,23,52,Stage 3 - Bend › Kapka Butte Snow Park,172.7,,,2017
 20.07,97,71,Stage 2 (ITT) - Bend › Bend,22.9,,,2017
 19.07,73,73,Stage 1 - Princeville ›  Dee Wright Observatory,172.9,,,2017
-25.06,23,,National Championships Ireland - Road Race (NC),179,,,2017
+25.06,23,,National Championships Ireland - Road Race (NC),179.0,,,2017
 21.05 » 28.05,,,An Post Rás (2.2),,,,2017
 28.05,DNS,,Stage 8 - Ardee › Skerries,129.4,,,2017
 27.05,DNF,,Stage 7 - Donegal › Ardee,167.3,,,2017
 26.05,112,119,Stage 6 - Dungloe › Donegal,132.1,,,2017
 25.05,64,119,Stage 5 - Buncrana › Dungloe,181.2,,,2017
 24.05,158,145,Stage 4 - Bundoran › Buncrana,151.8,,,2017
-23.05,157,139,Stage 3 - Newport › Bundoran,149,,,2017
+23.05,157,139,Stage 3 - Newport › Bundoran,149.0,,,2017
 22.05,157,141,Stage 2 - Longford › Newport,142.9,,,2017
 21.05,149,149,Stage 1 - Dublin › Longford,146.1,,,2017
 19.04 » 23.04,,,Tour of the Gila (2.2),,,,2017
@@ -188,6 +206,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,102,,General classification,,,,2017
 23.04,84,,Stage 5 - Silver City › Pinos Altos,161.9,,,2017
 22.04,90,112,Stage 4 - Silver City › Silver City,69.5,,,2017
-21.04,98,114,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2017
+21.04,98,114,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2017
 20.04,77,113,Stage 2 - Fort Bayard › Fort Bayard,120.7,,,2017
 19.04,150,150,Stage 1 - Silver City › Whitewater Mesa,143.4,,,2017

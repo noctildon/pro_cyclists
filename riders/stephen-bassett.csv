@@ -1,11 +1,62 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+06.06,DNF,,Ronde van Limburg (1.1) ,202.6,,,2022
+04.06,DNF,,Heylen Vastgoed Heistse Pijl (1.1) ,192.8,,,2022
+24.05 » 29.05,,,Tour of Norway (2.Pro) ,,,,2022
+,14,,Mountains classification ,,,,2022
+,48,,Points classification ,,,,2022
+,62,,General classification ,,,,2022
+29.05,52,,Stage 6 - Stavanger › Stavanger ,149.3,,,2022
+28.05,65,71,Stage 5 - Flekkefjord › Sandnes ,181.7,,,2022
+27.05,73,74,Stage 4 - Hovden › Kristiansand ,232.1,,,2022
+26.05,74,75,Stage 3 - Gol › Stavsro/Gaustatoppen ,175.8,,,2022
+25.05,93,78,Stage 2 - Ulvik › Geilo ,123.8,,,2022
+24.05,87,74,Stage 1 - Bergen › Voss  127k,173.6,,,2022
+15.05,DNF,,Tro-Bro Léon (1.Pro) ,207.8,,,2022
+03.05 » 08.05,,,4 Jours de Dunkerque / Grand Prix des Hauts de France (2.Pro) ,,,,2022
+,63,,General classification ,,,,2022
+08.05,74,,Stage 6 - Ardres › Dunkerque ,182.9,,,2022
+07.05,66,61,Stage 5 - Roubaix › Cassel ,183.7,,,2022
+06.05,68,85,Stage 4 - Mazingarbe › Aire-sur-la-Lys ,170.8,,,2022
+05.05,94,85,Stage 3 - Péronne › Mont-Saint-Éloi ,170,,,2022
+04.05,80,81,Stage 2 - Béthune › Maubeuge ,181.5,,,2022
+03.05,66,66,Stage 1 - Dunkerque › Aniche ,161.1,,,2022
+12.04 » 15.04,,,Giro di Sicilia - Tour of Sicily (2.1) ,,,,2022
+,69,,General classification ,,,,2022
+15.04,76,,Stage 4 - Ragalna › Etna ,140,,,2022
+14.04,76,70,Stage 3 - Realmonte › Piazza Armerina ,171,,,2022
+13.04,73,70,Stage 2 - Palma di Montechiaro › Caltanissetta ,152,,,2022
+12.04,64,65,Stage 1 - Milazzo › Bagheria ,199,,,2022
+02.04,100,,Gran Premio Miguel Indurain (1.Pro)  127k,190,,,2022
+27.03,DNF,,GP Industria  (1.Pro) ,192.2,,,2022
+20.03,DNF,,Per Sempre Alfredo (1.1) ,172.7,,,2022
+24.02 » 27.02,,,Gran Camiño (2.1) ,,,,2022
+,16,,Points classification ,,,,2022
+,76,,General classification ,,,,2022
+27.02,33,,Stage 4 (ITT) - Sarria  › Sarria  ,15.8,,,2022
+26.02,62,78,Stage 3 - Maceda  › Luintra ,148.4,,,2022
+25.02,80,80,Stage 2 - Bertamiráns  › Mirador do Ézaro ,177.6,,,2022
+24.02,9,15,Stage 1 - O Porriño › Vigo ,165,,,2022
+16.02 » 20.02,,,Vuelta a Andalucia Ruta Ciclista Del Sol (2.Pro) ,,,,2022
+18.02,DNS,,Stage 3 - Lucena › Otura ,153.2,,,2022
+17.02,103,84,Stage 2 - Archidona › Alcalá la Real ,150.6,,,2022
+16.02,2,2,Stage 1 - Ubrique › Iznájar  184k,200.7,18,10,2022
+14.02,38,,Clásica Jaén Paraiso Interior (1.1) ,187.8,,,2022
+13.02,21,,Clasica de Almeria (1.Pro) ,188.2,5,5,2022
+12.02,37,,Vuelta Ciclista a la Region de Murcia Costa Calida (1.1) ,183.2,,,2022
+02.02 » 06.02,,,Volta a la Comunitat Valenciana (2.Pro) ,,,,2022
+,100,,General classification ,,,,2022
+06.02,29,,Stage 5 - Paterna › Valencia ,92,,,2022
+05.02,17,103,Stage 4 - Orihuela › Torrevieja  ,193.1,,,2022
+04.02,100,116,Stage 3 - Alicante › Antenas del Maigmó ,155.1,,,2022
+03.02,121,130,Stage 2 - Bétera › Torrent ,171.5,,,2022
+02.02,115,115,Stage 1 - Les Alqueries › Torralba del Pinar ,166.7,,,2022
 12.04 » 15.04,,,Giro di Sicilia - Tour of Sicily (2.1),,,,2022
 ,69,,General classification,,,,2022
-15.04,76,,Stage 4 - Ragalna › Etna,140,,,2022
-14.04,76,70,Stage 3 - Realmonte › Piazza Armerina,171,,,2022
-13.04,73,70,Stage 2 - Palma di Montechiaro › Caltanissetta,152,,,2022
-12.04,64,65,Stage 1 - Milazzo › Bagheria,199,,,2022
-02.04,100,,Gran Premio Miguel Indurain (1.Pro),190,,,2022
+15.04,76,,Stage 4 - Ragalna › Etna,140.0,,,2022
+14.04,76,70,Stage 3 - Realmonte › Piazza Armerina,171.0,,,2022
+13.04,73,70,Stage 2 - Palma di Montechiaro › Caltanissetta,152.0,,,2022
+12.04,64,65,Stage 1 - Milazzo › Bagheria,199.0,,,2022
+02.04,100,,Gran Premio Miguel Indurain (1.Pro),190.0,,,2022
 27.03,DNF,,GP Industria  (1.Pro),192.2,,,2022
 20.03,DNF,,Per Sempre Alfredo (1.1),172.7,,,2022
 24.02 » 27.02,,,Gran Camiño (2.1),,,,2022
@@ -14,7 +65,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.02,33,,Stage 4 (ITT) - Sarria  › Sarria ,15.8,,,2022
 26.02,62,78,Stage 3 - Maceda  › Luintra,148.4,,,2022
 25.02,80,80,Stage 2 - Bertamiráns  › Mirador do Ézaro,177.6,,,2022
-24.02,9,15,Stage 1 - O Porriño › Vigo,165,,,2022
+24.02,9,15,Stage 1 - O Porriño › Vigo,165.0,,,2022
 16.02 » 20.02,,,Vuelta a Andalucia Ruta Ciclista Del Sol (2.Pro),,,,2022
 18.02,DNS,,Stage 3 - Lucena › Otura,153.2,,,2022
 17.02,103,84,Stage 2 - Archidona › Alcalá la Real,150.6,,,2022
@@ -24,17 +75,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.02,37,,Vuelta Ciclista a la Region de Murcia Costa Calida (1.1),183.2,,,2022
 02.02 » 06.02,,,Volta a la Comunitat Valenciana (2.Pro),,,,2022
 ,100,,General classification,,,,2022
-06.02,29,,Stage 5 - Paterna › Valencia,92,,,2022
+06.02,29,,Stage 5 - Paterna › Valencia,92.0,,,2022
 05.02,17,103,Stage 4 - Orihuela › Torrevieja ,193.1,,,2022
 04.02,100,116,Stage 3 - Alicante › Antenas del Maigmó,155.1,,,2022
 03.02,121,130,Stage 2 - Bétera › Torrent,171.5,,,2022
 02.02,115,115,Stage 1 - Les Alqueries › Torralba del Pinar,166.7,,,2022
 16.10,DNF,,Grand Prix du Morbihan (1.Pro),176.9,,,2021
-07.10,77,,Paris - Bourges (1.1),198,,,2021
+07.10,77,,Paris - Bourges (1.1),198.0,,,2021
 02.10,DNF,,Classic Loire Atlantique (1.1),182.8,,,2021
 29.09,123,,Eurométropole Tour (1.Pro),177.6,,,2021
 26.09,63,,Classique Paris-Chauny (1.1),205.3,,,2021
-23.09,DNF,,Omloop van het Houtland Middelkerke-Lichtervelde (1.1),190,,,2021
+23.09,DNF,,Omloop van het Houtland Middelkerke-Lichtervelde (1.1),190.0,,,2021
 21.09,DNF,,Grand Prix de Denain - Porte du Hainaut (1.Pro),200.3,,,2021
 17.09,114,,Kampioenschap van Vlaanderen (1.1),195.3,,,2021
 04.09,DNF,,Tour du Jura Cycliste (1.1),181.75,,,2021
@@ -72,19 +123,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,71,,General classification,,,,2021
 18.04,51,,Stage 5 - Paterna › Valencia,91.2,,,2021
 17.04,93,71,Stage 4 (ITT) - Xilxes › Playa Almenara,14.3,,,2021
-16.04,61,71,Stage 3 - Torrent › Alto de la Reina,165,,,2021
-15.04,108,68,Stage 2 - Alicante › Alicante,179,,,2021
+16.04,61,71,Stage 3 - Torrent › Alto de la Reina,165.0,,,2021
+15.04,108,68,Stage 2 - Alicante › Alicante,179.0,,,2021
 14.04,65,65,Stage 1 - Elche › Ondara,168.9,,,2021
-04.04,DNF,,La Roue Tourangelle Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),204,,,2021
+04.04,DNF,,La Roue Tourangelle Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),204.0,,,2021
 28.03,38,,Cholet - Pays de la Loire (1.1),201.8,,,2021
-17.03,DNF,,Danilith Nokere Koerse ME (1.Pro),195,,,2021
+17.03,DNF,,Danilith Nokere Koerse ME (1.Pro),195.0,,,2021
 02.03,118,,Le Samyn (1.1),205.4,,,2021
-11.10,102,,Paris - Tours Elite (1.Pro),213,,,2020
+11.10,102,,Paris - Tours Elite (1.Pro),213.0,,,2020
 27.09,97,,Paris-Chauny (1.1),203.1,,,2020
 22.09,87,,Paris-Camembert (1.1),194.5,,,2020
 20.09,99,,Grand Prix d'Isbergues - Pas de Calais (1.1),199.3,,,2020
-13.09,DNF,,Antwerp Port Epic / Sels Trophy (1.1),190,,,2020
-01.03,DNF,,Royal Bernard Drome Classic (1.Pro),203,,,2020
+13.09,DNF,,Antwerp Port Epic / Sels Trophy (1.1),190.0,,,2020
+01.03,DNF,,Royal Bernard Drome Classic (1.Pro),203.0,,,2020
 29.02,DNF,,Faun-Ardèche Classic (1.Pro),184.4,,,2020
 14.02 » 15.02,,,Vuelta Ciclista a la Región de Murcia  (2.1),,,,2020
 ,74,,General classification,,,,2020
@@ -94,11 +145,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,14,,Youth classification,,,,2020
 ,23,,Points classification,,,,2020
 ,44,,General classification,,,,2020
-08.02,108,,Stage 5 - Princess Nourah University  › Al Masnak,144,,,2020
-07.02,8,37,Stage 4 - Wadi Namar Park › Al Mazuhimiya King Saugìd University,137,1,,2020
-06.02,55,44,Stage 3 - Riyadh › Al Bujairi,119,,,2020
-05.02,100,55,Stage 2 - Sadus Castle › Riyadh,187,,,2020
-04.02,57,59,Stage 1 - Riyadh › Jaww,173,,,2020
+08.02,108,,Stage 5 - Princess Nourah University  › Al Masnak,144.0,,,2020
+07.02,8,37,Stage 4 - Wadi Namar Park › Al Mazuhimiya King Saugìd University,137.0,1,,2020
+06.02,55,44,Stage 3 - Riyadh › Al Bujairi,119.0,,,2020
+05.02,100,55,Stage 2 - Sadus Castle › Riyadh,187.0,,,2020
+04.02,57,59,Stage 1 - Riyadh › Jaww,173.0,,,2020
 06.09 » 08.09,,,Tour de Hokkaido (2.2),,,,2019
 ,11,,Mountains classification,,,,2019
 ,5,,Points classification,,,,2019
@@ -109,7 +160,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.08 » 18.08,,,The Larry H.Miller Tour of Utah (2.HC),,,,2019
 ,79,,General classification,,,,2019
 18.08,73,,Stage 6 - Park City › Park City,125.9,,,2019
-17.08,93,83,Stage 5 - Canyons Village › Canyons Village,128,,,2019
+17.08,93,83,Stage 5 - Canyons Village › Canyons Village,128.0,,,2019
 16.08,82,78,Stage 4 - Salt Lake City › Salt Lake City,86.5,,,2019
 15.08,97,74,Stage 3 - Antelope Island › North Salt Lake,138.3,,,2019
 14.08,55,59,Stage 2 - Brigham City › Powder Mountain Resort,135.8,,,2019
@@ -143,7 +194,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.08,34,122,Stage 4 - Derval › Saumur,166.6,,,2017
 20.08,106,129,Stage 3 - Missilla › Châteaubriant ,125.7,,,2017
 19.08,60,131,Stage 2 - Inzinzac-Lochrist › Bignan,132.4,,,2017
-18.08,137,137,Stage 1 - Loudéac › Loudéac,134,,,2017
+18.08,137,137,Stage 1 - Loudéac › Loudéac,134.0,,,2017
 31.07 » 06.08,,,The Larry H.Miller Tour of Utah (2.HC),,,,2017
 ,11,,Youth classification,,,,2017
 ,54,,General classification,,,,2017
@@ -151,8 +202,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.08,103,57,Stage 6 - Heber Valley › Snowbird Resort,97.8,,,2017
 04.08,40,49,Stage 5 - Layton › Bountiful,185.4,,,2017
 03.08,31,52,Stage 4 - South Jordan City › South Jordan City,201.1,,,2017
-02.08,27,53,Stage 3 (ITT) - Big Cottonwood Canyon › Big Cottonwood Canyon,9,,,2017
-01.08,89,65,Stage 2 - Brigham City › Snowbasin Resort,151,,,2017
+02.08,27,53,Stage 3 (ITT) - Big Cottonwood Canyon › Big Cottonwood Canyon,9.0,,,2017
+01.08,89,65,Stage 2 - Brigham City › Snowbasin Resort,151.0,,,2017
 31.07,41,42,Stage 1 - Logan › Logan,211.2,,,2017
 19.07 » 23.07,,,Cascade Cycling Classic (2.2),,,,2017
 ,5,,Youth classification,,,,2017
@@ -163,34 +214,33 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.07,4,24,Stage 3 - Bend › Kapka Butte Snow Park,172.7,,,2017
 20.07,35,27,Stage 2 (ITT) - Bend › Bend,22.9,,,2017
 19.07,51,51,Stage 1 - Princeville ›  Dee Wright Observatory,172.9,,,2017
-29.06,10,,National Championships United States U23 - ITT (NC),34,,,2017
-25.06,16,,National Championships United States - Road Race (NC),179,,,2017
+29.06,10,,National Championships United States U23 - ITT (NC),34.0,,,2017
+25.06,16,,National Championships United States - Road Race (NC),179.0,,,2017
 24.06,19,,National Championships United States - ITT (NC),30.7,,,2017
 14.06 » 18.06,,,Tour de Beauce (2.2),,,,2017
 ,17,,Youth classification,,,,2017
 ,36,,General classification,,,,2017
 18.06,30,,Stage 5 - Saint-Georges › Saint-Georges,122.4,,,2017
-17.06,57,54,Stage 4 - Québec › Québec,70,,,2017
-16.06,74,54,Stage 3b - Saint-Georges › Beauce Art,77,,,2017
+17.06,57,54,Stage 4 - Québec › Québec,70.0,,,2017
+16.06,74,54,Stage 3b - Saint-Georges › Beauce Art,77.0,,,2017
 16.06,44,56,Stage 3a (ITT) - Saint-Georges › Saint-Georges,19.7,,,2017
-15.06,55,58,Stage 2 - Lac-Méganti › Lac-Méganti,170,,,2017
-14.06,85,86,Stage 1 - Saint-Georges › Saint-Georges,185,,,2017
+15.06,55,58,Stage 2 - Lac-Méganti › Lac-Méganti,170.0,,,2017
+14.06,85,86,Stage 1 - Saint-Georges › Saint-Georges,185.0,,,2017
 08.06 » 11.06,,,Grand Prix Cycliste de Saguenay (2.2),,,,2017
 ,4,,Youth classification,,,,2017
 ,4,,Points classification,,,,2017
 ,24,,General classification,,,,2017
 11.06,2,,Stage 4 - Chicoutimi › Chicoutimi,149.8,2,3,2017
 10.06,37,35,Stage 3 - Jonquière › Jonquière,74.5,,,2017
-09.06,2,34,Stage 2 - La Baie › La Baie,171,2,3,2017
+09.06,2,34,Stage 2 - La Baie › La Baie,171.0,2,3,2017
 08.06,85,85,Stage 1 - La Baie › La Baie,166.1,,,2017
 29.05,20,,Winston Salem Cycling Classic (1.1),177.8,1,3,2017
 19.04 » 23.04,,,Tour of the Gila (2.2),,,,2017
 ,7,,Youth classification,,,,2017
 ,12,,Points classification,,,,2017
-,36,,General classification,,,,2017
 23.04,52,,Stage 5 - Silver City › Pinos Altos,161.9,,,2017
 22.04,37,11,Stage 4 - Silver City › Silver City,69.5,,,2017
-21.04,12,11,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2017
+21.04,12,11,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2017
 20.04,55,5,Stage 2 - Fort Bayard › Fort Bayard,120.7,,,2017
 19.04,30,31,Stage 1 - Silver City › Whitewater Mesa,143.4,,,2017
 30.03 » 02.04,,,Joe Martin Stage Race (2.2),,,,2017
@@ -199,7 +249,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,13,,General classification,,,,2017
 02.04,9,,Stage 4 - Fayetteville › Fayetteville,,,,2017
 01.04,29,15,Stage 3 - Fayetteville › Fayetteville,181.4,,,2017
-31.03,23,15,Stage 2 - Fayetteville › Fayetteville,176,,,2017
+31.03,23,15,Stage 2 - Fayetteville › Fayetteville,176.0,,,2017
 30.03,14,14,Stage 1 (ITT) - Devil's Den State Park › Devil's Den State Park,4.83,,,2017
 10.09,DNF,,The Reading 120 (1.2),196.5,,,2016
 01.08 » 07.08,,,The Larry H.Miller Tour of Utah (2.HC),,,,2016
@@ -208,80 +258,80 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,75,,General classification,,,,2016
 07.08,82,,Stage 7 - Park City › Park City,125.7,,,2016
 06.08,78,69,Stage 6 - Snowbasin  › Snowbird ,183.1,,,2016
-05.08,81,63,Stage 5 - Antelope Island › Bountiful,186,,,2016
-04.08,24,58,Stage 4 - Lehi › Kearns,154,,,2016
+05.08,81,63,Stage 5 - Antelope Island › Bountiful,186.0,,,2016
+04.08,24,58,Stage 4 - Lehi › Kearns,154.0,,,2016
 03.08,66,58,Stage 3 - Richfield › Payson,191.8,,,2016
-02.08,15,14,Stage 2 - Escalante › Torrey,159,,,2016
+02.08,15,14,Stage 2 - Escalante › Torrey,159.0,,,2016
 01.08,15,17,Stage 1 - Zion Canyon Village › Cedar City,135.2,,,2016
 20.05 » 22.05,,,Paris-Arras Tour (2.2),,,,2016
 ,20,,Youth classification,,,,2016
 ,28,,General classification,,,,2016
-22.05,37,,Stage 3 - Gravelle › Arras,170,,,2016
-21.05,41,45,Stage 2 - Barlin › Saint-Omer ,198,,,2016
-20.05,58,59,Stage 1 - Douchy-les-Mines  › Biache-Saint-Vaast,98,,,2016
+22.05,37,,Stage 3 - Gravelle › Arras,170.0,,,2016
+21.05,41,45,Stage 2 - Barlin › Saint-Omer ,198.0,,,2016
+20.05,58,59,Stage 1 - Douchy-les-Mines  › Biache-Saint-Vaast,98.0,,,2016
 25.04 » 01.05,,,Le Tour de Bretagne Cycliste trophée harmonie Mutuelle (2.2),,,,2016
-30.04,DNF,,Stage 6 - Fouesnant › Fouesnant,156,,,2016
+30.04,DNF,,Stage 6 - Fouesnant › Fouesnant,156.0,,,2016
 29.04,124,118,Stage 5 - Plestin-les-Grèves › Treffléan,192.7,,,2016
 28.04,84,112,Stage 4 - Plancoet › Lannion,163.5,,,2016
-27.04,112,133,Stage 3 - Louisfert › Janzé,148,,,2016
-26.04,141,137,Stage 2 - Belz › Louisfert,204,,,2016
-25.04,109,109,Stage 1 - Quiberon › Landévant,158,,,2016
+27.04,112,133,Stage 3 - Louisfert › Janzé,148.0,,,2016
+26.04,141,137,Stage 2 - Belz › Louisfert,204.0,,,2016
+25.04,109,109,Stage 1 - Quiberon › Landévant,158.0,,,2016
 15.04 » 16.04,,,ZLM-Roompot tour (2.Ncup),,,,2016
 ,13,,General classification,,,,2016
 16.04,19,,Stage 3 - Goes  › Goes ,177.2,,,2016
-15.04,73,14,Stage 2 - Kamperland ›  Zierikzee,124,,,2016
-15.04,4,15,Stage 1 (TTT) - Tholen › Tholen,23,2,,2016
-09.04,70,,Ronde van Vlaanderen Beloften (1.Ncup),166,,,2016
+15.04,73,14,Stage 2 - Kamperland ›  Zierikzee,124.0,,,2016
+15.04,4,15,Stage 1 (TTT) - Tholen › Tholen,23.0,2,,2016
+09.04,70,,Ronde van Vlaanderen Beloften (1.Ncup),166.0,,,2016
 01.04 » 03.04,,,Le Triptyque des Monts et Châteaux (2.2),,,,2016
 ,22,,Points classification,,,,2016
 ,112,,General classification,,,,2016
 03.04,7,,Stage 3b - Tournai › Chièvres,91.6,,,2016
 03.04,127,119,Stage 3a (ITT) - Chièvres › Chièvres,10.3,,,2016
 02.04,136,120,Stage 2 - Frasnes-lez-Anvaing › Kluisberg,153.8,,,2016
-01.04,123,123,Stage 1 - Antoing › Hérinnes,165,,,2016
-27.03,75,,Gent-Wevelgem/Kattekoers-Ieper (1.Ncup),184,,,2016
+01.04,123,123,Stage 1 - Antoing › Hérinnes,165.0,,,2016
+27.03,75,,Gent-Wevelgem/Kattekoers-Ieper (1.Ncup),184.0,,,2016
 12.09,DNF,,The Reading 120 (1.2),190.4,,,2015
 22.08 » 29.08,,,Tour de l'Avenir (2.Ncup),,,,2015
 27.08,DNF,,Stage 5 - Megève › La Rosière-Montvalezan,103.1,,,2015
 26.08,72,71,Stage 4 - Annemasse › Cluses,146.7,,,2015
-25.08,23,51,Stage 3 - Champagnole › Tournus,137,,,2015
+25.08,23,51,Stage 3 - Champagnole › Tournus,137.0,,,2015
 24.08,13,51,Stage 2 - Avallon › Arbois,193.5,,,2015
 23.08,92,54,Stage 1 - Chablis › Toucy,160.5,,,2015
 22.08,56,56,Prologue - Tonnerre › Tonnerre,3.5,,,2015
 26.06,32,,National Championships United States U23 - ITT (NC),,,,2015
 24.06,16,,National Championships United States U23 - Road Race (NC),,,,2015
 29.05 » 31.05,,,Course de la Paix U23 / Závod Míru U23 (2.Ncup),,,,2015
-31.05,DNS,,Stage 3 - Jeseník › Jeseník,160,,,2015
-30.05,113,105,Stage 2 - Glucholazy › Praded,113,,,2015
-29.05,26,28,Stage 1 - Jeseník › Rýmarov,122,,,2015
+31.05,DNS,,Stage 3 - Jeseník › Jeseník,160.0,,,2015
+30.05,113,105,Stage 2 - Glucholazy › Praded,113.0,,,2015
+29.05,26,28,Stage 1 - Jeseník › Rýmarov,122.0,,,2015
 14.05 » 17.05,,,Rhône-Alpes Isère Tour (2.2),,,,2015
 ,19,,Youth classification,,,,2015
 ,33,,Points classification,,,,2015
 ,46,,General classification,,,,2015
 17.05,28,,Stage 4 - Saint-Maurice-l'Exil › Charvieu-Chavagneux,170.7,,,2015
-16.05,72,52,Stage 3 - Genas › Saint-Maurice-l'Exil,154,,,2015
+16.05,72,52,Stage 3 - Genas › Saint-Maurice-l'Exil,154.0,,,2015
 15.05,44,28,Stage 2 - Montanay › Genas,164.8,,,2015
 14.05,41,11,Stage 1 - Charvieu-Chavagneux › Saint-Alban-de-Roche,157.2,,,2015
 23.04 » 26.04,,,Joe Martin Stage Race p/b Nature Valley (2.2),,,,2015
 ,2,,Youth classification,,,,2015
 ,10,,Points classification,,,,2015
 ,5,,General classification,,8,10,2015
-26.04,7,,Stage 4 - Fayetteville › Fayetteville,40,,,2015
+26.04,7,,Stage 4 - Fayetteville › Fayetteville,40.0,,,2015
 25.04,29,5,Stage 3 - Prairie Grove › Prairie Grove,174.4,,,2015
 24.04,10,4,Stage 2 - Fayetteville › Fayetteville,173.9,,,2015
 23.04,5,,Prologue - Fayetteville › Fayetteville,4.35,,,2015
 13.09,28,,Bucks County Classic (1.2),160.5,,,2014
 30.04 » 04.05,,,Tour of the Gila (2.2),,,,2014
 01.05,DNS,,Stage 2 - Fort Bayard › Fort Bayard,122.6,,,2014
-30.04,65,65,Stage 1 - Silvercity › Mongollon,148,,,2014
+30.04,65,65,Stage 1 - Silvercity › Mongollon,148.0,,,2014
 16.07 » 21.07,,,Tour de l'Abitibi (2.1),,,,2013
 ,6,,Points classification,,,,2013
 ,5,,General classification,,28,,2013
-21.07,2,,Stage 7 - Mont-Brun › Rouyn-Noranda,96,12,,2013
+21.07,2,,Stage 7 - Mont-Brun › Rouyn-Noranda,96.0,12,,2013
 20.07,12,11,Stage 6 - Rouyn-Noranda › Rouyn-Noranda,114.8,,,2013
-19.07,10,13,Stage 5 - Timiskaming First Nation › Lorrainville,103,,,2013
+19.07,10,13,Stage 5 - Timiskaming First Nation › Lorrainville,103.0,,,2013
 18.07,10,12,Stage 4 - Malartic › Malartic,52.5,,,2013
 18.07,10,12,Stage 3 (ITT) - Rouyn-Noranda › Rouyn-Noranda,9.6,,,2013
-17.07,74,42,Stage 2 - La Sarre › Rouyn-Noranda,106,,,2013
+17.07,74,42,Stage 2 - La Sarre › Rouyn-Noranda,106.0,,,2013
 16.07,9,15,Stage 1 - Amos › Rouyn-Noranda,117.2,,,2013
 05.07,2,,National Championships United States MJ - Road Race (NC),,12,,2013

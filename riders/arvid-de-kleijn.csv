@@ -1,4 +1,50 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+24.06,9,,National Championships Netherlands - Road Race (NC) ,193.8,,5,2022
+08.06 » 12.06,,,ZLM Tour (2.Pro) ,,,,2022
+,6,,Points classification ,,,,2022
+,30,,General classification ,,,5,2022
+12.06,54,,Stage 5 - Made › Rijsbergen ,160.5,,,2022
+11.06,4,8,Stage 4 - Sint Willebrord › Mierlo ,196.5,7,,2022
+10.06,9,8,Stage 3 - Heythuysen › Buchten ,192.5,,,2022
+09.06,4,8,Stage 2 - Veere › Goes ,183.2,7,,2022
+08.06,5,11,Stage 1 - Kapelle › Kapelle ,100.9,4,,2022
+04.06,88,,Heylen Vastgoed Heistse Pijl (1.1) ,192.8,,,2022
+26.05 » 29.05,,,Boucles de la Mayenne - Crédit Mutuel (2.Pro) ,,,,2022
+28.05,DNF,,Stage 3 - Saint-Berthevin › Château-Gontier-sur-Mayenne ,188,,,2022
+27.05,112,110,Stage 2 - Jublains › Pré-en-Pail-Saint-Samson ,171,,,2022
+26.05,111,114,Stage 1 - Saint-Pierre-des-Landes › Andouillé ,180,,,2022
+21.05,9,,Veenendaal-Veenendaal Classic (1.1) ,197.9,16,25,2022
+11.05 » 15.05,,,Tour de Hongrie (2.1) ,,,,2022
+13.05,DNS,,Stage 3 - Sárospatak › Nyíregyháza ,154,,,2022
+12.05,130,69,Stage 2 - Karcag › Hajdúszoboszló ,192,,,2022
+11.05,10,15,Stage 1 - Csákvár › Székesfehérvár ,197.5,,,2022
+03.05 » 08.05,,,4 Jours de Dunkerque / Grand Prix des Hauts de France (2.Pro) ,,,,2022
+,3,,Points classification ,,,,2022
+,70,,General classification ,,,,2022
+08.05,17,,Stage 6 - Ardres › Dunkerque ,182.9,,,2022
+07.05,86,72,Stage 5 - Roubaix › Cassel ,183.7,,,2022
+06.05,5,3,Stage 4 - Mazingarbe › Aire-sur-la-Lys ,170.8,4,,2022
+05.05,63,1,Stage 3 - Péronne › Mont-Saint-Éloi ,170,, +5,2022
+04.05,4,2,Stage 2 - Béthune › Maubeuge ,181.5,7,,2022
+03.05,1,1,Stage 1 - Dunkerque › Aniche ,161.1,30,20 +20,2022
+10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro) ,,,,2022
+,18,,Points classification ,,,,2022
+,129,,General classification ,,,,2022
+16.04,130,129,Stage 7 - Gelibolu › Tekirdağ ,131.3,,,2022
+15.04,139,126,Stage 6 - Edremit (Akçay) › Eceabat (57.Alay Şehitliği) ,201.5,,,2022
+14.04,3,118,Stage 5 - Manisa › Ayvalık ,186.1,12,5,2022
+13.04,134,127,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park) ,146.2,,,2022
+12.04,162,119,Stage 3 - Çeşme › İzmir (Karşıyaka) ,117.9,,,2022
+11.04,14,119,Stage 2 - Selçuk (Efes) › Alaçatı ,156.4,,,2022
+10.04,142,142,Stage 1 - Bodrum › Kuşadası ,202,,,2022
+27.02,DNF,,Kuurne - Bruxelles - Kuurne (1.Pro) ,195.1,,,2022
+10.02 » 13.02,,,Tour of Antalya (2.1) ,,,,2022
+,8,,Points classification ,,,,2022
+,137,,General classification ,,,,2022
+13.02,2,,Stage 4 - Antalya › Antalya ,156.5,12,5,2022
+12.02,144,138,Stage 3 - Aspendos › Termessos ,110.6,,,2022
+11.02,123,125,Stage 2 - Kemer › Antalya ,180.3,,,2022
+10.02,133,144,Stage 1 - Side › Antalya ,142.4,,,2022
 10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro),,,,2022
 ,18,,Points classification,,,,2022
 ,129,,General classification,,,,2022
@@ -8,7 +54,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.04,134,127,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park),146.2,,,2022
 12.04,162,119,Stage 3 - Çeşme › İzmir (Karşıyaka),117.9,,,2022
 11.04,14,119,Stage 2 - Selçuk (Efes) › Alaçatı,156.4,,,2022
-10.04,142,142,Stage 1 - Bodrum › Kuşadası,202,,,2022
+10.04,142,142,Stage 1 - Bodrum › Kuşadası,202.0,,,2022
 27.02,DNF,,Kuurne - Bruxelles - Kuurne (1.Pro),195.1,,,2022
 10.02 » 13.02,,,Tour of Antalya (2.1),,,,2022
 ,8,,Points classification,,,,2022
@@ -18,19 +64,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 11.02,123,125,Stage 2 - Kemer › Antalya,180.3,,,2022
 10.02,133,144,Stage 1 - Side › Antalya,142.4,,,2022
 16.10,DNF,,Grand Prix du Morbihan (1.Pro),176.9,,,2021
-07.10,8,,Gran Piemonte (1.Pro),168,30,50,2021
+07.10,8,,Gran Piemonte (1.Pro),168.0,30,50,2021
 02.10,DNF,,Classic Loire Atlantique (1.1),182.8,,,2021
 01.10,1,,La Route Adélie de Vitré (1.1),197.8,75,125,2021
 29.09,DNF,,Eurométropole Tour (1.Pro),177.6,,,2021
 26.09,5,,Classique Paris-Chauny (1.1),205.3,28,50,2021
-23.09,6,,Omloop van het Houtland Middelkerke-Lichtervelde (1.1),190,24,40,2021
+23.09,6,,Omloop van het Houtland Middelkerke-Lichtervelde (1.1),190.0,24,40,2021
 21.09,DNF,,Grand Prix de Denain - Porte du Hainaut (1.Pro),200.3,,,2021
 14.09 » 18.09,,,Skoda-Tour de Luxembourg (2.Pro),,,,2021
 18.09,DNF,,Stage 5 - Mersch › Luxembourg-City,183.7,,,2021
 17.09,119,114,Stage 4 (ITT) - Dudelange › Dudelange,25.4,,,2021
 16.09,10,115,Stage 3 - Mondorf-les-Bains  › Mamer,189.3,,,2021
 15.09,119,119,Stage 2 - Steinfort › Eschdorf,186.1,,,2021
-14.09,119,119,Stage 1 - Luxembourg-City › Luxembourg-City,140,,,2021
+14.09,119,119,Stage 1 - Luxembourg-City › Luxembourg-City,140.0,,,2021
 24.08 » 27.08,,,Tour Poitou - Charentes en Nouvelle Aquitaine (2.1),,,,2021
 24.08,DNF,,Stage 1 - Pons › Parthenay,197.3,,,2021
 10.08 » 14.08,,,PostNord Danmark Rundt - Tour of Denmark (2.Pro),,,,2021
@@ -43,14 +89,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 10.08,4,4,Stage 1 - Struer › Esbjerg,175.3,7,,2021
 20.06,21,,National Championships Netherlands - Road Race (NC),182.5,,,2021
 27.05 » 30.05,,,Boucles de la Mayenne (2.Pro),,,,2021
-,13,,Points classification,,,,2021
 ,82,,General classification,,,,2021
-30.05,30,,Stage 4 - Méral › Laval,181,,,2021
-29.05,4,84,Stage 3 - Saint-Berthevin › Craon,182,7,,2021
-28.05,13,89,Stage 2 - Vaiges › Évron,173,,,2021
-27.05,109,109,Stage 1 - Le Genest-Saint-Isle › Ambrières-les-Vallées,175,,,2021
+30.05,30,,Stage 4 - Méral › Laval,181.0,,,2021
+29.05,4,84,Stage 3 - Saint-Berthevin › Craon,182.0,7,,2021
+28.05,13,89,Stage 2 - Vaiges › Évron,173.0,,,2021
+27.05,109,109,Stage 1 - Le Genest-Saint-Isle › Ambrières-les-Vallées,175.0,,,2021
 22.05,DNF,,Tour du Finistère (1.1),196.3,,,2021
-16.05,68,,Tro-Bro Léon (1.Pro),207,,,2021
+16.05,68,,Tro-Bro Léon (1.Pro),207.0,,,2021
 11.04 » 18.04,,,Presidential Cycling Tour of Turkey (2.Pro),,,,2021
 16.04,DNS,,Stage 6 - Fethiye › Marmaris,129.1,,,2021
 15.04,152,153,Stage 5 - Kemer › Elmalı (Göğübeli),160.3,,,2021
@@ -62,23 +107,23 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.02,DNF,,Clasica de Almeria (1.Pro),183.3,,,2021
 21.10,DNF,,AG Driedaagse Brugge-De Panne ME (1.UWT),188.6,,,2020
 14.10,7,,Scheldeprijs (1.Pro),173.3,35,60,2020
-11.10,82,,Paris - Tours Elite (1.Pro),213,,,2020
+11.10,82,,Paris - Tours Elite (1.Pro),213.0,,,2020
 22.09,60,,Paris-Camembert (1.1),194.5,,,2020
 20.09,3,,Gooikse Pijl (1.1),200.7,40,70,2020
-13.09,DNF,,Antwerp Port Epic / Sels Trophy (1.1),190,,,2020
-30.08,14,,Brussels Cycling Classic (1.Pro),204,14,15,2020
+13.09,DNF,,Antwerp Port Epic / Sels Trophy (1.1),190.0,,,2020
+30.08,14,,Brussels Cycling Classic (1.Pro),204.0,14,15,2020
 29.08,48,,Druivenkoers - Overijse (1.1),194.7,,,2020
-23.08,6,,National Championships Netherlands - Road Race (NC),182,1,30,2020
+23.08,6,,National Championships Netherlands - Road Race (NC),182.0,1,30,2020
 16.08 » 19.08,,,Tour de Wallonie (2.Pro),,,,2020
 19.08,DNF,,Stage 4 - Blegny › Erezée,198.1,,,2020
-18.08,112,90,Stage 3 - Montzen › Visé,192,,,2020
+18.08,112,90,Stage 3 - Montzen › Visé,192.0,,,2020
 17.08,6,9,Stage 2 - Frasnes-lez-Anvaing › Wavre,172.3,3,,2020
 16.08,4,6,Stage 1 - Soignies › Templeuve,185.8,7,,2020
-15.08,DNF,,Dwars door het Hageland (1.Pro),180,,,2020
+15.08,DNF,,Dwars door het Hageland (1.Pro),180.0,,,2020
 01.08 » 04.08,,,La Route d'Occitanie - La Dépêche du Midi (2.1),,,,2020
 ,15,,Points classification,,,,2020
 ,119,,General classification,,,,2020
-04.08,118,,Stage 4 - Lectoure › Rocamadour,195,,,2020
+04.08,118,,Stage 4 - Lectoure › Rocamadour,195.0,,,2020
 03.08,128,120,Stage 3 - Saint-Gaudens › Col de Beyrède,163.5,,,2020
 02.08,4,116,Stage 2 - Carcassonne › Cap Découverte,182.5,5,,2020
 01.08,130,131,Stage 1 - Saint-Affrique › Cazouls-lès-Béziers,189.5,,,2020
@@ -86,31 +131,31 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.02 » 08.02,,,Saudi Tour (2.1),,,,2020
 ,14,,Points classification,,,,2020
 ,83,,General classification,,,,2020
-08.02,3,,Stage 5 - Princess Nourah University  › Al Masnak,144,7,3,2020
-07.02,93,86,Stage 4 - Wadi Namar Park › Al Mazuhimiya King Saugìd University,137,,,2020
-06.02,100,66,Stage 3 - Riyadh › Al Bujairi,119,,,2020
-05.02,34,27,Stage 2 - Sadus Castle › Riyadh,187,,,2020
-04.02,28,30,Stage 1 - Riyadh › Jaww,173,,,2020
+08.02,3,,Stage 5 - Princess Nourah University  › Al Masnak,144.0,7,3,2020
+07.02,93,86,Stage 4 - Wadi Namar Park › Al Mazuhimiya King Saugìd University,137.0,,,2020
+06.02,100,66,Stage 3 - Riyadh › Al Bujairi,119.0,,,2020
+05.02,34,27,Stage 2 - Sadus Castle › Riyadh,187.0,,,2020
+04.02,28,30,Stage 1 - Riyadh › Jaww,173.0,,,2020
 13.10,26,,Memorial Rik Van Steenbergen / Kempen Classic (1.1),199.81,,,2019
 12.10,3,,Tacx Pro Classic / Ronde van Zeeland (1.1),204.6,40,70,2019
 01.10 » 06.10,,,CRO Race (2.1),,,,2019
 ,14,,Points classification,,,,2019
 ,67,,General classification,,,,2019
-06.10,63,,Stage 6 - Sveta Nedelja › Zagreb,154,,,2019
-05.10,74,66,Stage 5 - Rabac › Platak,136,,,2019
-04.10,53,49,Stage 4 - Starigrad › Gorski Kotar,155,,,2019
+06.10,63,,Stage 6 - Sveta Nedelja › Zagreb,154.0,,,2019
+05.10,74,66,Stage 5 - Rabac › Platak,136.0,,,2019
+04.10,53,49,Stage 4 - Starigrad › Gorski Kotar,155.0,,,2019
 03.10,92,61,Stage 3 - Okrug › Makarska,63.5,,,2019
-02.10,5,8,Stage 2 - Slunj › Zadar,183,4,,2019
-01.10,6,11,Stage 1 - Osijek › Lipik,200,3,,2019
+02.10,5,8,Stage 2 - Slunj › Zadar,183.0,4,,2019
+01.10,6,11,Stage 1 - Osijek › Lipik,200.0,3,,2019
 25.09,31,,Omloop van het Houtland Lichtervelde (1.1),186.3,,,2019
 22.09,5,,Gooikse Pijl (1.1),198.1,28,50,2019
 14.09,2,,De Kustpijl (1.2),199.6,10,30,2019
-08.09,13,,Antwerp Port Epic / Sels Trophy (1.1),187,8,5,2019
-31.08,33,,Omloop Mandel-Leie-Schelde Meulebeke (1.1),189,,,2019
-28.08,1,,Druivenkoers - Overijse (1.1),198,75,125,2019
+08.09,13,,Antwerp Port Epic / Sels Trophy (1.1),187.0,8,5,2019
+31.08,33,,Omloop Mandel-Leie-Schelde Meulebeke (1.1),189.0,,,2019
+28.08,1,,Druivenkoers - Overijse (1.1),198.0,75,125,2019
 21.08,7,,Veenendaal-Veenendaal Classic (1.1),190.7,20,35,2019
 20.08,33,,GP Stad Zottegem (1.1),200.6,,,2019
-11.08,11,,Antwerpse Havenpijl (1.2),181,,,2019
+11.08,11,,Antwerpse Havenpijl (1.2),181.0,,,2019
 02.08 » 05.08,,,Kreiz Breizh Elites (2.2),,,,2019
 ,5,,Points classification,,,,2019
 ,14,,General classification,,,,2019
@@ -120,12 +165,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.08,8,35,Stage 1 (TTT) - Ploumagoar › Ploumagoar,12.4,,,2019
 25.07,13,,Grand Prix Cerami (1.1),164.7,8,5,2019
 02.07 » 06.07,,,Course Cycliste de Solidarnosc et des Champions Olympiques (2.2),,,,2019
-,5,,Points classification,,,,2019
 ,5,,General classification,,8,15,2019
 06.07,9,,Stage 5 - Tarnobrzeg › Krosno,177.6,,,2019
-05.07,3,6,Stage 4 - Skarżysko-Kamienna › Stalowa ,178,1,1,2019
+05.07,3,6,Stage 4 - Skarżysko-Kamienna › Stalowa ,178.0,1,1,2019
 04.07,4,10,Stage 3 - Kielce › Radom ,170.7,,,2019
-03.07,10,10,Stage 2 - Zgierz › Kutno ,148,,,2019
+03.07,10,10,Stage 2 - Zgierz › Kutno ,148.0,,,2019
 02.07,1,1,Stage 1 - Łódź  › Sieradz ,213.7,5,7,2019
 30.06,12,,National Championships Netherlands - Road Race (NC),223.4,,1,2019
 19.06 » 23.06,,,ZLM Tour (2.1),,,,2019
@@ -144,53 +188,53 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 30.05,27,53,Stage 1 - Rumelange › Rumelange,157.1,,,2019
 29.05,56,56,Prologue - Esch-sur-Alzette  › Esch-sur-Alzette ,3.25,,,2019
 26.05,14,,Grote Prijs Marcel Kint (1.1),188.1,7,5,2019
-04.05,54,,Ronde van Overijssel (1.2),200,,,2019
+04.05,54,,Ronde van Overijssel (1.2),200.0,,,2019
 17.04 » 21.04,,,Tour du Loir et Cher E Provost (2.2),,,,2019
 ,1,,Points classification,,,,2019
 ,9,,General classification,,2,3,2019
-21.04,16,,Stage 5 - Blois › Blois,97,,,2019
+21.04,16,,Stage 5 - Blois › Blois,97.0,,,2019
 20.04,5,9,Stage 4 - Angé › Angé,191.5,,,2019
-19.04,1,9,Stage 3 - Mer › Vendôme,210,5,7,2019
-18.04,28,19,Stage 2 - Les Montils › Chailles,188,,,2019
-17.04,5,7,Stage 1 - Blois › Vineuil,176,,,2019
+19.04,1,9,Stage 3 - Mer › Vendôme,210.0,5,7,2019
+18.04,28,19,Stage 2 - Les Montils › Chailles,188.0,,,2019
+17.04,5,7,Stage 1 - Blois › Vineuil,176.0,,,2019
 06.04,66,,Volta Limburg Classic (1.1),192.1,,,2019
 25.03 » 31.03,,,Tour de Normandie (2.2),,,,2019
 ,2,,Points classification,,,,2019
 ,2,,General classification,,18,30,2019
-31.03,5,,Stage 7 - Saint-Lô › Caen,150,,,2019
+31.03,5,,Stage 7 - Saint-Lô › Caen,150.0,,,2019
 30.03,8,2,Stage 6 - Gouville-sur-Mer › Martinvast,159.5,,,2019
-29.03,5,3,Stage 5 - Alençon › Bagnoles-de-l'Orne,171,,,2019
-28.03,5,3,Stage 4 - Tilly-sur-Seulles › Argentan,173,,,2019
-27.03,1,2,Stage 3 - Bourg-Achard › Elbeuf-sur-Seine,147,5,7,2019
+29.03,5,3,Stage 5 - Alençon › Bagnoles-de-l'Orne,171.0,,,2019
+28.03,5,3,Stage 4 - Tilly-sur-Seulles › Argentan,173.0,,,2019
+27.03,1,2,Stage 3 - Bourg-Achard › Elbeuf-sur-Seine,147.0,5,7,2019
 26.03,9,10,Stage 2 - Darnétal › Forges-les-Eaux,169.5,,,2019
-25.03,4,6,Stage 1 - Courseulles-sur-Mer › Le Neubourg,159,,,2019
+25.03,4,6,Stage 1 - Courseulles-sur-Mer › Le Neubourg,159.0,,,2019
 17.03,DNF,,Ronde van Drenthe (1.HC),217.6,,,2019
 23.02,4,,Ster van Zwolle (NAT),,,,2019
-13.10,DNF,,Tacx Pro Classic / Ronde van Zeeland (1.1),208,,,2018
+13.10,DNF,,Tacx Pro Classic / Ronde van Zeeland (1.1),208.0,,,2018
 23.09,16,,Gooikse Pijl (1.1),198.1,5,3,2018
 17.10,1,,Sluitingsprijs Putte-Kapellen (1.1),183.6,75,125,2017
 14.10,13,,Tacx Pro Classic (1.1),201.5,8,5,2017
 20.09,18,,Omloop van het Houtland Lichtervelde (1.1),195.3,3,3,2017
-11.09,21,,Grote Prijs Marcel Kint (1.2),168,,,2017
-03.09,13,,Kernen Omloop Echt-Susteren (1.2),191,,,2017
+11.09,21,,Grote Prijs Marcel Kint (1.2),168.0,,,2017
+03.09,13,,Kernen Omloop Echt-Susteren (1.2),191.0,,,2017
 26.08 » 27.08,,,Ronde van Midden Nederland (2.2),,,,2017
 ,47,,General classification,,,,2017
-27.08,4,,Stage 2 - Utrecht › Utrecht,187,,,2017
+27.08,4,,Stage 2 - Utrecht › Utrecht,187.0,,,2017
 26.08,12,56,Stage 1 (TTT) - Doorn › Doorn,26.3,,,2017
 18.08,8,,Veenendaal Veenendaal Classic (1.1),195.8,18,30,2017
-06.08,1,,Antwerpse Havenpijl (1.2),168,15,40,2017
+06.08,1,,Antwerpse Havenpijl (1.2),168.0,15,40,2017
 29.07 » 31.07,,,Kreiz Breizh Elites (2.2),,,,2017
 ,5,,Youth classification,,,,2017
 ,3,,Points classification,,,,2017
 ,21,,General classification,,,,2017
-31.07,29,,Stage 4 - Guinguamp › Rostrenen,151,,,2017
+31.07,29,,Stage 4 - Guinguamp › Rostrenen,151.0,,,2017
 30.07,11,10,Stage 3 - Carhaix › Carhaix,98.1,,,2017
-30.07,2,2,Stage 2 - Ploërdut › Callac,83,2,3,2017
+30.07,2,2,Stage 2 - Ploërdut › Callac,83.0,2,3,2017
 29.07,4,4,Stage 1 - Calanhel › Plouray ,198.3,,,2017
 09.07,28,,Midden Brabant-Poort Omloop (1.2),197.2,,,2017
-07.07,4,,Grote Prijs Stad Sint-Niklaas (1.2),180,4,20,2017
+07.07,4,,Grote Prijs Stad Sint-Niklaas (1.2),180.0,4,20,2017
 02.07,40,,KOGA Slag om Norg (1.1),190.5,,,2017
-25.06,5,,National Championships Netherlands - Road Race (NC),235,2,25,2017
+25.06,5,,National Championships Netherlands - Road Race (NC),235.0,2,25,2017
 14.06 » 18.06,,,Ster ZLM (2.1),,,,2017
 ,26,,Points classification,,,,2017
 ,92,,General classification,,,,2017
@@ -199,22 +243,22 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 16.06,16,89,Stage 3 - Buchten › Buchten,209.2,,,2017
 15.06,7,91,Stage 2 - Tholen › Hoogerheide,186.8,2,,2017
 14.06,114,114,Prologue - Westkapelle › Westkapelle,7.5,,,2017
-10.06,DNF,,Dwars door de Vlaamse Ardennen (1.2),200,,,2017
+10.06,DNF,,Dwars door de Vlaamse Ardennen (1.2),200.0,,,2017
 14.05,2,,Profronde van Noord-Holland (1.2),199.6,10,30,2017
-06.05,4,,Ronde van Overijssel (1.2),202,4,20,2017
-29.04,DNF,,ZODC Zuidenveld Tour (1.2),200,,,2017
-22.04,9,,Arno Wallaard Memorial (1.2),184,,3,2017
+06.05,4,,Ronde van Overijssel (1.2),202.0,4,20,2017
+29.04,DNF,,ZODC Zuidenveld Tour (1.2),200.0,,,2017
+22.04,9,,Arno Wallaard Memorial (1.2),184.0,,3,2017
 12.04 » 16.04,,,Tour du Loir et Cher (2.2),,,,2017
 ,4,,Points classification,,,,2017
 ,24,,General classification,,,,2017
 16.04,6,,Stage 5 - Blois › Blois,97.5,,,2017
 15.04,36,24,Stage 4 - Montrichard › Montrichard,142.5,,,2017
-14.04,1,5,Stage 3 - Savigny-sur-Braye › Vendôme,211,5,7,2017
-13.04,8,19,Stage 2 - La Ferté-Imbault › Vernoe-en-Sologne,184,,,2017
+14.04,1,5,Stage 3 - Savigny-sur-Braye › Vendôme,211.0,5,7,2017
+13.04,8,19,Stage 2 - La Ferté-Imbault › Vernoe-en-Sologne,184.0,,,2017
 12.04,20,20,Stage 1 - Blois › Mont-Près-Chambord,154.5,,,2017
 04.03,20,,Craft Ster van Zwolle (NAT),,,,2017
-11.10,4,,Nationale Sluitingprijs Putte-Kapellen (1.1),183,32,60,2016
-09.10,1,,Paris-Tours Espoirs (1.2U),180,15,30,2016
+11.10,4,,Nationale Sluitingprijs Putte-Kapellen (1.1),183.0,32,60,2016
+09.10,1,,Paris-Tours Espoirs (1.2U),180.0,15,30,2016
 27.09 » 02.10,,,Olympia's Tour (2.2U),,,,2016
 ,12,,Mountains classification,,,,2016
 ,5,,Points classification,,,,2016
@@ -231,28 +275,28 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,95,,General classification,,,,2016
 28.08,90,,Stage 2 - Utrecht › Utrecht,204.9,,,2016
 27.08,2,157,Stage 1 (TTT) - Doorn › Leersum,25.9,4,,2016
-23.08,DNF,,Grand Prix des Marbriers (1.2),160,,,2016
+23.08,DNF,,Grand Prix des Marbriers (1.2),160.0,,,2016
 19.08,24,,Arnhem-Veenendaal Classic (1.1),198.5,,3,2016
 30.07 » 01.08,,,Kreiz Breizh Elites (2.2),,,,2016
 ,24,,Youth classification,,,,2016
 ,17,,Mountains classification,,,,2016
 ,34,,Points classification,,,,2016
 ,51,,General classification,,,,2016
-01.08,60,,Stage 4 - Plouguernevel › Rostrenen,163,,,2016
-31.07,60,70,Stage 3 - Carhaix › Carhaix,100,,,2016
+01.08,60,,Stage 4 - Plouguernevel › Rostrenen,163.0,,,2016
+31.07,60,70,Stage 3 - Carhaix › Carhaix,100.0,,,2016
 31.07,14,60,Stage 2 - Ploërdut › Callac,82.2,,,2016
 30.07,92,92,Stage 1 - Calanhel › Plouray,194.8,,,2016
-02.07,DNF,,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs (1.2),170,,,2016
-24.06,5,,National Championships Netherlands U23 - Road Race (NC),175,,,2016
+02.07,DNF,,Omloop Het Nieuwsblad Beloften/Circuit Het Nieuwsblad Espoirs (1.2),170.0,,,2016
+24.06,5,,National Championships Netherlands U23 - Road Race (NC),175.0,,,2016
 15.06 » 19.06,,,Ster ZLM Toer GP Jan van Heeswijk (2.1),,,,2016
 ,103,,General classification,,,,2016
-19.06,97,,Stage 5 - Someren › Boxtel,186,,,2016
-18.06,116,109,Stage 4 - Verviers › La Gileppe,186,,,2016
-17.06,43,62,Stage 3 - Buchten › Buchten,210,,,2016
-16.06,22,78,Stage 2 - Oss › Oss,186,,,2016
+19.06,97,,Stage 5 - Someren › Boxtel,186.0,,,2016
+18.06,116,109,Stage 4 - Verviers › La Gileppe,186.0,,,2016
+17.06,43,62,Stage 3 - Buchten › Buchten,210.0,,,2016
+16.06,22,78,Stage 2 - Oss › Oss,186.0,,,2016
 15.06,156,156,Stage 1 (ITT) - Goes › Goes,6.4,,,2016
 12.06,2,,GP Horsens Posten (1.2),194.1,10,30,2016
-11.06,4,,Fyen Rundt - Tour of Funen (1.2),215,4,20,2016
+11.06,4,,Fyen Rundt - Tour of Funen (1.2),215.0,4,20,2016
 27.05 » 29.05,,,Tour de Gironde (2.2),,,,2016
 ,12,,Youth classification,,,,2016
 ,2,,Mountains classification,,,,2016
@@ -261,58 +305,58 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 29.05,57,,Stage 3 - Captieux › Villenave d'Ornon,165.6,,,2016
 28.05,30,30,Stage 2 - Carbon-Blanc › Cenon,210.4,,,2016
 27.05,6,11,Stage 1 - Bordeaux-Caudéran › Lacanau,161.8,,,2016
-14.05,17,,Ronde van Overijssel (1.2),199,,,2016
+14.05,17,,Ronde van Overijssel (1.2),199.0,,,2016
 29.04 » 03.05,,,Carpathian Couriers Race U-23 (2.2U),,,,2016
-03.05,DNS,,Stage 4 - Zabno  › Tarnów,130,,,2016
-02.05,21,46,Stage 3 - Jablonka › Ciezkowice,150,,,2016
-01.05,79,49,Stage 2 - Trencianske Teplice › Stará Bystrica,132,,,2016
-30.04,4,37,Stage 1 - Veszprém › Papá,150,,,2016
+03.05,DNS,,Stage 4 - Zabno  › Tarnów,130.0,,,2016
+02.05,21,46,Stage 3 - Jablonka › Ciezkowice,150.0,,,2016
+01.05,79,49,Stage 2 - Trencianske Teplice › Stará Bystrica,132.0,,,2016
+30.04,4,37,Stage 1 - Veszprém › Papá,150.0,,,2016
 29.04,37,37,Prologue - Veszprém › Veszprém,3.3,,,2016
-17.04,15,,Profronde van Noord-Holland (1.2),203,,,2016
+17.04,15,,Profronde van Noord-Holland (1.2),203.0,,,2016
 16.04,112,,Liège - Bastogne - Liège U23 (1.2U),178.6,,,2016
-12.09,22,,De Kustpijl (1.2),198,,,2015
-18.04,DNF,,Arno Wallaard Memorial (1.2),192,,,2015
-21.09,DNF,,Rabo Baronie Breda Classic (1.2),200,,,2014
+12.09,22,,De Kustpijl (1.2),198.0,,,2015
+18.04,DNF,,Arno Wallaard Memorial (1.2),192.0,,,2015
+21.09,DNF,,Rabo Baronie Breda Classic (1.2),200.0,,,2014
 07.09,28,,Kernen Omloop Echt-Susteren (1.2),191.1,,,2014
 31.08,77,,Ronde van Midden-Nederland (1.2),197.6,,,2014
-28.06,31,,National Championships Netherlands U23 - Road Race (NC),180,,,2014
-28.06,88,,National Championships Netherlands U23 - Road Race (NC),180,,,2014
+28.06,31,,National Championships Netherlands U23 - Road Race (NC),180.0,,,2014
+28.06,88,,National Championships Netherlands U23 - Road Race (NC),180.0,,,2014
 09.03,11,,Rabobank Dorpenomloop Rucphen (1.2),187.2,,,2014
-15.09,77,,Rabo Baronie Breda Classic (1.2),200,,,2013
+15.09,77,,Rabo Baronie Breda Classic (1.2),200.0,,,2013
 14.09,32,,De Kustpijl (1.2),180.4,,,2013
 22.06,DNF,,National Championships Netherlands U23 - Road Race (NC),158.4,,,2013
 15.09 » 16.09,,,Keizer der Juniores (2.1),,,,2012
-16.09,106,93,Stage 2a (ITT) - Wulpen › Wulpen,6,,,2012
-15.09,135,103,Stage 1 - Ieper › Ieper,98,,,2012
+16.09,106,93,Stage 2a (ITT) - Wulpen › Wulpen,6.0,,,2012
+15.09,135,103,Stage 1 - Ieper › Ieper,98.0,,,2012
 03.08 » 05.08,,,Liège - La Gleize (2.1),,,,2012
 ,78,,General classification,,,,2012
-05.08,50,,Stage 3 - La Gleize › La Gleize,104,,,2012
-04.08,13,108,Stage 2b - Thimister › Thimister,96,,,2012
-04.08,18,157,Stage 2a (TTT) - Thimister › Thimister,12,,,2012
-03.08,157,157,Stage 1 - Aubel › Aubel,95,,,2012
+05.08,50,,Stage 3 - La Gleize › La Gleize,104.0,,,2012
+04.08,13,108,Stage 2b - Thimister › Thimister,96.0,,,2012
+04.08,18,157,Stage 2a (TTT) - Thimister › Thimister,12.0,,,2012
+03.08,157,157,Stage 1 - Aubel › Aubel,95.0,,,2012
 12.07 » 15.07,,,Tour du Valromey (2.1),,,,2012
 ,62,,General classification,,,,2012
-15.07,58,,Stage 4 - Artemare  › Hauteville-Lompnes,106,,,2012
-14.07,80,77,Stage 3 - Châtillon-en-Michaille  › Chavornay,103,,,2012
-13.07,33,35,Stage 2 - Groissiat  › Saint-Martin-de-Bavel,93,,,2012
-12.07,48,51,Stage 1 - Serrières-de-Briord  › Loyettes,93,,,2012
+15.07,58,,Stage 4 - Artemare  › Hauteville-Lompnes,106.0,,,2012
+14.07,80,77,Stage 3 - Châtillon-en-Michaille  › Chavornay,103.0,,,2012
+13.07,33,35,Stage 2 - Groissiat  › Saint-Martin-de-Bavel,93.0,,,2012
+12.07,48,51,Stage 1 - Serrières-de-Briord  › Loyettes,93.0,,,2012
 18.05 » 20.05,,,Driedaagse van Axel (2.1),,,,2012
 ,41,,General classification,,,,2012
 20.05,40,,Stage 4 - Strijpen › Strijpen,104.4,,,2012
 19.05,32,46,Stage 3 - Axel › Axel,99.6,,,2012
 19.05,74,67,Stage 2 (ITT) - Axel › Axel,7.8,,,2012
 18.05,17,19,Stage 1 - Philippine  › Axel,109.1,,,2012
-03.09,61,,Remouchamps - Ferrières - Remouchamps (1.1),182,,,2011
+03.09,61,,Remouchamps - Ferrières - Remouchamps (1.1),182.0,,,2011
 15.07 » 17.07,,,Oberösterreich Juniorenrundfahrt (2.1),,,,2011
 ,46,,General classification,,,,2011
 17.07,28,,Stage 3 - Laakirchen › Attnang-Puchheim,110.7,,,2011
 16.07,50,,Stage 2 - Linz › Perg,110.3,,,2011
 15.07,58,,Stage 1 - Marchtrenk › Marchtrenk,98.2,,,2011
-24.06,52,,National Championships Netherlands MJ - Road Race (NC),130,,,2011
-05.06,27,,GP Dell'Arno (1.1),124,,,2011
+24.06,52,,National Championships Netherlands MJ - Road Race (NC),130.0,,,2011
+05.06,27,,GP Dell'Arno (1.1),124.0,,,2011
 13.05 » 15.05,,,Int. 3-Etappenfahrt der Rad-Junioren (2.1),,,,2011
 ,52,,General classification,,,,2011
-15.05,51,,Stage 3,95,,,2011
-14.05,46,,Stage 2,113,,,2011
-13.05,107,,Prologue,8,,,2011
+15.05,51,,Stage 3,95.0,,,2011
+14.05,46,,Stage 2,113.0,,,2011
+13.05,107,,Prologue,8.0,,,2011
 27.02,70,,Kuurne-brussel-kuurne Juniors (1.1),115.5,,,2011

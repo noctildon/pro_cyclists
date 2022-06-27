@@ -1,22 +1,64 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+19.06,65,,National Championships Morocco - Road Race (NC) ,,,,2022
+04.06 » 12.06,,,Tour du Cameroun (2.2) ,,,,2022
+,5,,Mountains classification ,,,,2022
+,16,,Points classification ,,,,2022
+,26,,General classification ,,,,2022
+12.06,36,,Stage 8 - Ebolowa › Yaoundé ,151.4,,,2022
+11.06,7,18,Stage 7 - Boumnyebel › Mbalmayo ,112.6,,,2022
+09.06,34,19,Stage 6 - Douala › Kribi ,152.7,,,2022
+08.06,18,19,Stage 5 - Loum › Limbe ,129.9,,,2022
+07.06,3,17,Stage 4 - Bangangté › Bangangté ,129,1,1,2022
+06.06,18,22,Stage 3 - Obala › Ndikinimiki ,148.5,,,2022
+05.06,11,18,Stage 2 - Yaoundé › Ayos ,118.8,,,2022
+04.06,21,21,Stage 1 - Douala › Douala ,123.3,,,2022
+03.05 » 07.05,,,Tour du Bénin (2.2) ,,,,2022
+,13,,General classification ,,,,2022
+07.05,11,,Stage 5 - Séhoué › Porto-Novo ,138.4,,,2022
+06.05,23,13,Stage 4 - Bohicon › Comé ,126.5,,,2022
+05.05,9,14,Stage 3 - Savalou › Bohicon ,127.7,,,2022
+04.05,26,16,Stage 2 - Djougou › Parakou ,133.3,,,2022
+03.05,8,5,Stage 1 - Boukoumbé › Djougou ,120.2,,,2022
+27.03,8,,African Continental Championships ME - Road Race (CC) ,150.6,18,70,2022
+23.03,6,,African Continental Championships ME - TTT (CC) ,42.6,,5,2022
+06.03,26,,Grand Prix Mediterrennean (1.2) ,98,,,2022
+05.03,18,,Grand Prix Gazipaşa ME (1.2) ,123.6,,,2022
+20.02 » 27.02,,,Tour du Rwanda (2.1) ,,,,2022
+27.02,DNF,,Stage 8 - Kigali › Kigali ,75.3,,,2022
+26.02,67,68,Stage 7 - Kigali › Mont Kigali ,152.6,,,2022
+25.02,58,71,Stage 6 - Musanze › Kigali ,152,,,2022
+24.02,54,77,Stage 5 - Muhanga › Musanze  ,129.9,,,2022
+23.02,72,79,Stage 4 - Kigali › Gicumbi  ,124.3,,,2022
+22.02,81,81,Stage 3 - Kigali › Rubavu  ,155.9,,,2022
+21.02,70,62,Stage 2 - Kigali › Rwamagana  ,148.3,,,2022
+20.02,63,63,Prologue - Kigali › Kigali ,4,,,2022
+05.02,72,,Grand Prix Alanya (1.2) ,147.2,,,2022
+28.01 » 01.02,,,Tour of Sharjah (2.2) ,,,,2022
+,29,,Points classification ,,,,2022
+,17,,General classification ,,,,2022
+01.02,18,,Stage 5 - Khor Fakkan › Sharjah ,103,,,2022
+31.01,20,17,Stage 4 - Al Badayer Oases › Wadi al Hedo ,122.8,,,2022
+30.01,20,16,Stage 3 - Al Fujayrak › Khor Fakkan (Al Suhub Rest Area) ,107.8,,,2022
+29.01,11,20,Stage 2 - Sharjah › Ahd Dhayd ,95.35,,,2022
+28.01,20,20,Stage 1 (ITT) - Sharjah › Sharjah ,8.86,,,2022
 27.03,8,,African Continental Championships ME - Road Race (CC),150.6,18,70,2022
 23.03,6,,African Continental Championships ME - TTT (CC),42.6,,5,2022
-06.03,26,,Grand Prix Mediterrennean (1.2),98,,,2022
+06.03,26,,Grand Prix Mediterrennean (1.2),98.0,,,2022
 05.03,18,,Grand Prix Gazipaşa ME (1.2),123.6,,,2022
 20.02 » 27.02,,,Tour du Rwanda (2.1),,,,2022
 27.02,DNF,,Stage 8 - Kigali › Kigali,75.3,,,2022
 26.02,67,68,Stage 7 - Kigali › Mont Kigali,152.6,,,2022
-25.02,58,71,Stage 6 - Musanze › Kigali,152,,,2022
+25.02,58,71,Stage 6 - Musanze › Kigali,152.0,,,2022
 24.02,54,77,Stage 5 - Muhanga › Musanze ,129.9,,,2022
 23.02,72,79,Stage 4 - Kigali › Gicumbi ,124.3,,,2022
 22.02,81,81,Stage 3 - Kigali › Rubavu ,155.9,,,2022
 21.02,70,62,Stage 2 - Kigali › Rwamagana ,148.3,,,2022
-20.02,63,63,Prologue - Kigali › Kigali,4,,,2022
+20.02,63,63,Prologue - Kigali › Kigali,4.0,,,2022
 05.02,72,,Grand Prix Alanya (1.2),147.2,,,2022
 28.01 » 01.02,,,Tour of Sharjah (2.2),,,,2022
 ,29,,Points classification,,,,2022
 ,17,,General classification,,,,2022
-01.02,18,,Stage 5 - Khor Fakkan › Sharjah,103,,,2022
+01.02,18,,Stage 5 - Khor Fakkan › Sharjah,103.0,,,2022
 31.01,20,17,Stage 4 - Al Badayer Oases › Wadi al Hedo,122.8,,,2022
 30.01,20,16,Stage 3 - Al Fujayrak › Khor Fakkan (Al Suhub Rest Area),107.8,,,2022
 29.01,11,20,Stage 2 - Sharjah › Ahd Dhayd,95.35,,,2022
@@ -25,38 +67,38 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,29,,Points classification,,,,2021
 ,31,,General classification,,,,2021
 07.11,33,,Stage 10 - Kombissiri › Ouagadougou,129.5,,,2021
-06.11,43,39,Stage 9 - Manga › Ziniaré,128,,,2021
+06.11,43,39,Stage 9 - Manga › Ziniaré,128.0,,,2021
 05.11,54,39,Stage 8 - Koubri › Pô,126.2,,,2021
-04.11,1,17,Stage 7 (TTT) - Koupéla › Zorgho,33,5,1.17,2021
+04.11,1,17,Stage 7 (TTT) - Koupéla › Zorgho,33.0,5,1.17,2021
 03.11,25,19,Stage 6 - Nagréongo › Tenkodogo,153.5,,,2021
-02.11,9,18,Stage 5 - Ouahigouya › Kaya,105,,,2021
-01.11,24,19,Stage 4 - Laye › Ouahigouya,148,,,2021
+02.11,9,18,Stage 5 - Ouahigouya › Kaya,105.0,,,2021
+01.11,24,19,Stage 4 - Laye › Ouahigouya,148.0,,,2021
 31.10,17,15,Stage 3 - Dédougou › Koudougou,133.08,,,2021
 30.10,11,12,Stage 2 - Bobo Dioulasso › Dédougou,183.2,,,2021
-29.10,16,17,Stage 1 - Banfora › Bobo Dioulasso,125,,,2021
+29.10,16,17,Stage 1 - Banfora › Bobo Dioulasso,125.0,,,2021
 11.07,23,,Grand Prix Kayseri ME (1.2),136.7,,,2021
 10.07,26,,Grand Prix Erciyes - Mimar Sinan ME (1.2),149.3,,,2021
 04.07,DNF,,Kahramanmaraş Grand Prix Road Race ME (1.2),124.5,,,2021
 03.07,35,,Germenica Grand Prix Road Race ME (1.2),153.8,,,2021
-06.03,DNF,,African Continental Championships ME - Road Race (CC),140,,,2021
-02.03,DNF,,African Continental Championships ME - TTT (CC),42,,,2021
+06.03,DNF,,African Continental Championships ME - Road Race (CC),140.0,,,2021
+02.03,DNF,,African Continental Championships ME - TTT (CC),42.0,,,2021
 20.01 » 26.01,,,La Tropicale Amissa Bongo (2.1),,,,2020
 ,11,,Youth classification,,,,2020
 ,18,,Mountains classification,,,,2020
 ,18,,Points classification,,,,2020
 ,30,,General classification,,,,2020
-26.01,42,,Stage 7 - Nkok › Libreville,128,,,2020
+26.01,42,,Stage 7 - Nkok › Libreville,128.0,,,2020
 25.01,20,31,Stage 6 - Port Gentil › Port Gentil,127.2,,,2020
-24.01,60,34,Stage 5 - Lambaréné › Bifoun,82,,,2020
-23.01,3,38,Stage 4 - Lambaréné › Mouila,190,7,3,2020
-22.01,29,50,Stage 3 - Mitzic › Ndjolé,186,,,2020
-21.01,64,54,Stage 2 - Bitam › Oyem,107,,,2020
-20.01,17,20,Stage 1 - Bitam › Ebolowa,149,,,2020
+24.01,60,34,Stage 5 - Lambaréné › Bifoun,82.0,,,2020
+23.01,3,38,Stage 4 - Lambaréné › Mouila,190.0,7,3,2020
+22.01,29,50,Stage 3 - Mitzic › Ndjolé,186.0,,,2020
+21.01,64,54,Stage 2 - Bitam › Oyem,107.0,,,2020
+20.01,17,20,Stage 1 - Bitam › Ebolowa,149.0,,,2020
 27.09 » 29.09,,,Konya Tour of Mevlana (2.2),,,,2019
 ,29,,General classification,,,,2019
 29.09,22,,Stage 3 - Konya  › Konya ,146.3,,,2019
 28.09,37,34,Stage 2 - Konya  › Konya ,136.2,,,2019
-27.09,4,4,Stage 1 - Konya  › Konya ,127,,,2019
+27.09,4,4,Stage 1 - Konya  › Konya ,127.0,,,2019
 21.09 » 22.09,,,Tour of Kayseri (2.2),,,,2019
 ,11,,General classification,,,,2019
 22.09,9,,Stage 2 - Kayseri  › Kayseri ,147.5,,,2019
@@ -67,21 +109,21 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.09,28,,Stage 2 - Kayseri › Kayseri,147.5,,,2019
 07.09,50,50,Stage 1 - Mazakaland › Mazakaland,132.2,,,2019
 06.09,14,,Grand Prix Velo Erciyes (1.2),142.3,,,2019
-29.08,12,,African Games - Road Race (CC),160,10,35,2019
-24.08,5,,African Games - TTT (CC),56,,,2019
-25.07,17,,Challenge du Prince - Trophée de la Maison Royale (1.2),140,,,2019
+29.08,12,,African Games - Road Race (CC),160.0,10,35,2019
+24.08,5,,African Games - TTT (CC),56.0,,,2019
+25.07,17,,Challenge du Prince - Trophée de la Maison Royale (1.2),140.0,,,2019
 24.07,20,,Challenge du Prince - Trophée de l'Anniversaire (1.2),,,,2019
-22.07,13,,Challenge du Prince - Trophée Princier (1.2),151,,,2019
-30.06,3,,National Championships Morocco - Road Race (NC),150,7,60,2019
+22.07,13,,Challenge du Prince - Trophée Princier (1.2),151.0,,,2019
+30.06,3,,National Championships Morocco - Road Race (NC),150.0,7,60,2019
 22.06 » 24.06,,,Challenge International du Sahara Marocain (2.2),,,,2019
 ,9,,Youth classification,,,,2019
 ,18,,General classification,,,,2019
-24.06,17,,Stage 3 - El Marsa › Boujdour,162,,,2019
-23.06,19,22,Stage 2 - Laayoune › Tarfaya,112,,,2019
-22.06,26,26,Stage 1 - Boukraa › Laayoune,106,,,2019
-20.06,5,,Les Challenges de la Marche Verte - GP Al Massira (1.2),113,2,15,2019
-19.06,19,,Les Challenges de la Marche Verte - GP Oued Eddahab (1.2),134,,,2019
-17.06,6,,Les Challenges de la Marche Verte - GP Sakia El Hamra (1.2),145,1,10,2019
+24.06,17,,Stage 3 - El Marsa › Boujdour,162.0,,,2019
+23.06,19,22,Stage 2 - Laayoune › Tarfaya,112.0,,,2019
+22.06,26,26,Stage 1 - Boukraa › Laayoune,106.0,,,2019
+20.06,5,,Les Challenges de la Marche Verte - GP Al Massira (1.2),113.0,2,15,2019
+19.06,19,,Les Challenges de la Marche Verte - GP Oued Eddahab (1.2),134.0,,,2019
+17.06,6,,Les Challenges de la Marche Verte - GP Sakia El Hamra (1.2),145.0,1,10,2019
 01.06 » 09.06,,,Tour du Cameroun (2.2),,,,2019
 ,3,,Youth classification,,,,2019
 ,11,,Mountains classification,,,,2019
@@ -89,7 +131,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,13,,General classification,,,,2019
 09.06,2,,Stage 8 - Bafia › Yaoundé,122.8,2,3,2019
 08.06,9,18,Stage 7 - Loum › Dschang,109.4,,,2019
-07.06,34,18,Stage 6 - Douala › Limbé,82,,,2019
+07.06,34,18,Stage 6 - Douala › Limbé,82.0,,,2019
 06.06,34,18,Stage 5 - Kribi › Douala,175.7,,,2019
 04.06,34,17,Stage 4 - Pouma › Kribi,154.4,,,2019
 03.06,15,17,Stage 3 - Yaoundé › Ebolowa,151.3,,,2019
@@ -100,36 +142,36 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,25,,Mountains classification,,,,2019
 ,27,,Points classification,,,,2019
 ,25,,General classification,,,,2019
-14.04,21,,Stage 10 - Settat › Casablanca,123,,,2019
+14.04,21,,Stage 10 - Settat › Casablanca,123.0,,,2019
 13.04,23,26,Stage 9 - Beni Mellal › Marrakech,188.5,,,2019
 12.04,8,26,Stage 8 - Khemisset › Khouribga,177.5,,,2019
-11.04,8,28,Stage 7 - Fès › Meknès,144,,,2019
-10.04,36,30,Stage 6 - Guercif › Fès,181,,,2019
-09.04,74,31,Stage 5 - Nador › Oujda,154,,,2019
-08.04,35,28,Stage 4 - Al Hoceima › Nador,128,,,2019
-07.04,23,28,Stage 3 - Oued Laou › Al Hoceima,183,,,2019
+11.04,8,28,Stage 7 - Fès › Meknès,144.0,,,2019
+10.04,36,30,Stage 6 - Guercif › Fès,181.0,,,2019
+09.04,74,31,Stage 5 - Nador › Oujda,154.0,,,2019
+08.04,35,28,Stage 4 - Al Hoceima › Nador,128.0,,,2019
+07.04,23,28,Stage 3 - Oued Laou › Al Hoceima,183.0,,,2019
 06.04,92,72,Stage 2 - Tanger › Martil,140.5,,,2019
-05.04,67,67,Stage 1 - Souk el Arbaa › Tanger,159,,,2019
+05.04,67,67,Stage 1 - Souk el Arbaa › Tanger,159.0,,,2019
 31.01 » 04.02,,,Coupe des Nations de l'Espoir Blue Line (2.Ncup),,,,2018
 ,17,,Points classification,,,,2018
 ,8,,General classification,,3,10,2018
 04.02,12,,Stage 4 - Akono › Yaoundé,71.5,,,2018
 03.02,12,9,Stage 3 - Yaoundé › Yaoundé,101.8,,,2018
-01.02,24,12,Stage 2 - Idenao › Douala,147,,,2018
-31.01,12,12,Stage 1 - Douala › Douala,92,,,2018
+01.02,24,12,Stage 2 - Idenao › Douala,147.0,,,2018
+31.01,12,12,Stage 1 - Douala › Douala,92.0,,,2018
 27.10 » 05.11,,,Tour du Faso (2.2),,,,2017
 ,29,,Points classification,,,,2017
 ,12,,General classification,,,,2017
 05.11,20,,Stage 10 - Korsimoro › Ouagadougou,110.7,,,2017
-04.11,30,12,Stage 9 - Dedougou › Koudougou,131,,,2017
+04.11,30,12,Stage 9 - Dedougou › Koudougou,131.0,,,2017
 03.11,32,11,Stage 8 - Bobo Dioulasso › Dedougou,171.6,,,2017
-02.11,17,9,Stage 7 - Banfora › Bobo Dioulasso,120,,,2017
-01.11,30,14,Stage 6 - Dano › Gaoua,113,,,2017
-31.10,51,15,Stage 5 - Kokologho › Boromo,136,,,2017
-30.10,32,15,Stage 4 - Yako › Ziniare,143,,,2017
-29.10,16,16,Stage 3 - Bousse › Ouahigouya,130,,,2017
-28.10,21,11,Stage 2 - Garango › Zorgho,95,,,2017
-27.10,12,13,Stage 1 - Koulbila › Tenkodogo,139,,,2017
+02.11,17,9,Stage 7 - Banfora › Bobo Dioulasso,120.0,,,2017
+01.11,30,14,Stage 6 - Dano › Gaoua,113.0,,,2017
+31.10,51,15,Stage 5 - Kokologho › Boromo,136.0,,,2017
+30.10,32,15,Stage 4 - Yako › Ziniare,143.0,,,2017
+29.10,16,16,Stage 3 - Bousse › Ouahigouya,130.0,,,2017
+28.10,21,11,Stage 2 - Garango › Zorgho,95.0,,,2017
+27.10,12,13,Stage 1 - Koulbila › Tenkodogo,139.0,,,2017
 18.08 » 27.08,,,Tour de l'Avenir (2.Ncup),,,,2017
 25.08,DNF,,Stage 7 - Saint-Gervais Mont-Blanc › Hauteluce-Les Saisies,118.4,,,2017
 23.08,128,135,Stage 6 - Montrichard › Saint-Amand-Montrond ,139.1,,,2017
@@ -137,44 +179,44 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.08,111,136,Stage 4 - Derval › Saumur,166.6,,,2017
 20.08,129,138,Stage 3 - Missilla › Châteaubriant ,125.7,,,2017
 19.08,139,141,Stage 2 - Inzinzac-Lochrist › Bignan,132.4,,,2017
-18.08,140,140,Stage 1 - Loudéac › Loudéac,134,,,2017
+18.08,140,140,Stage 1 - Loudéac › Loudéac,134.0,,,2017
 20.05,5,,National Championships Morocco U23 - Road Race (NC),,,,2017
 07.04 » 16.04,,,Tour du Maroc (2.2),,,,2017
 ,15,,Youth classification,,,,2017
 ,50,,General classification,,,,2017
-16.04,23,,Stage 10 - Rabat › Casablanca,120,,,2017
+16.04,23,,Stage 10 - Rabat › Casablanca,120.0,,,2017
 15.04,21,51,Stage 9 - Meknès › Rabat,138.2,,,2017
 14.04,29,51,Stage 8 - Fès › Meknès,148.5,,,2017
 13.04,37,54,Stage 7 - Guercif › Fès,184.5,,,2017
-12.04,24,55,Stage 6 - Nador › Oujda,161,,,2017
-11.04,30,60,Stage 5 - El Hoceima › Nador,155,,,2017
+12.04,24,55,Stage 6 - Nador › Oujda,161.0,,,2017
+11.04,30,60,Stage 5 - El Hoceima › Nador,155.0,,,2017
 10.04,64,61,Stage 4 - Oued Laou › El Hoceima,191.5,,,2017
 09.04,34,66,Stage 3 - Tanger › Martil,145.1,,,2017
-08.04,59,73,Stage 2 - Kènitra › Larache,146,,,2017
+08.04,59,73,Stage 2 - Kènitra › Larache,146.0,,,2017
 07.04,70,72,Stage 1 - Benslimane › Kènitra,148.7,,,2017
 12.02,34,,Challenge du Prince - Trophée de la Maison Royale (1.2),133.5,,,2017
-11.02,DNF,,Challenge du Prince - Trophée de l'Anniversaire (1.2),125,,,2017
-09.02,41,,Challenge du Prince - Trophée Princier (1.2),120,,,2017
-06.02,DNF,,Les Challenges de la Marche Verte - GP Al Massira (1.2),140,,,2017
-05.02,40,,Les Challenges de la Marche Verte - GP Oued Eddahab (1.2),104,,,2017
-16.08,DNF,,GP Capodarco - Comunità di Capodarco (1.2U),180,,,2016
+11.02,DNF,,Challenge du Prince - Trophée de l'Anniversaire (1.2),125.0,,,2017
+09.02,41,,Challenge du Prince - Trophée Princier (1.2),120.0,,,2017
+06.02,DNF,,Les Challenges de la Marche Verte - GP Al Massira (1.2),140.0,,,2017
+05.02,40,,Les Challenges de la Marche Verte - GP Oued Eddahab (1.2),104.0,,,2017
+16.08,DNF,,GP Capodarco - Comunità di Capodarco (1.2U),180.0,,,2016
 17.07,8,,National Championships Morocco - Road Race (NC),,,10,2016
-08.05,DNF,,Challenge du Prince - Trophée de la Maison Royale (1.2),154,,,2016
+08.05,DNF,,Challenge du Prince - Trophée de la Maison Royale (1.2),154.0,,,2016
 07.05,DNF,,Challenge du Prince - Trophée de l'Anniversaire (1.2),170.5,,,2016
 05.05,21,,Challenge du Prince - Trophée Princier (1.2),142.5,,,2016
 23.04 » 30.04,,,Tour du Sénégal (2.2),,,,2016
-25.04,OTL,,Stage 3 - St. Louis › Thies,200,,,2016
-24.04,34,24,Stage 2 - Tivaouane  › St. Louis,165,,,2016
+25.04,OTL,,Stage 3 - St. Louis › Thies,200.0,,,2016
+24.04,34,24,Stage 2 - Tivaouane  › St. Louis,165.0,,,2016
 23.04,16,17,Stage 1 - Dakar › Tivaouane ,70.5,,,2016
 21.07 » 26.07,,,Tour de l'Abitibi Desjardins - Coupe des Nations Junior (2.Ncup),,,,2015
 ,41,,General classification,,5,,2015
 26.07,48,,Stage 7 - Senneterre › Val-d'Or,119.4,,,2015
 25.07,68,53,Stage 6 - Preissac › Val-d'Or,93.6,,,2015
-24.07,109,52,Stage 5 - Lebel-sur-Quévillon › Lebel-sur-Quévillon,104,,,2015
+24.07,109,52,Stage 5 - Lebel-sur-Quévillon › Lebel-sur-Quévillon,104.0,,,2015
 23.07,20,54,Stage 4 - Malartic › Malartic,51.5,,,2015
 23.07,81,61,Stage 3 (ITT) - Val-d'Or › Val-d'Or,10.6,,,2015
 22.07,35,61,Stage 2 - Amos › Val-d'Or,104.4,,,2015
 21.07,102,103,Stage 1 - Rouyn-Noranda › Amos,118.2,,,2015
-12.02,7,,African Continental Championships MJ - Road Race (CC),65,,,2015
-10.02,5,,African Continental Championships MJ - ITT (CC),24,,,2015
-09.02,2,,African Continental Championships MJ - TTT (CC),24,,,2015
+12.02,7,,African Continental Championships MJ - Road Race (CC),65.0,,,2015
+10.02,5,,African Continental Championships MJ - ITT (CC),24.0,,,2015
+09.02,2,,African Continental Championships MJ - TTT (CC),24.0,,,2015

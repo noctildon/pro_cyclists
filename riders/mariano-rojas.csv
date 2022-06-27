@@ -12,7 +12,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.04,2,,Stage 4a (ITT) - Vivoin › Vivoin ,20,12,,1996
 12.04,3,,Stage 3 - Château-du-Loir  › Sillé-le-Guillaume ,199,7,,1996
 30.03 » 01.04,,,Critérium International () ,,,,1996
-,17,,General classification ,,14,,1996
 01.04,13,,Stage 3 (ITT) - Castres  › Castres  ,6.5,,,1996
 31.03,17,,Stage 2 - Mazamet  › Mazamet  ,80,,,1996
 30.03,36,,Stage 1 - Gaillac  › Gaillac  ,191,,,1996
@@ -25,47 +24,72 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,3,,General classification ,,50,,1996
 01.03,3,,Stage 4 - Cullera  › Vall de Uxó  ,196,7,,1996
 25.02,8,,Trofeo Luis Puig (1.2) ,201,18,,1996
+02.06 » 09.06,,,Critérium du Dauphiné Libéré () ,,,,1996
+07.06,7,,Stage 5 (ITT) - Gigondas › Beaumes-de-Venise ,42.1,4,,1996
+05.06,3,,Stage 3 - Saint-Maurice-de-Lignon  › Tournon-sur-Rhône ,175.0,18,,1996
+04.06,16,,Stage 2 - Charbonnières › Firminy ,195.0,,,1996
+03.06,10,,Stage 1 - Megève  › Villefontaine ,227.0,1,,1996
+01.06,20,,Classique des Alpes () ,189.0,6,,1996
+21.05 » 26.05,,,GP du Midi-Libre () ,,,,1996
+,17,,General classification ,,14,,1996
+10.04 » 13.04,,,Circuit Cycliste Sarthe - Pays de la Loire (2.3) ,,,,1996
+,2,,General classification ,,70,,1996
+13.04,2,,Stage 4a (ITT) - Vivoin › Vivoin ,20.0,12,,1996
+12.04,3,,Stage 3 - Château-du-Loir  › Sillé-le-Guillaume ,199.0,7,,1996
+30.03 » 01.04,,,Critérium International () ,,,,1996
+01.04,13,,Stage 3 (ITT) - Castres  › Castres  ,6.5,,,1996
+31.03,17,,Stage 2 - Mazamet  › Mazamet  ,80.0,,,1996
+30.03,36,,Stage 1 - Gaillac  › Gaillac  ,191.0,,,1996
+10.03 » 17.03,,,Paris - Nice () ,,,,1996
+,12,,General classification ,,55,,1996
+17.03,8,,Stage 8b (ITT) - Antibes › Nice ,18.0,3,,1996
+14.03,11,,Stage 5 - Millau › Millau ,162.6,,,1996
+13.03,10,,Stage 4 - Maurs › Millau ,162.6,1,,1996
+27.02 » 02.03,,,Vuelta Ciclista a la Comunidad Valenciana () ,,,,1996
+,3,,General classification ,,50,,1996
+01.03,3,,Stage 4 - Cullera  › Vall de Uxó  ,196.0,7,,1996
+25.02,8,,Trofeo Luis Puig (1.2) ,201.0,18,,1996
 06.09 » 17.09,,,Tour de l'Avenir () ,,,,1995
 ,4,,General classification ,,11,,1995
-17.09,4,,Stage 11 (ITT) - Trégunc › Trégunc  ,22,,,1995
+17.09,4,,Stage 11 (ITT) - Trégunc › Trégunc  ,22.0,,,1995
 06.09,2,,Prologue - La Châtre › La Châtre ,4.7,2,,1995
 13.08,18,,Subida a Urkiola () ,160.6,3,,1995
 01.07 » 23.07,,,Tour de France () ,,,,1995
-18.07,DNF,,Stage 15 - Saint Girons › Cauterets ,207,,,1995
-16.07,26,19,Stage 14 - Saint Orens de Gameville › Guzet-Neige ,159,,,1995
-15.07,73,20,Stage 13 - Mendé › Revel ,223,,,1995
-14.07,27,19,Stage 12 - Saint-Etienne › Mendé ,223,,,1995
-13.07,30,,Stage 11 - Bourg d'Oisans › Saint-Etienne ,198,,,1995
-12.07,35,,Stage 10 - Aime › L'Alpe d'Huez ,159,,,1995
-11.07,25,15,Stage 9 - Le Grand Bornand › La Plagne ,166,,,1995
-09.07,14,12,Stage 8 (ITT) - Huy › Séraing ,54,2,,1995
-08.07,25,10,Stage 7 - Charleroi › Liège ,200,,,1995
-07.07,39,12,Stage 6 - Dunkirk › Charleroi ,191,,,1995
-06.07,51,12,Stage 5 - Fécamp › Dunkirk ,264,,,1995
-05.07,62,12,Stage 4 - Alençon › Le Havre ,154,,,1995
-04.07,2,13,Stage 3 (TTT) - Mayenne › Alençon ,64,40,,1995
-03.07,54,,Stage 2 - Perros Guirec › Vitré ,241,,,1995
-02.07,91,,Stage 1 - Dinan › Lannion ,228,,,1995
+18.07,DNF,,Stage 15 - Saint Girons › Cauterets ,207.0,,,1995
+16.07,26,19,Stage 14 - Saint Orens de Gameville › Guzet-Neige ,159.0,,,1995
+15.07,73,20,Stage 13 - Mendé › Revel ,223.0,,,1995
+14.07,27,19,Stage 12 - Saint-Etienne › Mendé ,223.0,,,1995
+13.07,30,,Stage 11 - Bourg d'Oisans › Saint-Etienne ,198.0,,,1995
+12.07,35,,Stage 10 - Aime › L'Alpe d'Huez ,159.0,,,1995
+11.07,25,15,Stage 9 - Le Grand Bornand › La Plagne ,166.0,,,1995
+09.07,14,12,Stage 8 (ITT) - Huy › Séraing ,54.0,2,,1995
+08.07,25,10,Stage 7 - Charleroi › Liège ,200.0,,,1995
+07.07,39,12,Stage 6 - Dunkirk › Charleroi ,191.0,,,1995
+06.07,51,12,Stage 5 - Fécamp › Dunkirk ,264.0,,,1995
+05.07,62,12,Stage 4 - Alençon › Le Havre ,154.0,,,1995
+04.07,2,13,Stage 3 (TTT) - Mayenne › Alençon ,64.0,40,,1995
+03.07,54,,Stage 2 - Perros Guirec › Vitré ,241.0,,,1995
+02.07,91,,Stage 1 - Dinan › Lannion ,228.0,,,1995
 01.07,13,13,Prologue - Saint-Brieuc › Saint-Brieuc ,7.3,4,,1995
-25.06,13,,National Championships Spain - Road Race (NC) ,220,,,1995
+25.06,13,,National Championships Spain - Road Race (NC) ,220.0,,,1995
 13.06 » 22.06,,,Tour de Suisse () ,,,,1995
 ,23,,General classification ,,14,,1995
 24.05 » 29.05,,,GP du Midi-Libre () ,,,,1995
 ,4,,General classification ,,80,,1995
-27.05,10,,Stage 4 - Carcassonne › Sète  ,191,,,1995
-25.05,10,,Stage 2b - Laissac  › Rodez ,90,,,1995
-24.05,7,,Stage 1 - Beaucaire › La Canourgue  ,206,2,,1995
+27.05,10,,Stage 4 - Carcassonne › Sète  ,191.0,,,1995
+25.05,10,,Stage 2b - Laissac  › Rodez ,90.0,,,1995
+24.05,7,,Stage 1 - Beaucaire › La Canourgue  ,206.0,2,,1995
 27.04 » 30.04,,,Vuelta a los Valles Mineros () ,,,,1995
-30.04,8,,Stage 4 ,151,1,,1995
+30.04,8,,Stage 4 ,151.0,1,,1995
 01.03 » 05.03,,,Vuelta a Murcia () ,,,,1995
 ,16,,General classification ,,5,,1995
 13.02 » 17.02,,,Vuelta a Andalucia Ruta Ciclista Del Sol (2.3) ,,,,1995
 ,3,,General classification ,,50,,1995
-17.02,2,,Stage 5 - Torredonjimeno › Granada ,182,12,,1995
+17.02,2,,Stage 5 - Torredonjimeno › Granada ,182.0,12,,1995
 06.09 » 17.09,,,Tour de l'Avenir () ,,,,1994
 17.09,4,,Stage 11 (ITT) - Le Pluy du Fou › Le Pluy du Fou ,19.5,,,1994
-12.09,8,,Stage 6 - Mauron ›  Le Mont Saint-Michel  ,134,,,1994
-07.08,16,,Subida a Urkiola () ,160,5,,1994
+12.09,8,,Stage 6 - Mauron ›  Le Mont Saint-Michel  ,134.0,,,1994
+07.08,16,,Subida a Urkiola () ,160.0,5,,1994
 14.06 » 18.06,,,GP du Midi-Libre () ,,,,1994
 ,16,,General classification ,,16,,1994
 30.05 » 06.06,,,Critérium du Dauphiné Libéré () ,,,,1994

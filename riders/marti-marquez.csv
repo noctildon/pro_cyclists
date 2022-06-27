@@ -1,4 +1,47 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,DNF,,National Championships Spain - Road Race (NC) ,186.1,,,2022
+15.06 » 19.06,,,Tour of Slovenia (2.Pro) ,,,,2022
+,51,,Points classification ,,,,2022
+,49,,General classification ,,,,2022
+19.06,89,,Stage 5 - Vrhnika › Novo mesto ,155.7,,,2022
+18.06,45,49,Stage 4 - Laško › Velika planina ,152.4,,,2022
+17.06,88,59,Stage 3 - Žalec › Celje ,144.6,,,2022
+16.06,84,45,Stage 2 - Ptuj › Rogaška Slatina  102k,174.2,,,2022
+15.06,39,39,Stage 1 - Nova Gorica › Postojna ,164.7,,,2022
+26.05 » 29.05,,,Boucles de la Mayenne - Crédit Mutuel (2.Pro) ,,,,2022
+,65,,General classification ,,,,2022
+29.05,65,,Stage 4 - Martigné-sur-Mayenne › Laval ,180,,,2022
+28.05,51,72,Stage 3 - Saint-Berthevin › Château-Gontier-sur-Mayenne  62k,188,,,2022
+27.05,70,79,Stage 2 - Jublains › Pré-en-Pail-Saint-Samson ,171,,,2022
+26.05,70,73,Stage 1 - Saint-Pierre-des-Landes › Andouillé ,180,,,2022
+14.05,46,,Grand Prix du Morbihan (1.Pro) ,185.4,,,2022
+10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro) ,,,,2022
+,83,,General classification ,,,,2022
+16.04,114,83,Stage 7 - Gelibolu › Tekirdağ ,131.3,,,2022
+15.04,135,50,Stage 6 - Edremit (Akçay) › Eceabat (57.Alay Şehitliği) ,201.5,,,2022
+14.04,82,40,Stage 5 - Manisa › Ayvalık ,186.1,,,2022
+13.04,55,42,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park) ,146.2,,,2022
+12.04,64,41,Stage 3 - Çeşme › İzmir (Karşıyaka) ,117.9,,,2022
+11.04,57,42,Stage 2 - Selçuk (Efes) › Alaçatı ,156.4,,,2022
+10.04,67,67,Stage 1 - Bodrum › Kuşadası ,202,,,2022
+27.03,53,,GP Industria  (1.Pro) ,192.2,,,2022
+20.03,74,,Cholet - Pays de la Loire (1.1) ,202,,,2022
+19.03,56,,Classic Loire Atlantique (1.1) ,182.8,,,2022
+02.03,69,,Trofeo Laigueglia (1.Pro) ,202,,,2022
+18.02 » 20.02,,,Tour des Alpes Maritimes et du Var (2.1) ,,,,2022
+,44,,General classification ,,,,2022
+20.02,31,,Stage 3 - Villefranche-sur-Mer › Blausasc ,112.6,,,2022
+19.02,73,68,Stage 2 - Puget-Théniers › La Turbie ,149.1,,,2022
+18.02,55,59,Stage 1 - Saint-Raphaël  › La Seyne-sur-Mer ,176.3,,,2022
+02.02 » 06.02,,,Etoile de Bessèges - Tour du Gard (2.1) ,,,,2022
+,9,,Mountains classification ,,,,2022
+,109,,General classification ,,,,2022
+06.02,51,,Stage 5 (ITT) - Alès › Alès l'Ermitage ,10.64,,,2022
+05.02,122,115,Stage 4 - Saint-Hilaire-de-Brethmas › Le Mont Bouquet ,146.71,,,2022
+04.02,119,105,Stage 3 - Bessèges › Bessèges ,155.65,,,2022
+03.02,104,90,Stage 2 - Saint-Christol-lèz-Alès › Rousson ,156.21,,,2022
+02.02,99,99,Stage 1 - Bellegarde › Bellegarde ,160.86,,,2022
+30.01,25,,Grand Prix Cycliste de Marseille La Marseillaise (1.1) ,174.3,,3,2022
 10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro),,,,2022
 ,83,,General classification,,,,2022
 16.04,114,83,Stage 7 - Gelibolu › Tekirdağ,131.3,,,2022
@@ -7,11 +50,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.04,55,42,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park),146.2,,,2022
 12.04,64,41,Stage 3 - Çeşme › İzmir (Karşıyaka),117.9,,,2022
 11.04,57,42,Stage 2 - Selçuk (Efes) › Alaçatı,156.4,,,2022
-10.04,67,67,Stage 1 - Bodrum › Kuşadası,202,,,2022
+10.04,67,67,Stage 1 - Bodrum › Kuşadası,202.0,,,2022
 27.03,53,,GP Industria  (1.Pro),192.2,,,2022
-20.03,74,,Cholet - Pays de la Loire (1.1),202,,,2022
+20.03,74,,Cholet - Pays de la Loire (1.1),202.0,,,2022
 19.03,56,,Classic Loire Atlantique (1.1),182.8,,,2022
-02.03,69,,Trofeo Laigueglia (1.Pro),202,,,2022
+02.03,69,,Trofeo Laigueglia (1.Pro),202.0,,,2022
 18.02 » 20.02,,,Tour des Alpes Maritimes et du Var (2.1),,,,2022
 ,44,,General classification,,,,2022
 20.02,31,,Stage 3 - Villefranche-sur-Mer › Blausasc,112.6,,,2022
@@ -33,12 +76,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,33,,Mountains classification,,,,2021
 ,19,,General classification,,,,2021
 26.09,21,,Stage 7 - Guitté › Dinan,155.3,,,2021
-25.09,31,22,Stage 6 - Quédillac › Fougères,166,,,2021
-24.09,60,25,Stage 5 - Châteaubriant › Boisgervilly,217,,,2021
+25.09,31,22,Stage 6 - Quédillac › Fougères,166.0,,,2021
+24.09,60,25,Stage 5 - Châteaubriant › Boisgervilly,217.0,,,2021
 23.09,60,26,Stage 4 - Ploeren › Louisfert,167.6,,,2021
 22.09,33,27,Stage 3 - Rosporden › Brandivy,170.5,,,2021
 21.09,37,37,Stage 2 - Corlay › Rosporden,169.1,,,2021
-20.09,35,38,Stage 1 - Le Cambout › Allineuc,159,,,2021
+20.09,35,38,Stage 1 - Le Cambout › Allineuc,159.0,,,2021
 26.08 » 29.08,,,Deutschland Tour (2.Pro),,,,2021
 29.08,DNF,,Stage 4 - Erlangen › Nürnberg,156.3,,,2021
 28.08,84,92,Stage 3 - Ilmenau  › Erlangen,193.9,,,2021
@@ -66,24 +109,23 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.06,56,45,Stage 3 - Pierrefitte-Nestalas › Le Mourtis,191.8,,,2021
 11.06,75,49,Stage 2 - Villefranche-De-Rouergue › Auch,198.7,,,2021
 10.06,49,49,Stage 1 - Cazouls-Lès-Béziers › Lacaune Les Bains ,156.5,,,2021
-08.06,50,,Mont Ventoux Dénivelé Challenge (1.1),153,,,2021
+08.06,50,,Mont Ventoux Dénivelé Challenge (1.1),153.0,,,2021
 27.05 » 30.05,,,Tour de la Mirabelle (2.2),,,,2021
 ,5,,Mountains classification,,,,2021
 ,26,,Points classification,,,,2021
 ,4,,General classification,,11,20,2021
 30.05,34,,Stage 3 - Lunéville › Damelevières,189.5,,,2021
-29.05,7,4,Stage 2 - Neufchâteau › Saint-Amarin,177,,,2021
+29.05,7,4,Stage 2 - Neufchâteau › Saint-Amarin,177.0,,,2021
 28.05,14,13,Stage 1 - Pont-à-Mousson › Lesménils,158.8,,,2021
 27.05,39,39,Prologue - Tomblaine › Tomblaine,3.1,,,2021
 19.05 » 23.05,,,Alpes Isère Tour (2.2),,,,2021
 ,29,,Points classification,,,,2021
-,19,,General classification,,,,2021
 23.05,9,,Stage 5 - Pressins › Crolles,141.4,,,2021
-22.05,48,40,Stage 4 - Les Roches-de-Condrieu › Saint-Maurice-l'Exil,174,,,2021
+22.05,48,40,Stage 4 - Les Roches-de-Condrieu › Saint-Maurice-l'Exil,174.0,,,2021
 21.05,31,38,Stage 3 - Saint-Exupéry › Pusignan,157.8,,,2021
 20.05,60,49,Stage 2 - Saint-Jean-de-Soudain › La Verpillière,167.3,,,2021
 19.05,51,53,Stage 1 - Charvieu-Chavagneux › Charvieu-Chavagneux,136.4,,,2021
-16.05,DNF,,Tro-Bro Léon (1.Pro),207,,,2021
+16.05,DNF,,Tro-Bro Léon (1.Pro),207.0,,,2021
 05.05 » 09.05,,,Volta ao Algarve em Bicicleta (2.Pro),,,,2021
 ,21,,General classification,,6,5,2021
 09.05,35,,Stage 5 - Albufeira › Malhão,170.1,,,2021
@@ -104,7 +146,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,40,,Points classification,,,,2021
 ,15,,General classification,,6,5,2021
 07.02,76,,Stage 5 (ITT) - Alès › Alès,10.74,,,2021
-06.02,31,14,Stage 4 - Rousson › Saint-Siffret,152,,,2021
+06.02,31,14,Stage 4 - Rousson › Saint-Siffret,152.0,,,2021
 05.02,12,15,Stage 3 - Bessèges › Bessèges,156.9,,,2021
 04.02,96,116,Stage 2 - Saint-Geniès › La Calmette,153.8,,,2021
 03.02,120,120,Stage 1 - Bellegarde › Bellegarde,143.6,,,2021
@@ -112,27 +154,27 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.01,27,,Clàssica Comunitat Valenciana 1969 - Gran Premio Valencia (1.2),96.9,,,2021
 08.10 » 11.10,,,Giro della Regione Friuli Venezia Giulia (2.2),,,,2020
 11.10,DNF,,Stage 4 - Percoto › Martignacco,175.4,,,2020
-10.10,61,57,Stage 3 - San Vito al Tagliamento  › Buja,148,,,2020
+10.10,61,57,Stage 3 - San Vito al Tagliamento  › Buja,148.0,,,2020
 09.10,95,82,Stage 2 - Variano › San Marco di Mereto di Tomba,164.5,,,2020
 08.10,6,88,Stage 1 (TTT) - Aquileia › Grado,23.7,,,2020
 27.09,64,,Paris-Chauny (1.1),203.1,,,2020
 04.09 » 07.09,,,Belgrade Banjaluka (2.1),,,,2020
 ,2,,General classification,,70,85,2020
 07.09,20,,Stage 4 - Derventa › Banjaluka,158.3,,,2020
-06.09,16,2,Stage 3 - Teslić › Prnjavor,122,,,2020
-05.09,3,2,Stage 2 - Bijeljina › Vlasenica,181,7,3,2020
-04.09,8,8,Stage 1 - Beograd › Bijeljina,134,1,,2020
+06.09,16,2,Stage 3 - Teslić › Prnjavor,122.0,,,2020
+05.09,3,2,Stage 2 - Bijeljina › Vlasenica,181.0,7,3,2020
+04.09,8,8,Stage 1 - Beograd › Bijeljina,134.0,1,,2020
 01.09 » 03.09,,,Tour de Serbie (2.2),,,,2020
 ,2,,Mountains classification,,,,2020
 ,8,,General classification,,3,3,2020
-03.09,16,,Stage 3 - Zrenjanin › Novi Sad,100,,,2020
-02.09,2,8,Stage 2 - Mionica › Požarevac,160,2,3,2020
-01.09,33,33,Stage 1 - Jahorina › Zlatibor,170,,,2020
+03.09,16,,Stage 3 - Zrenjanin › Novi Sad,100.0,,,2020
+02.09,2,8,Stage 2 - Mionica › Požarevac,160.0,2,3,2020
+01.09,33,33,Stage 1 - Jahorina › Zlatibor,170.0,,,2020
 23.08,DNF,,National Championships Spain - Road Race (NC),185.1,,,2020
 18.08 » 21.08,,,Tour du Limousin - Nouvelle Aquitaine (2.1),,,,2020
 ,3,,Youth classification,,,,2020
 ,11,,General classification,,12,15,2020
-21.08,18,,Stage 4 - Lac de Saint-Pardoux › Limoges,167,,,2020
+21.08,18,,Stage 4 - Lac de Saint-Pardoux › Limoges,167.0,,,2020
 20.08,15,12,Stage 3 - Ussac › Chamberet,177.9,,,2020
 19.08,32,21,Stage 2 - Base Départementale de Rouffiac › Grand Etang de Saint-Estèph,173.9,,,2020
 18.08,22,22,Stage 1 - Couzeix › Evaux-Les-Bains,183.5,,,2020
@@ -140,7 +182,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,16,,Youth classification,,,,2020
 ,6,,Mountains classification,,,,2020
 ,49,,General classification,,,,2020
-04.08,104,,Stage 4 - Lectoure › Rocamadour,195,,,2020
+04.08,104,,Stage 4 - Lectoure › Rocamadour,195.0,,,2020
 03.08,35,33,Stage 3 - Saint-Gaudens › Col de Beyrède,163.5,,,2020
 02.08,28,19,Stage 2 - Carcassonne › Cap Découverte,182.5,,,2020
 01.08,18,19,Stage 1 - Saint-Affrique › Cazouls-lès-Béziers,189.5,,,2020
@@ -149,7 +191,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.02,DNF,,Stage 2 - Santomera › Murcia,179.6,,,2020
 14.02,82,82,Stage 1 - Los Alcázares › Caravaca de la Cruz,177.6,,,2020
 05.02 » 09.02,,,Etoile de Bessèges (2.1),,,,2020
-,2,,Mountains classification,,,,2020
 ,22,,Points classification,,,,2020
 ,106,,General classification,,,,2020
 09.02,110,,Stage 5 (ITT) - Alès › Alès,10.7,,,2020
@@ -193,7 +234,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.06,71,,National Championships Spain U23 - Road Race (NC),145.8,,,2017
 29.04 » 01.05,,,Vuelta Asturias Julio Alvarez Mendo (2.1),,,,2017
 ,69,,General classification,,,,2017
-01.05,43,,Stage 3 - Cangas del Narcea › Oviedo (Uría),120,,,2017
-30.04,82,82,Stage 2 - Ribera de Arriba › Alto del Acebo (Cangas de Narcea),177,,,2017
+01.05,43,,Stage 3 - Cangas del Narcea › Oviedo (Uría),120.0,,,2017
+30.04,82,82,Stage 2 - Ribera de Arriba › Alto del Acebo (Cangas de Narcea),177.0,,,2017
 29.04,103,103,Stage 1 - Oviedo › Pola de Lena,169.2,,,2017
 07.09,27,,National Championships Spain MJ - Road Race (NC),116.5,,,2014

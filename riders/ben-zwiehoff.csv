@@ -1,4 +1,56 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,24,,National Championships Germany - Road Race (NC) ,210,,,2022
+06.05 » 29.05,,,Giro d'Italia (2.UWT) ,,,,2022
+,51,,General classification ,,20,12,2022
+29.05,67,,Stage 21 (ITT) - Verona › Verona ,17.4,,,2022
+28.05,52,51,Stage 20 - Belluno › Marmolada (Passo Fedaia) ,168,,,2022
+27.05,47,50,Stage 19 - Marano Lagunare › Santuario di Castelmonte ,178,,,2022
+26.05,86,52,Stage 18 - Borgo Valsugana › Treviso ,156,,,2022
+25.05,33,53,Stage 17 - Ponte di Legno › Lavarone ,168,,,2022
+24.05,55,60,Stage 16 - Salò › Aprica ,202,,,2022
+22.05,52,61,Stage 15 - Rivarolo Canavese › Cogne ,177,,,2022
+21.05,43,64,Stage 14 - Santena › Torino ,147,,,2022
+20.05,97,73,Stage 13 - Sanremo › Cuneo ,150,,,2022
+19.05,48,73,Stage 12 - Parma › Genova ,204,,,2022
+18.05,22,72,Stage 11 - Santarcangelo di Romagna › Reggio Emilia ,203,,,2022
+17.05,36,74,Stage 10 - Pescara › Jesi ,196,,,2022
+15.05,60,77,Stage 9 - Isernia › Blockhaus ,191,,,2022
+14.05,117,85,Stage 8 - Napoli › Napoli ,153,,,2022
+13.05,92,82,Stage 7 - Diamante › Potenza ,196,,,2022
+12.05,88,66,Stage 6 - Palmi › Scalea ,192,,,2022
+11.05,115,66,Stage 5 - Catania › Messina ,174,,,2022
+10.05,61,65,Stage 4 - Avola › Etna ,172,,,2022
+08.05,129,117,Stage 3 - Kaposvár › Balatonfüred ,201,,,2022
+07.05,80,118,Stage 2 (ITT) - Budapest › Budapest ,9.2,,,2022
+06.05,129,129,Stage 1 - Budapest › Visegrád ,195,,,2022
+01.05,72,,Eschborn-Frankfurt (1.UWT) ,185,5,,2022
+18.04 » 22.04,,,Tour of the Alps (2.Pro) ,,,,2022
+21.04,DNS,,Stage 4 - Villabassa › Kals am Grossglockner ,142.4,,,2022
+20.04,93,73,Stage 3 - Lana › Villabassa ,154.6,,,2022
+19.04,70,71,Stage 2 - Primiero/S. Martino di Castrozza › Lana ,154.1,,,2022
+18.04,68,68,Stage 1 - Cles › Primiero/S. Martino di Castrozza  123k,160.9,,,2022
+21.03 » 27.03,,,Volta Ciclista a Catalunya (2.UWT) ,,,,2022
+,63,,General classification ,,5,,2022
+27.03,51,,Stage 7 - Barcelona › Barcelona ,138.6,,,2022
+26.03,63,68,Stage 6 - Salou › Cambrils ,168.6,,,2022
+25.03,57,59,Stage 5 - La Pobla de Segur › Vilanova i la Geltrú ,206.3,,,2022
+24.03,52,59,Stage 4 - La Seu d'Urgell › Boí Taüll ,166.7,,,2022
+23.03,55,77,Stage 3 - Perpignan › La Molina ,161.1,,,2022
+22.03,135,96,Stage 2 - L'Escala › Perpignan ,202.4,,,2022
+21.03,98,98,Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols ,171.2,,,2022
+05.03,43,,Strade Bianche (1.UWT) ,184,5,5,2022
+27.02,96,,Drôme Classic (1.Pro) ,191.5,,,2022
+26.02,87,,Faun-Ardèche Classic (1.Pro) ,168.5,,,2022
+02.02 » 06.02,,,Volta a la Comunitat Valenciana (2.Pro) ,,,,2022
+,32,,General classification ,,,3,2022
+06.02,114,,Stage 5 - Paterna › Valencia ,92,,,2022
+05.02,77,27,Stage 4 - Orihuela › Torrevieja  ,193.1,,,2022
+04.02,38,32,Stage 3 - Alicante › Antenas del Maigmó ,155.1,,,2022
+03.02,50,21,Stage 2 - Bétera › Torrent ,171.5,,,2022
+02.02,21,21,Stage 1 - Les Alqueries › Torralba del Pinar ,166.7,,,2022
+28.01,9,,Trofeo Serra de Tramuntana (1.1) ,158.9,16,25,2022
+27.01,42,,Trofeo Alcúdia - Port d'Alcúdia (1.1) ,173.2,,,2022
+26.01,10,,Trofeo Calvia (1.1) ,154.7,14,20,2022
 18.04 » 22.04,,,Tour of the Alps (2.Pro),,,,2022
 21.04,DNS,,Stage 4 - Villabassa › Kals am Grossglockner,142.4,,,2022
 20.04,93,73,Stage 3 - Lana › Villabassa,154.6,,,2022
@@ -13,12 +65,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.03,55,77,Stage 3 - Perpignan › La Molina,161.1,,,2022
 22.03,135,96,Stage 2 - L'Escala › Perpignan,202.4,,,2022
 21.03,98,98,Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols,171.2,,,2022
-05.03,43,,Strade Bianche (1.UWT),184,5,5,2022
+05.03,43,,Strade Bianche (1.UWT),184.0,5,5,2022
 27.02,96,,Drôme Classic (1.Pro),191.5,,,2022
 26.02,87,,Faun-Ardèche Classic (1.Pro),168.5,,,2022
 02.02 » 06.02,,,Volta a la Comunitat Valenciana (2.Pro),,,,2022
 ,32,,General classification,,,3,2022
-06.02,114,,Stage 5 - Paterna › Valencia,92,,,2022
+06.02,114,,Stage 5 - Paterna › Valencia,92.0,,,2022
 05.02,77,27,Stage 4 - Orihuela › Torrevieja ,193.1,,,2022
 04.02,38,32,Stage 3 - Alicante › Antenas del Maigmó,155.1,,,2022
 03.02,50,21,Stage 2 - Bétera › Torrent,171.5,,,2022
@@ -26,8 +78,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.01,9,,Trofeo Serra de Tramuntana (1.1),158.9,16,25,2022
 27.01,42,,Trofeo Alcúdia - Port d'Alcúdia (1.1),173.2,,,2022
 26.01,10,,Trofeo Calvia (1.1),154.7,14,20,2022
-07.10,DNF,,Gran Piemonte (1.Pro),168,,,2021
-06.10,DNF,,Milano - Torino (1.Pro),190,,,2021
+07.10,DNF,,Gran Piemonte (1.Pro),168.0,,,2021
+06.10,DNF,,Milano - Torino (1.Pro),190.0,,,2021
 05.10,DNF,,Tre Valli Varesine (1.Pro),196.7,,,2021
 04.10,60,,Coppa Bernocchi - GP BPM (1.Pro),197.15,,,2021
 02.10,DNF,,Giro dell'Emilia (1.Pro),195.3,,,2021
@@ -39,16 +91,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.09,61,46,Stage 19 - Tapia › Monforte de Lemos,191.2,,,2021
 02.09,40,48,Stage 18 - Salas › Altu d'El Gamoniteiru,162.6,,,2021
 01.09,32,51,Stage 17 - Unquera › Lagos de Covadonga,185.8,,,2021
-31.08,112,61,Stage 16 - Laredo › Santa Cruz de Bezana,180,,,2021
+31.08,112,61,Stage 16 - Laredo › Santa Cruz de Bezana,180.0,,,2021
 29.08,51,63,Stage 15 - Navalmoral de la Mata › El Barraco,197.5,,,2021
 28.08,59,73,Stage 14 - Don Benito › Pico Villuercas,165.7,,,2021
 27.08,108,79,Stage 13 - Belmez › Villanueva de la Serena,203.7,,,2021
-26.08,102,79,Stage 12 - Jaén › Córdoba,175,,,2021
+26.08,102,79,Stage 12 - Jaén › Córdoba,175.0,,,2021
 25.08,69,73,Stage 11 - Antequera › Valdepeñas de Jaén,133.6,,,2021
-24.08,56,77,Stage 10 - Roquetas de Mar › Rincón de la Victoria,189,,,2021
-22.08,83,83,Stage 9 - Puerto-Lumbreras › Alto de Velefique,188,,,2021
+24.08,56,77,Stage 10 - Roquetas de Mar › Rincón de la Victoria,189.0,,,2021
+22.08,83,83,Stage 9 - Puerto-Lumbreras › Alto de Velefique,188.0,,,2021
 21.08,111,78,Stage 8 - Santa Pola › La Manga del Mar Menor,173.7,,,2021
-20.08,41,82,Stage 7 - Gandía › Balcón de Alicante,152,,,2021
+20.08,41,82,Stage 7 - Gandía › Balcón de Alicante,152.0,,,2021
 19.08,145,149,Stage 6 - Requena › Alto de la Montaña de Cullera,158.3,,,2021
 18.08,181,136,Stage 5 - Tarancón › Albacete,184.4,,,2021
 17.08,131,65,Stage 4 - El Burgo de Osma › Molina de Aragón,163.9,,,2021
@@ -58,16 +110,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.08 » 07.08,,,Vuelta a Burgos (2.Pro),,,,2021
 ,41,,Points classification,,,,2021
 ,19,,General classification,,10,5,2021
-07.08,60,,Stage 5 - Comunero de Revenga › Lagunas de Neila,146,,,2021
-06.08,95,15,Stage 4 - Roa › Aranda de Duero,149,,,2021
-05.08,18,11,Stage 3 - Busto de Bureba › Espinosa de los Monteros,173,,,2021
-04.08,73,19,Stage 2 - Tardajos › Briviesca,175,,,2021
-03.08,13,13,Stage 1 - Burgos (Catedral) › Burgos (El Castillo),161,,,2021
+07.08,60,,Stage 5 - Comunero de Revenga › Lagunas de Neila,146.0,,,2021
+06.08,95,15,Stage 4 - Roa › Aranda de Duero,149.0,,,2021
+05.08,18,11,Stage 3 - Busto de Bureba › Espinosa de los Monteros,173.0,,,2021
+04.08,73,19,Stage 2 - Tardajos › Briviesca,175.0,,,2021
+03.08,13,13,Stage 1 - Burgos (Catedral) › Burgos (El Castillo),161.0,,,2021
 20.06,DNF,,National Championships Germany - Road Race (NC),177.5,,,2021
 12.05 » 16.05,,,Tour de Hongrie (2.1),,,,2021
 14.05,DNS,,Stage 3 - Veszprém › Tata,141.9,,,2021
 13.05,130,92,Stage 2 - Balatonfüred › Nagykanizsa,182.6,,,2021
-12.05,39,42,Stage 1 - Siófok › Kaposvár,173,,,2021
+12.05,39,42,Stage 1 - Siófok › Kaposvár,173.0,,,2021
 27.04 » 02.05,,,Tour de Romandie (2.UWT),,,,2021
 ,26,,General classification,,9,20,2021
 02.05,66,,Stage 5 (ITT) - Fribourg › Fribourg,16.19,,,2021
@@ -80,30 +132,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,35,,General classification,,,3,2021
 23.04,56,,Stage 5 - Valle del Chiese/Idroland › Riva del Garda,120.9,,,2021
 22.04,21,32,Stage 4 - Naturns › Pieve di Bono,168.6,,,2021
-21.04,25,40,Stage 3 - Imst › Naturns,162,,,2021
+21.04,25,40,Stage 3 - Imst › Naturns,162.0,,,2021
 20.04,42,44,Stage 2 - Innsbruck › Feichten im Kaunertal,121.5,,,2021
 19.04,36,36,Stage 1 - Brixen › Innsbruck,140.6,,,2021
 22.03 » 28.03,,,Volta Ciclista a Catalunya (2.UWT),,,,2021
 ,35,,General classification,,5,8,2021
-28.03,64,,Stage 7 - Barcelona › Barcelona,133,,,2021
+28.03,64,,Stage 7 - Barcelona › Barcelona,133.0,,,2021
 27.03,72,36,Stage 6 - Tarragona › Mataró,193.8,,,2021
 26.03,19,37,Stage 5 - La Pobla de Segur › Manresa,201.1,,,2021
 25.03,41,47,Stage 4 - Ripoll › Port Ainé,166.5,,,2021
 24.03,47,72,Stage 3 - Canal Olimpic de Catalunya › Vallter 2000,203.1,,,2021
 23.03,81,91,Stage 2 (ITT) - Banyoles › Banyoles,18.5,,,2021
 22.03,90,91,Stage 1 - Calella › Calella,178.4,,,2021
-06.03,70,,Strade Bianche (1.UWT),184,5,,2021
+06.03,70,,Strade Bianche (1.UWT),184.0,5,,2021
 21.02 » 27.02,,,UAE Tour (2.UWT),,,,2021
 ,26,,General classification,,9,12,2021
-27.02,76,,Stage 7 - Yas Mall  › Abu Dhabi Breakwater,147,,,2021
-26.02,80,27,Stage 6 - Deira Island › Palm Jumeirah,165,,,2021
-25.02,36,30,Stage 5 - Fujairah Marine Club › Jebel Jais,170,,,2021
-24.02,65,28,Stage 4 - Al Marjan Island › Al Marjan Island,204,,,2021
-23.02,23,28,Stage 3 - Strata Manufactoring › Jebel Hafeet,166,,,2021
-22.02,92,97,Stage 2 (ITT) - Al Hudayriat Island › Al Hudayriat Island,13,,,2021
-21.02,31,32,Stage 1 - Al Dhafra Castle  › Al Mirfa,176,,,2021
+27.02,76,,Stage 7 - Yas Mall  › Abu Dhabi Breakwater,147.0,,,2021
+26.02,80,27,Stage 6 - Deira Island › Palm Jumeirah,165.0,,,2021
+25.02,36,30,Stage 5 - Fujairah Marine Club › Jebel Jais,170.0,,,2021
+24.02,65,28,Stage 4 - Al Marjan Island › Al Marjan Island,204.0,,,2021
+23.02,23,28,Stage 3 - Strata Manufactoring › Jebel Hafeet,166.0,,,2021
+22.02,92,97,Stage 2 (ITT) - Al Hudayriat Island › Al Hudayriat Island,13.0,,,2021
+21.02,31,32,Stage 1 - Al Dhafra Castle  › Al Mirfa,176.0,,,2021
 15.07 » 18.07,,,Dookoła Mazowsza (2.2),,,,2020
 ,76,,General classification,,,,2020
-18.07,60,,Stage 4 - Kozienice › Kozienice,165,,,2020
-17.07,71,79,Stage 3 - Grodzisk Mazowiecki › Grodzisk Mazowiecki,166,,,2020
+18.07,60,,Stage 4 - Kozienice › Kozienice,165.0,,,2020
+17.07,71,79,Stage 3 - Grodzisk Mazowiecki › Grodzisk Mazowiecki,166.0,,,2020
 16.07,80,80,Stage 2 (ITT) - Służewiec › Służewiec,2.5,,,2020

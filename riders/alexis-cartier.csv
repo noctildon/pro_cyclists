@@ -1,4 +1,5 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+11.09,4,,National Championships Canada - Road Race (NC) ,198.9,4,50,2021
 11.09,4,,National Championships Canada - Road Race (NC),198.9,4,50,2021
 30.06,4,,National Championships Canada - Road Race (NC),186.2,4,50,2019
 13.06 » 16.06,,,Grand Prix Cycliste de Saguenay (2.2),,,,2019
@@ -18,12 +19,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,96,,General classification,,,,2018
 22.04,96,,Stage 5 - Silver City › Pinos Altos,161.9,,,2018
 21.04,112,102,Stage 4 - Silver City › Silver City,69.5,,,2018
-20.04,87,97,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2018
+20.04,87,97,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2018
 19.04,79,98,Stage 2 - Fort Bayard › Fort Bayard,120.7,,,2018
-18.04,114,114,Stage 1 - Silver City › Mogollon,148,,,2018
+18.04,114,114,Stage 1 - Silver City › Mogollon,148.0,,,2018
 12.04 » 15.04,,,Joe Martin Stage Race (2.2),,,,2018
 ,88,,General classification,,,,2018
-15.04,64,,Stage 4 - Fayetteville › Fayetteville,60,,,2018
+15.04,64,,Stage 4 - Fayetteville › Fayetteville,60.0,,,2018
 14.04,82,102,Stage 3 (ITT) - Devil's Den State Park › Devil's Den State Park,4.84,,,2018
 13.04,93,101,Stage 2 - Fayetteville › Fayetteville,176.5,,,2018
 12.04,106,106,Stage 1 - Fayetteville › Fayetteville (Mount Sequoyah),166.9,,,2018
@@ -43,18 +44,18 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,104,,General classification,,,,2017
 17.10,92,,Stage 7 - Jurong Chishanhu › Maoshan,130.6,,,2017
 16.10,122,118,Stage 6 - Jiangyan › Jiangyan,106.4,,,2017
-15.10,107,14,Stage 5 - Nantong › Haimen,148,,,2017
+15.10,107,14,Stage 5 - Nantong › Haimen,148.0,,,2017
 14.10,96,17,Stage 4 - Wujiang › Wujiang,117.4,,,2017
 13.10,112,17,Stage 3 - Huzhou › Changxing,134.3,,,2017
 12.10,112,18,Stage 2 - Wujin › Wujin,117.1,,,2017
 11.10,124,28,Stage 1 - Wuxi › Wuxi,111.3,,,2017
 10.10,35,35,Prologue - Wuxi › Wuxi,5.3,,,2017
-08.10,DNF,,Sun Hung Kai Properties Hong Kong Challenge (1.1),113,,,2017
+08.10,DNF,,Sun Hung Kai Properties Hong Kong Challenge (1.1),113.0,,,2017
 19.09 » 24.09,,,Tour of China II (2.1),,,,2017
 ,43,,General classification,,,,2017
 24.09,107,,Stage 5 - Zhuhai Hengqin › Zhuhai Hengqin,91.2,,,2017
 22.09,112,38,Stage 4 - Huangshi Daye › Huangshi Daye,115.3,,,2017
-21.09,108,37,Stage 3 - Changde Hanshou › Changde Hanshou,94,,,2017
+21.09,108,37,Stage 3 - Changde Hanshou › Changde Hanshou,94.0,,,2017
 20.09,113,37,Stage 2 - Lixian › Lixian,97.6,,,2017
 19.09,36,36,Stage 1 - Hongjiang shiji square › Ximaxiang Government,118.2,,,2017
 10.09 » 17.09,,,Tour of China I (2.1),,,,2017
@@ -63,14 +64,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.09,76,,Stage 5 - Anshun › Anshun,128.5,,,2017
 15.09,32,68,Stage 4 (ITT) - Chengdu Jintang › Chengdu Jintang,3.3,,,2017
 14.09,66,68,Stage 3 - Pingchang › Pingchang,140.6,,,2017
-12.09,89,79,Stage 2 - Xiyang › Yunzhuhu,197,,,2017
-10.09,9,4,Stage 1 - Fengning › Weichang,156,,,2017
+12.09,89,79,Stage 2 - Xiyang › Yunzhuhu,197.0,,,2017
+10.09,9,4,Stage 1 - Fengning › Weichang,156.0,,,2017
 01.09 » 04.09,,,Tour of Alberta (2.1),,,,2017
 ,50,,General classification,,,,2017
 04.09,63,,Stage 4 - Edmonton › Edmonton,124.1,,,2017
-03.09,79,42,Stage 3 - Edmonton › Edmonton,116,,,2017
-02.09,53,33,Stage 2 - Spruce Grove › Spruce Grove,139,,,2017
-01.09,33,33,Stage 1 - Jasper › Marmot Basin Ski Area,162,,,2017
+03.09,79,42,Stage 3 - Edmonton › Edmonton,116.0,,,2017
+02.09,53,33,Stage 2 - Spruce Grove › Spruce Grove,139.0,,,2017
+01.09,33,33,Stage 1 - Jasper › Marmot Basin Ski Area,162.0,,,2017
 04.08 » 15.08,,,Volta a Portugal em Bicicleta Santander Totta (2.1),,,,2017
 ,38,,Points classification,,,,2017
 ,107,,General classification,,,,2017
@@ -83,7 +84,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.08,120,116,Stage 4 - Macedo de Cavaleiros  › Mondim de Basto (Sr.ª da Graça) ,152.7,,,2017
 07.08,88,112,Stage 3 - F. C. Rodrigo  › Bragança,162.1,,,2017
 06.08,121,132,Stage 2 - Reguengos de Monsaraz  › Castelo Branco ,214.7,,,2017
-05.08,135,135,Stage 1 - Vila Franca de Xira  › Setúbal,203,,,2017
+05.08,135,135,Stage 1 - Vila Franca de Xira  › Setúbal,203.0,,,2017
 04.08,89,89,Prologue - Lisboa › Lisboa,5.4,,,2017
 19.07 » 23.07,,,Cascade Cycling Classic (2.2),,,,2017
 ,96,,General classification,,,,2017
@@ -92,45 +93,45 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.07,109,105,Stage 3 - Bend › Kapka Butte Snow Park,172.7,,,2017
 20.07,68,103,Stage 2 (ITT) - Bend › Bend,22.9,,,2017
 19.07,123,123,Stage 1 - Princeville ›  Dee Wright Observatory,172.9,,,2017
-27.06,28,,National Championships Canada - ITT (NC),36,,,2017
-25.06,DNF,,National Championships Canada - Road Race (NC),160,,,2017
+27.06,28,,National Championships Canada - ITT (NC),36.0,,,2017
+25.06,DNF,,National Championships Canada - Road Race (NC),160.0,,,2017
 19.04 » 23.04,,,Tour of the Gila (2.2),,,,2017
 22.04,DNS,,Stage 4 - Silver City › Silver City,69.5,,,2017
-21.04,93,66,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2017
+21.04,93,66,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2017
 20.04,108,61,Stage 2 - Fort Bayard › Fort Bayard,120.7,,,2017
 19.04,67,67,Stage 1 - Silver City › Whitewater Mesa,143.4,,,2017
 30.03 » 02.04,,,Joe Martin Stage Race (2.2),,,,2017
 02.04,DNF,,Stage 4 - Fayetteville › Fayetteville,,,,2017
 01.04,111,107,Stage 3 - Fayetteville › Fayetteville,181.4,,,2017
-31.03,121,112,Stage 2 - Fayetteville › Fayetteville,176,,,2017
+31.03,121,112,Stage 2 - Fayetteville › Fayetteville,176.0,,,2017
 30.03,44,44,Stage 1 (ITT) - Devil's Den State Park › Devil's Den State Park,4.83,,,2017
 01.09 » 05.09,,,Tour of Alberta (2.1),,,,2016
 05.09,DNF,,Stage 5 - Edmonton › Edmonton,124.1,,,2016
 04.09,62,57,Stage 4 (ITT) - Edmonton › Edmonton,12.1,,,2016
 03.09,87,61,Stage 3 - Rocky Mountain House › Drayton Village,181.2,,,2016
-02.09,2,52,Stage 2 - Kananaskis › Olds,182,12,5,2016
+02.09,2,52,Stage 2 - Kananaskis › Olds,182.0,12,5,2016
 01.09,86,86,Stage 1 - Lethbridge › Lethbridge,106.9,,,2016
-28.06,18,,National Championships Canada - ITT (NC),36,,,2016
-26.06,DNF,,National Championships Canada - Road Race (NC),180,,,2016
+28.06,18,,National Championships Canada - ITT (NC),36.0,,,2016
+26.06,DNF,,National Championships Canada - Road Race (NC),180.0,,,2016
 15.06 » 19.06,,,Tour de Beauce (2.2),,,,2016
 ,20,,Mountains classification,,,,2016
 ,56,,General classification,,,,2016
 19.06,34,,Stage 5 - St-Georges › St-Georges,122.4,,,2016
-18.06,78,86,Stage 4 - Québec › Québec,70,,,2016
-17.06,56,86,Stage 3b - St-Georges › Beauce Art,78,,,2016
-17.06,61,89,Stage 3a (ITT) - Saint-Prosper  › Saint-Prosper ,19,,,2016
-16.06,59,89,Stage 2 - Mont-Mégantic › Mont-Mégantic,169,,,2016
-15.06,107,107,Stage 1 - Saint-Georges › Saint-Georges,185,,,2016
+18.06,78,86,Stage 4 - Québec › Québec,70.0,,,2016
+17.06,56,86,Stage 3b - St-Georges › Beauce Art,78.0,,,2016
+17.06,61,89,Stage 3a (ITT) - Saint-Prosper  › Saint-Prosper ,19.0,,,2016
+16.06,59,89,Stage 2 - Mont-Mégantic › Mont-Mégantic,169.0,,,2016
+15.06,107,107,Stage 1 - Saint-Georges › Saint-Georges,185.0,,,2016
 09.06 » 12.06,,,Grand Prix Cycliste de Saguenay (2.2),,,,2016
 ,6,,Points classification,,,,2016
 ,15,,General classification,,,,2016
 12.06,4,,Stage 4 - Chicoutimi › Chicoutimi,149.8,,,2016
 11.06,7,30,Stage 3 - Chicoutimi › Chicoutimi,74.2,,,2016
 10.06,55,36,Stage 2 - Kénogami › Kénogami,156.65,,,2016
-09.06,58,59,Stage 1 - La Baie › La Baie,151,,,2016
+09.06,58,59,Stage 1 - La Baie › La Baie,151.0,,,2016
 21.04 » 24.04,,,Joe Martin Stage Race p/b Nature Valley (2.2),,,,2016
 ,107,,General classification,,,,2016
-24.04,37,,Stage 4 - Fayetteville › Fayetteville,64,,,2016
+24.04,37,,Stage 4 - Fayetteville › Fayetteville,64.0,,,2016
 23.04,120,125,Stage 3 - Prairie Grove › Prairie Grove,176.1,,,2016
 22.04,113,113,Stage 2 - Fayetteville › Fayetteville,175.7,,,2016
 21.04,71,71,Stage 1 (ITT) - Devils Den State Park  › Devils Den State Park ,4.8,,,2016
@@ -141,9 +142,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,63,,General classification,,,,2015
 14.06,55,,Stage 5 - Saint-Georges › Saint-Georges,122.4,,,2015
 13.06,92,104,Stage 4 - Québec › Québec,124.8,,,2015
-12.06,59,115,Stage 3b - Saint-Georges › Saint-Georges,60,,,2015
-12.06,49,120,Stage 3a (ITT) - Saint-Georges › Saint-Georges,21,,,2015
-11.06,122,129,Stage 2 - Mont-Mégantic › Mont-Mégantic,169,,,2015
+12.06,59,115,Stage 3b - Saint-Georges › Saint-Georges,60.0,,,2015
+12.06,49,120,Stage 3a (ITT) - Saint-Georges › Saint-Georges,21.0,,,2015
+11.06,122,129,Stage 2 - Mont-Mégantic › Mont-Mégantic,169.0,,,2015
 10.06,134,134,Stage 1 - Saint-Georges › Saint-Georges,186.2,,,2015
 28.05 » 31.05,,,Grand Prix Cycliste de Saguenay (2.2),,,,2015
 31.05,DNF,,Stage 4 - Chicoutimi › Chicoutimi,149.8,,,2015
@@ -151,7 +152,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 29.05,9,27,Stage 2 - Kénogami › Kénogami,156.65,,,2015
 28.05,71,71,Stage 1 - La Baie › La Baie,166.1,,,2015
 13.09,DNF,,Bucks County Classic (1.2),160.5,,,2014
-28.06,34,,National Championships Canada - Road Race (NC),179,,,2014
+28.06,34,,National Championships Canada - Road Race (NC),179.0,,,2014
 26.06,29,,National Championships Canada - ITT (NC),40.4,,,2014
 05.06 » 08.06,,,Grand Prix Cycliste Saguenay (2.2),,,,2014
 ,24,,Mountains classification,,,,2014
@@ -160,4 +161,4 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.06,49,87,Stage 3 - Chicoutimi › Chicoutimi,74.2,,,2014
 06.06,92,90,Stage 2 - La Baie › La Baie,170.4,,,2014
 05.06,76,76,Stage 1 - La Baie › La Baie,166.1,,,2014
-22.06,DNF,,National Championships Canada - Road Race (NC),187,,,2013
+22.06,DNF,,National Championships Canada - Road Race (NC),187.0,,,2013

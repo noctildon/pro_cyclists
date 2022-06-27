@@ -1,4 +1,54 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,2,,National Championships Great Britain - Road Race (NC) ,,10,75,2022
+23.06,12,,National Championships Great Britain U23 - ITT (NC) ,22.1,,,2022
+11.06 » 18.06,,,Giro d'Italia Giovani Under 23 (2.2U) ,,,,2022
+,19,,Mountains classification ,,,,2022
+,5,,Points classification ,,,,2022
+,53,,General classification ,,,,2022
+18.06,2,,Stage 7 - Cuneo › Pinerolo ,121,2,1,2022
+17.06,131,57,Stage 6 - Boves › Colle Fauniera ,110.7,,,2022
+16.06,8,41,Stage 5 - Busca › Peveragno ,146.6,,,2022
+14.06,109,52,Stage 4 - Chiuro › Chiavenna ,101.1,,,2022
+13.06,49,49,Stage 3 - Pinzolo › Santa Caterina Valfurva ,177.1,,,2022
+12.06,13,6,Stage 2 - Rossano Veneto › Pinzolo ,166.5,,,2022
+11.06,14,14,Stage 1 - Gradara › Argenta ,164.9,,,2022
+02.06 » 05.06,,,Course de la Paix Grand Prix Jeseníky (2.Ncup) ,,,,2022
+,1,,Points classification ,,,,2022
+,31,,General classification ,,,,2022
+05.06,1,,Stage 3 - Jeseník › Jeseník ,166.7,5,12,2022
+04.06,40,39,Stage 2 - Bruntál › Dlouhé Stráně ,134.6,,,2022
+03.06,3,3,Stage 1 - Jeseník › Rýmařov ,131.5,1,4,2022
+02.06,3,3,Prologue - Jeseník › Jeseník ,3.4,1,4,2022
+15.05,5,,Tro-Bro Léon (1.Pro) ,207.8,45,85,2022
+14.05,60,,Grand Prix du Morbihan (1.Pro) ,185.4,,,2022
+03.05 » 08.05,,,4 Jours de Dunkerque / Grand Prix des Hauts de France (2.Pro) ,,,,2022
+,6,,Youth classification ,,,,2022
+,16,,Mountains classification ,,,,2022
+,34,,Points classification ,,,,2022
+,27,,General classification ,,,5,2022
+08.05,32,,Stage 6 - Ardres › Dunkerque ,182.9,,,2022
+07.05,32,29,Stage 5 - Roubaix › Cassel ,183.7,,,2022
+06.05,72,15,Stage 4 - Mazingarbe › Aire-sur-la-Lys ,170.8,,,2022
+05.05,60,11,Stage 3 - Péronne › Mont-Saint-Éloi ,170,,,2022
+04.05,71,9,Stage 2 - Béthune › Maubeuge  148k,181.5,,,2022
+03.05,19,24,Stage 1 - Dunkerque › Aniche ,161.1,,,2022
+19.04,27,,G.P. Palio del Recioto - Trofeo C (1.2U) ,147.2,,,2022
+18.04,23,,Giro del Belvedere (1.2U) ,166.2,,,2022
+16.04,24,,Liège - Bastogne - Liège U23 (1.2U) ,174.8,,,2022
+01.04 » 03.04,,,Le Triptyque des Monts et Châteaux (2.2U) ,,,,2022
+,18,,Mountains classification ,,,,2022
+,13,,Points classification ,,,,2022
+,16,,General classification ,,,,2022
+03.04,45,,Stage 3b - Ellezelles › Frasnes-lez-Anvaing ,95.7,,,2022
+03.04,18,10,Stage 3a (ITT) - Wodecq › Wodecq ,14.2,,,2022
+02.04,2,8,Stage 2 - Bernissart › Tertre ,169.9,2,1,2022
+01.04,35,36,Stage 1 - Antoing › Mont Saint-Aubert ,131.7,,,2022
+27.03,1,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup) ,177,15,20,2022
+17.03,35,,Grand Prix de Denain - Porte du Hainaut (1.Pro) ,200.3,,3,2022
+16.03,59,,Danilith Nokere Koerse (1.Pro) ,189.8,,,2022
+13.03,26,,Dorpenomloop Rucphen (1.2) ,186,,,2022
+06.03,19,,Grote Prijs Jean-Pierre Monseré (1.1) ,203.2,2,3,2022
+01.03,68,,Le Samyn (1.1) ,209,,,2022
 19.04,27,,G.P. Palio del Recioto - Trofeo C (1.2U),147.2,,,2022
 18.04,23,,Giro del Belvedere (1.2U),166.2,,,2022
 16.04,24,,Liège - Bastogne - Liège U23 (1.2U),174.8,,,2022
@@ -10,13 +60,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.04,18,10,Stage 3a (ITT) - Wodecq › Wodecq,14.2,,,2022
 02.04,2,8,Stage 2 - Bernissart › Tertre,169.9,2,1,2022
 01.04,35,36,Stage 1 - Antoing › Mont Saint-Aubert,131.7,,,2022
-27.03,1,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup),177,15,20,2022
+27.03,1,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup),177.0,15,20,2022
 17.03,35,,Grand Prix de Denain - Porte du Hainaut (1.Pro),200.3,,3,2022
 16.03,59,,Danilith Nokere Koerse (1.Pro),189.8,,,2022
-13.03,26,,Dorpenomloop Rucphen (1.2),186,,,2022
+13.03,26,,Dorpenomloop Rucphen (1.2),186.0,,,2022
 06.03,19,,Grote Prijs Jean-Pierre Monseré (1.1),203.2,2,3,2022
-01.03,68,,Le Samyn (1.1),209,,,2022
-17.10,10,,National Championships Great Britain - Road Race (NC),166,,3,2021
+01.03,68,,Le Samyn (1.1),209.0,,,2022
+17.10,10,,National Championships Great Britain - Road Race (NC),166.0,,3,2021
 14.10,5,,National Championships Great Britain U23 - ITT (NC),29.4,,3,2021
 29.09 » 03.10,,,Ronde de l'Isard (2.2U),,,,2021
 ,16,,Youth classification,,,,2021
@@ -24,12 +74,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,25,,Points classification,,,,2021
 ,33,,General classification,,,,2021
 03.10,13,,Stage 5 - Auterive › Saint-Girons,157.5,,,2021
-02.10,55,41,Stage 4 - Fonsorbes › Plateau de Beille,149,,,2021
-01.10,43,36,Stage 3 - Pierrefitte-Nestalas › Bagnères-de-Bigorre,134,,,2021
+02.10,55,41,Stage 4 - Fonsorbes › Plateau de Beille,149.0,,,2021
+01.10,43,36,Stage 3 - Pierrefitte-Nestalas › Bagnères-de-Bigorre,134.0,,,2021
 30.09,29,21,Stage 2 - Faudoas › Lannemezan,167.65,,,2021
 29.09,11,11,Stage 1 - Toulouse › Montauban,166.5,,,2021
 24.09,13,,World Championships U23 - Road Race (WC),161.1,8,20,2021
-19.09,31,,Gooikse Pijl (1.1),199,,,2021
+19.09,31,,Gooikse Pijl (1.1),199.0,,,2021
 18.09,80,,Liège - Bastogne - Liège U23 (1.2U),171.6,,,2021
 30.07 » 02.08,,,Kreiz Breizh Elites (2.2),,,,2021
 02.08,DNF,,Stage 4 - Guingamp › Rostrenen,172.6,,,2021
@@ -47,13 +97,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.07,16,45,Prologue - Sausheim › Sausheim,4.3,,,2021
 19.07 » 20.07,,,L'Etoile d'Or (2.Ncup),,,,2021
 ,7,,General classification,,4,15,2021
-20.07,7,,Stage 3 - Montmorillon › Montmorillon,182,,,2021
-19.07,32,7,Stage 2 - Mérigny-Saint-Savin › Le Blanc,142,,,2021
+20.07,7,,Stage 3 - Montmorillon › Montmorillon,182.0,,,2021
+19.07,32,7,Stage 2 - Mérigny-Saint-Savin › Le Blanc,142.0,,,2021
 19.07,9,9,Stage 1 (ITT) - Pouligny-Saint-Pierre › Pouligny-Saint-Pierre,9.6,,,2021
 16.05,142,,Trofeo Alcudia-Port d'Alcudia (1.1),169.8,,,2021
 15.05,DNF,,Trofeo Andratx - Mirador des Colomer (Puerto Pollença) (1.1),161.3,,,2021
 14.05,114,,Trofeo Serra de Tramuntana (Lloseta - Deia) (1.1),158.6,,,2021
-25.04,7,,Gran Premio della Liberazione (1.2U),138,,3,2021
+25.04,7,,Gran Premio della Liberazione (1.2U),138.0,,3,2021
 18.04,23,,Tr. Città di S. Vendemiano - 61° GP Industria & Commercio (1.2U),179.6,,,2021
 27.08,71,,European Continental Championships U23 - Road Race (CC),136.5,,,2020
 08.03,87,,Dorpenomloop Rucphen (1.2),201.4,,,2020
@@ -62,30 +112,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,3,,Mountains classification,,,,2019
 ,3,,General classification,,50,,2019
 15.09,2,,Stage 2b - Koksijde › Koksijde,93.6,12,,2019
-15.09,3,4,Stage 2a (ITT) - Wulpen › Wulpen,6,7,,2019
+15.09,3,4,Stage 2a (ITT) - Wulpen › Wulpen,6.0,7,,2019
 14.09,5,5,Stage 1 - Pittem › Pittem,98.4,4,,2019
-18.08,28,,La Philippe Gilbert juniors (1.1),126,,,2019
+18.08,28,,La Philippe Gilbert juniors (1.1),126.0,,,2019
 20.06 » 23.06,,,LVM Saarland Trofeo (2.Ncup),,,,2019
 ,22,,Points classification,,,,2019
 ,6,,General classification,,60,,2019
-23.06,6,,Stage 4 - Walsheim › Walsheim,118,3,,2019
-22.06,5,5,Stage 3a - Homburg › Homburg,81,4,,2019
+23.06,6,,Stage 4 - Walsheim › Walsheim,118.0,3,,2019
+22.06,5,5,Stage 3a - Homburg › Homburg,81.0,4,,2019
 22.06,3,6,Stage 3b (TTT) - Bitche › Reinheim,31.6,6,,2019
-21.06,6,5,Stage 2 - Neunkirchen  › Münchwies,111,3,,2019
-20.06,41,41,Stage 1 - Aßweiler  › Erfweiler-Ehlingen,113,,,2019
+21.06,6,5,Stage 2 - Neunkirchen  › Münchwies,111.0,3,,2019
+20.06,41,41,Stage 1 - Aßweiler  › Erfweiler-Ehlingen,113.0,,,2019
 25.05 » 26.05,,,Trophée Centre Morbihan (2.Ncup),,,,2019
 ,1,,Points classification,,,,2019
 ,2,,General classification,,110,,2019
 26.05,5,,Stage 3 - Moustoir-Ac › Locminé,107.6,4,,2019
-26.05,7,2,Stage 2 (ITT) - Réguiny › Naizin,7,2,,2019
+26.05,7,2,Stage 2 (ITT) - Réguiny › Naizin,7.0,2,,2019
 25.05,2,2,Stage 1 - Plumelin › Plumelin,122.8,18,,2019
 28.04,15,,EPZ Omloop van Borsele (1.1),139.12,6,,2019
 27.04,13,,E3 BinckBank Classic - Junioren (1.1),117.7,8,,2019
-14.04,DNF,,Paris - Roubaix Juniors (1.Ncup),111,,,2019
+14.04,DNF,,Paris - Roubaix Juniors (1.Ncup),111.0,,,2019
 31.03,3,,Gent-Wevelgem/Grote Prijs A. Noyelle-Ieper (1.Ncup),120.6,60,,2019
 24.03,1,,Guido Reybrouck Classic (1.1),133.4,75,,2019
 27.09,37,,World Championships MJ - Road Race (WC),131.8,,,2018
-02.09,45,,La Philippe Gilbert juniors (1.1),126,,,2018
+02.09,45,,La Philippe Gilbert juniors (1.1),126.0,,,2018
 15.07,3,,National Championships Great Britain MJ - Road Race (NC),111.72,18,,2018
-08.04,8,,Paris - Roubaix Juniors (1.Ncup),111,30,,2018
-25.02,39,,Kuurne-Brussel-Kuurne Juniors (1.1),123,,,2018
+08.04,8,,Paris - Roubaix Juniors (1.Ncup),111.0,30,,2018
+25.02,39,,Kuurne-Brussel-Kuurne Juniors (1.1),123.0,,,2018

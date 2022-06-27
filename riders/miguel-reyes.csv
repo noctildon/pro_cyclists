@@ -1,6 +1,8 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
 02.02,23,,National Championships Colombia - Road Race (NC) ,217,,,2020
 30.01,8,,National Championships Colombia - ITT (NC) ,41.4,,3,2020
+02.02,23,,National Championships Colombia - Road Race (NC) ,217.0,,,2020
+30.01,8,,National Championships Colombia - ITT (NC) ,41.4,,3,2020
 03.02,47,,National Championships Colombia - Road Race (NC) ,243.7,,,2019
 15.08 » 18.08,,,Tour du Limousin (2.1) ,,,,2018
 ,98,,General classification ,,,,2018
@@ -10,17 +12,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.08,82,83,Stage 1 - Saint-Just le Martel › Bonnat ,172.7,,,2018
 07.08 » 11.08,,,Vuelta a Burgos (2.HC) ,,,,2018
 ,25,,General classification ,,1,5,2018
-11.08,25,,Stage 5 - Salas de los Infantes › Lagunas de Neila ,141,,,2018
-10.08,28,30,Stage 4 - Monasterios san Pedro Cardeña › Clunia (Ciudad Romana) ,165,,,2018
-09.08,35,31,Stage 3 - Sedano › Espinosa de los Monteros (Picon Blanco) ,149,,,2018
-08.08,72,41,Stage 2 - Beloradoc › Catrojeriz ,163,,,2018
-07.08,43,43,Stage 1 - Burgos › Burgos (Castillo) ,157,,,2018
-04.02,DNF,,National Championships Colombia - Road Race (NC) ,228,,,2018
+11.08,25,,Stage 5 - Salas de los Infantes › Lagunas de Neila ,141.0,,,2018
+10.08,28,30,Stage 4 - Monasterios san Pedro Cardeña › Clunia (Ciudad Romana) ,165.0,,,2018
+09.08,35,31,Stage 3 - Sedano › Espinosa de los Monteros (Picon Blanco) ,149.0,,,2018
+08.08,72,41,Stage 2 - Beloradoc › Catrojeriz ,163.0,,,2018
+07.08,43,43,Stage 1 - Burgos › Burgos (Castillo) ,157.0,,,2018
+04.02,DNF,,National Championships Colombia - Road Race (NC) ,228.0,,,2018
 01.08 » 13.08,,,Vuelta a Colombia (2.2) ,,,,2017
 ,1,,Mountains classification ,,,,2017
 ,13,,Points classification ,,,,2017
 ,5,,General classification ,,8,15,2017
-13.08,37,,Stage 12 - Pereira › Pereira ,107,,,2017
+13.08,37,,Stage 12 - Pereira › Pereira ,107.0,,,2017
 12.08,37,5,Stage 11 - Palmira › Dosquebradas ,190.8,,,2017
 11.08,106,5,Stage 10 - Cartago › Yumbo ,176.1,,,2017
 10.08,1,5,Stage 9 - La Dorada › Alto de Letras ,131.6,5,7,2017
@@ -34,8 +36,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.08,14,86,Stage 1 (TTT) - Rionegro › La Ceja ,18.4,,,2017
 13.06 » 26.06,,,Vuelta a Colombia (2.2) ,,,,2016
 ,29,,General classification ,,,,2016
-26.06,29,,Stage 13 - Sopó › Tunja ,170,,,2016
-25.06,37,36,Stage 12 - Ibagué › Bogotá ,211,,,2016
+26.06,29,,Stage 13 - Sopó › Tunja ,170.0,,,2016
+25.06,37,36,Stage 12 - Ibagué › Bogotá ,211.0,,,2016
 24.06,44,39,Stage 11 - Salento › Ibagué ,138.9,,,2016
 23.06,52,47,Stage 10 - Buga › Salento ,136.5,,,2016
 22.06,98,46,Stage 9 - Pereira › Cali ,214.8,,,2016
@@ -50,10 +52,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 26.10 » 01.11,,,Vuelta a Guatemala (2.2) ,,,,2015
 ,15,,General classification ,,,,2015
 01.11,21,,Stage 7 - Retalhuleu › Mazatenango-Quetzaltenango ,96.5,,,2015
-31.10,13,14,Stage 6 - San Juan Ostuncalco-Sta › Totonicapán ,127,,,2015
+31.10,13,14,Stage 6 - San Juan Ostuncalco-Sta › Totonicapán ,127.0,,,2015
 30.10,12,19,"Stage 5 - Sololá › San Pedro, San Marcos ",126.5,,,2015
-29.10,23,26,Stage 4 - San Lucas › Tecpan ,138,,,2015
-28.10,21,26,Stage 3 - Chiquimula › Sanarate ,117,,,2015
+29.10,23,26,Stage 4 - San Lucas › Tecpan ,138.0,,,2015
+28.10,21,26,Stage 3 - Chiquimula › Sanarate ,117.0,,,2015
 27.10,22,44,Stage 2 - Guatemala › Teculutan ,114.5,,,2015
 26.10,50,50,Stage 1 (ITT) - Escuintla › Puerto San José ,42.8,,,2015
 02.08 » 15.08,,,Vuelta a Colombia (2.2) ,,,,2015
@@ -70,7 +72,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.08,145,148,Stage 4 - Guaduas › Guaduas ,203.8,,,2015
 04.08,151,144,Stage 3 - Paipa › Cota ,172.1,,,2015
 03.08,102,127,Stage 2 - Bogotá › Paipa ,174.6,,,2015
-02.08,16,147,Stage 1 (TTT) - Bogotá › Bogotá ,24,,,2015
+02.08,16,147,Stage 1 (TTT) - Bogotá › Bogotá ,24.0,,,2015
 08.02,81,,National Championships Colombia - Road Race (NC) ,188.8,,,2015
 06.08 » 17.08,,,Vuelta a Colombia (2.2) ,,,,2014
 ,10,,Youth classification ,,,,2014
@@ -79,7 +81,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 16.08,42,72,Stage 10 (ITT) - Medellín › Alto de Las Palmas ,17.5,,,2014
 15.08,89,74,Stage 9 - Manizales › La Estrella ,182.8,,,2014
 14.08,48,,Stage 8 - Pereira › Manizales ,199.5,,,2014
-13.08,84,85,Stage 7 - Dosquebradas › Dosquebradas ,196,,,2014
+13.08,84,85,Stage 7 - Dosquebradas › Dosquebradas ,196.0,,,2014
 11.08,112,87,Stage 6 - Ibagué › Pereira ,158.1,,,2014
 10.08,66,73,Stage 5 - Madrid › Ibagué ,202.3,,,2014
 09.08,62,76,Stage 4 - Nobsa › Cota ,198.7,,,2014

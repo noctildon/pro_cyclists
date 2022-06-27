@@ -1,8 +1,48 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,35,,National Championships Germany - Road Race (NC) ,210,,,2022
+24.06,3,,National Championships Germany U23 - ITT (NC) ,27.5,,10,2022
+11.06 » 18.06,,,Giro d'Italia Giovani Under 23 (2.2U) ,,,,2022
+,26,,Mountains classification ,,,,2022
+,20,,Points classification ,,,,2022
+,7,,General classification ,,4,3,2022
+18.06,19,,Stage 7 - Cuneo › Pinerolo ,121,,,2022
+17.06,11,6,Stage 6 - Boves › Colle Fauniera ,110.7,,,2022
+16.06,5,6,Stage 5 - Busca › Peveragno ,146.6,,,2022
+14.06,20,7,Stage 4 - Chiuro › Chiavenna ,101.1,,,2022
+13.06,8,7,Stage 3 - Pinzolo › Santa Caterina Valfurva ,177.1,,,2022
+12.06,50,62,Stage 2 - Rossano Veneto › Pinzolo ,166.5,,,2022
+11.06,125,124,Stage 1 - Gradara › Argenta ,164.9,,,2022
+08.05,12,,Flèche Ardennaise (1.2) ,168.6,,,2022
+25.04 » 01.05,,,Le Tour de Bretagne Cycliste (2.2) ,,,,2022
+,51,,Youth classification ,,,,2022
+,25,,Mountains classification ,,,,2022
+,80,,General classification ,,,,2022
+01.05,76,,Stage 7 - Plumilliau › Lannion ,158.8,,,2022
+30.04,82,93,Stage 6 - Plumergat › Camors ,162.1,,,2022
+29.04,92,92,Stage 5 - Ploërmel › Scaër ,193.2,,,2022
+28.04,81,101,Stage 4 - Saint-Jacut-de-la-Mer › Guillac ,164.7,,,2022
+27.04,113,109,Stage 3 - Lohéac › Le Hinglé ,171.7,,,2022
+26.04,103,96,Stage 2 - Missillac › La Chapelle-Bouëxic ,152,,,2022
+25.04,90,91,Stage 1 - Guenrouët › Sainte-Reine-de-Bretagne ,162.3,,,2022
+16.04,26,,Liège - Bastogne - Liège U23 (1.2U) ,174.8,,,2022
+06.04 » 09.04,,,Circuit des Ardennes (2.2) ,,,,2022
+,15,,Youth classification ,,,,2022
+,26,,General classification ,,,,2022
+09.04,52,,Stage 4 - Charleville-Mézières › Charleville-Mézières ,172.7,,,2022
+07.04,36,24,Stage 2 - Bazeilles › Sedan ,92.5,,,2022
+06.04,18,19,Stage 1 - Signy-le-Petit › Signy-le-Petit ,165.2,,,2022
+02.04,64,,Volta Limburg Classic (1.1) ,195,,,2022
+18.03,DNF,,Bredene Koksijde Classic (1.Pro) ,200.9,,,2022
+13.03,41,,Dorpenomloop Rucphen (1.2) ,186,,,2022
+06.03,DNF,,Visit Friesland Elfsteden Race (1.2) ,199.2,,,2022
+18.02 » 20.02,,,Tour des Alpes Maritimes et du Var (2.1) ,,,,2022
+20.02,DNF,,Stage 3 - Villefranche-sur-Mer › Blausasc ,112.6,,,2022
+19.02,94,95,Stage 2 - Puget-Théniers › La Turbie ,149.1,,,2022
+18.02,84,86,Stage 1 - Saint-Raphaël  › La Seyne-sur-Mer ,176.3,,,2022
 25.04 » 01.05,,,Le Tour de Bretagne Cycliste (2.2),,,,2022
 28.04,81,101,Stage 4 - Saint-Jacut-de-la-Mer › Guillac,164.7,,,2022
 27.04,113,,Stage 3 - Lohéac › Le Hinglé,171.7,,,2022
-26.04,103,96,Stage 2 - Missillac › La Chapelle-Bouëxic,152,,,2022
+26.04,103,96,Stage 2 - Missillac › La Chapelle-Bouëxic,152.0,,,2022
 25.04,90,91,Stage 1 - Guenrouët › Sainte-Reine-de-Bretagne,162.3,,,2022
 16.04,26,,Liège - Bastogne - Liège U23 (1.2U),174.8,,,2022
 06.04 » 09.04,,,Circuit des Ardennes (2.2),,,,2022
@@ -11,9 +51,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 09.04,52,,Stage 4 - Charleville-Mézières › Charleville-Mézières,172.7,,,2022
 07.04,36,24,Stage 2 - Bazeilles › Sedan,92.5,,,2022
 06.04,18,19,Stage 1 - Signy-le-Petit › Signy-le-Petit,165.2,,,2022
-02.04,64,,Volta Limburg Classic (1.1),195,,,2022
+02.04,64,,Volta Limburg Classic (1.1),195.0,,,2022
 18.03,DNF,,Bredene Koksijde Classic (1.Pro),200.9,,,2022
-13.03,41,,Dorpenomloop Rucphen (1.2),186,,,2022
+13.03,41,,Dorpenomloop Rucphen (1.2),186.0,,,2022
 06.03,DNF,,Visit Friesland Elfsteden Race (1.2),199.2,,,2022
 18.02 » 20.02,,,Tour des Alpes Maritimes et du Var (2.1),,,,2022
 20.02,DNF,,Stage 3 - Villefranche-sur-Mer › Blausasc,112.6,,,2022
@@ -22,7 +62,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.10 » 10.10,,,Circuit des Ardennes International (2.2),,,,2021
 ,5,,Youth classification,,,,2021
 ,13,,General classification,,,,2021
-10.10,37,,Stage 4 - Tournes › Charleville-Mézières,169,,,2021
+10.10,37,,Stage 4 - Tournes › Charleville-Mézières,169.0,,,2021
 09.10,24,13,Stage 3 - Chooz › Hargnies,172.4,,,2021
 08.10,35,13,Stage 2 - Vouziers › Vouziers,186.9,,,2021
 07.10,13,13,Stage 1 - Sedan › Sedan,115.3,,,2021
@@ -40,7 +80,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,93,,General classification,,,,2021
 05.09,91,,Stage 3 - Albert › Le Cateau-Cambrésis,175.3,,,2021
 04.09,86,88,Stage 2 - Neuville-Saint-Rémy › Roisel,174.7,,,2021
-03.09,101,113,Stage 1 - Arras › Lagnicourt-Marcel,129,,,2021
+03.09,101,113,Stage 1 - Arras › Lagnicourt-Marcel,129.0,,,2021
 29.08,65,,Ronde van de Achterhoek (1.2),204.8,,,2021
 20.08,110,,Grote Prijs Marcel Kint (1.1),196.3,,,2021
 21.07 » 25.07,,,Tour Alsace (2.2),,,,2021
@@ -62,7 +102,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 10.06,78,59,Stage 8 - Aprica  › Andalo,115.5,,,2021
 09.06,54,53,Stage 7 - Sondrio › Lanzada Lago di Campo Moro,119.4,,,2021
 08.06,50,62,Stage 6 - Bonferraro di Sorgà › San Pellegrino Terme,177.5,,,2021
-07.06,93,61,Stage 5 - Fanano › Sestola,142,,,2021
+07.06,93,61,Stage 5 - Fanano › Sestola,142.0,,,2021
 06.06,46,49,Stage 4 (ITT) - Sorbolo Mezzani › Guastalla,25.4,,,2021
 05.06,57,61,Stage 3 - Cesenatico  › Cesenatico ,132.5,,,2021
 04.06,69,64,Stage 2 - Riccione › Imola,138.3,,,2021
@@ -74,11 +114,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.09,115,,Paris-Chauny (1.1),203.1,,,2020
 12.09 » 13.09,,,Orlen Nations Grand Prix (2.Ncup),,,,2020
 ,10,,General classification,,1,3,2020
-13.09,35,,Stage 2 - Rzeszów › Rzeszów,135,,,2020
-12.09,3,10,Stage 1 - Rzeszów › Rzeszów,27,3,0.67,2020
-06.09,4,,National Championships Germany U23 - ITT (NC),25,,,2020
+13.09,35,,Stage 2 - Rzeszów › Rzeszów,135.0,,,2020
+12.09,3,10,Stage 1 - Rzeszów › Rzeszów,27.0,3,0.67,2020
+06.09,4,,National Championships Germany U23 - ITT (NC),25.0,,,2020
 27.08,60,,European Continental Championships U23 - Road Race (CC),136.5,,,2020
-23.08,74,,National Championships Germany - Road Race (NC),168,,,2020
+23.08,74,,National Championships Germany - Road Race (NC),168.0,,,2020
 05.08 » 08.08,,,Le Tour de Savoie Mont Blanc (2.2),,,,2020
 ,22,,Youth classification,,,,2020
 ,56,,General classification,,,,2020
@@ -86,9 +126,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.08,59,56,Stage 4 - Aix-les-Bains  › Notre-Dame-du-Pré ,143.3,,,2020
 06.08,37,56,Stage 3 - Saint-Michel-de-Maurienne › Valmeinier ,37.4,,,2020
 06.08,66,67,Stage 2 - Moûtiers › Valfréjus ,97.4,,,2020
-05.08,58,58,Stage 1 - Annemasse › Praz-sur-Arly ,109,,,2020
-08.03,133,,Trofej Poreč - Poreč Trophy (1.2),156,,,2020
-04.03,27,,Trofej Umag - Umag Trophy (1.2),154,,,2020
+05.08,58,58,Stage 1 - Annemasse › Praz-sur-Arly ,109.0,,,2020
+08.03,133,,Trofej Poreč - Poreč Trophy (1.2),156.0,,,2020
+04.03,27,,Trofej Umag - Umag Trophy (1.2),154.0,,,2020
 26.09,29,,World Championships MJ - Road Race (WC),148.1,,,2019
 29.08 » 01.09,,,Giro della Lunigiana (2.1),,,,2019
 ,7,,Mountains classification,,,,2019
@@ -98,17 +138,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 31.08,44,35,Stage 3 - Casette › Casette,113.6,,,2019
 30.08,16,38,Stage 2a - Aulla › Castelnuovo Magra,70.6,,,2019
 30.08,8,35,Stage 2b (ITT) - Bocca di Magra › Montemarcello,4.5,1,,2019
-29.08,44,44,Stage 1 - Lerici › La Specia,100,,,2019
-25.08,DNS,,Trofeo Emilio Paganessi (1.1),134,,,2019
+29.08,44,44,Stage 1 - Lerici › La Specia,100.0,,,2019
+25.08,DNS,,Trofeo Emilio Paganessi (1.1),134.0,,,2019
 24.08,DNS,,Trofeo Comune di Vertova - Memorial Pietro Merelli (1.1),81.2,,,2019
 20.06 » 23.06,,,LVM Saarland Trofeo (2.Ncup),,,,2019
 ,10,,Points classification,,,,2019
 ,1,,General classification,,150,,2019
-23.06,22,,Stage 4 - Walsheim › Walsheim,118,,,2019
-22.06,2,4,Stage 3a - Homburg › Homburg,81,18,,2019
+23.06,22,,Stage 4 - Walsheim › Walsheim,118.0,,,2019
+22.06,2,4,Stage 3a - Homburg › Homburg,81.0,18,,2019
 22.06,1,1,Stage 3b (TTT) - Bitche › Reinheim,31.6,15,,2019
-21.06,4,6,Stage 2 - Neunkirchen  › Münchwies,111,7,,2019
-20.06,57,57,Stage 1 - Aßweiler  › Erfweiler-Ehlingen,113,,,2019
+21.06,4,6,Stage 2 - Neunkirchen  › Münchwies,111.0,7,,2019
+20.06,57,57,Stage 1 - Aßweiler  › Erfweiler-Ehlingen,113.0,,,2019
 24.05 » 26.05,,,SPIE Internationale Juniorendriedaagse (2.1),,,,2019
 ,8,,Mountains classification,,,,2019
 ,4,,Points classification,,,,2019
@@ -116,7 +156,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 26.05,7,,Stage 4 - Velzeke › Velzeke,99.9,2,,2019
 25.05,18,5,Stage 3 - Sluiskil › Sluiskil,81.8,,,2019
 25.05,6,5,Stage 2 (ITT) - Axel › Axel,12.2,3,,2019
-24.05,9,9,Stage 1 - Axel › Axel,102,,,2019
+24.05,9,9,Stage 1 - Axel › Axel,102.0,,,2019
 09.05 » 12.05,,,Course de la Paix Juniors (2.Ncup),,,,2019
 ,33,,Points classification,,,,2019
 ,30,,General classification,,5,,2019
@@ -127,9 +167,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 09.05,77,77,Stage 1 - Litoměřice › Litoměřice,100.7,,,2019
 12.04 » 14.04,,,Internationale Cottbuser Junioren-Etappenfahrt (2.1),,,,2019
 ,2,,General classification,,70,,2019
-14.04,6,,Stage 3 - Dissen › Dissen,120,3,,2019
-13.04,6,2,Stage 2b - Cottbus › Cottbus,60,3,,2019
-13.04,5,3,Stage 2a (ITT) - Drachhausen › Drachhausen,11,4,,2019
+14.04,6,,Stage 3 - Dissen › Dissen,120.0,3,,2019
+13.04,6,2,Stage 2b - Cottbus › Cottbus,60.0,3,,2019
+13.04,5,3,Stage 2a (ITT) - Drachhausen › Drachhausen,11.0,4,,2019
 12.04,2,2,Stage 1 - Drebkau › Drebkau,77.2,12,,2019
 31.03,68,,Gent-Wevelgem/Grote Prijs A. Noyelle-Ieper (1.Ncup),120.6,,,2019
 17.06,26,,National Championships Germany MJ - Road Race (NC),131.6,,,2018
@@ -146,15 +186,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,22,,Youth classification,,,,2018
 ,19,,Points classification,,,,2018
 ,66,,General classification,,,,2018
-01.05,2,,Stage 4 -  Grudziadz ›  Grudziadz,85,,,2018
+01.05,2,,Stage 4 -  Grudziadz ›  Grudziadz,85.0,,,2018
 30.04,75,66,Stage 3 - Płużnica › Lisewo,98.8,,,2018
 29.04,87,74,Stage 2 - Swiecie › Swiecie,102.2,,,2018
-28.04,139,141,Stage 1a - Gruta › Lasin,58,,,2018
+28.04,139,141,Stage 1a - Gruta › Lasin,58.0,,,2018
 28.04,33,81,Stage 1b - Jablonowo Pom. › Jablonowo Pom.,58.8,,,2018
 06.04 » 08.04,,,Internationale Cottbuser Junioren-Etappenfahrt (2.1),,,,2018
 ,4,,Youth classification,,,,2018
 ,9,,General classification,,16,,2018
-08.04,8,,Stage 3 - Dissen › Dissen,120,1,,2018
-07.04,21,9,Stage 2b - Cottbus › Cottbus,60,,,2018
+08.04,8,,Stage 3 - Dissen › Dissen,120.0,1,,2018
+07.04,21,9,Stage 2b - Cottbus › Cottbus,60.0,,,2018
 07.04,15,9,Stage 2a (ITT) - Drachhausen › Drachhausen,11.1,,,2018
 06.04,11,11,Stage 1 - Drebkau › Drebkau,77.2,,,2018

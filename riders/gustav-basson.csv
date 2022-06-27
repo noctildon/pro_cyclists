@@ -1,4 +1,18 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+27.03,5,,African Continental Championships ME - Road Race (CC) ,150.6,28,100,2022
+24.03,1,,African Continental Championships ME - ITT (CC) ,44.4,20,70,2022
+23.03,2,,African Continental Championships ME - TTT (CC) ,42.6,,13.75,2022
+16.03 » 20.03,,,Volta ao Alentejo (2.2) ,,,,2022
+,18,,Points classification ,,,,2022
+,31,,General classification ,,,,2022
+20.03,18,,Stage 5 - Castelo de Vide › Évora ,171.9,,,2022
+19.03,48,48,Stage 4 (ITT) - Castelo de Vide › Castelo de Vide ,8.4,,,2022
+18.03,6,27,Stage 3 - Elvas › Ponte de Sor ,176.7,,,2022
+17.03,21,27,Stage 2 - Beja › Portel ,187.7,,,2022
+16.03,28,32,Stage 1 - Vendas Novas › Sines ,176.7,,,2022
+13.03,95,,Classica da Arrabida - Cyclin'Portugal (1.2) ,161.8,,,2022
+13.02,8,,National Championships South Africa  - Road Race (NC) ,169,,10,2022
+11.02,6,,National Championships South Africa  - ITT (NC) ,30,,5,2022
 27.03,5,,African Continental Championships ME - Road Race (CC),150.6,28,100,2022
 24.03,1,,African Continental Championships ME - ITT (CC),44.4,20,70,2022
 23.03,2,,African Continental Championships ME - TTT (CC),42.6,,13.75,2022
@@ -11,30 +25,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.03,21,27,Stage 2 - Beja › Portel,187.7,,,2022
 16.03,28,32,Stage 1 - Vendas Novas › Sines,176.7,,,2022
 13.03,95,,Classica da Arrabida - Cyclin'Portugal (1.2),161.8,,,2022
-13.02,8,,National Championships South Africa  - Road Race (NC),169,,10,2022
-11.02,6,,National Championships South Africa  - ITT (NC),30,,5,2022
+13.02,8,,National Championships South Africa  - Road Race (NC),169.0,,10,2022
+11.02,6,,National Championships South Africa  - ITT (NC),30.0,,5,2022
 29.10 » 07.11,,,Tour du Faso (2.2),,,,2021
 ,3,,Points classification,,,,2021
 ,24,,General classification,,,,2021
 07.11,1,,Stage 10 - Kombissiri › Ouagadougou,129.5,5,7,2021
-06.11,8,35,Stage 9 - Manga › Ziniaré,128,,,2021
+06.11,8,35,Stage 9 - Manga › Ziniaré,128.0,,,2021
 05.11,56,36,Stage 8 - Koubri › Pô,126.2,,,2021
-04.11,6,6,Stage 7 (TTT) - Koupéla › Zorgho,33,,,2021
+04.11,6,6,Stage 7 (TTT) - Koupéla › Zorgho,33.0,,,2021
 03.11,10,6,Stage 6 - Nagréongo › Tenkodogo,153.5,,,2021
-02.11,6,6,Stage 5 - Ouahigouya › Kaya,105,,,2021
-01.11,7,5,Stage 4 - Laye › Ouahigouya,148,,,2021
+02.11,6,6,Stage 5 - Ouahigouya › Kaya,105.0,,,2021
+01.11,7,5,Stage 4 - Laye › Ouahigouya,148.0,,,2021
 31.10,10,4,Stage 3 - Dédougou › Koudougou,133.08,,,2021
 30.10,33,6,Stage 2 - Bobo Dioulasso › Dédougou,183.2,,,2021
-29.10,3,3,Stage 1 - Banfora › Bobo Dioulasso,125,1,1,2021
+29.10,3,3,Stage 1 - Banfora › Bobo Dioulasso,125.0,1,1,2021
 07.10 » 10.10,,,Circuit des Ardennes International (2.2),,,,2021
-10.10,DNF,,Stage 4 - Tournes › Charleville-Mézières,169,,,2021
+10.10,DNF,,Stage 4 - Tournes › Charleville-Mézières,169.0,,,2021
 09.10,95,92,Stage 3 - Chooz › Hargnies,172.4,,,2021
 08.10,29,104,Stage 2 - Vouziers › Vouziers,186.9,,,2021
 07.10,111,111,Stage 1 - Sedan › Sedan,115.3,,,2021
 26.09,DNF,,World Championships - Road Race (WC),268.3,,,2021
 16.07 » 18.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2021
-18.07,DNF,,Stage 3 - Serra d'El-Rei › Alto do Montejunto,185,,,2021
-17.07,110,100,Stage 2 - Arruda dos Vinhos   › Torres Vedras,166,,,2021
+18.07,DNF,,Stage 3 - Serra d'El-Rei › Alto do Montejunto,185.0,,,2021
+17.07,110,100,Stage 2 - Arruda dos Vinhos   › Torres Vedras,166.0,,,2021
 16.07,78,78,Stage 1 - Turcifal › Serra do Socorro ,85.3,,,2021
 11.07,OTL,,Grand Prix Kayseri ME (1.2),136.7,,,2021
 10.07,24,,Grand Prix Erciyes - Mimar Sinan ME (1.2),149.3,,,2021
@@ -49,11 +63,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.05,65,65,Stage 3 - Nyanza › Gicumbi,171.6,,,2021
 03.05,68,45,Stage 2 - Kigali  › Huye,120.5,,,2021
 02.05,7,7,Stage 1 - Kigali  › Rwamagana,115.6,2,,2021
-21.03,16,,National Championships South Africa  - Road Race (NC),178,,,2021
-19.03,5,,National Championships South Africa  - ITT (NC),40,,10,2021
-06.03,14,,African Continental Championships ME - Road Race (CC),140,7,25,2021
-04.03,1,,African Continental Championships  - Mixed Relay TTT (CC),28,,23.33,2021
-02.03,1,,African Continental Championships ME - TTT (CC),42,,23.33,2021
+21.03,16,,National Championships South Africa  - Road Race (NC),178.0,,,2021
+19.03,5,,National Championships South Africa  - ITT (NC),40.0,,10,2021
+06.03,14,,African Continental Championships ME - Road Race (CC),140.0,7,25,2021
+04.03,1,,African Continental Championships  - Mixed Relay TTT (CC),28.0,,23.33,2021
+02.03,1,,African Continental Championships ME - TTT (CC),42.0,,23.33,2021
 23.02 » 01.03,,,Tour du Rwanda (2.1),,,,2020
 ,21,,Mountains classification,,,,2020
 ,44,,General classification,,,,2020
@@ -62,37 +76,37 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.02,55,48,Stage 6 - Musanze › Muhanga,127.3,,,2020
 27.02,24,50,Stage 5 - Rubavu › Musanze,84.7,,,2020
 26.02,47,53,Stage 4 - Rusizi › Rubavu,206.3,,,2020
-25.02,66,61,Stage 3 - Huye › Rusizi,142,,,2020
+25.02,66,61,Stage 3 - Huye › Rusizi,142.0,,,2020
 24.02,63,58,Stage 2 - Kigali  › Huye,120.5,,,2020
 23.02,50,50,Stage 1 - Kigali  › Kigali ,114.4,,,2020
-09.02,9,,National Championships South Africa - Road Race (NC),175,,5,2020
-07.02,8,,National Championships South Africa - ITT (NC),36,,3,2020
+09.02,9,,National Championships South Africa - Road Race (NC),175.0,,5,2020
+07.02,8,,National Championships South Africa - ITT (NC),36.0,,3,2020
 20.01 » 26.01,,,La Tropicale Amissa Bongo (2.1),,,,2020
 ,15,,Youth classification,,,,2020
 ,15,,Points classification,,,,2020
 ,36,,General classification,,,,2020
-26.01,9,,Stage 7 - Nkok › Libreville,128,,,2020
+26.01,9,,Stage 7 - Nkok › Libreville,128.0,,,2020
 25.01,9,42,Stage 6 - Port Gentil › Port Gentil,127.2,,,2020
-24.01,18,46,Stage 5 - Lambaréné › Bifoun,82,,,2020
-23.01,15,57,Stage 4 - Lambaréné › Mouila,190,,,2020
-22.01,49,58,Stage 3 - Mitzic › Ndjolé,186,,,2020
-21.01,72,68,Stage 2 - Bitam › Oyem,107,,,2020
-20.01,82,72,Stage 1 - Bitam › Ebolowa,149,,,2020
+24.01,18,46,Stage 5 - Lambaréné › Bifoun,82.0,,,2020
+23.01,15,57,Stage 4 - Lambaréné › Mouila,190.0,,,2020
+22.01,49,58,Stage 3 - Mitzic › Ndjolé,186.0,,,2020
+21.01,72,68,Stage 2 - Bitam › Oyem,107.0,,,2020
+20.01,82,72,Stage 1 - Bitam › Ebolowa,149.0,,,2020
 22.06 » 24.06,,,Challenge International du Sahara Marocain (2.2),,,,2019
 ,1,,Points classification,,,,2019
 ,1,,General classification,,25,40,2019
-24.06,1,,Stage 3 - El Marsa › Boujdour,162,5,7,2019
-23.06,5,3,Stage 2 - Laayoune › Tarfaya,112,,,2019
-22.06,3,3,Stage 1 - Boukraa › Laayoune,106,1,1,2019
-20.06,1,,Les Challenges de la Marche Verte - GP Al Massira (1.2),113,15,40,2019
-19.06,4,,Les Challenges de la Marche Verte - GP Oued Eddahab (1.2),134,4,20,2019
+24.06,1,,Stage 3 - El Marsa › Boujdour,162.0,5,7,2019
+23.06,5,3,Stage 2 - Laayoune › Tarfaya,112.0,,,2019
+22.06,3,3,Stage 1 - Boukraa › Laayoune,106.0,1,1,2019
+20.06,1,,Les Challenges de la Marche Verte - GP Al Massira (1.2),113.0,15,40,2019
+19.06,4,,Les Challenges de la Marche Verte - GP Oued Eddahab (1.2),134.0,4,20,2019
 15.05 » 18.05,,,Tour de Limpopo (2.2),,,,2019
 ,15,,General classification,,,,2019
 18.05,37,,Stage 4 - Tzaneen › Polokwane,99.6,,,2019
-17.05,6,6,Stage 3 - Tzaneen › Coach House (Mt. Agatha),103,,,2019
+17.05,6,6,Stage 3 - Tzaneen › Coach House (Mt. Agatha),103.0,,,2019
 16.05,25,9,Stage 2 - Polokwane › Tzaneen,96.2,,,2019
-15.05,1,1,Stage 1 - Bela Bela › Polokwane,181,5,7,2019
-05.05,9,,100 Cycle Challenge (1.2),100,,3,2019
+15.05,1,1,Stage 1 - Bela Bela › Polokwane,181.0,5,7,2019
+05.05,9,,100 Cycle Challenge (1.2),100.0,,3,2019
 17.03 » 21.03,,,Tour de Taiwan (2.1),,,,2019
 ,17,,Points classification,,,,2019
 ,49,,General classification,,,,2019
@@ -107,16 +121,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.03,30,,Stage 5 - Paarl › Paarl,66.7,,,2019
 07.03,14,18,Stage 4 - Paarl › Paarl,126.7,,,2019
 06.03,2,34,Stage 3 (TTT) - Paarl › Paarl,16.5,2,0.5,2019
-05.03,1,5,Stage 2 - Paarl › Paarl,114,5,7,2019
+05.03,1,5,Stage 2 - Paarl › Paarl,114.0,5,7,2019
 04.03,4,4,Stage 1 - Paarl › Paarl,58.7,,,2019
-10.02,24,,National Championships South Africa - Road Race (NC),162,,,2019
+10.02,24,,National Championships South Africa - Road Race (NC),162.0,,,2019
 31.05 » 03.06,,,Grand Prix Priessnitz spa (2.Ncup),,,,2018
 ,29,,General classification,,,,2018
-03.06,50,,Stage 3 - Jeseník › Jeseník,158,,,2018
+03.06,50,,Stage 3 - Jeseník › Jeseník,158.0,,,2018
 02.06,32,31,Stage 2 - Krnov › Dlouhé stráně,148.9,,,2018
-01.06,28,32,Stage 1 - Jeseník › Rýmařov,133,,,2018
-31.05,37,37,Prologue - Krnov › Krnov,2,,,2018
-06.05,5,,100 Cycle Challenge (1.2),100,2,15,2018
+01.06,28,32,Stage 1 - Jeseník › Rýmařov,133.0,,,2018
+31.05,37,37,Prologue - Krnov › Krnov,2.0,,,2018
+06.05,5,,100 Cycle Challenge (1.2),100.0,2,15,2018
 23.04 » 26.04,,,Tour de Limpopo (2.2),,,,2018
 ,1,,Youth classification,,,,2018
 ,2,,Mountains classification,,,,2018
@@ -124,22 +138,22 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,1,,General classification,,25,40,2018
 26.04,9,,Stage 4 - Tzaneen › Polokwane,96.9,,,2018
 25.04,1,1,Stage 3 (TTT) - Tzaneen › Tzaneen,28.8,5,1.17,2018
-24.04,5,1,Stage 2 - Tzaneen › Tzaneen,175,,,2018
+24.04,5,1,Stage 2 - Tzaneen › Tzaneen,175.0,,,2018
 23.04,1,2,Stage 1 - Polokwane › Tzaneen,96.4,5,7,2018
-18.02,10,,African Continental Championships - Road Race (CC),156,14,40,2018
-15.02,10,,African Continental Championships - ITT (CC),40,,3,2018
+18.02,10,,African Continental Championships - Road Race (CC),156.0,14,40,2018
+15.02,10,,African Continental Championships - ITT (CC),40.0,,3,2018
 10.02,3,,National Championships South Africa U23 - Road Race (NC),154.8,,20,2018
 07.02,6,,National Championships South Africa U23 - ITT (NC),43.8,,,2018
 28.05,63,,Paris-Roubaix Espoirs (1.2U),182.7,,,2017
 01.05,35,,Circuit de Wallonie (1.2),182.4,,,2017
-14.02,15,,National Championships South Africa - Road Race (NC),187,,,2016
-11.02,13,,National Championships South Africa - ITT (NC),48,,1,2016
-13.09,DNF,,Jeux Africains 2015 de Brazzaville - Road Race (JR),150,,,2015
+14.02,15,,National Championships South Africa - Road Race (NC),187.0,,,2016
+11.02,13,,National Championships South Africa - ITT (NC),48.0,,1,2016
+13.09,DNF,,Jeux Africains 2015 de Brazzaville - Road Race (JR),150.0,,,2015
 11.09,2,,Jeux Africains 2015 de Brazzaville - ITT (JR),12.5,,,2015
-10.09,1,,Jeux Africains 2015 de Brazzaville - TTT (JR),25,,,2015
-03.05,6,,Hibiscus Cycle Classic (1.2),155,1,8,2015
-01.05,DNF,,Mayday Classic (1.2),182,,,2015
-27.04,6,,PMB Road Classic (1.2),157,1,8,2015
+10.09,1,,Jeux Africains 2015 de Brazzaville - TTT (JR),25.0,,,2015
+03.05,6,,Hibiscus Cycle Classic (1.2),155.0,1,8,2015
+01.05,DNF,,Mayday Classic (1.2),182.0,,,2015
+27.04,6,,PMB Road Classic (1.2),157.0,1,8,2015
 07.02,25,,National Championships South Africa - Road Race (NC),185.4,,,2015
 05.02,3,,National Championships South Africa U23 - ITT (NC),42.7,,,2015
 27.09,74,,World Championships MJ - Road Race (WC),127.4,,,2014
@@ -147,7 +161,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.07 » 07.07,,,Sint-Martinusprijs Kontich (2.1),,,,2014
 05.07,139,61,Stage 2 - Kontich › Kontich,122.3,,,2014
 04.07,69,69,Prologue - Waarloos › Waarloos,8.1,,,2014
-09.02,7,,National Championships South Africa MJ - Road Race (NC),126,4,,2014
-06.02,1,,National Championships South Africa MJ - ITT (NC),30,10,,2014
-03.03,7,,National Championships South Africa MJ - Road Race (NC),112,2,,2013
-28.02,9,,National Championships South Africa MJ - ITT (NC),33,,,2013
+09.02,7,,National Championships South Africa MJ - Road Race (NC),126.0,4,,2014
+06.02,1,,National Championships South Africa MJ - ITT (NC),30.0,10,,2014
+03.03,7,,National Championships South Africa MJ - Road Race (NC),112.0,2,,2013
+28.02,9,,National Championships South Africa MJ - ITT (NC),33.0,,,2013

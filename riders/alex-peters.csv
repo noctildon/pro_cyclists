@@ -1,21 +1,29 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+13.04 » 17.04,,,Tour du Loir et Cher (2.2) ,,,,2022
+,51,,General classification ,,,,2022
+17.04,102,,Stage 5 - Blois › Blois ,97.5,,,2022
+16.04,58,34,Stage 4 - La Motte-Beuvron › La Motte-Beuvron ,205,,,2022
+15.04,40,41,Stage 3 - Cloyes-Les-Trois-Rivières › Vendôme ,213,,,2022
+14.04,76,85,Stage 2 - Le Controis-en-Sologne › Vallières-les-Grandes ,197.5,,,2022
+13.04,93,93,Stage 1 - Blois › Fontaines-en-Sologne ,147,,,2022
+13.03,50,,Dorpenomloop Rucphen (1.2) ,186,,,2022
 13.04 » 17.04,,,Tour du Loir et Cher (2.2),,,,2022
 ,51,,General classification,,,,2022
 17.04,102,,Stage 5 - Blois › Blois,97.5,,,2022
-16.04,58,34,Stage 4 - La Motte-Beuvron › La Motte-Beuvron,205,,,2022
-15.04,40,41,Stage 3 - Cloyes-Les-Trois-Rivières › Vendôme,213,,,2022
+16.04,58,34,Stage 4 - La Motte-Beuvron › La Motte-Beuvron,205.0,,,2022
+15.04,40,41,Stage 3 - Cloyes-Les-Trois-Rivières › Vendôme,213.0,,,2022
 14.04,76,85,Stage 2 - Le Controis-en-Sologne › Vallières-les-Grandes,197.5,,,2022
-13.04,93,93,Stage 1 - Blois › Fontaines-en-Sologne,147,,,2022
-13.03,50,,Dorpenomloop Rucphen (1.2),186,,,2022
-17.10,19,,National Championships Great Britain - Road Race (NC),166,,,2021
+13.04,93,93,Stage 1 - Blois › Fontaines-en-Sologne,147.0,,,2022
+13.03,50,,Dorpenomloop Rucphen (1.2),186.0,,,2022
+17.10,19,,National Championships Great Britain - Road Race (NC),166.0,,,2021
 05.09 » 12.09,,,Tour of Britain (2.Pro),,,,2021
 ,18,,Points classification,,,,2021
 ,21,,General classification,,6,5,2021
-12.09,15,,Stage 8 - Stonehaven › Aberdeen,173,,,2021
+12.09,15,,Stage 8 - Stonehaven › Aberdeen,173.0,,,2021
 11.09,36,22,Stage 7 - Hawick › Edinburgh,194.8,,,2021
-10.09,22,21,Stage 6 - Carlisle  › Gateshead,198,,,2021
+10.09,22,21,Stage 6 - Carlisle  › Gateshead,198.0,,,2021
 09.09,34,26,Stage 5 - Alderley Park › Warrington,152.2,,,2021
-08.09,23,27,"Stage 4 - Aberaeron › Great Orme, Llandudno",210,,,2021
+08.09,23,27,"Stage 4 - Aberaeron › Great Orme, Llandudno",210.0,,,2021
 07.09,17,37,Stage 3 (TTT) - Carmarthenshire (Llandeilo) › Carmarthenshire (National Botanic Garden of Wales),18.2,,,2021
 06.09,3,5,Stage 2 - Sherford › Exeter,183.9,12,5,2021
 05.09,19,19,Stage 1 - Penzance › Bodmin,180.8,,,2021
@@ -33,7 +41,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.08,81,79,Stage 1 - Torres Vedras › Setúbal,175.8,,,2021
 04.08,33,33,Prologue - Lisboa › Lisboa,5.4,,,2021
 23.10,6,,Japan Cup Cycle Road Race (1.HC),144.2,40,70,2016
-26.06,13,,National Championships Great Britain - Road Race (NC),207,,,2016
+26.06,13,,National Championships Great Britain - Road Race (NC),207.0,,,2016
 16.06 » 19.06,,,Tour de Slovénie (2.1),,,,2016
 ,21,,Youth classification,,,,2016
 ,48,,Points classification,,,,2016
@@ -43,11 +51,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.06,131,128,Stage 2 - Nova Gorica  › Golte,217.2,,,2016
 16.06,119,119,Stage 1 - Ljubljana › Koper ,175.7,,,2016
 15.05 » 22.05,,,Amgen Tour of California (2.HC),,,,2016
-19.05,DNF,,Stage 5 - Lodi › South Lake Tahoe,212,,,2016
-18.05,52,76,Stage 4 - Morro Bay › Monterey County,217,,,2016
+19.05,DNF,,Stage 5 - Lodi › South Lake Tahoe,212.0,,,2016
+18.05,52,76,Stage 4 - Morro Bay › Monterey County,217.0,,,2016
 17.05,130,93,Stage 3 - Thousand Oaks › Santa Barbara County,167.5,,,2016
 16.05,25,39,Stage 2 - South Pasadena › Santa Clarita,148.5,,,2016
-15.05,72,74,Stage 1 - San Diego › San Diego,175,,,2016
+15.05,72,74,Stage 1 - San Diego › San Diego,175.0,,,2016
 26.04 » 01.05,,,Tour de Romandie (2.UWT),,,,2016
 ,17,,Youth classification,,,,2016
 ,123,,General classification,,5,,2016
@@ -60,18 +68,18 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.04 » 22.04,,,Giro del Trentino (2.HC),,,,2016
 22.04,DNF,,Stage 4 - Malè › Cles   ,160.9,,,2016
 21.04,120,93,Stage 3 - Sillian › Mezzolombardo,204.6,,,2016
-20.04,87,69,Stage 2 - Arco › Anras,220,,,2016
+20.04,87,69,Stage 2 - Arco › Anras,220.0,,,2016
 19.04,2,11,Stage 1 (TTT) - Riva › Torbole,12.1,12,2,2016
 24.03 » 27.03,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2016
 ,47,,General classification,,,,2016
 27.03,72,,Stage 4 - Pavullo › Pavullo,163.6,,,2016
-26.03,47,23,Stage 3 - Calderara di Reno  › Calderara di Reno ,172,,,2016
+26.03,47,23,Stage 3 - Calderara di Reno  › Calderara di Reno ,172.0,,,2016
 25.03,24,23,Stage 2 - Riccione › Sogliano al Rubicone,146.6,,,2016
 24.03,42,42,Stage 1a - Gatteo › Gatteo,95.9,,,2016
 24.03,8,18,Stage 1b (TTT) - Gatteo a mare › Gatteo,13.3,,,2016
-18.03,170,,Handzame Classic (1.1),199,,,2016
+18.03,170,,Handzame Classic (1.1),199.0,,,2016
 16.03,93,,Nokere Koerse - Danilith Classic (1.HC),199.5,,,2016
-28.02,DNF,,Kuurne-Bruxelles-Kuurne (1.HC),203,,,2016
+28.02,DNF,,Kuurne-Bruxelles-Kuurne (1.HC),203.0,,,2016
 27.02,DNF,,Omloop Het Nieuwsblad ME (1.HC),200.8,,,2016
 03.02 » 07.02,,,Volta a la Comunitat Valenciana (2.1),,,,2016
 ,138,,General classification,,,,2016
@@ -81,8 +89,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.02,167,139,Stage 2 - Castellon › Fredes,163.3,,,2016
 03.02,45,45,Stage 1 (ITT) - Benicàssim › Oropesa del Mar,16.25,,,2016
 03.10,DNF,,Piccolo Giro di Lombardia (1.2U),164.1,,,2015
-02.10,25,,Giro del Piemonte (1.HC),185,1,,2015
-25.09,127,,World Championships U23 - Road Race (WC),162,,,2015
+02.10,25,,Giro del Piemonte (1.HC),185.0,1,,2015
+25.09,127,,World Championships U23 - Road Race (WC),162.0,,,2015
 06.09 » 13.09,,,Tour of Britain (2.HC),,,,2015
 ,34,,Mountains classification,,,,2015
 ,12,,Points classification,,,,2015
@@ -92,7 +100,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 11.09,7,15,Stage 6 - Stoke-on-Trent › Nottingham,192.7,2,4,2015
 10.09,12,17,Stage 5 - Prudhoe › Hartside Fell,166.4,,,2015
 09.09,31,32,Stage 4 - Edinburgh › Blyth,217.4,,,2015
-08.09,9,33,"Stage 3 - Cockermouth › Floors Castle, Kelso",216,,,2015
+08.09,9,33,"Stage 3 - Cockermouth › Floors Castle, Kelso",216.0,,,2015
 07.09,42,41,Stage 2 - Clitheroe › Colne,159.3,,,2015
 06.09,45,47,"Stage 1 - Beaumaris, Anglesey › Wrexham",177.7,,,2015
 22.08 » 29.08,,,Tour de l'Avenir (2.Ncup),,,,2015
@@ -101,17 +109,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.08,51,33,Stage 6 - Bourg-Saint-Maurice › Saint-Michel-de-Maurienne,128.2,,,2015
 27.08,25,25,Stage 5 - Megève › La Rosière-Montvalezan,103.1,,,2015
 26.08,27,17,Stage 4 - Annemasse › Cluses,146.7,,,2015
-25.08,31,23,Stage 3 - Champagnole › Tournus,137,,,2015
+25.08,31,23,Stage 3 - Champagnole › Tournus,137.0,,,2015
 24.08,27,22,Stage 2 - Avallon › Arbois,193.5,,,2015
 23.08,30,20,Stage 1 - Chablis › Toucy,160.5,,,2015
 22.08,18,18,Prologue - Tonnerre › Tonnerre,3.5,,,2015
 04.08 » 08.08,,,Post Danmark Rundt - Tour of Denmark (2.HC),,,,2015
-06.08,DNF,,Stage 3 - Vejle › Vejle,185,,,2015
-05.08,29,35,Stage 2 - Ringkøbing › Aarhus,235,,,2015
+06.08,DNF,,Stage 3 - Vejle › Vejle,185.0,,,2015
+05.08,29,35,Stage 2 - Ringkøbing › Aarhus,235.0,,,2015
 04.08,47,49,Stage 1 - Struer › Holstebro,177.9,,,2015
-02.08,38,,Prudential RideLondon & Surrey Classic (1.HC),200,,,2015
+02.08,38,,Prudential RideLondon & Surrey Classic (1.HC),200.0,,,2015
 18.06 » 21.06,,,Oberösterreichrundfahrt (2.2),,,,2015
-19.06,DNF,,"Stage 2 - Wels, Max-Center › Obernberg/Inn",178,,,2015
+19.06,DNF,,"Stage 2 - Wels, Max-Center › Obernberg/Inn",178.0,,,2015
 18.06,13,13,Stage 1 (ITT) - Linz Hauptplatz › Pöstlingberg-Schlößl,4.6,,,2015
 10.05,9,,Flèche Ardennaise (1.2),178.1,,,2015
 25.04 » 01.05,,,Le Tour de Bretagne Cycliste trophée harmonie Mutuelle (2.2),,,,2015
@@ -120,7 +128,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,11,,Points classification,,,,2015
 ,7,,General classification,,4,6,2015
 01.05,33,,Stage 7 - Liffré › Liffré,146.3,,,2015
-30.04,54,7,Stage 6 - Perros-Guirec › Le Quillio,149,,,2015
+30.04,54,7,Stage 6 - Perros-Guirec › Le Quillio,149.0,,,2015
 29.04,10,7,Stage 5 - Pontivy › Perros-Guirec,169.3,,,2015
 28.04,1,4,Stage 4 - Plogoff - Pointe du Raz › Pontivy,189.9,5,8,2015
 27.04,9,25,Stage 3 - Baud › Cleden-Cap Sizun,192.9,,,2015
@@ -131,14 +139,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,15,,Mountains classification,,,,2015
 ,4,,Points classification,,,,2015
 ,2,,General classification,,18,30,2015
-29.03,13,,Stage 6 - Torigni-sur-Vire › Caen,155,,,2015
+29.03,13,,Stage 6 - Torigni-sur-Vire › Caen,155.0,,,2015
 28.03,2,1,Stage 5 - Carentan › Martinvast,169.5,2,5,2015
 27.03,38,11,Stage 4 - L’Aigle › Bagnoles-de-l’Orne,167.5,,,2015
 26.03,31,8,Stage 3 - Elbeuf-sur-Seine › Argentan,162.5,,,2015
 25.03,2,7,Stage 2 - Duclair › Elbeuf-sur-Seine,166.5,2,5,2015
-24.03,20,49,Stage 1 - Colombelles › Forges-les-Eaux,207,,,2015
+24.03,20,49,Stage 1 - Colombelles › Forges-les-Eaux,207.0,,,2015
 23.03,49,49,Prologue - Saint-Lô › Saint-Lô,3.6,,,2015
-26.09,105,,World Championships U23 - Road Race (WC),182,,,2014
+26.09,105,,World Championships U23 - Road Race (WC),182.0,,,2014
 07.09 » 14.09,,,Tour of Britain (2.HC),,,,2014
 ,43,,Points classification,,,,2014
 ,36,,General classification,,,,2014
@@ -151,18 +159,18 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 09.09,22,21,Stage 3 - Newtown › The Tumble,179.9,,,2014
 08.09,13,12,Stage 2 - Knowsley › Llandudno,200.8,,,2014
 07.09,11,14,Stage 1 - Liverpool › Liverpool,104.8,,,2014
-10.08,73,,Prudential RideLondon Classic (1.HC),193,,,2014
+10.08,73,,Prudential RideLondon Classic (1.HC),193.0,,,2014
 02.08 » 04.08,,,Kreiz Breizh Elites (2.2),,,,2014
 ,14,,Youth classification,,,,2014
 ,2,,Mountains classification,,,,2014
 ,21,,Points classification,,,,2014
 ,32,,General classification,,,,2014
 04.08,81,,Stage 4 - Plouguernevel › Rostrenen,176.7,,,2014
-03.08,29,16,Stage 3 - Le Saint › Carhaix,98,,,2014
+03.08,29,16,Stage 3 - Le Saint › Carhaix,98.0,,,2014
 03.08,15,11,Stage 2 - Ploërdut › Callac,84.6,,,2014
-02.08,19,19,Stage 1 - Calanhel › Plouray,170,,,2014
-29.06,DNF,,National Championships Great Britain - Road Race (NC),186,,,2014
-26.06,7,,National Championships Great Britain U23 - ITT (NC),21,,,2014
+02.08,19,19,Stage 1 - Calanhel › Plouray,170.0,,,2014
+29.06,DNF,,National Championships Great Britain - Road Race (NC),186.0,,,2014
+26.06,7,,National Championships Great Britain U23 - ITT (NC),21.0,,,2014
 18.05 » 25.05,,,An Post Ras (2.2),,,,2014
 ,1,,Youth classification,,,,2014
 ,17,,Mountains classification,,,,2014
@@ -179,31 +187,31 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.09 » 22.09,,,Tour of Britain (2.1),,,,2013
 ,7,,Youth classification,,,,2013
 ,70,,General classification,,,,2013
-22.09,28,,Stage 8 - London › London,88,,,2013
+22.09,28,,Stage 8 - London › London,88.0,,,2013
 21.09,63,71,Stage 7 - Epsom › Guildford,150.4,,,2013
-20.09,51,72,Stage 6 - Sidmouth › Haytor,137,,,2013
+20.09,51,72,Stage 6 - Sidmouth › Haytor,137.0,,,2013
 19.09,67,79,Stage 5 - Machynlleth › Caerphilly,177.1,,,2013
 18.09,82,85,Stage 4 - Stoke-on-Trent › Llanberis,190.9,,,2013
-17.09,46,87,Stage 3 (ITT) - Knowsley › Knowsley,16,,,2013
-16.09,75,89,Stage 2 - Carlisle › Kendal,225,,,2013
-15.09,99,99,Stage 1 - Peebles › Drumlanrig Castle,201,,,2013
-23.08,21,,Dutch Food Valley Classic (1.1),195,,,2013
-21.08,DNF,,Druivenkoers - Overijse (1.1),194,,,2013
+17.09,46,87,Stage 3 (ITT) - Knowsley › Knowsley,16.0,,,2013
+16.09,75,89,Stage 2 - Carlisle › Kendal,225.0,,,2013
+15.09,99,99,Stage 1 - Peebles › Drumlanrig Castle,201.0,,,2013
+23.08,21,,Dutch Food Valley Classic (1.1),195.0,,,2013
+21.08,DNF,,Druivenkoers - Overijse (1.1),194.0,,,2013
 20.08,DNF,,GP Stad Zottegem (1.1),181.7,,,2013
-04.08,42,,Ride London Classic (1.1),221,,,2013
+04.08,42,,Ride London Classic (1.1),221.0,,,2013
 23.06,OTL,,National Championships Great Britain - Road Race (NC),184.6,,,2013
 06.02,63,,Trofeo Alcúdia-Can Picafort-Playa de Muro (1.1),169.8,,,2013
 05.02,OTL,,"Trofeo Serra de Tramuntana, Deià-Lluc (1.1)",152.9,,,2013
-04.02,101,,Trofeo Migjorn (1.1),167,,,2013
-03.02,23,,Trofeo Palma (1.1),116,,,2013
+04.02,101,,Trofeo Migjorn (1.1),167.0,,,2013
+03.02,23,,Trofeo Palma (1.1),116.0,,,2013
 23.09,33,,World Championships MJ - Road Race (WC),128.8,,,2012
 17.05 » 20.05,,,Trofeo Karlsberg (2.Ncup),,,,2012
 ,45,,General classification,,5,,2012
-20.05,23,,Stage 4 - Reinheim › Reinheim,99,,,2012
-19.05,38,72,Stage 3b - Homburg › Homburg,79,,,2012
+20.05,23,,Stage 4 - Reinheim › Reinheim,99.0,,,2012
+19.05,38,72,Stage 3b - Homburg › Homburg,79.0,,,2012
 19.05,108,81,Stage 3a (ITT) - Habkirchen  › Reinheim,9.3,,,2012
-18.05,51,46,Stage 2 - Erfweiler-Ehlingen › Erfweiler-Ehlingen,90,,,2012
-17.05,30,30,Stage 1 - Großrosseln › Sankt Nikolaus,115,,,2012
+18.05,51,46,Stage 2 - Erfweiler-Ehlingen › Erfweiler-Ehlingen,90.0,,,2012
+17.05,30,30,Stage 1 - Großrosseln › Sankt Nikolaus,115.0,,,2012
 03.05 » 06.05,,,Course de la Paix Juniors (2.Ncup),,,,2012
 ,14,,General classification,,24,,2012
 06.05,82,,Stage 4 - Terezin › Terezin,99.8,,,2012

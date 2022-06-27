@@ -1,7 +1,39 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,42,,National Championships Belgium - Road Race (NC) ,208.7,,,2022
+15.06 » 19.06,,,Baloise Belgium Tour (2.Pro) ,,,,2022
+,4,,Points classification ,,,,2022
+,3,,General classification ,,90,125,2022
+19.06,40,,Stage 5 - Gingelom › Beringen ,179.9,,,2022
+18.06,1,3,Stage 4 - Durbuy › Durbuy  86k,172.2,30,20,2022
+17.06,26,9,Stage 3 (ITT) - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem ,11.8,,,2022
+16.06,16,6,Stage 2 - Beveren › Knokke-Heist ,175.6,,,2022
+15.06,4,6,Stage 1 - Merelbeke › Maarkedal ,165,7,,2022
+11.06,DNS,,Dwars door het Hageland (1.Pro) ,177,,,2022
+06.06,6,,Ronde van Limburg (1.1) ,202.6,24,40,2022
+05.06,DNF,,Brussels Cycling Classic (1.Pro) ,203.9,,,2022
+02.06,12,,Giro dell'Appennino (1.1) ,191.7,10,10,2022
+26.04 » 01.05,,,Tour de Romandie (2.UWT) ,,,,2022
+,11,,Mountains classification ,,,,2022
+,69,,General classification ,,5,,2022
+01.05,106,,Stage 5 (ITT) - Aigle › Villars ,15.84,,,2022
+30.04,83,63,Stage 4 - Aigle › Zinal (Val d'Anniviers)  134k,180.1,,,2022
+29.04,5,22,Stage 3 - Valbroye › Valbroye ,165.1,10,,2022
+28.04,6,22,Stage 2 - Échallens › Échallens ,168.2,7,,2022
+27.04,5,22,Stage 1 - La Grande Beroche › Romont ,178,10,,2022
+26.04,63,63,Prologue - Lausanne › Lausanne ,5.12,,,2022
+24.04,2,,Liège-Bastogne-Liège (1.UWT) ,257.2,200,400,2022
+20.04,61,,La Flèche Wallonne (1.UWT) ,202.1,5,,2022
+04.04 » 09.04,,,Itzulia Basque Country (2.UWT) ,,,,2022
+07.04,DNF,,Stage 4 - Vitoria-Gasteiz › Zamudio ,185.6,,,2022
+06.04,24,24,Stage 3 - Llodio › Amurrio ,181.7,,,2022
+05.04,3,19,Stage 2 - Leitza › Viana ,207.92,18,8,2022
+04.04,30,30,Stage 1 (ITT) - Hondarribia › Hondarribia ,7.51,,,2022
+01.04,9,,La Route Adélie de Vitré (1.1) ,176.7,16,25,2022
+05.03,54,,Strade Bianche (1.UWT) ,184,5,2,2022
+02.03,DNF,,Trofeo Laigueglia (1.Pro) ,202,,,2022
 26.04 » 01.05,,,Tour de Romandie (2.UWT),,,,2022
 28.04,6,22,Stage 2 - Échallens › Échallens,168.2,7,,2022
-27.04,5,21,Stage 1 - La Grande Beroche › Romont,178,10,,2022
+27.04,5,21,Stage 1 - La Grande Beroche › Romont,178.0,10,,2022
 26.04,63,63,Prologue - Lausanne › Lausanne,5.12,,,2022
 24.04,2,,Liège-Bastogne-Liège (1.UWT),257.2,200,400,2022
 20.04,61,,La Flèche Wallonne (1.UWT),202.1,5,,2022
@@ -11,11 +43,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.04,3,19,Stage 2 - Leitza › Viana,207.92,18,8,2022
 04.04,30,30,Stage 1 (ITT) - Hondarribia › Hondarribia,7.51,,,2022
 01.04,9,,La Route Adélie de Vitré (1.1),176.7,16,25,2022
-05.03,54,,Strade Bianche (1.UWT),184,5,2,2022
-02.03,DNF,,Trofeo Laigueglia (1.Pro),202,,,2022
+05.03,54,,Strade Bianche (1.UWT),184.0,5,2,2022
+02.03,DNF,,Trofeo Laigueglia (1.Pro),202.0,,,2022
 21.09,42,,Grand Prix de Denain - Porte du Hainaut (1.Pro),200.3,,,2021
 17.09,125,,Kampioenschap van Vlaanderen (1.1),195.3,,,2021
-29.08,DNF,,Bretagne Classic - Ouest-France (1.UWT),251,,,2021
+29.08,DNF,,Bretagne Classic - Ouest-France (1.UWT),251.0,,,2021
 09.08 » 15.08,,,Tour de Pologne (2.UWT),,,,2021
 ,15,,Points classification,,,,2021
 ,17,,General classification,,32,24,2021
@@ -31,9 +63,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,22,,Mountains classification,,,,2021
 ,6,,General classification,,60,70,2021
 24.07,25,,Stage 5 - Dinant › Quaregnon,192.4,,,2021
-23.07,15,6,Stage 4 - Neufchâteau › Fleurus,206,,,2021
-22.07,15,6,Stage 3 - Plombières › Érezée,177,,,2021
-21.07,57,5,Stage 2 - Zolder › Zolder,120,,,2021
+23.07,15,6,Stage 4 - Neufchâteau › Fleurus,206.0,,,2021
+22.07,15,6,Stage 3 - Plombières › Érezée,177.0,,,2021
+21.07,57,5,Stage 2 - Zolder › Zolder,120.0,,,2021
 20.07,24,7,Stage 1 - Genappe › Héron,185.7,,,2021
 20.06,DNS,,National Championships Belgium - Road Race (NC),221.3,,,2021
 08.05 » 30.05,,,Giro d'Italia (2.UWT),,,,2021
@@ -41,25 +73,25 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,43,,Points classification,,,,2021
 ,43,,General classification,,20,16,2021
 30.05,101,,Stage 21 (ITT) - Senago › Milan,30.3,,,2021
-29.05,51,42,Stage 20 - Verbania › Valle Spluga-Alpe Motta,164,,,2021
-28.05,40,42,Stage 19 - Abbiategrasso › Alpe di Mera (Valsesia),166,,,2021
-27.05,94,43,Stage 18 - Rovereto › Stradella,231,,,2021
-26.05,42,43,Stage 17 - Canazei › Sega di Ala,193,,,2021
-24.05,60,44,Stage 16 - Sacile › Cortina d'Ampezzo,153,,,2021
-23.05,5,46,Stage 15 - Grado › Gorizia,147,18,4,2021
-22.05,70,60,Stage 14 - Cittadella › Monte Zoncolan,205,,,2021
-21.05,103,59,Stage 13 - Ravenna › Verona,198,,,2021
-20.05,124,60,Stage 12 - Siena › Bagno di Romagna,212,,,2021
-19.05,48,52,Stage 11 - Perugia › Montalcino,162,,,2021
-17.05,12,52,Stage 10 - L'Aquila › Foligno,139,4,,2021
-16.05,43,54,Stage 9 - Castel di Sangro › Campo Felice (Rocca di Cambio),158,,,2021
-15.05,39,66,Stage 8 - Foggia › Guardia Sanframondi,170,,,2021
-14.05,98,70,Stage 7 - Notaresco › Termoli,181,,,2021
-13.05,57,71,Stage 6 - Grotte di Frasassi › Ascoli Piceno (San Giacomo),160,,,2021
-12.05,85,84,Stage 5 - Modena › Cattolica,177,,,2021
-11.05,101,87,Stage 4 - Piacenza › Sestola,187,,,2021
-10.05,12,57,Stage 3 - Biella › Canale,190,4,,2021
-09.05,17,84,Stage 2 - Stupinigi  › Novara,179,,,2021
+29.05,51,42,Stage 20 - Verbania › Valle Spluga-Alpe Motta,164.0,,,2021
+28.05,40,42,Stage 19 - Abbiategrasso › Alpe di Mera (Valsesia),166.0,,,2021
+27.05,94,43,Stage 18 - Rovereto › Stradella,231.0,,,2021
+26.05,42,43,Stage 17 - Canazei › Sega di Ala,193.0,,,2021
+24.05,60,44,Stage 16 - Sacile › Cortina d'Ampezzo,153.0,,,2021
+23.05,5,46,Stage 15 - Grado › Gorizia,147.0,18,4,2021
+22.05,70,60,Stage 14 - Cittadella › Monte Zoncolan,205.0,,,2021
+21.05,103,59,Stage 13 - Ravenna › Verona,198.0,,,2021
+20.05,124,60,Stage 12 - Siena › Bagno di Romagna,212.0,,,2021
+19.05,48,52,Stage 11 - Perugia › Montalcino,162.0,,,2021
+17.05,12,52,Stage 10 - L'Aquila › Foligno,139.0,4,,2021
+16.05,43,54,Stage 9 - Castel di Sangro › Campo Felice (Rocca di Cambio),158.0,,,2021
+15.05,39,66,Stage 8 - Foggia › Guardia Sanframondi,170.0,,,2021
+14.05,98,70,Stage 7 - Notaresco › Termoli,181.0,,,2021
+13.05,57,71,Stage 6 - Grotte di Frasassi › Ascoli Piceno (San Giacomo),160.0,,,2021
+12.05,85,84,Stage 5 - Modena › Cattolica,177.0,,,2021
+11.05,101,87,Stage 4 - Piacenza › Sestola,187.0,,,2021
+10.05,12,57,Stage 3 - Biella › Canale,190.0,4,,2021
+09.05,17,84,Stage 2 - Stupinigi  › Novara,179.0,,,2021
 08.05,83,83,Stage 1 (ITT) - Turin › Turin,8.6,,,2021
 25.04,36,,Liège-Bastogne-Liège (1.UWT),259.1,5,10,2021
 21.04,14,,La Flèche Wallonne (1.UWT),193.6,26,32,2021
@@ -77,7 +109,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.08 » 16.08,,,Critérium du Dauphiné (2.UWT),,,,2020
 12.08,DNF,,Stage 1 - Clermont-Ferrand › Saint-Christo-en-Jarez,218.5,,,2020
 03.08,34,,Gran Trittico Lombardo (1.Pro),199.7,,3,2020
-01.08,DNF,,Strade Bianche (1.UWT),184,,,2020
+01.08,DNF,,Strade Bianche (1.UWT),184.0,,,2020
 27.07 » 31.07,,,Tour de Wallonie (2.HC),,,,2019
 ,3,,Youth classification,,,,2019
 ,16,,Mountains classification,,,,2019
@@ -88,8 +120,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 29.07,8,4,Stage 3 - La Roche-en-Ardenne › Verviers,204.2,1,,2019
 28.07,3,3,Stage 2 - Waremme › Beyne Heusay,170.4,12,5,2019
 27.07,35,40,Stage 1 - Le Roeulx › Dottignies,186.4,,,2019
-30.06,49,,National Championships Belgium - Road Race (NC),224,,,2019
-26.06,DNF,,Internationale Wielertrofee Jong Maar Moedig I.W.T. (1.2),181,,,2019
+30.06,49,,National Championships Belgium - Road Race (NC),224.0,,,2019
+26.06,DNF,,Internationale Wielertrofee Jong Maar Moedig I.W.T. (1.2),181.0,,,2019
 21.06,3,,Dwars door het Hageland (1.1),203.8,40,70,2019
 12.06 » 16.06,,,Baloise Belgium Tour (2.HC),,,,2019
 ,29,,General classification,,,5,2019
@@ -118,17 +150,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 30.07,2,4,Stage 3 - Chimay › La Roche-En-Ardenne,169.2,18,10,2018
 29.07,15,13,Stage 2 - Villers-La-Ville › Namur,167.2,,,2018
 28.07,77,2,Stage 1 - La Louvière › Les Bons Villers,193.4,,,2018
-27.06,3,,Internationale Wielertrofee Jong Maar Moedig I.W.T. (1.2),179,7,25,2018
+27.06,3,,Internationale Wielertrofee Jong Maar Moedig I.W.T. (1.2),179.0,7,25,2018
 24.06,18,,National Championships Belgium - Road Race (NC),223.6,,,2018
 14.06 » 17.06,,,Oberösterreichrundfahrt (2.2),,,,2018
-,9,,Mountains classification,,,,2018
 ,3,,Points classification,,,,2018
 ,16,,General classification,,,,2018
 17.06,1,,Stage 4 - Traun › Ternberg,136.9,5,7,2018
 16.06,23,22,Stage 3 - Eferding › Ulrichsberg,142.1,,,2018
 15.06,48,11,Stage 2 - Pelmberg › Ried in Innkries,154.1,,,2018
 14.06,11,11,Stage 1 - Linz › Pelmberg,12.3,,,2018
-09.06,DNF,,Dwars door de Vlaamse Ardennen (1.2),200,,,2018
+09.06,DNF,,Dwars door de Vlaamse Ardennen (1.2),200.0,,,2018
 02.06,71,,Market Heistse Pijl (1.1),194.1,,,2018
 23.05 » 27.05,,,Baloise Belgium Tour (2.HC),,,,2018
 ,17,,Points classification,,,,2018
@@ -147,7 +178,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.07,36,53,Stage 3 - Arlon › Houffalize,181.4,,,2017
 23.07,76,89,Stage 2 - Chaudfontaine › Seraing,192.8,,,2017
 22.07,115,115,Stage 1 - Stavelot › Marchin,189.9,,,2017
-25.06,DNF,,National Championships Belgium - Road Race (NC),238,,,2017
+25.06,DNF,,National Championships Belgium - Road Race (NC),238.0,,,2017
 14.06 » 18.06,,,Ster ZLM (2.1),,,,2017
 ,3,,Mountains classification,,,,2017
 ,42,,General classification,,,,2017
@@ -156,23 +187,23 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 16.06,46,35,Stage 3 - Buchten › Buchten,209.2,,,2017
 15.06,69,35,Stage 2 - Tholen › Hoogerheide,186.8,,,2017
 14.06,37,37,Prologue - Westkapelle › Westkapelle,7.5,,,2017
-11.06,45,,Ronde van Limburg (1.1),200,,,2017
+11.06,45,,Ronde van Limburg (1.1),200.0,,,2017
 03.06,14,,Carrefour Market Heistse Pijl (1.1),191.2,7,5,2017
 14.08,DNS,,National Championships Belgium U23 - Road Race (NC),176.8,,,2016
-12.06,77,,Ronde van Limburg (1.1),200,,,2016
+12.06,77,,Ronde van Limburg (1.1),200.0,,,2016
 25.05 » 29.05,,,Baloise Belgium Tour (2.HC),,,,2016
 29.05,DNF,,Stage 4 - Tremelo › Tongeren,174.2,,,2016
 27.05,53,51,Stage 2 - Knokke-Heist › Herzele,200.9,,,2016
 26.05,138,84,Stage 1 - Buggenhout › Knokke-Heist,174.5,,,2016
-25.05,84,84,Prologue - Buggenhout › Buggenhout,6,,,2016
+25.05,84,84,Prologue - Buggenhout › Buggenhout,6.0,,,2016
 01.07 » 04.07,,,Course Cycliste de Solidarnosc et des Champions Olympiques (2.2),,,,2015
 ,9,,Youth classification,,,,2015
 ,28,,General classification,,,,2015
 04.07,28,,Stage 5 - Radomsko › Lodz,180.9,,,2015
-03.07,29,30,Stage 4 - Solec-Zdroj › Kielce,154,,,2015
+03.07,29,30,Stage 4 - Solec-Zdroj › Kielce,154.0,,,2015
 02.07,39,35,Stage 3 - Nowy Sacz › Jaworzno,189.2,,,2015
 01.07,44,46,Stage 2 - Strzyzow › Krosno,87.8,,,2015
-01.07,89,90,Stage 1 - Lublin › Lublin,126,,,2015
+01.07,89,90,Stage 1 - Lublin › Lublin,126.0,,,2015
 24.06,121,,Halle Ingooigem (1.1),198.8,,,2015
 18.06 » 21.06,,,Oberösterreichrundfahrt (2.2),,,,2015
 ,7,,Mountains classification,,,,2015
@@ -180,7 +211,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,16,,General classification,,,,2015
 21.06,22,,Stage 4 - Thalheim › Steyr,138.6,,,2015
 20.06,5,14,"Stage 3 - Eferding, Fa. Stöcker › Ulrichsberg",142.1,,,2015
-19.06,36,21,"Stage 2 - Wels, Max-Center › Obernberg/Inn",178,,,2015
+19.06,36,21,"Stage 2 - Wels, Max-Center › Obernberg/Inn",178.0,,,2015
 18.06,23,23,Stage 1 (ITT) - Linz Hauptplatz › Pöstlingberg-Schlößl,4.6,,,2015
 10.05,20,,Flèche Ardennaise (1.2),178.1,,,2015
 27.08,DNF,,Druivenkoers - Overijse (1.1),195.5,,,2014
@@ -191,7 +222,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.06,90,90,Stage 3 - Hotel Verviers › La Gileppe,186.7,,,2014
 20.06,31,89,Stage 2 - Buchten › Buchten,190.5,,,2014
 19.06,71,96,Stage 1 - Rucphen › Sint Willebrord,183.9,,,2014
-18.06,105,105,Prologue - Bladel › Bladel,7,,,2014
+18.06,105,105,Prologue - Bladel › Bladel,7.0,,,2014
 15.06,DNF,,Ronde van Limburg (1.1),199.5,,,2014
 05.07 » 08.07,,,Sint-Martinusprijs Kontich (2.1),,,,2013
 08.07,DNS,,Stage 4 - Kontich › Kontich,111.2,,,2013
@@ -205,4 +236,4 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.07,111,14,Stage 3b - Kontich › Kontich,119.9,,,2012
 07.07,31,31,Stage 2 - Kontich › Kontich,104.9,,,2012
 06.07,48,48,Prologue - Waarloos › Waarloos,8.1,,,2012
-27.05,55,,National Championships Belgium MJ - Road Race (NC),135,,,2012
+27.05,55,,National Championships Belgium MJ - Road Race (NC),135.0,,,2012

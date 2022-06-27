@@ -1,17 +1,34 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+03.06 » 12.06,,,Vuelta a Colombia (2.2) ,,,,2022
+11.06,DNF,,Stage 9 - Guateque › Santa Rosa Viterbo ,182.2,,,2022
+10.06,82,103,Stage 8 - Sopo › Somondoco ,96.3,,,2022
+09.06,107,108,Stage 7 - Mariquita › Alto del Vino ,140.4,,,2022
+08.06,109,118,Stage 6 - Rionegro › La Dorada ,202.6,,,2022
+07.06,121,124,Stage 5 - Yarumal › La Union ,189.1,,,2022
+06.06,139,130,Stage 4 - Caucasia › Yarumal ,158.4,,,2022
+05.06,1,1,Stage 3 - Sincelejo › Monteria ,116.9,5,7 +1,2022
+04.06,3,1,Stage 2 - Cartagena › Sincelejo ,176.7,1,1 +1,2022
+03.06,1,1,Stage 1 - Barranquilla › Cartagena ,123.4,5,7 +1,2022
+09.02 » 13.02,,,Vuelta del Porvenir San Luis (2.2) ,,,,2022
+,37,,General classification ,,,,2022
+13.02,3,,Stage 5 - San Luis › San Luis ,126,1,1,2022
+12.02,53,40,Stage 4 - Juana Koslay › Juana Koslay ,164.9,,,2022
+11.02,46,34,Stage 3 (ITT) - El Durazno  › El Durazno  ,12.7,,,2022
+10.02,4,4,Stage 2 - La Toma › La Toma ,185.6,,,2022
+09.02,4,8,Stage 1 - San Luis › Vila Mercedes ,168.3,,,2022
 09.02 » 13.02,,,Vuelta del Porvenir San Luis (2.2),,,,2022
 ,37,,General classification,,,,2022
-13.02,3,,Stage 5 - San Luis › San Luis,126,1,1,2022
+13.02,3,,Stage 5 - San Luis › San Luis,126.0,1,1,2022
 12.02,53,40,Stage 4 - Juana Koslay › Juana Koslay,164.9,,,2022
 11.02,46,34,Stage 3 (ITT) - El Durazno  › El Durazno ,12.7,,,2022
 10.02,4,4,Stage 2 - La Toma › La Toma,185.6,,,2022
 09.02,4,8,Stage 1 - San Luis › Vila Mercedes,168.3,,,2022
 16.04 » 25.04,,,Vuelta a Colombia (2.2),,,,2021
-25.04,OTL,,Stage 9 - Parque Nacional (Bogotá) › Parque Nacional (Bogotá),126,,,2021
+25.04,OTL,,Stage 9 - Parque Nacional (Bogotá) › Parque Nacional (Bogotá),126.0,,,2021
 24.04,115,115,Stage 8 - Mariquita › Alto del Vino,140.4,,,2021
 23.04,126,117,Stage 7 - Manizales › Mariquita,118.8,,,2021
 22.04,140,116,Stage 6 (ITT) - Cenicafé (Chinchiná) › Mirador Chipre (Manizales),19.8,,,2021
-21.04,120,114,Stage 5 - Armenia › Belalcázar,146,,,2021
+21.04,120,114,Stage 5 - Armenia › Belalcázar,146.0,,,2021
 20.04,128,114,Stage 4 - Ibagué › Alto de La Línea,122.2,,,2021
 19.04,99,82,Stage 3 - Mosquera › Ibagué,181.1,,,2021
 18.04,1,23,Stage 2 - Paipa › Tocancipá,140.2,5,7,2021
@@ -29,12 +46,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,30,,Points classification,,,,2019
 ,94,,General classification,,,,2019
 12.05,15,,Stage 3 - Madrid › Madrid,99.9,,,2019
-11.05,94,96,Stage 2 - San Martin de Valdeiglesias › San Martin de Valdeiglesias,163,,,2019
-10.05,82,82,Stage 1 - Aranjuez › Aranjuez,161,,,2019
+11.05,94,96,Stage 2 - San Martin de Valdeiglesias › San Martin de Valdeiglesias,163.0,,,2019
+10.05,82,82,Stage 1 - Aranjuez › Aranjuez,161.0,,,2019
 25.04 » 27.04,,,Vuelta a Castilla y Leon (2.1),,,,2019
 27.04,DNF,,Stage 3 - León › Villafranca del Bierzo,151.8,,,2019
 26.04,65,112,Stage 2 - Fromista › Villada,170.3,,,2019
-25.04,116,116,Stage 1 - Belorado › Castrojeriz,181,,,2019
+25.04,116,116,Stage 1 - Belorado › Castrojeriz,181.0,,,2019
 16.04 » 21.04,,,Presidential Cycling Tour of Turkey (2.UWT),,,,2019
 ,58,,General classification,,5,1,2019
 21.04,20,,Stage 6 - Sakarya › Istanbul,172.4,,,2019
@@ -43,7 +60,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 18.04,25,74,Stage 3 - Çanakkale › Edremit,122.6,,,2019
 17.04,72,76,Stage 2 - Tekirdağ › Eceabat,183.3,,,2019
 16.04,23,26,Stage 1 - Istanbul › Tekirdağ,156.7,,,2019
-07.04,DNF,,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),186,,,2019
+07.04,DNF,,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),186.0,,,2019
 05.04,20,,Route Adélie de Vitré (1.1),197.8,1,3,2019
 02.02,61,,National Championships Colombia U23 - Road Race (NC),217.5,,,2019
 10.10 » 17.10,,,Tour of Taihu Lake (2.1),,,,2017
@@ -52,7 +69,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,50,,General classification,,,,2017
 17.10,50,,Stage 7 - Jurong Chishanhu › Maoshan,130.6,,,2017
 16.10,11,74,Stage 6 - Jiangyan › Jiangyan,106.4,,,2017
-15.10,13,76,Stage 5 - Nantong › Haimen,148,,,2017
+15.10,13,76,Stage 5 - Nantong › Haimen,148.0,,,2017
 14.10,11,78,Stage 4 - Wujiang › Wujiang,117.4,,,2017
 13.10,10,79,Stage 3 - Huzhou › Changxing,134.3,,,2017
 12.10,16,85,Stage 2 - Wujin › Wujin,117.1,,,2017
@@ -61,7 +78,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.08 » 13.08,,,Vuelta a Colombia (2.2),,,,2017
 ,7,,Points classification,,,,2017
 ,105,,General classification,,,,2017
-13.08,3,,Stage 12 - Pereira › Pereira,107,1,1,2017
+13.08,3,,Stage 12 - Pereira › Pereira,107.0,1,1,2017
 12.08,2,124,Stage 11 - Palmira › Dosquebradas,190.8,2,3,2017
 11.08,21,128,Stage 10 - Cartago › Yumbo,176.1,,,2017
 10.08,98,131,Stage 9 - La Dorada › Alto de Letras,131.6,,,2017

@@ -1,9 +1,19 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+16.04 » 25.04,,,Vuelta a Colombia (2.2) ,,,,2021
+24.04,DNF,,Stage 8 - Mariquita › Alto del Vino ,140.4,,,2021
+23.04,18,9,Stage 7 - Manizales › Mariquita ,118.8,,,2021
+22.04,14,10,Stage 6 (ITT) - Cenicafé (Chinchiná) › Mirador Chipre (Manizales) ,19.8,,,2021
+21.04,12,9,Stage 5 - Armenia › Belalcázar ,146,,,2021
+20.04,7,9,Stage 4 - Ibagué › Alto de La Línea ,122.2,,,2021
+19.04,18,30,Stage 3 - Mosquera › Ibagué ,181.1,,,2021
+18.04,103,44,Stage 2 - Paipa › Tocancipá ,140.2,,,2021
+17.04,109,46,Stage 1 - Yopal › Yopal ,188.1,,,2021
+16.04,52,52,Prologue - Yopal › Yopal ,7.6,,,2021
 16.04 » 25.04,,,Vuelta a Colombia (2.2),,,,2021
 24.04,DNF,,Stage 8 - Mariquita › Alto del Vino,140.4,,,2021
 23.04,18,9,Stage 7 - Manizales › Mariquita,118.8,,,2021
 22.04,14,10,Stage 6 (ITT) - Cenicafé (Chinchiná) › Mirador Chipre (Manizales),19.8,,,2021
-21.04,12,9,Stage 5 - Armenia › Belalcázar,146,,,2021
+21.04,12,9,Stage 5 - Armenia › Belalcázar,146.0,,,2021
 20.04,7,9,Stage 4 - Ibagué › Alto de La Línea,122.2,,,2021
 19.04,18,30,Stage 3 - Mosquera › Ibagué,181.1,,,2021
 18.04,103,44,Stage 2 - Paipa › Tocancipá,140.2,,,2021
@@ -22,10 +32,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,12,,General classification,,10,10,2019
 17.02,15,,Stage 6 - El Retiro › Alto de Palmas,173.8,,,2019
 16.02,19,18,Stage 5 - La Union › La Union,176.8,,,2019
-15.02,59,26,Stage 4 - Medellín › Medellín,144,,,2019
+15.02,59,26,Stage 4 - Medellín › Medellín,144.0,,,2019
 14.02,60,28,Stage 3 - Llanogrande › Llanogrande,167.6,,,2019
-13.02,129,33,Stage 2 - La Ceja › La Ceja,157,,,2019
-12.02,8,35,Stage 1 (TTT) - Medellín › Medellín,14,,,2019
+13.02,129,33,Stage 2 - La Ceja › La Ceja,157.0,,,2019
+12.02,8,35,Stage 1 (TTT) - Medellín › Medellín,14.0,,,2019
 06.02 » 11.02,,,Colombia Oro y Paz (2.1),,,,2018
 ,21,,General classification,,,3,2018
 11.02,26,,Stage 6 - Armenia › Manizales (Torre de Chipre),184.3,,,2018
@@ -34,7 +44,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.02,83,93,Stage 3 - Palmira › Buga,163.2,,,2018
 07.02,124,98,Stage 2 - Palmira › Palmira,183.4,,,2018
 06.02,73,75,Stage 1 - Palmira › Palmira,99.9,,,2018
-04.02,21,,National Championships Colombia - Road Race (NC),228,,,2018
+04.02,21,,National Championships Colombia - Road Race (NC),228.0,,,2018
 01.08 » 13.08,,,Vuelta a Colombia (2.2),,,,2017
 07.08,DNS,,Stage 7 - Tunja › Sopó,112.6,,,2017
 06.08,59,44,Stage 6 - Socorro › Sogamoso,237.7,,,2017
@@ -57,7 +67,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,21,,Points classification,,,,2015
 ,22,,General classification,,,,2015
 29.03,8,,Stage 4 - Pavullo › Roccapelago,152.6,1,,2015
-28.03,77,44,Stage 3 - Calderara di Reno › Crevalcore,173,,,2015
+28.03,77,44,Stage 3 - Calderara di Reno › Crevalcore,173.0,,,2015
 27.03,48,46,Stage 2 - Cesenatico › Sogliano al Rubicone,156.2,,,2015
 26.03,97,97,Stage 1a - Gatteo › Gatteo,99.5,,,2015
 26.03,44,93,Stage 1b (TTT) - Gatteo a mare › Gatteo,13.3,,,2015
@@ -68,7 +78,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 16.08,16,5,Stage 10 (ITT) - Medellín › Alto de Las Palmas,17.5,,,2014
 15.08,7,8,Stage 9 - Manizales › La Estrella,182.8,,,2014
 14.08,12,,Stage 8 - Pereira › Manizales,199.5,,,2014
-13.08,19,10,Stage 7 - Dosquebradas › Dosquebradas,196,,,2014
+13.08,19,10,Stage 7 - Dosquebradas › Dosquebradas,196.0,,,2014
 11.08,22,10,Stage 6 - Ibagué › Pereira,158.1,,,2014
 10.08,7,13,Stage 5 - Madrid › Ibagué,202.3,,,2014
 09.08,79,15,Stage 4 - Nobsa › Cota,198.7,,,2014
@@ -85,7 +95,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 20.06,1,15,Stage 11 - Cota › La Dorada,184.9,5,8,2013
 19.06,28,16,Stage 10 - Nobsa › Ubaté,195.6,,,2013
 18.06,20,16,Stage 9 - Sopó › Santa Rosa de Viterbo,172.9,,,2013
-16.06,27,17,Stage 8 - Ibagué › Bogotá,213,,,2013
+16.06,27,17,Stage 8 - Ibagué › Bogotá,213.0,,,2013
 15.06,17,17,Stage 7 - Manizales › Ibagué,183.1,,,2013
 14.06,18,24,Stage 6 - Buga › Manizales,198.8,,,2013
 13.06,102,26,Stage 5 - Popayán › Cali,132.1,,,2013
@@ -97,13 +107,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,3,,Mountains classification,,,,2012
 ,4,,General classification,,11,12,2012
 25.11,16,,Stage 8 - Guatamala › Guatamala,122.5,,,2012
-24.11,5,4,Stage 7 - San Lucas Sacatepéquez  › Tecpán Guatemala,139,,,2012
+24.11,5,4,Stage 7 - San Lucas Sacatepéquez  › Tecpán Guatemala,139.0,,,2012
 23.11,1,4,Stage 6 - Chiquimula › Guatemala City,162.5,5,8,2012
 22.11,9,6,Stage 5 - Teculután › Esquipulas,103.5,,,2012
-21.11,26,13,Stage 4 - Puerto Barrios › Teculután,177,,,2012
-20.11,33,10,Stage 3 - Zacapa › Puerto Barrios,173,,,2012
+21.11,26,13,Stage 4 - Puerto Barrios › Teculután,177.0,,,2012
+20.11,33,10,Stage 3 - Zacapa › Puerto Barrios,173.0,,,2012
 19.11,14,6,Stage 2 - Guatamala City › Zacapa,143.5,,,2012
-18.11,2,2,Prologue - Villa Linda › Villa Linda,4,2,5,2012
+18.11,2,2,Prologue - Villa Linda › Villa Linda,4.0,2,5,2012
 12.06 » 24.06,,,Vuelta Pilsen a Colombia (2.2),,,,2012
 ,8,,General classification,,3,3,2012
 24.06,14,,Stage 11 (ITT) - Medellín › Alto de Las Palmas,27.8,,,2012
@@ -111,10 +121,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.06,4,7,Stage 9 - Dosquebradas › Manizales,119.5,,,2012
 21.06,105,18,Stage 8 - Palmira › Dosquebradas,198.2,,,2012
 20.06,60,10,Stage 7 - Popayan › Palmira,149.1,,,2012
-18.06,34,10,Stage 6 - Cali › Popayan,133,,,2012
+18.06,34,10,Stage 6 - Cali › Popayan,133.0,,,2012
 17.06,79,5,Stage 5 - Armenia › Cali,191.6,,,2012
 16.06,14,5,Stage 4 - Ibagué › Armenia,130.2,,,2012
-15.06,25,27,Stage 3 - Soacha › Ibagué,198,,,2012
+15.06,25,27,Stage 3 - Soacha › Ibagué,198.0,,,2012
 14.06,70,31,Stage 2 - Santander › Santander,164.1,,,2012
 13.06,47,22,Stage 1 - Puerto Gaitán › Villavicencio,192.8,,,2012
 12.06,33,33,Prologue - Puerto Gaitán › Puerto Gaitán,3.8,,,2012
@@ -123,7 +133,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.12,2,,Stage 12 - Pérez Zeledón  › San José,134.8,2,5,2011
 27.12,17,3,Stage 11 - Palmar Norte › Buenos Aires,160.5,,,2011
 26.12,3,3,Stage 10 - San José  › Pérez Zeledón,126.4,1,2,2011
-25.12,20,3,Stage 9 - Sábana › Sábana,94,,,2011
+25.12,20,3,Stage 9 - Sábana › Sábana,94.0,,,2011
 23.12,1,3,Stage 8 (ITT) - Pacayas › San Juan de Chicuá,24.5,5,8,2011
 22.12,3,3,Stage 7 - Limón  › Paraíso,148.2,1,2,2011
 21.12,14,3,Stage 6 - Guápiles  › Limón,154.9,,,2011
@@ -135,28 +145,28 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.11 » 27.11,,,Vuelta Ciclista Chiapas (2.2),,,,2011
 ,6,,Mountains classification,,,,2011
 ,7,,General classification,,4,6,2011
-27.11,8,,Stage 6 (ITT) - Chiapa de Corzo  › Tuxtla Gutiérrez,15,,,2011
-26.11,38,8,Stage 5 - San Cristóbal de las Casas › Comitán,82,,,2011
-25.11,8,8,Stage 4 - Tuxtla Gutiérrez  › San Cristóbal de las Casas,78,,,2011
-24.11,15,13,Stage 3 - Tonalá  › Tuxtla Gutiérrez,174,,,2011
-23.11,65,26,Stage 2 - Huixtla › Tonalá,179,,,2011
-22.11,6,6,Stage 1 - Tapachula › Tapachula,104,,,2011
+27.11,8,,Stage 6 (ITT) - Chiapa de Corzo  › Tuxtla Gutiérrez,15.0,,,2011
+26.11,38,8,Stage 5 - San Cristóbal de las Casas › Comitán,82.0,,,2011
+25.11,8,8,Stage 4 - Tuxtla Gutiérrez  › San Cristóbal de las Casas,78.0,,,2011
+24.11,15,13,Stage 3 - Tonalá  › Tuxtla Gutiérrez,174.0,,,2011
+23.11,65,26,Stage 2 - Huixtla › Tonalá,179.0,,,2011
+22.11,6,6,Stage 1 - Tapachula › Tapachula,104.0,,,2011
 12.06 » 26.06,,,Vuelta Pilsen a Colombia (2.2),,,,2011
 ,3,,General classification,,14,,2011
-26.06,1,,Stage 15 (ITT) - Medellín › Santa Elena,18,5,,2011
-25.06,3,,Stage 14 - Puerto Boyacá › La Unión,200,1,,2011
-24.06,48,,Stage 13 - Barrancabermeja › Puerto Boyacá,189,,,2011
-23.06,39,,Stage 12 - Bucaramanga › Barrancabermeja,205,,,2011
-22.06,5,,Stage 11 - Socorro › Bucaramanga,130,,,2011
-20.06,25,,Stage 10 - Duitama › Socorro,199,,,2011
-19.06,30,,Stage 9 - Duitama › Duitama,96,,,2011
-18.06,33,,Stage 8 - Chía › Paipa,232,,,2011
-17.06,23,,Stage 7 - Ibagué › Bogotá,221,,,2011
+26.06,1,,Stage 15 (ITT) - Medellín › Santa Elena,18.0,5,,2011
+25.06,3,,Stage 14 - Puerto Boyacá › La Unión,200.0,1,,2011
+24.06,48,,Stage 13 - Barrancabermeja › Puerto Boyacá,189.0,,,2011
+23.06,39,,Stage 12 - Bucaramanga › Barrancabermeja,205.0,,,2011
+22.06,5,,Stage 11 - Socorro › Bucaramanga,130.0,,,2011
+20.06,25,,Stage 10 - Duitama › Socorro,199.0,,,2011
+19.06,30,,Stage 9 - Duitama › Duitama,96.0,,,2011
+18.06,33,,Stage 8 - Chía › Paipa,232.0,,,2011
+17.06,23,,Stage 7 - Ibagué › Bogotá,221.0,,,2011
 16.06,10,,Stage 6 - Caicedonia › Ibagué,116.7,,,2011
 15.06,20,,Stage 5 - Yumbo › Caicedonia,146.9,,,2011
-14.06,49,,Stage 4 - Zarzal › Yumbo,117,,,2011
+14.06,49,,Stage 4 - Zarzal › Yumbo,117.0,,,2011
 13.06,39,,Stage 2 - La Estrella › Pereira,203.7,,,2011
-12.06,18,,Stage 1 (ITT) - La Ceja › La Ceja,6,,,2011
+12.06,18,,Stage 1 (ITT) - La Ceja › La Ceja,6.0,,,2011
 19.11 » 22.11,,,Vuelta Al Ecuador (2.2),,,,2010
 ,18,,General classification,,,,2010
 22.11,19,,Stage 4 - Santo Domingo › Quito,140.5,,,2010
@@ -167,28 +177,28 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,7,,General classification,,4,,2010
 15.08,14,,Stage 14 (ITT) - Medellin › Medellin,34.8,,,2010
 14.08,10,,Stage 13 - Manizales › Medellín (Alto de Palmas),206.1,,,2010
-13.08,8,,Stage 12 - Pereira › Manizales,118,,,2010
-12.08,21,,Stage 11 - Yumbo › Pereira,204,,,2010
-10.08,10,,Stage 10 - Armero › La Tebaida,204,,,2010
-09.08,5,,Stage 9 - Bogotá  › Líbano ,230,,,2010
-08.08,20,,Stage 8 - Duitama › Bogotá,207,,,2010
-07.08,40,,Stage 7 - Puente de Boyacá › Pantano de Varga,137,,,2010
+13.08,8,,Stage 12 - Pereira › Manizales,118.0,,,2010
+12.08,21,,Stage 11 - Yumbo › Pereira,204.0,,,2010
+10.08,10,,Stage 10 - Armero › La Tebaida,204.0,,,2010
+09.08,5,,Stage 9 - Bogotá  › Líbano ,230.0,,,2010
+08.08,20,,Stage 8 - Duitama › Bogotá,207.0,,,2010
+07.08,40,,Stage 7 - Puente de Boyacá › Pantano de Varga,137.0,,,2010
 06.08,27,,Stage 6 - Socorro › Tunja,165.2,,,2010
-05.08,27,,Stage 5 - Bucaramanga › Socorro,118,,,2010
-04.08,23,,Stage 4 - Barrancabermeja › Bucaramanga,117,,,2010
-03.08,51,,Stage 3 - Puerto Boyacá › Barracabermeja,191,,,2010
-02.08,50,,Stage 2 - Rionegro › Puerto Boyacá,164,,,2010
-01.08,6,,Stage 1 (TTT) - La Ceja › Rionegro,21,,,2010
+05.08,27,,Stage 5 - Bucaramanga › Socorro,118.0,,,2010
+04.08,23,,Stage 4 - Barrancabermeja › Bucaramanga,117.0,,,2010
+03.08,51,,Stage 3 - Puerto Boyacá › Barracabermeja,191.0,,,2010
+02.08,50,,Stage 2 - Rionegro › Puerto Boyacá,164.0,,,2010
+01.08,6,,Stage 1 (TTT) - La Ceja › Rionegro,21.0,,,2010
 08.05,3,,Pan-American Championships - ITT (CC),42.4,8,,2010
 18.04 » 25.04,,,Vuelta Mexico Telmex (2.2),,,,2010
 ,6,,General classification,,6,,2010
-25.04,37,,Stage 8 - Reforma › Reforma,110,,,2010
-24.04,10,,Stage 7 (ITT) - Ajusco › Ajusco,12,,,2010
-23.04,12,,Stage 6 - Cuernavaca › Metepec,180,,,2010
-22.04,68,,Stage 5 - Tlaxcala › Cuautla,175,,,2010
-21.04,24,,Stage 4 - Orizaba › Tlaxcala,220,,,2010
-20.04,25,,Stage 3 - Jarapa › Orizaba,173,,,2010
-19.04,9,,Stage 2 - Veracruz › Jalapa,109,,,2010
+25.04,37,,Stage 8 - Reforma › Reforma,110.0,,,2010
+24.04,10,,Stage 7 (ITT) - Ajusco › Ajusco,12.0,,,2010
+23.04,12,,Stage 6 - Cuernavaca › Metepec,180.0,,,2010
+22.04,68,,Stage 5 - Tlaxcala › Cuautla,175.0,,,2010
+21.04,24,,Stage 4 - Orizaba › Tlaxcala,220.0,,,2010
+20.04,25,,Stage 3 - Jarapa › Orizaba,173.0,,,2010
+19.04,9,,Stage 2 - Veracruz › Jalapa,109.0,,,2010
 18.04,77,,Stage 1 - Veracruz › Veracruz,77.4,,,2010
 04.08 » 08.08,,,Vuelta Ciclista a León (2.2),,,,2009
 ,2,,General classification,,18,,2009
@@ -203,20 +213,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.07 » 19.07,,,Vuelta A La Comunidad De Madrid (2.1),,,,2009
 ,19,,General classification,,2,,2009
 19.07,56,,Stage 3 - San Sebastián de los Reyes › San Sebastián de los Reyes,154.1,,,2009
-18.07,85,,Stage 2 - Coslada › Coslada,180,,,2009
+18.07,85,,Stage 2 - Coslada › Coslada,180.0,,,2009
 17.07,23,,Stage 1 (ITT) - Madrid › Madrid,8.1,,,2009
 06.06 » 21.06,,,Vuelta Pilsen a Colombia (2.2),,,,2009
-,2,,General classification,,18,,2009
 21.06,6,,Stage 15 (ITT) - La Calera › Bogotá,23.1,,,2009
 20.06,38,,Stage 14 - Tunja › Bogotá,142.5,,,2009
 19.06,12,,Stage 13 - Ubaté › Tunja,158.7,,,2009
 18.06,16,,Stage 12 - Guaduas › Zipaquirá,141.8,,,2009
 17.06,3,,Stage 11 - Manizales › Guaduas,167.3,1,,2009
 15.06,3,,Stage 9 - Ríonegro › Alto del Escobero,119.5,1,,2009
-14.06,2,,Stage 8 (ITT) - Medellín › Medellín,35,2,,2009
+14.06,2,,Stage 8 (ITT) - Medellín › Medellín,35.0,2,,2009
 12.06,14,,Stage 7 - Santa Rosa de Cabal › Sabaneta,177.8,,,2009
 11.06,51,,Stage 6 - Guacarí › Cartago,146.8,,,2009
-10.06,58,,Stage 5 - Circasia › Cali,195,,,2009
+10.06,58,,Stage 5 - Circasia › Cali,195.0,,,2009
 09.06,5,,Stage 4 - Ibagué › La Linea,128.2,,,2009
 08.06,37,,Stage 3 - Mosquera › Ibagué,184.4,,,2009
 07.06,46,,Stage 2 - Bogotá › Bogotá,85.9,,,2009
@@ -228,51 +237,51 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.05,98,,Stage 2 - Verin › Paredes,166.5,,,2009
 14.05,100,,Stage 1 - Lugo › Verin,163.9,,,2009
 28.04 » 02.05,,,Vuelta Asturias Julio Alvarez Mendo (2.1),,,,2009
-01.05,14,,Stage 5 - Cafés Toscaf › Alto del A,180,,,2009
+01.05,14,,Stage 5 - Cafés Toscaf › Alto del A,180.0,,,2009
 30.04,21,,Stage 4 (ITT) - Castrillon › Castrillon,14.2,,,2009
 30.04,46,,Stage 3 - Gijón  › Avilés,88.7,,,2009
-29.04,4,,Stage 2 - Llanas › Gijon,182,5,,2009
+29.04,4,,Stage 2 - Llanas › Gijon,182.0,5,,2009
 28.04,76,,Stage 1 - Oviedo › Llanes,156.7,,,2009
 26.04,35,,Vuelta Ciclista A La Rioja (1.1),218.7,,,2009
 19.04 » 22.04,,,Giro d'Abruzzo (2.2),,,,2007
 ,75,,General classification,,,,2007
-22.04,65,,Stage 4 - Sant'Egidio alla Vibrata › Sant'Egidio alla Vibrata,141,,,2007
-21.04,34,,Stage 3 - Notaresco › Notaresco,152,,,2007
-20.04,158,,Stage 2 - Chieti › Ortona,166,,,2007
-19.04,87,,Stage 1 - Megalò › Cepagatti,154,,,2007
-30.11,33,,National Championships Colombia - Road Race (NC),168,,,2006
+22.04,65,,Stage 4 - Sant'Egidio alla Vibrata › Sant'Egidio alla Vibrata,141.0,,,2007
+21.04,34,,Stage 3 - Notaresco › Notaresco,152.0,,,2007
+20.04,158,,Stage 2 - Chieti › Ortona,166.0,,,2007
+19.04,87,,Stage 1 - Megalò › Cepagatti,154.0,,,2007
+30.11,33,,National Championships Colombia - Road Race (NC),168.0,,,2006
 07.11 » 12.11,,,Doble Copacabana GP Fides (2.2),,,,2006
 ,3,,Mountains classification,,,,2006
 ,2,,General classification,,18,,2006
-12.11,9,2,Stage 6a - Copacabana › San Pedro de Tiquina,57,,,2006
-12.11,16,,Stage 6b - San Pedro de Tiquina › Calacoto La Paz (Calle 15),121,,,2006
-11.11,7,2,Stage 5b - San Pedro de Tiquina › Copacabana,39,,,2006
-11.11,10,1,Stage 5a - Cruz Papal (El Alto) › San Pablo de Tiquina,140,,,2006
-10.11,3,1,Stage 4 - Obrajes › Viacha,75,1,,2006
-09.11,15,4,Stage 3 - Rio Seco › Cruz Papal,162,,,2006
-08.11,12,4,Stage 2 - Caracollo › Plaza Alpacoma (El Alto),179,,,2006
-07.11,5,5,Stage 1 - Fundicion Vinto › Oruro,155,,,2006
+12.11,9,2,Stage 6a - Copacabana › San Pedro de Tiquina,57.0,,,2006
+12.11,16,,Stage 6b - San Pedro de Tiquina › Calacoto La Paz (Calle 15),121.0,,,2006
+11.11,7,2,Stage 5b - San Pedro de Tiquina › Copacabana,39.0,,,2006
+11.11,10,1,Stage 5a - Cruz Papal (El Alto) › San Pablo de Tiquina,140.0,,,2006
+10.11,3,1,Stage 4 - Obrajes › Viacha,75.0,1,,2006
+09.11,15,4,Stage 3 - Rio Seco › Cruz Papal,162.0,,,2006
+08.11,12,4,Stage 2 - Caracollo › Plaza Alpacoma (El Alto),179.0,,,2006
+07.11,5,5,Stage 1 - Fundicion Vinto › Oruro,155.0,,,2006
 05.08 » 19.08,,,Vuelta a Colombia (2.2),,,,2006
 ,21,,General classification,,,,2006
 08.08,28,25,Stage 4 - Piedecuesta › San Gil,113.5,,,2006
-07.08,29,21,Stage 3 - San Cristobal › Pamplona,133,,,2006
-06.08,25,20,Stage 2 - San Cristobal › San Cristobal,144,,,2006
+07.08,29,21,Stage 3 - San Cristobal › Pamplona,133.0,,,2006
+06.08,25,20,Stage 2 - San Cristobal › San Cristobal,144.0,,,2006
 05.08,20,20,Stage 1 (ITT) - Táriba › San Cristobal,19.8,,,2006
 11.05 » 14.05,,,Doble Sucre Potosi G.P. Cemento Fancesa (2.2),,,,2006
 ,8,,Mountains classification,,,,2006
 ,6,,General classification,,6,,2006
-14.05,12,,Stage 4 - Sucre › Sucre,128,,,2006
-13.05,8,6,Stage 3 - Potosí › Sucre,158,,,2006
-12.05,8,7,Stage 2 - Potosí › Potosí,152,,,2006
-11.05,6,11,Stage 1 - Sucre › Potosí,156,,,2006
+14.05,12,,Stage 4 - Sucre › Sucre,128.0,,,2006
+13.05,8,6,Stage 3 - Potosí › Sucre,158.0,,,2006
+12.05,8,7,Stage 2 - Potosí › Potosí,152.0,,,2006
+11.05,6,11,Stage 1 - Sucre › Potosí,156.0,,,2006
 08.11 » 13.11,,,Doble Copacabana GP Fides (2.2),,,,2005
 ,18,,Mountains classification,,,,2005
 ,10,,General classification,,1,,2005
-13.11,23,10,Stage 6a - Copacabana › San Pedro de Tiquina,73,,,2005
-13.11,25,,Stage 6b - San Pablo de Tiquina › La Paz Calacoto,121,,,2005
-12.11,17,9,Stage 5b - San Pedro de Tiquina › Copacabana,39,,,2005
-12.11,19,9,Stage 5a - El Alto › San Pablo de Tiquina,140,,,2005
-11.11,13,9,Stage 4 - La Paz › Viacha,78,,,2005
-10.11,1,8,Stage 3 (TTT) - Viacha › La Paz,35,5,,2005
-09.11,13,11,Stage 2 - El Alto › La Paz,176,,,2005
-08.11,14,14,Stage 1 - El Alto › El Alto,144,,,2005
+13.11,23,10,Stage 6a - Copacabana › San Pedro de Tiquina,73.0,,,2005
+13.11,25,,Stage 6b - San Pablo de Tiquina › La Paz Calacoto,121.0,,,2005
+12.11,17,9,Stage 5b - San Pedro de Tiquina › Copacabana,39.0,,,2005
+12.11,19,9,Stage 5a - El Alto › San Pablo de Tiquina,140.0,,,2005
+11.11,13,9,Stage 4 - La Paz › Viacha,78.0,,,2005
+10.11,1,8,Stage 3 (TTT) - Viacha › La Paz,35.0,5,,2005
+09.11,13,11,Stage 2 - El Alto › La Paz,176.0,,,2005
+08.11,14,14,Stage 1 - El Alto › El Alto,144.0,,,2005

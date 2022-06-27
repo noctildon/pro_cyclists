@@ -1,4 +1,45 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,3,,Juegos Bolivarianos ME - Road Race (CC) ,170.8,,,2022
+16.06 » 19.06,,,La Route d'Occitanie - La Dépêche du Midi (2.1) ,,,,2022
+,11,,Youth classification ,,,,2022
+,23,,General classification ,,,3,2022
+19.06,59,,Stage 4 - Les Angles › Auterive ,188.3,,,2022
+18.06,25,24,Stage 3 - Sigean › Les Angles ,188.7,,,2022
+17.06,24,43,Stage 2 - Belmont-sur-Rance › Roquefort-sur-Soulzon ,33.6,,,2022
+16.06,84,85,Stage 1 - Séméac › L'Isle Jourdain ,174.4,,,2022
+14.06,DNF,,Mont Ventoux Dénivelé Challenge (1.1) ,154,,,2022
+18.04 » 22.04,,,Tour of the Alps (2.Pro) ,,,,2022
+,48,,General classification ,,,,2022
+22.04,64,,Stage 5 - Lienz › Lienz ,114.5,,,2022
+21.04,62,53,Stage 4 - Villabassa › Kals am Grossglockner ,142.4,,,2022
+20.04,75,52,Stage 3 - Lana › Villabassa ,154.6,,,2022
+19.04,80,46,Stage 2 - Primiero/S. Martino di Castrozza › Lana ,154.1,,,2022
+18.04,26,26,Stage 1 - Cles › Primiero/S. Martino di Castrozza ,160.9,,,2022
+04.04 » 09.04,,,Itzulia Basque Country (2.UWT) ,,,,2022
+09.04,DNF,,Stage 6 - Eibar › Arrate ,135.7,,,2022
+08.04,102,80,Stage 5 - Zamudio › Mallabia ,163.76,,,2022
+07.04,93,69,Stage 4 - Vitoria-Gasteiz › Zamudio  144k,185.6,,,2022
+06.04,57,64,Stage 3 - Llodio › Amurrio ,181.7,,,2022
+05.04,97,116,Stage 2 - Leitza › Viana ,207.92,,,2022
+04.04,132,132,Stage 1 (ITT) - Hondarribia › Hondarribia ,7.51,,,2022
+02.04,35,,Gran Premio Miguel Indurain (1.Pro) ,190,,3,2022
+24.02 » 27.02,,,Gran Camiño (2.1) ,,,,2022
+,34,,Points classification ,,,,2022
+,13,,General classification ,,8,5,2022
+27.02,52,,Stage 4 (ITT) - Sarria  › Sarria  ,15.8,,,2022
+26.02,10,9,Stage 3 - Maceda  › Luintra ,148.4,,,2022
+25.02,14,14,Stage 2 - Bertamiráns  › Mirador do Ézaro ,177.6,,,2022
+24.02,52,55,Stage 1 - O Porriño › Vigo ,165,,,2022
+16.02 » 20.02,,,Vuelta a Andalucia Ruta Ciclista Del Sol (2.Pro) ,,,,2022
+,11,,Mountains classification ,,,,2022
+,35,,Points classification ,,,,2022
+,11,,General classification ,,36,30,2022
+20.02,25,,Stage 5 - Huesa › Chiclana de Segura ,146.4,,,2022
+19.02,12,11,Stage 4 - Cúllar Vega › Baza  137k,167.4,,,2022
+18.02,17,21,Stage 3 - Lucena › Otura ,153.2,,,2022
+17.02,36,33,Stage 2 - Archidona › Alcalá la Real ,150.6,,,2022
+16.02,20,20,Stage 1 - Ubrique › Iznájar ,200.7,,,2022
+12.02,85,,Vuelta Ciclista a la Region de Murcia Costa Calida (1.1) ,183.2,,,2022
 18.04 » 22.04,,,Tour of the Alps (2.Pro),,,,2022
 ,48,,General classification,,,,2022
 22.04,64,,Stage 5 - Lienz › Lienz,114.5,,,2022
@@ -13,14 +54,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.04,57,64,Stage 3 - Llodio › Amurrio,181.7,,,2022
 05.04,97,116,Stage 2 - Leitza › Viana,207.92,,,2022
 04.04,132,132,Stage 1 (ITT) - Hondarribia › Hondarribia,7.51,,,2022
-02.04,35,,Gran Premio Miguel Indurain (1.Pro),190,,3,2022
+02.04,35,,Gran Premio Miguel Indurain (1.Pro),190.0,,3,2022
 24.02 » 27.02,,,Gran Camiño (2.1),,,,2022
 ,34,,Points classification,,,,2022
 ,13,,General classification,,8,5,2022
 27.02,52,,Stage 4 (ITT) - Sarria  › Sarria ,15.8,,,2022
 26.02,10,9,Stage 3 - Maceda  › Luintra,148.4,,,2022
 25.02,14,14,Stage 2 - Bertamiráns  › Mirador do Ézaro,177.6,,,2022
-24.02,52,55,Stage 1 - O Porriño › Vigo,165,,,2022
+24.02,52,55,Stage 1 - O Porriño › Vigo,165.0,,,2022
 16.02 » 20.02,,,Vuelta a Andalucia Ruta Ciclista Del Sol (2.Pro),,,,2022
 ,11,,Mountains classification,,,,2022
 ,35,,Points classification,,,,2022
@@ -40,16 +81,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.09,78,31,Stage 19 - Tapia › Monforte de Lemos,191.2,,,2021
 02.09,52,33,Stage 18 - Salas › Altu d'El Gamoniteiru,162.6,,,2021
 01.09,37,28,Stage 17 - Unquera › Lagos de Covadonga,185.8,,,2021
-31.08,89,29,Stage 16 - Laredo › Santa Cruz de Bezana,180,,,2021
+31.08,89,29,Stage 16 - Laredo › Santa Cruz de Bezana,180.0,,,2021
 29.08,23,32,Stage 15 - Navalmoral de la Mata › El Barraco,197.5,,,2021
 28.08,33,36,Stage 14 - Don Benito › Pico Villuercas,165.7,,,2021
 27.08,134,37,Stage 13 - Belmez › Villanueva de la Serena,203.7,,,2021
-26.08,38,36,Stage 12 - Jaén › Córdoba,175,,,2021
+26.08,38,36,Stage 12 - Jaén › Córdoba,175.0,,,2021
 25.08,22,44,Stage 11 - Antequera › Valdepeñas de Jaén,133.6,,,2021
-24.08,58,52,Stage 10 - Roquetas de Mar › Rincón de la Victoria,189,,,2021
-22.08,124,50,Stage 9 - Puerto-Lumbreras › Alto de Velefique,188,,,2021
+24.08,58,52,Stage 10 - Roquetas de Mar › Rincón de la Victoria,189.0,,,2021
+22.08,124,50,Stage 9 - Puerto-Lumbreras › Alto de Velefique,188.0,,,2021
 21.08,96,28,Stage 8 - Santa Pola › La Manga del Mar Menor,173.7,,,2021
-20.08,60,29,Stage 7 - Gandía › Balcón de Alicante,152,,,2021
+20.08,60,29,Stage 7 - Gandía › Balcón de Alicante,152.0,,,2021
 19.08,27,24,Stage 6 - Requena › Alto de la Montaña de Cullera,158.3,,,2021
 18.08,86,28,Stage 5 - Tarancón › Albacete,184.4,,,2021
 17.08,80,35,Stage 4 - El Burgo de Osma › Molina de Aragón,163.9,,,2021
@@ -61,13 +102,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.06,110,,Stage 5 - Ljubljana › Novo mesto,175.3,,,2021
 12.06,74,80,Stage 4 - Ajdovščina › Nova Gorica,164.1,,,2021
 11.06,108,75,Stage 3 - Brežice › Krško,165.8,,,2021
-10.06,66,61,Stage 2 - Žalec › Celje (Celjski Grad),147,,,2021
+10.06,66,61,Stage 2 - Žalec › Celje (Celjski Grad),147.0,,,2021
 09.06,73,75,Stage 1 - Ptuj › Rogaška Slatina,151.5,,,2021
 23.05,27,,"Vuelta Ciclista a la Región de Murcia ""Costa Calida"" (1.1)",192.4,,,2021
 18.05 » 22.05,,,Vuelta a Andalucia Ruta Ciclista Del Sol (2.Pro),,,,2021
 ,24,,Points classification,,,,2021
 ,18,,General classification,,12,5,2021
-22.05,49,,Stage 5 - Vera  › Pulpí,107,,,2021
+22.05,49,,Stage 5 - Vera  › Pulpí,107.0,,,2021
 21.05,57,15,Stage 4 - Baza › Cúllar Vega,182.9,,,2021
 20.05,15,15,Stage 3 - Beas de Segura › Villarrodrigo (Puerto de Onsares),176.9,,,2021
 19.05,20,16,Stage 2 - Iznájar  › Alcalá la Real,184.8,,,2021
@@ -79,11 +120,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.04 » 18.04,,,Volta a la Comunitat Valenciana (2.Pro),,,,2021
 ,9,,Youth classification,,,,2021
 ,52,,Points classification,,,,2021
-,18,,General classification,,12,5,2021
 18.04,99,,Stage 5 - Paterna › Valencia,91.2,,,2021
 17.04,83,18,Stage 4 (ITT) - Xilxes › Playa Almenara,14.3,,,2021
-16.04,15,13,Stage 3 - Torrent › Alto de la Reina,165,,,2021
-15.04,57,31,Stage 2 - Alicante › Alicante,179,,,2021
+16.04,15,13,Stage 3 - Torrent › Alto de la Reina,165.0,,,2021
+15.04,57,31,Stage 2 - Alicante › Alicante,179.0,,,2021
 14.04,33,33,Stage 1 - Elche › Ondara,168.9,,,2021
 05.04 » 10.04,,,Itzulia Basque Country (2.UWT),,,,2021
 ,21,,Youth classification,,,,2021
@@ -102,25 +142,25 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,116,,General classification,,20,,2020
 08.11,92,,Stage 18 - Hipódromo de la Zarzuela › Madrid,139.6,,,2020
 07.11,128,116,Stage 17 - Sequeros › Alto de la Covatilla,178.2,,,2020
-06.11,135,114,Stage 16 - Salamanca › Ciudad Rodrigo,162,,,2020
+06.11,135,114,Stage 16 - Salamanca › Ciudad Rodrigo,162.0,,,2020
 05.11,70,111,Stage 15 - Mos › Puebla de Sanabria,230.8,,,2020
 04.11,126,121,Stage 14 - Lugo › Ourense,204.7,,,2020
 03.11,143,116,Stage 13 (ITT) - Muros › Mirador de Ézaro,33.7,,,2020
 01.11,135,113,Stage 12 - Pola de Laviana › Alto de l'Angliru,109.4,,,2020
-31.10,114,103,Stage 11 - Villaviciosa › Alto de la Farrapona,170,,,2020
-30.10,104,103,Stage 10 - Castro Urdiales › Suances,185,,,2020
+31.10,114,103,Stage 11 - Villaviciosa › Alto de la Farrapona,170.0,,,2020
+30.10,104,103,Stage 10 - Castro Urdiales › Suances,185.0,,,2020
 29.10,146,103,Stage 9 - Castrillo del Val › Aguilar de Campoo,157.7,,,2020
-28.10,147,100,Stage 8 - Logroño › Alto de Moncalvillo,164,,,2020
+28.10,147,100,Stage 8 - Logroño › Alto de Moncalvillo,164.0,,,2020
 27.10,129,85,Stage 7 - Vitoria-Gasteiz › Villanueva de Valdegovia,159.7,,,2020
 25.10,123,73,Stage 6 - Biescas › Aramón Formigal,146.4,,,2020
 24.10,127,62,Stage 5 - Huesca › Sabiñanigo,184.4,,,2020
 23.10,134,45,Stage 4 - Garray › Ejea de los Caballeros,191.7,,,2020
 22.10,40,45,Stage 3 - Lodosa › La Laguna Negra de Vinuesa,166.1,,,2020
 21.10,81,55,Stage 2 - Pamplona › Lekunberri,151.6,,,2020
-20.10,52,52,Stage 1 - Irún › Arrate,173,,,2020
+20.10,52,52,Stage 1 - Irún › Arrate,173.0,,,2020
 12.10,4,,Prueba Villafranca-Ordiziako Klasika (1.1),165.7,32,60,2020
 27.09,DNF,,World Championships - Road Race (WC),258.2,,,2020
-06.09,87,,Tour du Doubs (1.1),200,,,2020
+06.09,87,,Tour du Doubs (1.1),200.0,,,2020
 01.09 » 04.09,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2020
 ,18,,General classification,,3,3,2020
 04.09,32,,Stage 4 - Forlì › Forlì,166.2,,,2020
@@ -128,13 +168,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.09,27,26,Stage 2 - Riccione › Sogliano al Rubicone,166.5,,,2020
 01.09,65,65,Stage 1a - Gatteo › Gatteo,97.8,,,2020
 01.09,17,79,Stage 1b (TTT) - Gatteo a Mare › Gatteo,13.3,,,2020
-29.08,21,,Trofeo Matteotti (1.1),195,,3,2020
-06.08,DNF,,Mont Ventoux Dénivelé Challenge (1.1),179,,,2020
-02.08,23,,Circuito de Getxo-Memorial Hermanos Otxoa (1.1),177,,3,2020
+29.08,21,,Trofeo Matteotti (1.1),195.0,,3,2020
+06.08,DNF,,Mont Ventoux Dénivelé Challenge (1.1),179.0,,,2020
+02.08,23,,Circuito de Getxo-Memorial Hermanos Otxoa (1.1),177.0,,3,2020
 19.02 » 23.02,,,Vuelta a Andalucia Ruta Ciclista Del Sol (2.Pro),,,,2020
 ,44,,General classification,,,,2020
-23.02,111,,Stage 5 (ITT) - Mijas › Mijas,13,,,2020
-22.02,86,40,Stage 4 - Villanueva Mesia › Granada,125,,,2020
+23.02,111,,Stage 5 (ITT) - Mijas › Mijas,13.0,,,2020
+22.02,86,40,Stage 4 - Villanueva Mesia › Granada,125.0,,,2020
 21.02,71,32,Stage 3 - Jáen › Ubeda,176.9,,,2020
 20.02,48,24,Stage 2 - Sevilla  › Iznajar ,198.1,,,2020
 19.02,25,25,Stage 1 - Alhaurin de la Torre › Grazalema,173.8,,,2020
@@ -148,14 +188,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,5,,Youth classification,,,,2020
 ,22,,General classification,,4,5,2020
 09.02,98,,Stage 5 - Paterna › Valencia,97.7,,,2020
-08.02,22,22,Stage 4 - Calp › Altea (Sierra de Bernia),167,,,2020
+08.02,22,22,Stage 4 - Calp › Altea (Sierra de Bernia),167.0,,,2020
 07.02,95,40,Stage 3 - Orihuela › Torrevieja,174.5,,,2020
-06.02,41,40,Stage 2 - Torrent › Cullera (Montaña),181,,,2020
-05.02,106,106,Stage 1 - Castelló › Vila-Real ,180,,,2020
+06.02,41,40,Stage 2 - Torrent › Cullera (Montaña),181.0,,,2020
+05.02,106,106,Stage 1 - Castelló › Vila-Real ,180.0,,,2020
 01.02,60,,Pollença - Andratx (1.1),168.9,,,2020
 31.01,22,,Trofeo Serra de Tramuntana (1.1),160.5,,3,2020
 29.09,DNF,,World Championships - Road Race (WC),260.7,,,2019
-22.09,DNF,,Trofeo Matteotti (1.1),195,,,2019
+22.09,DNF,,Trofeo Matteotti (1.1),195.0,,,2019
 21.09,DNF,,Memorial Marco Pantani (1.1),194.7,,,2019
 19.09,DNF,,Coppa Sabatini - Gran Premio città di Peccioli (1.1),195.9,,,2019
 18.09,DNF,,Giro della Toscana - Memorial Alfredo Martini (1.1),204.4,,,2019
@@ -164,27 +204,27 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.08 » 17.08,,,Vuelta a Burgos (2.HC),,,,2019
 ,27,,Youth classification,,,,2019
 ,69,,General classification,,,,2019
-17.08,63,,Stage 5 - Santo Domingo de Silos › Lagunas de Neila,146,,,2019
-16.08,88,70,Stage 4 - Atapuerca › Ciudad Romana de Clunia,174,,,2019
-15.08,71,68,Stage 3 - Sargentes de la Lora › Picón Blanco,150,,,2019
-14.08,69,96,Stage 2 - Gumiel de Izan › Lerma,155,,,2019
-13.08,102,102,Stage 1 - Burgos › Burgos,162,,,2019
+17.08,63,,Stage 5 - Santo Domingo de Silos › Lagunas de Neila,146.0,,,2019
+16.08,88,70,Stage 4 - Atapuerca › Ciudad Romana de Clunia,174.0,,,2019
+15.08,71,68,Stage 3 - Sargentes de la Lora › Picón Blanco,150.0,,,2019
+14.08,69,96,Stage 2 - Gumiel de Izan › Lerma,155.0,,,2019
+13.08,102,102,Stage 1 - Burgos › Burgos,162.0,,,2019
 05.05,1,,Pan American Championships - Road Race (CC),176.4,75,250,2019
-01.05,14,,Pan American Championships - ITT (CC),44,,,2019
+01.05,14,,Pan American Championships - ITT (CC),44.0,,,2019
 12.02 » 17.02,,,Colombia 2.1 (2.1),,,,2019
 ,9,,Youth classification,,,,2019
 ,18,,General classification,,3,3,2019
 17.02,23,,Stage 6 - El Retiro › Alto de Palmas,173.8,,,2019
 16.02,17,20,Stage 5 - La Union › La Union,176.8,,,2019
-15.02,54,49,Stage 4 - Medellín › Medellín,144,,,2019
+15.02,54,49,Stage 4 - Medellín › Medellín,144.0,,,2019
 14.02,52,54,Stage 3 - Llanogrande › Llanogrande,167.6,,,2019
-13.02,95,99,Stage 2 - La Ceja › La Ceja,157,,,2019
-12.02,23,115,Stage 1 (TTT) - Medellín › Medellín,14,,,2019
+13.02,95,99,Stage 2 - La Ceja › La Ceja,157.0,,,2019
+12.02,23,115,Stage 1 (TTT) - Medellín › Medellín,14.0,,,2019
 28.09,DNF,,World Championships U23 - Road Race (WC),179.5,,,2018
 17.08 » 26.08,,,Tour de l'Avenir (2.Ncup),,,,2018
 ,41,,General classification,,,,2018
 26.08,68,,Stage 10 - Val d'Isère › Saint-Colomban-des-Villards Col du Glandon,150.8,,,2018
-25.08,30,38,Stage 9 - Séez › Val d'Isère,89,,,2018
+25.08,30,38,Stage 9 - Séez › Val d'Isère,89.0,,,2018
 24.08,48,64,Stage 8 - La Bathie › Crest-Voland Cohennoz,81.1,,,2018
 23.08,83,87,Stage 7 - Moutiers › Méribe,35.9,,,2018
 22.08,57,90,Stage 6 - Le Blanc › Cérilly,183.5,,,2018
@@ -193,35 +233,33 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.08,91,99,Stage 3 - Le Lude › Châteaudu,165.8,,,2018
 18.08,127,127,Stage 2 - Drefféac › Châteaubriant,137.6,,,2018
 17.08,125,125,Stage 1 - Grand-Champ › Elven,132.5,,,2018
-18.07,1,,National Championships Ecuador - Road Race (NC),120,15,50,2018
-17.07,1,,National Championships Ecuador - ITT (NC),40,15,25,2018
+18.07,1,,National Championships Ecuador - Road Race (NC),120.0,15,50,2018
+17.07,1,,National Championships Ecuador - ITT (NC),40.0,15,25,2018
 03.06,1,,Juegos Suramericanos - Road Race (JR),163.8,,,2018
 23.10 » 01.11,,,Vuelta a Guatemala (2.2),,,,2017
 ,12,,Youth classification,,,,2017
 ,1,,Mountains classification,,,,2017
 ,34,,General classification,,,,2017
-01.11,61,,Stage 10 - Ciudad de Guatemala › Ciudad de Guatemala,105,,,2017
-31.10,3,34,Stage 9 - Tecpán › Tecpán,112,1,1,2017
-30.10,66,37,Stage 8 - Quetzaltenango › Quetzaltenango,121,,,2017
-29.10,29,38,Stage 7 - San Pedro  › San Pedro San Marcos,116,,,2017
+01.11,61,,Stage 10 - Ciudad de Guatemala › Ciudad de Guatemala,105.0,,,2017
+31.10,3,34,Stage 9 - Tecpán › Tecpán,112.0,1,1,2017
+30.10,66,37,Stage 8 - Quetzaltenango › Quetzaltenango,121.0,,,2017
+29.10,29,38,Stage 7 - San Pedro  › San Pedro San Marcos,116.0,,,2017
 28.10,17,51,Stage 6 (ITT) - San Sebastiá › Champerico,43.6,,,2017
-27.10,1,57,Stage 5 - Villa Nueva › San José El Idolo,132,5,7,2017
+27.10,1,57,Stage 5 - Villa Nueva › San José El Idolo,132.0,5,7,2017
 26.10,35,57,Stage 4 - Jutiapa › San José Pinula,118.3,,,2017
 25.10,61,66,Stage 3a - Asunción Mita › Quesada,83.2,,,2017
 25.10,3,65,Stage 3b (TTT) - Quesada › Jutiapa,27.5,3,,2017
 24.10,88,67,Stage 2 - Teculutá › Guastatoya,106.5,,,2017
-23.10,18,18,Stage 1 - Ciudad de Guatemala › Zacapa,142,,,2017
-23.09,2,,National Championships Ecuador - ITT (NC),40,7,,2017
+23.10,18,18,Stage 1 - Ciudad de Guatemala › Zacapa,142.0,,,2017
+23.09,2,,National Championships Ecuador - ITT (NC),40.0,7,,2017
 19.07 » 23.07,,,Cascade Cycling Classic (2.2),,,,2017
-,12,,Youth classification,,,,2017
-,1,,Mountains classification,,,,2017
 ,45,,General classification,,,,2017
 23.07,82,,Stage 5 - Bend › Bend,130.6,,,2017
 22.07,94,43,Stage 4,48.6,,,2017
 21.07,3,46,Stage 3 - Bend › Kapka Butte Snow Park,172.7,1,1,2017
 20.07,78,65,Stage 2 (ITT) - Bend › Bend,22.9,,,2017
 19.07,65,65,Stage 1 - Princeville ›  Dee Wright Observatory,172.9,,,2017
-06.05,48,,Campeonato Panamericano de Ruta U23 - Road Race (CC),140,,,2017
+06.05,48,,Campeonato Panamericano de Ruta U23 - Road Race (CC),140.0,,,2017
 23.01 » 29.01,,,Vuelta Ciclista a la Provincia de San Juan (2.1),,,,2017
 ,3,,Youth classification,,,,2017
 ,32,,General classification,,,,2017
@@ -236,28 +274,28 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,1,,Mountains classification,,,,2016
 ,8,,Points classification,,,,2016
 ,7,,General classification,,4,5,2016
-01.11,30,,Stage 9 - Guatemala › Guatemala,105,,,2016
+01.11,30,,Stage 9 - Guatemala › Guatemala,105.0,,,2016
 31.10,11,7,Stage 8 - Chimaltenango › Tecpán,109.1,,,2016
 30.10,2,7,Stage 7 - San Cristóbal  › Sololá,96.7,2,3,2016
-29.10,48,12,Stage 6 - Totonicapán › Totonicapán,117,,,2016
+29.10,48,12,Stage 6 - Totonicapán › Totonicapán,117.0,,,2016
 28.10,5,12,Stage 5 - San Pedro › San Marcos,125.5,,,2016
 27.10,8,16,Stage 4 (ITT) - Puerto Camperico › Retalhuleu,37.8,,,2016
-26.10,6,17,Stage 3 - Puerto San José › Mazatenango,174,,,2016
+26.10,6,17,Stage 3 - Puerto San José › Mazatenango,174.0,,,2016
 25.10,2,19,Stage 2 - Jutiapa › Chiquimulilla,112.5,2,3,2016
-24.10,32,32,Stage 1 - Guatemala › Jutiapa,130,,,2016
+24.10,32,32,Stage 1 - Guatemala › Jutiapa,130.0,,,2016
 08.07 » 17.07,,,Vuelta Ciclista a Venezuela (2.2),,,,2016
 ,3,,Youth classification,,,,2016
 ,57,,Points classification,,,,2016
 ,20,,General classification,,,,2016
 17.07,61,,Stage 10 - Altagracias de Orituco › Altagracias de Orituco,99.2,,,2016
-16.07,73,20,Stage 9 - Valle de la Pascua › Valle de la Pascua,75,,,2016
-15.07,72,20,Stage 8 - San Juan de los Morros › Valle de la Pascua,215,,,2016
-14.07,32,21,"Stage 7 - Barquisimeto › Nirqua, Fuerte dan Vicente",121,,,2016
-13.07,45,18,Stage 6 - Campo Carabobo › Barquisimeto,195,,,2016
-12.07,76,16,Stage 5 - Ospina › Tinaquillo,181,,,2016
-11.07,14,16,Stage 4 - Guanare › Santo Domingo,150,,,2016
-10.07,95,79,Stage 3 - Ciudad Bolivia › Guanare,150,,,2016
-09.07,79,76,Stage 2 - Peribeca › Santa Barbera de Barinas,185,,,2016
+16.07,73,20,Stage 9 - Valle de la Pascua › Valle de la Pascua,75.0,,,2016
+15.07,72,20,Stage 8 - San Juan de los Morros › Valle de la Pascua,215.0,,,2016
+14.07,32,21,"Stage 7 - Barquisimeto › Nirqua, Fuerte dan Vicente",121.0,,,2016
+13.07,45,18,Stage 6 - Campo Carabobo › Barquisimeto,195.0,,,2016
+12.07,76,16,Stage 5 - Ospina › Tinaquillo,181.0,,,2016
+11.07,14,16,Stage 4 - Guanare › Santo Domingo,150.0,,,2016
+10.07,95,79,Stage 3 - Ciudad Bolivia › Guanare,150.0,,,2016
+09.07,79,76,Stage 2 - Peribeca › Santa Barbera de Barinas,185.0,,,2016
 08.07,88,86,Stage 1 - San Cristobal › San Cristobal,88.2,,,2016
 21.05,8,,Campeonato Panamericano de Ruta - MU - RR (CC),124.8,18,10,2016
 19.05,12,,Campeonato Panamericano de Ruta ITT - U23 (CC),26.4,,,2016
@@ -265,49 +303,49 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,11,,Youth classification,,,,2016
 ,11,,Points classification,,,,2016
 ,50,,General classification,,,,2016
-10.04,1,,Stage 5 - Farroupilha › Farroupilha,156,5,7,2016
-09.04,18,59,Stage 4 - São Francisco de Paula  › Farroupilha,174,,,2016
+10.04,1,,Stage 5 - Farroupilha › Farroupilha,156.0,5,7,2016
+09.04,18,59,Stage 4 - São Francisco de Paula  › Farroupilha,174.0,,,2016
 08.04,51,71,Stage 3 - São Francisco de Paula  › São Francisco de Paula ,163.2,,,2016
-07.04,16,73,Stage 2 - São Francisco de Paula  › São Francisco de Paula ,161,,,2016
-06.04,76,79,Stage 1 - Novo Hamburgo › São Francisco de Paula ,150,,,2016
+07.04,16,73,Stage 2 - São Francisco de Paula  › São Francisco de Paula ,161.0,,,2016
+06.04,76,79,Stage 1 - Novo Hamburgo › São Francisco de Paula ,150.0,,,2016
 27.02 » 05.03,,,Vuelta Independencia Nacional Republica Dominicana (2.2),,,,2016
 ,2,,Youth classification,,,56,2016
 ,22,,General classification,,,,2016
-05.03,58,,Stage 8 - Santo Domingo › Santo Domingo,100,,,2016
-04.03,98,23,Stage 7 - Santiago de los Caballeros › Santo Domingo,149,,,2016
-03.03,15,24,Stage 6 - Moca › Constanza,131,,,2016
-02.03,73,30,Stage 5 - Samana › San Francisco de macoris,118,,,2016
-01.03,16,31,Stage 4 - Santo Domingo › Samana,191,,,2016
-29.02,16,104,Stage 3 - Santo Domingo › Mirador de Miches,173,,,2016
-28.02,130,62,Stage 2 - Santo Domingo › Barahona,175,,,2016
-27.02,8,44,Stage 1 (TTT) - Santo Domingo › Santo Domingo,20,,,2016
-25.09,DNF,,World Championships U23 - Road Race (WC),162,,,2015
+05.03,58,,Stage 8 - Santo Domingo › Santo Domingo,100.0,,,2016
+04.03,98,23,Stage 7 - Santiago de los Caballeros › Santo Domingo,149.0,,,2016
+03.03,15,24,Stage 6 - Moca › Constanza,131.0,,,2016
+02.03,73,30,Stage 5 - Samana › San Francisco de macoris,118.0,,,2016
+01.03,16,31,Stage 4 - Santo Domingo › Samana,191.0,,,2016
+29.02,16,104,Stage 3 - Santo Domingo › Mirador de Miches,173.0,,,2016
+28.02,130,62,Stage 2 - Santo Domingo › Barahona,175.0,,,2016
+27.02,8,44,Stage 1 (TTT) - Santo Domingo › Santo Domingo,20.0,,,2016
+25.09,DNF,,World Championships U23 - Road Race (WC),162.0,,,2015
 18.06 » 21.06,,,Tour des Pays de Savoie (2.2),,,,2015
-20.06,DNF,,Stage 3 - Chambéry › Saint Michel de Maurienne,120,,,2015
-19.06,91,94,Stage 2 - Cluses › Saint Jorioz,142,,,2015
-18.06,104,104,Stage 1 - La Balme de Sillingy › Saint Alban-Leysse,142,,,2015
+20.06,DNF,,Stage 3 - Chambéry › Saint Michel de Maurienne,120.0,,,2015
+19.06,91,94,Stage 2 - Cluses › Saint Jorioz,142.0,,,2015
+18.06,104,104,Stage 1 - La Balme de Sillingy › Saint Alban-Leysse,142.0,,,2015
 21.05 » 24.05,,,Ronde de l'Isard (2.2U),,,,2015
 ,17,,Youth classification,,,,2015
 ,42,,General classification,,,,2015
 24.05,28,,Stage 4 - Foix › St. Girons,130.4,,,2015
 23.05,67,66,Stage 3 - Auterive › Boulogne-sur-Gesse,157.6,,,2015
 22.05,52,67,Stage 2 - Salies du Salat › Plateau de Beille,139.9,,,2015
-21.05,80,80,Stage 1 - Mirepoix › Goulier Neige,143,,,2015
-09.05,16,,Panamerican Championships U23 - Road Race (CC),153,,,2015
+21.05,80,80,Stage 1 - Mirepoix › Goulier Neige,143.0,,,2015
+09.05,16,,Panamerican Championships U23 - Road Race (CC),153.0,,,2015
 28.04 » 03.05,,,Vuelta Mexico (2.2),,,,2015
 ,4,,Youth classification,,,,2015
 ,33,,General classification,,,,2015
-03.05,36,,Stage 6 - Tocula Paseo Tollocan › Tocula Paseo Tollocan,100,,,2015
+03.05,36,,Stage 6 - Tocula Paseo Tollocan › Tocula Paseo Tollocan,100.0,,,2015
 02.05,25,36,Stage 5 - Pachuca › Tlaxcala,169.5,,,2015
 01.05,48,45,"Stage 4 - San Juan del Río › Pachuca, Hidalgo",181.6,,,2015
 30.04,43,47,Stage 3 - Guanajuato › San Juan del Río,208.3,,,2015
-29.04,39,47,"Stage 2 - San Luis Potosí › León, Guanajuato",193,,,2015
+29.04,39,47,"Stage 2 - San Luis Potosí › León, Guanajuato",193.0,,,2015
 28.04,45,46,Stage 1 - Aguascalientes › San Luis Potosí,170.2,,,2015
 08.04 » 12.04,,,Volta Ciclística Internacional do Rio Grande do Sul (2.2),,,,2015
 ,17,,General classification,,,,2015
 12.04,27,,Stage 5 - Farroupilha › Farroupilha,153.6,,,2015
-11.04,13,14,Stage 4 - São Francisco de Paula › Farroupilha,170,,,2015
-10.04,42,17,Stage 3 - São Francisco de Paula › São Francisco de Paula,160,,,2015
-09.04,10,11,Stage 2 - Torres › São Francisco de Paula,152,,,2015
+11.04,13,14,Stage 4 - São Francisco de Paula › Farroupilha,170.0,,,2015
+10.04,42,17,Stage 3 - São Francisco de Paula › São Francisco de Paula,160.0,,,2015
+09.04,10,11,Stage 2 - Torres › São Francisco de Paula,152.0,,,2015
 08.04,42,46,Stage 1 - Sapiranga › Torres,199.9,,,2015
-13.07,12,,Pan American Championships MJ - Road Race (CC),116,6,,2014
+13.07,12,,Pan American Championships MJ - Road Race (CC),116.0,6,,2014

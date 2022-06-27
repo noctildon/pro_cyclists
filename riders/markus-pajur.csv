@@ -1,19 +1,55 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,DNF,,National Championships Estonia - Road Race (NC) ,164,,,2022
+22.06,5,,National Championships Estonia U23 - ITT (NC) ,,,3,2022
+19.06,2,,National Championships Estonia U23 - Road Race (NC) ,133,,30,2022
+12.06,55,,Elfstedenronde Brugge (1.1) ,192.3,,,2022
+11.06,DNF,,Dwars door het Hageland (1.Pro) ,177,,,2022
+29.05,62,,Marcel Kint Classic (1.1) ,199,,,2022
+26.05,56,,Circuit de Wallonie (1.1) ,192.2,,,2022
+22.05,DNF,,Rund um Köln (1.1) ,199.3,,,2022
+21.05,68,,Veenendaal-Veenendaal Classic (1.1) ,197.9,,,2022
+25.04 » 01.05,,,Le Tour de Bretagne Cycliste (2.2) ,,,,2022
+26.04,DNF,,Stage 2 - Missillac › La Chapelle-Bouëxic ,152,,,2022
+25.04,18,19,Stage 1 - Guenrouët › Sainte-Reine-de-Bretagne ,162.3,,,2022
+13.04,DNS,,De Brabantse Pijl - La Flèche Brabançonne (1.Pro) ,205.1,,,2022
+06.04,DNF,,Scheldeprijs (1.Pro) ,198.7,,,2022
+03.04,94,,Ronde van Vlaanderen - Tour des Flandres ME (1.UWT) ,272.5,5,,2022
+30.03,83,,Dwars door Vlaanderen - A travers la Flandre ME (1.UWT) ,183.7,5,,2022
+27.03,37,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup) ,177,,,2022
+23.03,57,,Minerva Classic Brugge-De Panne (1.UWT) ,207.9,5,1,2022
+18.03,55,,Bredene Koksijde Classic (1.Pro) ,200.9,,,2022
+17.03,65,,Grand Prix de Denain - Porte du Hainaut (1.Pro) ,200.3,,,2022
+16.03,75,,Danilith Nokere Koerse (1.Pro) ,189.8,,,2022
+13.03,25,,Albert Achterhes Profronde van Drenthe (1.1) ,198.1,,3,2022
+06.03,61,,Grote Prijs Jean-Pierre Monseré (1.1) ,203.2,,,2022
+01.03,47,,Le Samyn (1.1) ,209,,,2022
+27.02,104,,Kuurne - Bruxelles - Kuurne (1.Pro) ,195.1,,,2022
+14.02,DNF,,Clásica Jaén Paraiso Interior (1.1) ,187.8,,,2022
+13.02,76,,Clasica de Almeria (1.Pro) ,188.2,,,2022
+01.02 » 05.02,,,Saudi Tour (2.1) ,,,,2022
+,14,,Youth classification ,,,,2022
+,55,,General classification ,,,,2022
+05.02,43,,Stage 5 - AlUla Old Town › AlUla Old Town ,138.9,,,2022
+04.02,66,60,Stage 4 - Winter Park › Skyviews of Harrat Uwayrid ,149.3,,,2022
+03.02,37,39,Stage 3 - Tayma Hadaj Well › AlUla Old Town ,181.2,,,2022
+02.02,60,51,Stage 2 - Taibah University › Abu Rakah ,163.9,,,2022
+01.02,36,38,Stage 1 - Winter Park › Winter Park ,198,,,2022
+23.01,30,,Clàssica Comunitat Valenciana 1969 - Gran Premi València (1.2) ,175,,,2022
 25.04 » 01.05,,,Le Tour de Bretagne Cycliste (2.2),,,,2022
-26.04,DNF,,Stage 2 - Missillac › La Chapelle-Bouëxic,152,,,2022
+26.04,DNF,,Stage 2 - Missillac › La Chapelle-Bouëxic,152.0,,,2022
 25.04,18,19,Stage 1 - Guenrouët › Sainte-Reine-de-Bretagne,162.3,,,2022
 13.04,DNS,,De Brabantse Pijl - La Flèche Brabançonne (1.Pro),205.1,,,2022
 06.04,DNF,,Scheldeprijs (1.Pro),198.7,,,2022
 03.04,94,,Ronde van Vlaanderen - Tour des Flandres ME (1.UWT),272.5,5,,2022
 30.03,83,,Dwars door Vlaanderen - A travers la Flandre ME (1.UWT),183.7,5,,2022
-27.03,37,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup),177,,,2022
+27.03,37,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup),177.0,,,2022
 23.03,57,,Minerva Classic Brugge-De Panne (1.UWT),207.9,5,1,2022
 18.03,55,,Bredene Koksijde Classic (1.Pro),200.9,,,2022
 17.03,65,,Grand Prix de Denain - Porte du Hainaut (1.Pro),200.3,,,2022
 16.03,75,,Danilith Nokere Koerse (1.Pro),189.8,,,2022
 13.03,25,,Albert Achterhes Profronde van Drenthe (1.1),198.1,,3,2022
 06.03,61,,Grote Prijs Jean-Pierre Monseré (1.1),203.2,,,2022
-01.03,47,,Le Samyn (1.1),209,,,2022
+01.03,47,,Le Samyn (1.1),209.0,,,2022
 27.02,104,,Kuurne - Bruxelles - Kuurne (1.Pro),195.1,,,2022
 14.02,DNF,,Clásica Jaén Paraiso Interior (1.1),187.8,,,2022
 13.02,76,,Clasica de Almeria (1.Pro),188.2,,,2022
@@ -24,10 +60,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.02,66,60,Stage 4 - Winter Park › Skyviews of Harrat Uwayrid,149.3,,,2022
 03.02,37,39,Stage 3 - Tayma Hadaj Well › AlUla Old Town,181.2,,,2022
 02.02,60,51,Stage 2 - Taibah University › Abu Rakah,163.9,,,2022
-01.02,36,38,Stage 1 - Winter Park › Winter Park,198,,,2022
-23.01,30,,Clàssica Comunitat Valenciana 1969 - Gran Premi València (1.2),175,,,2022
+01.02,36,38,Stage 1 - Winter Park › Winter Park,198.0,,,2022
+23.01,30,,Clàssica Comunitat Valenciana 1969 - Gran Premi València (1.2),175.0,,,2022
 09.10,40,,Tour de Vendée (1.1),199.8,,,2021
-07.10,DNS,,Paris - Bourges (1.1),198,,,2021
+07.10,DNS,,Paris - Bourges (1.1),198.0,,,2021
 05.10,DNF,,Binche -  Chimay - Binche / Mémorial Frank Vandenbroucke (1.1),198.6,,,2021
 02.10,DNF,,Classic Loire Atlantique (1.1),182.8,,,2021
 20.09 » 26.09,,,Le Tour de Bretagne Cycliste (2.2),,,,2021
@@ -35,18 +71,18 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,28,,Points classification,,,,2021
 ,54,,General classification,,,,2021
 26.09,53,,Stage 7 - Guitté › Dinan,155.3,,,2021
-25.09,88,61,Stage 6 - Quédillac › Fougères,166,,,2021
-24.09,4,47,Stage 5 - Châteaubriant › Boisgervilly,217,,,2021
+25.09,88,61,Stage 6 - Quédillac › Fougères,166.0,,,2021
+24.09,4,47,Stage 5 - Châteaubriant › Boisgervilly,217.0,,,2021
 23.09,28,50,Stage 4 - Ploeren › Louisfert,167.6,,,2021
 22.09,68,52,Stage 3 - Rosporden › Brandivy,170.5,,,2021
 21.09,33,38,Stage 2 - Corlay › Rosporden,169.1,,,2021
-20.09,47,50,Stage 1 - Le Cambout › Allineuc,159,,,2021
+20.09,47,50,Stage 1 - Le Cambout › Allineuc,159.0,,,2021
 12.09,125,,GP de Fourmies / La Voix du Nord (1.Pro),197.6,,,2021
 20.06,4,,National Championships Estonia - Road Race (NC),173.3,4,50,2021
 17.06,7,,National Championships Estonia - ITT (NC),31.3,,3,2021
-12.06,4,,National Championships Estonia MU23 - Road Race (NC),120,,15,2021
+12.06,4,,National Championships Estonia MU23 - Road Race (NC),120.0,,15,2021
 06.06,35,,Elfstedenronde (1.1),193.1,,,2021
-05.06,DNF,,Dwars door het Hageland (1.Pro),177,,,2021
+05.06,DNF,,Dwars door het Hageland (1.Pro),177.0,,,2021
 29.05 » 30.05,,,Orlen Nations Grand Prix (2.Ncup),,,,2021
 ,17,,General classification,,,,2021
 30.05,16,,Stage 2 - Białystok › Białystok,124.6,,,2021
@@ -56,39 +92,39 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 16.05,29,,Trofeo Alcudia-Port d'Alcudia (1.1),169.8,,,2021
 13.05,DNF,,Trofeo Calvia (1.1),168.7,,,2021
 19.04 » 23.04,,,Tour of the Alps (2.Pro),,,,2021
-21.04,DNF,,Stage 3 - Imst › Naturns,162,,,2021
+21.04,DNF,,Stage 3 - Imst › Naturns,162.0,,,2021
 20.04,137,139,Stage 2 - Innsbruck › Feichten im Kaunertal,121.5,,,2021
 19.04,140,140,Stage 1 - Brixen › Innsbruck,140.6,,,2021
-04.04,DNF,,La Roue Tourangelle Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),204,,,2021
+04.04,DNF,,La Roue Tourangelle Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),204.0,,,2021
 28.03,73,,Cholet - Pays de la Loire (1.1),201.8,,,2021
 19.03,DNF,,Bredene Koksijde Classic (1.Pro),199.9,,,2021
-17.03,DNS,,Danilith Nokere Koerse ME (1.Pro),195,,,2021
+17.03,DNS,,Danilith Nokere Koerse ME (1.Pro),195.0,,,2021
 14.03,DNF,,Paris - Troyes (1.2),179.9,,,2021
 07.03,41,,Grote Prijs Jean-Pierre Monseré (1.1),202.1,,,2021
 02.03,88,,Le Samyn (1.1),205.4,,,2021
-28.02,DNF,,Kuurne - Bruxelles - Kuurne (1.Pro),197,,,2021
+28.02,DNF,,Kuurne - Bruxelles - Kuurne (1.Pro),197.0,,,2021
 24.01,14,,Clàssica Comunitat Valenciana 1969 - Gran Premio Valencia (1.2),96.9,,,2021
 17.09 » 20.09,,,Tour of Malopolska (2.2),,,,2020
 ,22,,Youth classification,,,,2020
 ,43,,General classification,,,,2020
-20.09,49,,Stage 3 - Chochołowskie Termy › Przehyba,131,,,2020
-19.09,7,42,Stage 2 - Niepołomice › Nowy Targ,142,,,2020
-18.09,45,42,Stage 1 - Wieliczka › Myślenice/Góra Chełm,116,,,2020
+20.09,49,,Stage 3 - Chochołowskie Termy › Przehyba,131.0,,,2020
+19.09,7,42,Stage 2 - Niepołomice › Nowy Targ,142.0,,,2020
+18.09,45,42,Stage 1 - Wieliczka › Myślenice/Góra Chełm,116.0,,,2020
 17.09,18,18,Prologue - Kraków › Kraków,1.2,,,2020
 12.09 » 13.09,,,Orlen Nations Grand Prix (2.Ncup),,,,2020
 ,11,,General classification,,,,2020
-13.09,2,,Stage 2 - Rzeszów › Rzeszów,135,2,8,2020
-12.09,4,12,Stage 1 - Rzeszów › Rzeszów,27,2,,2020
+13.09,2,,Stage 2 - Rzeszów › Rzeszów,135.0,2,8,2020
+12.09,4,12,Stage 1 - Rzeszów › Rzeszów,27.0,2,,2020
 03.09 » 06.09,,,Albertina Baltyk - Karkonosze Tour (2.2),,,,2020
 ,5,,Youth classification,,,,2020
 ,14,,General classification,,,,2020
 06.09,12,,Stage 4 - Piechowice › Piechowice,87.5,,,2020
-05.09,13,17,Stage 3 - Kożuchów › Osiecznica,62,,,2020
+05.09,13,17,Stage 3 - Kożuchów › Osiecznica,62.0,,,2020
 04.09,14,21,Stage 2 - Babimost › Zbąszynek,128.5,,,2020
 31.08,6,,Carpathian Couriers Race in memory of Wacław Felczak (1.2U),134.5,1,5,2020
 27.08,4,,European Continental Championships U23 - Road Race (CC),136.5,7,60,2020
 24.08,25,,European Continental Championships U23 - ITT (CC),25.6,,,2020
-20.08,16,,National Championships Estonia - Road Race (NC),159,,,2020
+20.08,16,,National Championships Estonia - Road Race (NC),159.0,,,2020
 18.08,3,,National Championships Estonia - ITT (NC),33.8,2,20,2020
 13.08 » 15.08,,,Baltic Chain Tour (2.2),,,,2020
 ,3,,Youth classification,,,,2020
@@ -97,15 +133,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.08,11,,Stage 3 - Valga  › Valga ,174.3,,,2020
 14.08,4,9,Stage 2 - Ülenurme › Valga,173.6,,,2020
 13.08,19,9,Stage 1 - Tallinn › Jõgeva,194.9,,,2020
-19.07,2,,Puchar MON (1.2),149,10,30,2020
+19.07,2,,Puchar MON (1.2),149.0,10,30,2020
 15.07 » 18.07,,,Dookoła Mazowsza (2.2),,,,2020
 ,14,,Youth classification,,,,2020
 ,25,,Points classification,,,,2020
 ,30,,General classification,,,,2020
-18.07,12,,Stage 4 - Kozienice › Kozienice,165,,,2020
-17.07,63,29,Stage 3 - Grodzisk Mazowiecki › Grodzisk Mazowiecki,166,,,2020
+18.07,12,,Stage 4 - Kozienice › Kozienice,165.0,,,2020
+17.07,63,29,Stage 3 - Grodzisk Mazowiecki › Grodzisk Mazowiecki,166.0,,,2020
 16.07,25,27,Stage 2 (ITT) - Służewiec › Służewiec,2.5,,,2020
-08.03,48,,Trofej Poreč - Poreč Trophy (1.2),156,,,2020
+08.03,48,,Trofej Poreč - Poreč Trophy (1.2),156.0,,,2020
 27.09,54,,World Championships U23 - Road Race (WC),171.6,,,2019
 11.09 » 15.09,,,Turul Romaniei (2.1),,,,2019
 ,14,,Youth classification,,,,2019
@@ -117,31 +153,31 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 18.08,18,,Puchar Uzdrowisk Karpackich (1.2),140.2,,,2019
 17.08,9,,Memorial Henryka Lasaka (1.2),174.2,,3,2019
 15.08,17,,Puchar MON (1.2),174.5,,,2019
-10.08,48,,European Continental Championships U23 - Road Race (CC),138,,,2019
-03.08,14,,Hansa Bygg Kalmar Grand Prix Road Race (1.2),179,,,2019
+10.08,48,,European Continental Championships U23 - Road Race (CC),138.0,,,2019
+03.08,14,,Hansa Bygg Kalmar Grand Prix Road Race (1.2),179.0,,,2019
 02.07 » 06.07,,,Course Cycliste de Solidarnosc et des Champions Olympiques (2.2),,,,2019
 ,8,,Youth classification,,,,2019
 ,24,,General classification,,,,2019
 06.07,25,,Stage 5 - Tarnobrzeg › Krosno,177.6,,,2019
-05.07,46,31,Stage 4 - Skarżysko-Kamienna › Stalowa ,178,,,2019
+05.07,46,31,Stage 4 - Skarżysko-Kamienna › Stalowa ,178.0,,,2019
 04.07,29,29,Stage 3 - Kielce › Radom ,170.7,,,2019
-03.07,31,32,Stage 2 - Zgierz › Kutno ,148,,,2019
+03.07,31,32,Stage 2 - Zgierz › Kutno ,148.0,,,2019
 02.07,37,41,Stage 1 - Łódź  › Sieradz ,213.7,,,2019
 30.06,9,,National Championships Estonia - Road Race (NC),165.2,,5,2019
 23.06,29,,International Race Korona Kocich Gor (1.2),148.8,,,2019
-22.06,6,,Grand Prix Doliny Baryczy migród - XXIX Memoria Grundmanna i Wizowskiego (1.2),162,1,10,2019
+22.06,6,,Grand Prix Doliny Baryczy migród - XXIX Memoria Grundmanna i Wizowskiego (1.2),162.0,1,10,2019
 13.04,59,,Ronde van Vlaanderen Beloften (1.Ncup),167.5,,,2019
 31.03,DNF,,Gent-Wevelgem/Kattekoers-Ieper (1.Ncup),173.8,,,2019
 30.06,3,,National Championships Estonia MJ - Road Race (NC),84.5,7,,2018
-08.04,39,,Paris - Roubaix Juniors (1.Ncup),111,,,2018
-25.03,53,,Gent-Wevelgem/Grote Prijs A. Noyelle-Ieper (1.Ncup),118,,,2018
+08.04,39,,Paris - Roubaix Juniors (1.Ncup),111.0,,,2018
+25.03,53,,Gent-Wevelgem/Grote Prijs A. Noyelle-Ieper (1.Ncup),118.0,,,2018
 23.09,113,,World Championships MJ - Road Race (WC),133.8,,,2017
 04.08,89,,European Continental Championships MJ - Road Race (CC),120.6,,,2017
 07.07 » 10.07,,,Sint-Martinusprijs Kontich (2.1),,,,2017
 ,16,,Youth classification,,,,2017
 ,59,,General classification,,,,2017
-10.07,49,,Stage 5 -  Kontich ›  Kontich,125,,,2017
-09.07,91,65,Stage 4 - Kontich › Kontich,110,,,2017
+10.07,49,,Stage 5 -  Kontich ›  Kontich,125.0,,,2017
+09.07,91,65,Stage 4 - Kontich › Kontich,110.0,,,2017
 09.07,64,65,Stage 3 (ITT) - Kontich › Kontich,11.7,,,2017
-08.07,63,65,Stage 2 - Antwerpen › Kontich,126,,,2017
-09.04,47,,Paris - Roubaix Juniors (1.Ncup),111,,,2017
+08.07,63,65,Stage 2 - Antwerpen › Kontich,126.0,,,2017
+09.04,47,,Paris - Roubaix Juniors (1.Ncup),111.0,,,2017

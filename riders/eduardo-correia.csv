@@ -1,6 +1,8 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
 09.02 » 14.02,,,GP Costa Azul () ,,,,1992
 ,3,,General classification ,,50,,1992
+09.02 » 14.02,,,GP Costa Azul () ,,,,1992
+,3,,General classification ,,50,,1992
 01.05 » 07.05,,,Volta ao Alentejo () ,,,,1991
 ,3,,General classification ,,14,,1991
 16.04 » 21.04,,,Vuelta a Aragon () ,,,,1991
@@ -20,14 +22,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 09.04 » 16.04,,,Volta ao Alentejo () ,,,,1988
 ,8,,General classification ,,3,,1988
 28.07 » 12.08,,,Volta a Portugal () ,,,,1987
-,5,,General classification ,2745,28,,1987
+,5,,General classification ,2745.0,28,,1987
 18.06 » 26.06,,,Grande Prémio Jornal de Notícias () ,,,,1987
 ,3,,General classification ,,50,,1987
 28.07 » 13.08,,,Volta a Portugal () ,,,,1986
 ,13,,General classification ,,8,,1986
 04.08 » 17.08,,,Volta a Portugal () ,,,,1985
 ,2,,General classification ,,70,,1985
-10.08,1,,Stage 6a (ITT) - Mangualde  › Mangualde ,20,20,,1985
+10.08,1,,Stage 6a (ITT) - Mangualde  › Mangualde ,20.0,20,,1985
 18.06 » 29.06,,,Grande Prémio Jornal de Notícias () ,,,,1985
 24.06,1,,Stage 6 ,,20,,1985
 01.06 » 06.06,,,Volta ao Alentejo () ,,,,1985
@@ -39,32 +41,32 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,36,,General classification ,,5,,1985
 01.08 » 05.08,,,Volta ao Alentejo () ,,,,1984
 ,2,,General classification ,,18,,1984
-01.08,1,,Stage 1a - Évora › Évora ,26,5,,1984
+01.08,1,,Stage 1a - Évora › Évora ,26.0,5,,1984
 29.06 » 22.07,,,Tour de France (SPP) ,,,,1984
 ,118,,General classification ,,25,,1984
 22.07,110,,Stage 23 - Pantin › Paris ,196.5,,,1984
-21.07,82,,Stage 22 (ITT) - Villié-Morgon › Villefranche-sur-Saone ,51,,,1984
-20.07,114,,Stage 21 - Crans-Montana › Villefranche-sur-Saone ,320,,,1984
+21.07,82,,Stage 22 (ITT) - Villié-Morgon › Villefranche-sur-Saone ,51.0,,,1984
+20.07,114,,Stage 21 - Crans-Montana › Villefranche-sur-Saone ,320.0,,,1984
 19.07,96,,Stage 20 - Morzine › Crans-Montana ,140.5,,,1984
-18.07,84,,Stage 19 - Aime › Morzine-Avoriaz ,186,,,1984
-17.07,123,,Stage 18 - Bourg d'Oisans › La Plagne ,185,,,1984
-16.07,130,,Stage 17 - Grenoble › l'Alpe d'Huez ,223,,,1984
-15.07,126,,Stage 16 (ITT) - Les Échelles › La Ruchère ,22,,,1984
+18.07,84,,Stage 19 - Aime › Morzine-Avoriaz ,186.0,,,1984
+17.07,123,,Stage 18 - Bourg d'Oisans › La Plagne ,185.0,,,1984
+16.07,130,,Stage 17 - Grenoble › l'Alpe d'Huez ,223.0,,,1984
+15.07,126,,Stage 16 (ITT) - Les Échelles › La Ruchère ,22.0,,,1984
 13.07,135,,Stage 15 - Domaine du Rouret › Grenoble ,241.5,,,1984
 12.07,129,,Stage 14 - Rodez › Domaine du Rouret ,227.5,,,1984
 11.07,126,,Stage 13 - Blagnac › Rodez ,220.5,,,1984
-10.07,124,,Stage 12 - Saint Girons › Blagnac ,111,,,1984
+10.07,124,,Stage 12 - Saint Girons › Blagnac ,111.0,,,1984
 09.07,128,,Stage 11 - Pau › Guzet-Neige ,226.5,,,1984
-08.07,138,,Stage 10 - Langon › Pau ,198,,,1984
-07.07,146,,Stage 9 - Nantes › Bordeaux ,338,,,1984
-06.07,117,,Stage 8 - Le Mans › Nantes ,192,,,1984
-05.07,139,,Stage 7 (ITT) - Alençon › Le Mans ,67,,,1984
-04.07,157,,Stage 6 - Cergy Pontoise › Alençon ,202,,,1984
-03.07,149,,Stage 5 - Béthune › Cergy Pontoise ,207,,,1984
-02.07,143,,Stage 4 - Valenciennes › Béthune ,83,,,1984
-02.07,DF,,Stage 3 (TTT) - Louvroil › Valenciennes ,51,,,1984
-01.07,143,,Stage 2 - Bobigny › Louvroil ,250,,,1984
-30.06,144,,Stage 1 - Bondy › Saint Denis ,149,,,1984
+08.07,138,,Stage 10 - Langon › Pau ,198.0,,,1984
+07.07,146,,Stage 9 - Nantes › Bordeaux ,338.0,,,1984
+06.07,117,,Stage 8 - Le Mans › Nantes ,192.0,,,1984
+05.07,139,,Stage 7 (ITT) - Alençon › Le Mans ,67.0,,,1984
+04.07,157,,Stage 6 - Cergy Pontoise › Alençon ,202.0,,,1984
+03.07,149,,Stage 5 - Béthune › Cergy Pontoise ,207.0,,,1984
+02.07,143,,Stage 4 - Valenciennes › Béthune ,83.0,,,1984
+02.07,DF,,Stage 3 (TTT) - Louvroil › Valenciennes ,51.0,,,1984
+01.07,143,,Stage 2 - Bobigny › Louvroil ,250.0,,,1984
+30.06,144,,Stage 1 - Bondy › Saint Denis ,149.0,,,1984
 29.06,146,146,Prologue - Montreuil sous Bois › Noisy le Sec ,5.4,,,1984
 18.06 » 27.06,,,Grande Prémio Jornal de Notícias () ,,,,1984
 ,1,,General classification ,,100,,1984
@@ -74,10 +76,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,3,,General classification ,,50,,1983
 08.08 » 20.08,,,Volta a Portugal () ,,,,1982
 ,12,,General classification ,,10,,1982
-20.08,12,,Stage 12b - Póvoa de Varzim › Matosinhos ,63,,,1982
+20.08,12,,Stage 12b - Póvoa de Varzim › Matosinhos ,63.0,,,1982
 18.06 » 24.06,,,Grande Prémio Jornal de Notícias () ,,,,1982
 18.06,6,,Prologue ,,3,,1982
 20.05 » 25.05,,,GP Int. Torres Vedras - Trofeu Joaquim Agostinho () ,,,,1982
 ,2,,General classification ,,18,,1982
 19.07 » 31.07,,,Volta a Portugal () ,,,,1981
-29.07,1,,Stage 10 - Mondim de Basto › Bragança ,176,20,,1981
+29.07,1,,Stage 10 - Mondim de Basto › Bragança ,176.0,20,,1981

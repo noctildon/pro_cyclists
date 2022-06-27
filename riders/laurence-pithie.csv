@@ -1,4 +1,46 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+06.06,10,,Paris - Troyes (1.2) ,180,,3,2022
+25.05 » 29.05,,,Alpes Isère Tour (2.2) ,,,,2022
+,43,,Youth classification ,,,,2022
+,32,,Mountains classification ,,,,2022
+,7,,Points classification ,,,,2022
+,68,,General classification ,,,,2022
+29.05,73,,Stage 5 - Entre-deux-Guiers › Allevard-les-Bains ,133.1,,,2022
+28.05,79,7,Stage 4 - Saint-Maurice-l'Exil › Beaurepaire ,171.4,,,2022
+27.05,3,7,Stage 3 - Saint-Exupéry › Toussieu ,145.5,1,1,2022
+26.05,7,10,Stage 2 - Les Abrets-en-Dauphiné › Saint-Quentin-Fallavier ,161.2,,,2022
+25.05,32,36,Stage 1 - Charvieu-Chavagneux › Charvieu-Chavagneux ,118.1,,,2022
+03.05 » 08.05,,,4 Jours de Dunkerque / Grand Prix des Hauts de France (2.Pro) ,,,,2022
+,9,,Youth classification ,,,,2022
+,31,,General classification ,,,3,2022
+08.05,21,,Stage 6 - Ardres › Dunkerque ,182.9,,,2022
+07.05,35,34,Stage 5 - Roubaix › Cassel ,183.7,,,2022
+06.05,34,52,Stage 4 - Mazingarbe › Aire-sur-la-Lys ,170.8,,,2022
+05.05,70,55,Stage 3 - Péronne › Mont-Saint-Éloi ,170,,,2022
+04.05,61,55,Stage 2 - Béthune › Maubeuge ,181.5,,,2022
+03.05,56,56,Stage 1 - Dunkerque › Aniche ,161.1,,,2022
+21.03 » 27.03,,,Tour de Normandie (2.2) ,,,,2022
+25.03,DNF,,Stage 5 - Les Monts d'Aunay › Bagnoles-de-l'Orne ,156.7,,,2022
+24.03,7,4,Stage 4 - Gacé › Argentan ,160.6,,,2022
+23.03,1,2,Stage 3 - Nonancourt › Elbeuf-sur-Seine ,181.4,5,7,2022
+22.03,41,22,Stage 2 - Le Neubourg › Forges-les-Eaux ,187.5,,,2022
+21.03,11,12,Stage 1 - Ouistreham › Vimoutiers ,148.2,,,2022
+18.03,28,,Youngster Coast Challenge (1.2U) ,167.2,,,2022
+06.03,8,,Grote Prijs Jean-Pierre Monseré (1.1) ,203.2,18,30,2022
+01.03,50,,Le Samyn (1.1) ,209,,,2022
+27.02,94,,Kuurne - Bruxelles - Kuurne (1.Pro) ,195.1,,,2022
+13.02,3,,National Championships New Zealand  - Road Race (NC) ,90,7,60,2022
+11.02,2,,National championships New Zealand MU23 - ITT (NC) ,42.5,,15,2022
+05.01 » 09.01,,,New Zealand Cycle Classic (2.2) ,,,,2022
+,1,,Youth classification ,,,,2022
+,3,,Mountains classification ,,,,2022
+,3,,Points classification ,,,,2022
+,3,,General classification ,,14,25,2022
+09.01,3,,Stage 5 - Wellington › Wellington ,,1,1,2022
+08.01,4,3,Stage 4 - Masterton › Te Wharau Hill ,137.2,,,2022
+07.01,2,3,Stage 3 - Masterton › Martinborough ,127.3,2,3,2022
+06.01,11,6,Stage 2 - Masterton › Masterton ,158.1,,,2022
+05.01,3,10,Stage 1 (TTT) - Masterton › Masterton ,10,3,0.167,2022
 21.03 » 27.03,,,Tour de Normandie (2.2),,,,2022
 25.03,DNF,,Stage 5 - Les Monts d'Aunay › Bagnoles-de-l'Orne,156.7,,,2022
 24.03,7,4,Stage 4 - Gacé › Argentan,160.6,,,2022
@@ -7,9 +49,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.03,11,12,Stage 1 - Ouistreham › Vimoutiers,148.2,,,2022
 18.03,28,,Youngster Coast Challenge (1.2U),167.2,,,2022
 06.03,8,,Grote Prijs Jean-Pierre Monseré (1.1),203.2,18,30,2022
-01.03,50,,Le Samyn (1.1),209,,,2022
+01.03,50,,Le Samyn (1.1),209.0,,,2022
 27.02,94,,Kuurne - Bruxelles - Kuurne (1.Pro),195.1,,,2022
-13.02,3,,National Championships New Zealand  - Road Race (NC),90,7,60,2022
+13.02,3,,National Championships New Zealand  - Road Race (NC),90.0,7,60,2022
 11.02,2,,National championships New Zealand MU23 - ITT (NC),42.5,,15,2022
 05.01 » 09.01,,,New Zealand Cycle Classic (2.2),,,,2022
 ,1,,Youth classification,,,,2022
@@ -20,15 +62,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.01,4,3,Stage 4 - Masterton › Te Wharau Hill,137.2,,,2022
 07.01,2,3,Stage 3 - Masterton › Martinborough,127.3,2,3,2022
 06.01,11,6,Stage 2 - Masterton › Masterton,158.1,,,2022
-05.01,3,10,Stage 1 (TTT) - Masterton › Masterton,10,3,0.167,2022
-10.10,39,,Paris - Tours Espoirs (1.2U),177,,,2021
+05.01,3,10,Stage 1 (TTT) - Masterton › Masterton,10.0,3,0.167,2022
+10.10,39,,Paris - Tours Espoirs (1.2U),177.0,,,2021
 03.10,DNF,,Il Piccolo Lombardia (1.2U),169.8,,,2021
 03.09 » 05.09,,,A Travers les Hauts de France (2.2),,,,2021
 ,21,,Youth classification,,,,2021
 ,55,,General classification,,,,2021
 05.09,76,,Stage 3 - Albert › Le Cateau-Cambrésis,175.3,,,2021
 04.09,64,41,Stage 2 - Neuville-Saint-Rémy › Roisel,174.7,,,2021
-03.09,30,30,Stage 1 - Arras › Lagnicourt-Marcel,129,,,2021
+03.09,30,30,Stage 1 - Arras › Lagnicourt-Marcel,129.0,,,2021
 27.08 » 29.08,,,Tour du Pays de Montbéliard (2.2U),,,,2021
 ,31,,Youth classification,,,,2021
 ,50,,General classification,,,,2021
@@ -53,8 +95,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.08,89,103,Stage 3 - Ploërdut › Carhaix,180.5,,,2021
 31.07,88,107,Stage 2 - Calanhel › Plouray,189.9,,,2021
 30.07,5,136,Stage 1 (TTT) - Ploumagoar › Ploumagoar,12.5,1,,2021
-25.07,DNF,,Grand Prix de la ville de Pérenchies (1.2),163,,,2021
-15.06,DNF,,Paris-Camembert (1.1),210,,,2021
+25.07,DNF,,Grand Prix de la ville de Pérenchies (1.2),163.0,,,2021
+15.06,DNF,,Paris-Camembert (1.1),210.0,,,2021
 03.06 » 12.06,,,Giro Ciclistico d'Italia (2.2),,,,2021
 ,26,,Youth classification,,,,2021
 ,40,,Points classification,,,,2021
@@ -64,7 +106,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 10.06,91,81,Stage 8 - Aprica  › Andalo,115.5,,,2021
 09.06,81,78,Stage 7 - Sondrio › Lanzada Lago di Campo Moro,119.4,,,2021
 08.06,88,74,Stage 6 - Bonferraro di Sorgà › San Pellegrino Terme,177.5,,,2021
-07.06,85,69,Stage 5 - Fanano › Sestola,142,,,2021
+07.06,85,69,Stage 5 - Fanano › Sestola,142.0,,,2021
 06.06,32,75,Stage 4 (ITT) - Sorbolo Mezzani › Guastalla,25.4,,,2021
 05.06,12,87,Stage 3 - Cesenatico  › Cesenatico ,132.5,,,2021
 04.06,109,104,Stage 2 - Riccione › Imola,138.3,,,2021
@@ -74,7 +116,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,6,,Points classification,,,,2021
 ,7,,General classification,,4,5,2021
 30.05,29,,Stage 3 - Lunéville › Damelevières,189.5,,,2021
-29.05,2,7,Stage 2 - Neufchâteau › Saint-Amarin,177,2,3,2021
+29.05,2,7,Stage 2 - Neufchâteau › Saint-Amarin,177.0,2,3,2021
 28.05,59,57,Stage 1 - Pont-à-Mousson › Lesménils,158.8,,,2021
 27.05,26,26,Prologue - Tomblaine › Tomblaine,3.1,,,2021
 24.05,DNF,,Mercan'Tour Classic Alpes-Maritimes (1.1),149.9,,,2021
@@ -92,15 +134,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.03,DNF,,Le Samyn (1.1),205.4,,,2021
 14.02,20,,National championships New Zealand  - Road Race (NC),174.4,,,2021
 13.01 » 17.01,,,New Zealand Cycle Classic (2.2),,,,2021
-,12,,Points classification,,,,2021
 ,25,,General classification,,,,2021
-17.01,9,,Stage 5 - Wellington › Wellington,42,,,2021
+17.01,9,,Stage 5 - Wellington › Wellington,42.0,,,2021
 16.01,35,32,Stage 4 - Masterton  › Admiral Hill,125.6,,,2021
-15.01,4,5,Stage 3 - Masterton › Martinborough,127,,,2021
+15.01,4,5,Stage 3 - Masterton › Martinborough,127.0,,,2021
 14.01,6,5,Stage 2 - Masterton › Masterton,158.1,,,2021
-13.01,1,3,Stage 1 (TTT) - Masterton › Masterton,10,5,1.167,2021
+13.01,1,3,Stage 1 (TTT) - Masterton › Masterton,10.0,5,1.167,2021
 19.07,9,,National Championships New Zealand MJ - Road Race (NC),114.5,,,2020
 17.07,3,,National Championships New Zealand MJ - ITT (NC),25.6,6,,2020
-26.04,2,,National Championships New Zealand MJ - ITT (NC),24,8,,2019
-16.03,11,,Oceania Continental Championships MJ - Road Race (CC),105,8,,2019
+26.04,2,,National Championships New Zealand MJ - ITT (NC),24.0,8,,2019
+16.03,11,,Oceania Continental Championships MJ - Road Race (CC),105.0,8,,2019
 15.03,2,,Oceania Continental Championships MJ - ITT (CC),26.2,22,,2019

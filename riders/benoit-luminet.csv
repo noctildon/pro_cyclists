@@ -9,17 +9,27 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.05,53,,Stage 3 - Chaponnay › Saint-Maurice l'Exil ,150,,,2011
 13.05,44,,Stage 2 - Charvieu-Chavagneux › Toussieu ,159,,,2011
 12.05,42,,Stage 1 - Vaulx-Milieu › Saint-Savin ,156,,,2011
+24.09 » 25.09,,,Tour du Gévaudan Languedoc - Roussillon (2.2) ,,,,2011
+,33,,General classification ,,,,2011
+25.09,27,,Stage 2 - Mende › Mende ,162.0,,,2011
+24.09,42,,Stage 1 - La Grand-Combe › Langogne ,149.0,,,2011
+12.05 » 15.05,,,Rhône-Alpes Isère Tour (2.2) ,,,,2011
+,29,,General classification ,,,,2011
+15.05,45,,Stage 4 - Saint-Maurice l › Charvieu-Chavagneux ,180.0,,,2011
+14.05,53,,Stage 3 - Chaponnay › Saint-Maurice l'Exil ,150.0,,,2011
+13.05,44,,Stage 2 - Charvieu-Chavagneux › Toussieu ,159.0,,,2011
+12.05,42,,Stage 1 - Vaulx-Milieu › Saint-Savin ,156.0,,,2011
 25.09 » 26.09,,,Tour du Gévaudan Languedoc - Roussillon (2.2) ,,,,2010
 ,44,,General classification ,,,,2010
-26.09,32,,Stage 2 - Marvejols › Mende (Montée Jalabert) ,134,,,2010
-25.09,45,,Stage 1 - Quézac Ispagnac › L'Esperou ,162,,,2010
+26.09,32,,Stage 2 - Marvejols › Mende (Montée Jalabert) ,134.0,,,2010
+25.09,45,,Stage 1 - Quézac Ispagnac › L'Esperou ,162.0,,,2010
 28.07 » 01.08,,,Tour Alsace (2.2) ,,,,2010
 ,17,,General classification ,,,,2010
 01.08,16,,Stage 6 - Ribeauville › Ballon d'Alsace ,146.3,,,2010
 31.07,119,,Stage 5 - Bioscope › Carspac ,153.9,,,2010
 30.07,121,,Stage 4 - Illzach › Huningue ,178.9,,,2010
 29.07,46,,Stage 3 - Strasbourg › Bischoffsheim ,152.8,,,2010
-28.07,64,,Stage 2 - Colmar › Cernay ,154,,,2010
+28.07,64,,Stage 2 - Colmar › Cernay ,154.0,,,2010
 13.05 » 16.05,,,Rhône-Alpes Isère Tour (2.2) ,,,,2010
 ,23,,General classification ,,,,2010
 16.05,75,,Stage 4 - Saint-Maurice-l'Exil › Charvieu-Chavagneux ,150.9,,,2010
@@ -36,11 +46,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.07,125,,Stage 1 - Strasbourg › Bischoffsheim ,152.6,,,2009
 16.04 » 19.04,,,Rhône-Alpes Isère Tour (2.2) ,,,,2009
 ,20,,General classification ,,,,2009
-19.04,49,,Stage 4 - St. Maurice l'Exil › Charvieu-Chavagneux ,178,,,2009
-18.04,29,,Stage 3 - Toussieu › St. Maurice l'Exil ,164,,,2009
-17.04,52,,Stage 2 - Charvieu-Chavagneux › Toussieu ,159,,,2009
-16.04,12,,Stage 1 - Satolas et Bonce › Nivolas-Vermelle ,124,,,2009
-15.03,46,,Paris-Troyes (1.2) ,172,,,2009
+19.04,49,,Stage 4 - St. Maurice l'Exil › Charvieu-Chavagneux ,178.0,,,2009
+18.04,29,,Stage 3 - Toussieu › St. Maurice l'Exil ,164.0,,,2009
+17.04,52,,Stage 2 - Charvieu-Chavagneux › Toussieu ,159.0,,,2009
+16.04,12,,Stage 1 - Satolas et Bonce › Nivolas-Vermelle ,124.0,,,2009
+15.03,46,,Paris-Troyes (1.2) ,172.0,,,2009
 27.02 » 01.03,,,Les 3 Jours De Vaucluse (2.2) ,,,,2009
 ,31,,General classification ,,,,2009
 01.03,50,,Stage 3 - Le Thor › Pertuis ,161.2,,,2009
@@ -60,9 +70,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 30.07,110,,Stage 1 - Strasbourg › Bischoffsheim ,152.6,,,2008
 11.04 » 13.04,,,Circuit des Ardennes International (2.2) ,,,,2008
 ,79,,General classification ,,,,2008
-13.04,81,,Stage 4 (ITT) - Villers-Semeuse ›  ,17,,,2008
+13.04,81,,Stage 4 (ITT) - Villers-Semeuse ›  ,17.0,,,2008
 13.04,110,,Stage 3 - Charleville-Mézières › Charleville-Mézières ,81.8,,,2008
-12.04,105,,Stage 2 - Fumay › Givet ,150,,,2008
+12.04,105,,Stage 2 - Fumay › Givet ,150.0,,,2008
 11.04,86,,Stage 1 - Monthermé › Nohan-sur-Semoy ,162.7,,,2008
 29.02 » 02.03,,,2nd Les 3 Jours de Vaucluse (2.2) ,,,,2008
 ,5,,General classification ,,8,,2008
@@ -70,7 +80,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.03,59,,Stage 2 - Rognes › Rognes ,165.1,,,2008
 29.02,3,,Stage 1 - Rasteau › Villelaure ,170.3,1,,2008
 23.02,10,,Les Boucles du Sud Ardèche - Souvenir F. Delpech (1.2) ,157.2,,,2008
-09.09,7,,Polymultipliée Lyonnaise (1.2) ,144,,,2007
+09.09,7,,Polymultipliée Lyonnaise (1.2) ,144.0,,,2007
 31.07 » 05.08,,,Tour Alsace (2.2) ,,,,2007
 ,1,,Mountains classification ,,,,2007
 ,2,,Points classification ,,,,2007
@@ -89,30 +99,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.04,61,,Stage 2 - Charvieu-Chavagneux › Saint-Quentin-Fallavier ,155.8,,,2006
 13.04,97,,Stage 1 - La Verpillière › Charvieu-Chavagneux ,141.4,,,2006
 15.04 » 17.04,,,Tour Nord Isère (2.2) ,,,,2005
-17.04,DNS,,Stage 4 - L'Isle-d'Abeau › La Verpillière ,105,,,2005
-16.04,71,,Stage 3 - Saint-Maurice-l'Exil › L'Isle-d'Abeau ,48,,,2005
-16.04,83,,Stage 2 - Charvieux › Saint-Maurice-l'Exil ,41,,,2005
+17.04,DNS,,Stage 4 - L'Isle-d'Abeau › La Verpillière ,105.0,,,2005
+16.04,71,,Stage 3 - Saint-Maurice-l'Exil › L'Isle-d'Abeau ,48.0,,,2005
+16.04,83,,Stage 2 - Charvieux › Saint-Maurice-l'Exil ,41.0,,,2005
 15.04,46,,Stage 1 - La Verpillière › Charvieux ,127.5,,,2005
-03.04,64,,Tour du lac Léman (1.2) ,183,,,2005
-06.03,41,,Les Monts du Luberon - Trophée Luc Leblanc (1.2) ,160,,,2005
+03.04,64,,Tour du lac Léman (1.2) ,183.0,,,2005
+06.03,41,,Les Monts du Luberon - Trophée Luc Leblanc (1.2) ,160.0,,,2005
 04.08 » 06.08,,,Tour des Pyrénées (2.6) ,,,,2004
 ,1,,Mountains classification ,,,,2004
 ,3,,General classification ,,14,,2004
-06.08,3,,Stage 3 - Maubourguet › Lourdes ,170,1,,2004
-05.08,3,6,Stage 2 - Lescar › Pau ,161,1,,2004
-04.08,15,,Stage 1 - Tarbes › Cauterets ,145,,,2004
+06.08,3,,Stage 3 - Maubourguet › Lourdes ,170.0,1,,2004
+05.08,3,6,Stage 2 - Lescar › Pau ,161.0,1,,2004
+04.08,15,,Stage 1 - Tarbes › Cauterets ,145.0,,,2004
 16.04 » 18.04,,,Tour Nord Isère (2.6) ,,,,2004
-18.04,DNF,,Stage 4 - Four › La Verpillière ,160,,,2004
+18.04,DNF,,Stage 4 - Four › La Verpillière ,160.0,,,2004
 17.04,81,67,Stage 3 - Saint-Maurice-l'Exil › Villefontaine ,86.3,,,2004
-17.04,85,71,Stage 2 - Charvieu-Chavagneux › Saint-Maurice-l'Exil ,96,,,2004
+17.04,85,71,Stage 2 - Charvieu-Chavagneux › Saint-Maurice-l'Exil ,96.0,,,2004
 16.04,77,77,Stage 1 - La Verpillière › Charvieu-Chavagneux ,120.7,,,2004
-04.04,32,,Tour du lac Leman (1.5) ,180,,,2004
+04.04,32,,Tour du lac Leman (1.5) ,180.0,,,2004
 27.03,7,,Grand Prix Saint-Etienne Loire (1.6) ,,,,2004
-07.03,93,,Les Monts du Luberon - Trophée Luc Leblanc (1.6) ,156,,,2004
+07.03,93,,Les Monts du Luberon - Trophée Luc Leblanc (1.6) ,156.0,,,2004
 02.05 » 04.05,,,Tour Nord Isère (2.6) ,,,,2003
 04.05,1,,Stage 4 - Saint-Quentin-Fallavier › La Verpillière ,,5,,2003
 30.03,5,,Annemasse-Bellegarde et retour (1.6) ,,2,,2003
-16.06,14,,Tour du Jura (1.5) ,193,,,2002
+16.06,14,,Tour du Jura (1.5) ,193.0,,,2002
 14.08 » 18.08,,,Tour de l'Ain (2.5) ,,,,2001
 ,10,,General classification ,,1,,2001
 18.08,7,,Stage 5 - Bellegarde › Col du Grand Colombier ,115.4,,,2001
@@ -120,28 +130,28 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 16.08,53,,Stage 3 - Châtillon-sur-Chalaronne › Saint-Vulbas ,101.8,,,2001
 15.08,45,,Stage 2 (ITT) - Saint-Didier-sur-Chalaronne › Châtillon-sur-Chalaronne ,13.7,,,2001
 14.08,42,,Stage 1 - Miribel › Bourg-en-Bresse ,162.1,,,2001
-17.06,6,,Tour du Jura (1.5) ,199,1,,2001
+17.06,6,,Tour du Jura (1.5) ,199.0,1,,2001
 26.04 » 29.05,,,Circuit des Mines (2.5) ,,,,2000
-28.04,10,,Stage 4 - Audun le Tiche › Manderen-en-Moselle ,134,,,2000
+28.04,10,,Stage 4 - Audun le Tiche › Manderen-en-Moselle ,134.0,,,2000
 02.09 » 11.09,,,Tour de l'Avenir (2.5) ,,,,1999
 ,24,,General classification ,,,,1999
-10.09,26,,Stage 9 - Pierrefitte-Nestalas  › Argelès-Gazost  ,155,,,1999
-09.09,26,,Stage 8 - Bagnères-de-Bigorre  › Cauterets  ,166,,,1999
-08.09,32,,Stage 7 - Castelsarrasin  › Bagnères-de-Bigorre  ,166,,,1999
-07.09,71,,Stage 6 - Montbron  › Castelsarrasin  ,258,,,1999
-06.09,39,,Stage 5 - Saint-Prouant  › Montbron  ,221,,,1999
-05.09,82,,Stage 4 - Pornic  › Chantonnay  ,159,,,1999
+10.09,26,,Stage 9 - Pierrefitte-Nestalas  › Argelès-Gazost  ,155.0,,,1999
+09.09,26,,Stage 8 - Bagnères-de-Bigorre  › Cauterets  ,166.0,,,1999
+08.09,32,,Stage 7 - Castelsarrasin  › Bagnères-de-Bigorre  ,166.0,,,1999
+07.09,71,,Stage 6 - Montbron  › Castelsarrasin  ,258.0,,,1999
+06.09,39,,Stage 5 - Saint-Prouant  › Montbron  ,221.0,,,1999
+05.09,82,,Stage 4 - Pornic  › Chantonnay  ,159.0,,,1999
 04.09,74,,Stage 3 (ITT) - Saint-Brevin-les-Pins › Pornic ,19.5,,,1999
-03.09,82,,Stage 2 - Plumelec  › Saint-Brévin-les-Pins  ,149,,,1999
-02.09,33,,Stage 1 - Plumelec  › Plumelec  ,138,,,1999
-23.08,5,,Boucles de l'Aulne - GP Le Télégramme (1.1) ,192,,,1999
+03.09,82,,Stage 2 - Plumelec  › Saint-Brévin-les-Pins  ,149.0,,,1999
+02.09,33,,Stage 1 - Plumelec  › Plumelec  ,138.0,,,1999
+23.08,5,,Boucles de l'Aulne - GP Le Télégramme (1.1) ,192.0,,,1999
 03.08 » 08.08,,,Rothaus Regio-Tour International (2.3) ,,,,1999
-08.08,DNF,,Stage 5 - Emmendingen › Vogtsburg ,168,,,1999
-07.08,39,,Stage 4 - Badenweiler › Wehr ,165,,,1999
-06.08,44,,Stage 3a - Lahr › Bahlingen ,101,,,1999
-06.08,49,,Stage 3b (ITT) - Eichstetten › Bahlingen ,18,,,1999
-05.08,40,,Stage 2 - Weil am Rhein › Müllheim ,163,,,1999
-04.08,62,,Stage 1 - Rust › Guebwiller ,162,,,1999
+08.08,DNF,,Stage 5 - Emmendingen › Vogtsburg ,168.0,,,1999
+07.08,39,,Stage 4 - Badenweiler › Wehr ,165.0,,,1999
+06.08,44,,Stage 3a - Lahr › Bahlingen ,101.0,,,1999
+06.08,49,,Stage 3b (ITT) - Eichstetten › Bahlingen ,18.0,,,1999
+05.08,40,,Stage 2 - Weil am Rhein › Müllheim ,163.0,,,1999
+04.08,62,,Stage 1 - Rust › Guebwiller ,162.0,,,1999
 27.06,15,,National Championships France - Road Race (NC) ,202.8,,,1999
 16.05 » 23.05,,,Tour of Japan (2.4) ,,,,1999
 ,10,,General classification ,,14,,1999
@@ -152,23 +162,23 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.05,14,29,Stage 2 - Nara › Nara ,146.75,,,1999
 16.05,72,73,Stage 1 - Sakai › Sakai ,140.8,,,1999
 02.05,18,,Trophée des Grimpeurs (1.3) ,133.9,3,,1999
-14.03,77,,Grand Prix De La Ville De Lillers Souvenir Bruno Comini () ,176,,,1999
+14.03,77,,Grand Prix De La Ville De Lillers Souvenir Bruno Comini () ,176.0,,,1999
 21.02,88,,Classic Haribo (1.3) ,197.5,,,1999
 03.02 » 07.02,,,Etoile de Bessèges (2.4) ,,,,1999
 ,82,,General classification ,,,,1999
-07.02,68,,Stage 5 - Molières-sur-Cèze › Bessèges ,141,,,1999
-05.02,104,,Stage 3 - Alés › Les Fumades ,139,,,1999
-04.02,90,,Stage 2 - Nîmes › Sète ,136,,,1999
-03.02,49,,Stage 1 - La Ciotat › d'Azur) Aubagne ,122,,,1999
+07.02,68,,Stage 5 - Molières-sur-Cèze › Bessèges ,141.0,,,1999
+05.02,104,,Stage 3 - Alés › Les Fumades ,139.0,,,1999
+04.02,90,,Stage 2 - Nîmes › Sète ,136.0,,,1999
+03.02,49,,Stage 1 - La Ciotat › d'Azur) Aubagne ,122.0,,,1999
 02.02,63,,Grand Prix d'Ouverture La Marseillaise (1.4) ,139.3,,,1999
 03.09 » 12.09,,,Tour de l'Avenir () ,,,,1998
 ,14,,General classification ,,,,1998
-12.09,14,,Stage 9 - La Terrasse  › Courchevel  ,149,,,1998
-11.09,16,,Stage 8 - Chambéry  › Saint-Pierre-de-Chartreuse  ,177,,,1998
-10.09,28,,Stage 7 - Bellegarde-sur-Valserine  › Chambéry  ,172,,,1998
-09.09,40,,Stage 6 (ITT) - Malbuisson  › Pontarlier  ,28,,,1998
-07.09,43,,Stage 4 - Salbris  › Château-Chinon  ,209,,,1998
-06.09,83,,Stage 3 - Bonneval  › Salbris  ,156,,,1998
+12.09,14,,Stage 9 - La Terrasse  › Courchevel  ,149.0,,,1998
+11.09,16,,Stage 8 - Chambéry  › Saint-Pierre-de-Chartreuse  ,177.0,,,1998
+10.09,28,,Stage 7 - Bellegarde-sur-Valserine  › Chambéry  ,172.0,,,1998
+09.09,40,,Stage 6 (ITT) - Malbuisson  › Pontarlier  ,28.0,,,1998
+07.09,43,,Stage 4 - Salbris  › Château-Chinon  ,209.0,,,1998
+06.09,83,,Stage 3 - Bonneval  › Salbris  ,156.0,,,1998
 05.09,81,,Stage 2 - Vimoutiers  › Bonneval ,162.5,,,1998
-04.09,76,,Stage 1 - Argentré-du-Plessis  › Vimoutiers  ,189,,,1998
-03.09,61,,Prologue - Argentré-du-Plessis  › Argentré-du-Plessis  ,8,,,1998
+04.09,76,,Stage 1 - Argentré-du-Plessis  › Vimoutiers  ,189.0,,,1998
+03.09,61,,Prologue - Argentré-du-Plessis  › Argentré-du-Plessis  ,8.0,,,1998

@@ -1,21 +1,22 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
-24.10,2,,National Championships Brazil - Road Race (NC),142,10,30,2021
-26.06,DNF,,National Championships Brazil - Road Race (NC),180,,,2016
+24.10,2,,National Championships Brazil - Road Race (NC) ,142,10,30,2021
+24.10,2,,National Championships Brazil - Road Race (NC),142.0,10,30,2021
+26.06,DNF,,National Championships Brazil - Road Race (NC),180.0,,,2016
 18.01 » 24.01,,,Tour de San Luis (2.1),,,,2016
 23.01,DNF,,Stage 6 - La Toma › Merlo,159.5,,,2016
 22.01,156,157,Stage 5 - Renca › Juana Koslay,168.7,,,2016
-21.01,93,142,Stage 4 - Terrazas del Portezuelo › Cerro El Amago,140,,,2016
-20.01,140,154,Stage 3 - Potrero de Los Funes › La Punta (Cabildo) ,131,,,2016
+21.01,93,142,Stage 4 - Terrazas del Portezuelo › Cerro El Amago,140.0,,,2016
+20.01,140,154,Stage 3 - Potrero de Los Funes › La Punta (Cabildo) ,131.0,,,2016
 19.01,149,147,Stage 2 - San Luis › Villa Mercedes,181.9,,,2016
-18.01,26,133,Stage 1 (TTT) - El Durazno › El Durazno,21,,,2016
+18.01,26,133,Stage 1 (TTT) - El Durazno › El Durazno,21.0,,,2016
 27.09,DNF,,World Championships - Road Race (WC),261.4,,,2015
 26.08 » 30.08,,,Tour do Rio (2.2),,,,2015
-30.08,53,,Stage 5 - Teresópolis › Rio de Janeiro,145,,,2015
-29.08,36,48,Stage 4 - Valença › Teresópolis,153,,,2015
-28.08,40,57,Stage 3 - Valença › Rio das Flores,166,,,2015
-27.08,56,58,Stage 2 - Angra dos Reis › Valença,175,,,2015
-26.08,64,66,Stage 1 - Rio de Janeiro › Angra dos Reis,158,,,2015
-16.08,DNF,,Aquece Rio - International Road Cycling Challenge (1.2),165,,,2015
+30.08,53,,Stage 5 - Teresópolis › Rio de Janeiro,145.0,,,2015
+29.08,36,48,Stage 4 - Valença › Teresópolis,153.0,,,2015
+28.08,40,57,Stage 3 - Valença › Rio das Flores,166.0,,,2015
+27.08,56,58,Stage 2 - Angra dos Reis › Valença,175.0,,,2015
+26.08,64,66,Stage 1 - Rio de Janeiro › Angra dos Reis,158.0,,,2015
+16.08,DNF,,Aquece Rio - International Road Cycling Challenge (1.2),165.0,,,2015
 28.06,33,,National Championships Brazil - Road Race (NC),182.7,,,2015
 27.03 » 05.04,,,Vuelta Ciclista del Uruguay (2.2),,,,2015
 28.03,116,113,Stage 2 - Minas › Rocha,171.1,,,2015
@@ -38,21 +39,21 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.08,97,110,Stage 3 - Lehi › Miller Motorsports Park,190.2,,,2014
 05.08,110,101,Stage 2 - Panguitch › Torrey,210.3,,,2014
 04.08,99,99,Stage 1 - Cedar City › Cedar City,182.7,,,2014
-29.06,1,,National Championships Brazil - Road Race (NC),187,15,40,2014
+29.06,1,,National Championships Brazil - Road Race (NC),187.0,15,40,2014
 23.04 » 27.04,,,Volta Ciclistica internacional do Paraná (2.2),,,,2014
 ,38,,General classification,,,,2014
 27.04,38,,Stage 5 - Rolândia › Rolândia,,,,2014
-26.04,60,39,Stage 4 - Arapongas › Arapongas,201,,,2014
-25.04,53,35,Stage 3 - Ibiporã › Ibiporã,167,,,2014
+26.04,60,39,Stage 4 - Arapongas › Arapongas,201.0,,,2014
+25.04,53,35,Stage 3 - Ibiporã › Ibiporã,167.0,,,2014
 24.04,38,35,Stage 2 - Londrina › Londrina,79.6,,,2014
 23.04,46,47,Stage 1 - Bela Vista do Paraíso › Bela Vista do Paraíso,128.4,,,2014
 09.04 » 13.04,,,Volta Ciclística Internacional do Rio Grande do Sul (2.2),,,,2014
 ,53,,General classification,,,,2014
-13.04,51,,Stage 5 - Serra Gaucha › Serra Gaucha,197,,,2014
-12.04,55,50,Stage 4 - Bento Gonçalves › Nova Petrópolis,97,,,2014
-11.04,58,49,Stage 3 - Cambará do Sol › Bento Gonçalves,184,,,2014
-10.04,51,42,Stage 2 - Torres › Cambará do Sol,174,,,2014
-09.04,36,36,Stage 1 - Porte Alegre › Torres,214,,,2014
+13.04,51,,Stage 5 - Serra Gaucha › Serra Gaucha,197.0,,,2014
+12.04,55,50,Stage 4 - Bento Gonçalves › Nova Petrópolis,97.0,,,2014
+11.04,58,49,Stage 3 - Cambará do Sol › Bento Gonçalves,184.0,,,2014
+10.04,51,42,Stage 2 - Torres › Cambará do Sol,174.0,,,2014
+09.04,36,36,Stage 1 - Porte Alegre › Torres,214.0,,,2014
 09.02 » 16.02,,,Tour do Brasil Volta Ciclística de São Paulo-Internacional (2.2),,,,2014
 ,25,,General classification,,,,2014
 16.02,48,,Stage 8 - Sao Paulo › Sao Paolo,66.5,,,2014
@@ -64,7 +65,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 10.02,42,39,Stage 2 - Sorocaba › Botucatu,144.3,,,2014
 09.02,72,72,Stage 1 - Barueri › Sorocaba,102.9,,,2014
 06.08 » 11.08,,,The Larry H.Miller Tour of Utah (2.1),,,,2013
-07.08,DNF,,Stage 2 - Panguitch › Torrey,210,,,2013
-06.08,121,121,Stage 1 - Brian Head › Cedar City,180,,,2013
+07.08,DNF,,Stage 2 - Panguitch › Torrey,210.0,,,2013
+06.08,121,121,Stage 1 - Brian Head › Cedar City,180.0,,,2013
 30.06,DNF,,National Championships Brazil - Road Race (NC),178.5,,,2013
-28.06,24,,National Championships Brazil - ITT (NC),32,,,2013
+28.06,24,,National Championships Brazil - ITT (NC),32.0,,,2013

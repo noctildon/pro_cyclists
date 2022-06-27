@@ -1,8 +1,12 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
-29.03,18,,Asian Cycling Championships - Road Race (CC),175,3,5,2022
-25.03,3,,Asian Cycling Championships - TTT (CC),24,,10,2022
+29.03,18,,Asian Cycling Championships - Road Race (CC) ,175,3,5,2022
+25.03,3,,Asian Cycling Championships - TTT (CC) ,24,,10,2022
+20.03,46,,Grand Prix Gündoğmuş (1.2) ,100.5,,,2022
+19.03,OTL,,Grand Prix Manavgat Side (1.2) ,126,,,2022
+29.03,18,,Asian Cycling Championships - Road Race (CC),175.0,3,5,2022
+25.03,3,,Asian Cycling Championships - TTT (CC),24.0,,10,2022
 20.03,46,,Grand Prix Gündoğmuş (1.2),100.5,,,2022
-19.03,OTL,,Grand Prix Manavgat Side (1.2),126,,,2022
+19.03,OTL,,Grand Prix Manavgat Side (1.2),126.0,,,2022
 28.06,1,,National Championships Iran - ITT (NC),,15,25,2021
 27.06,16,,National Championships Iran - Road Race (NC),,,,2021
 02.11 » 10.11,,,Tour de Singkarak (2.2),,,,2019
@@ -27,21 +31,21 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.09,13,13,Stage 1 - Siak › Siak,59.1,,,2019
 02.09 » 04.09,,,Tour of Xingtai (2.2),,,,2019
 ,25,,General classification,,,,2019
-04.09,44,,Stage 3 - Guangzong › Xingtai,176,,,2019
-03.09,42,25,Stage 2 - Licheng Reservoir › Wangao Ancient Village ,206,,,2019
-02.09,27,27,Stage 1 - Xingtai › Zijinshan Jiuliwan Scenic Area ,145,,,2019
+04.09,44,,Stage 3 - Guangzong › Xingtai,176.0,,,2019
+03.09,42,25,Stage 2 - Licheng Reservoir › Wangao Ancient Village ,206.0,,,2019
+02.09,27,27,Stage 1 - Xingtai › Zijinshan Jiuliwan Scenic Area ,145.0,,,2019
 19.08 » 23.08,,,Tour of Indonesia (2.1),,,,2019
 ,63,,General classification,,,,2019
 23.08,54,,Stage 5 - Gilimanuk › Gianyar,136.8,,,2019
 22.08,48,67,Stage 4 - Jember › Banyuwangi,147.3,,,2019
-21.08,70,77,Stage 3 - Kota Batu › Jember,193,,,2019
+21.08,70,77,Stage 3 - Kota Batu › Jember,193.0,,,2019
 20.08,80,77,Stage 2 - Madiun › Kota Batu,157.8,,,2019
 19.08,45,45,Stage 1 - Yogyakarta › Madiun,182.7,,,2019
 25.06,2,,National Championships Iran - ITT (NC),,7,30,2019
-24.06,14,,National Championships Iran - Road Race (NC),170,,1,2019
+24.06,14,,National Championships Iran - Road Race (NC),170.0,,1,2019
 28.04,8,,Asian Cycling Championships - Road Race (CC),166.6,18,70,2019
-25.04,8,,Asian Cycling Championships - ITT (CC),40,,10,2019
-23.04,9,,Asian Cycling Championships - TTT (CC),40,,1.25,2019
+25.04,8,,Asian Cycling Championships - ITT (CC),40.0,,10,2019
+23.04,9,,Asian Cycling Championships - TTT (CC),40.0,,1.25,2019
 30.09 » 05.10,,,Tour of Iran (Azarbaijan) (2.1),,,,2018
 ,33,,General classification,,,,2018
 05.10,45,,Stage 6 - Tabriz › Tabriz,91.2,,,2018
@@ -50,16 +54,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.10,30,39,Stage 3 - Arras Free Zone › Tabriz,147.8,,,2018
 01.10,56,44,Stage 2 - Urmia › Arras Free Zone,209.4,,,2018
 30.09,38,38,Stage 1 - Tabriz › Urmia,150.1,,,2018
-30.06,3,,National Championships Iran - ITT (NC),30,2,20,2018
+30.06,3,,National Championships Iran - ITT (NC),30.0,2,20,2018
 18.06 » 21.06,,,Tour of Mevlana (2.2),,,,2018
 ,5,,Mountains classification,,,,2018
 ,8,,General classification,,3,3,2018
 21.06,27,,Stage 4 - Konya › Konya,110.3,,,2018
 20.06,32,9,Stage 3 - Konya › Beyşehir,193.5,,,2018
 19.06,24,8,Stage 2 - Konya › Konya,140.4,,,2018
-18.06,9,9,Prologue - Konya › Konya,8,,,2018
-12.02,14,,Asian Cycling Championships - Road Race (CC),176,7,15,2018
-08.02,2,,Asian Cycling Championships - TTT (CC),70,12,11,2018
+18.06,9,9,Prologue - Konya › Konya,8.0,,,2018
+12.02,14,,Asian Cycling Championships - Road Race (CC),176.0,7,15,2018
+08.02,2,,Asian Cycling Championships - TTT (CC),70.0,12,11,2018
 30.09 » 01.10,,,Tour of Almaty (2.1),,,,2017
 ,56,,General classification,,,,2017
 01.10,56,,Stage 2 - Almaty › Almaty,160.5,,,2017
@@ -72,36 +76,36 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 16.07,21,27,Stage 3 - Ende › Mbay,83.3,,,2017
 15.07,26,27,Stage 2 - Maumere › Ende,142.8,,,2017
 14.07,39,40,Stage 1 - Larantuka › Maumere,136.3,,,2017
-02.07,2,,National Championships Iran - ITT (NC),35,7,25,2017
-01.07,8,,National Championships Iran - Road Race (NC),160,,10,2017
+02.07,2,,National Championships Iran - ITT (NC),35.0,7,25,2017
+01.07,8,,National Championships Iran - Road Race (NC),160.0,,10,2017
 02.03,23,,Asian Cycling Championships - Road Race (CC),153.6,,,2017
 25.02,4,,Asian Cycling Championships - TTT (CC),38.4,6,,2017
 05.11 » 12.11,,,Tour of Taihu Lake (2.1),,,,2016
 ,40,,General classification,,,,2016
 12.11,64,,Stage 7 - Jurong Chishanhu Lake › Maoshan,130.6,,,2016
 11.11,80,33,Stage 6 - Yancheng Park › Mingdu Haoge international Hotel,117.1,,,2016
-10.11,84,33,Stage 5 - Nantong › Haimen,148,,,2016
+10.11,84,33,Stage 5 - Nantong › Haimen,148.0,,,2016
 09.11,72,34,Stage 4 - Wujiang › Wujiang,117.4,,,2016
 08.11,35,34,Stage 3 - Anji Economic Development Zone  › Tianhuangping,106.3,,,2016
-07.11,80,55,Stage 2 - Changxing Government Square › Moon Bay Hotel,139,,,2016
+07.11,80,55,Stage 2 - Changxing Government Square › Moon Bay Hotel,139.0,,,2016
 06.11,58,55,Stage 1 - Wuxi › Wuxi,111.3,,,2016
 05.11,54,55,Prologue - Wuxi › Wuxi,5.9,,,2016
-02.11,75,,Tour of Yancheng Costal Wetlands (1.2),150,,,2016
+02.11,75,,Tour of Yancheng Costal Wetlands (1.2),150.0,,,2016
 13.05 » 18.05,,,Tour of Iran (Azarbaijan) (2.1),,,,2016
 ,2,,Mountains classification,,,,2016
 ,37,,General classification,,,,2016
-18.05,56,,Stage 6 - Tabriz › Tabriz,114,,,2016
+18.05,56,,Stage 6 - Tabriz › Tabriz,114.0,,,2016
 17.05,29,37,Stage 5 - Sarein › Sahand,181.3,,,2016
 16.05,47,49,Stage 4 - Tabriz › Sarein,198.2,,,2016
 15.05,67,48,Stage 3 - Aras › Tabriz,139.9,,,2016
 14.05,40,45,Stage 2 - Urmia › Aras,209.4,,,2016
 13.05,55,56,Stage 1 - Tabriz › Urmia,162.4,,,2016
-09.05,14,,National Championships Iran - Road Race (NC),200,,,2016
-08.05,3,,National Championships Iran - ITT (NC),40,2,20,2016
+09.05,14,,National Championships Iran - Road Race (NC),200.0,,,2016
+08.05,3,,National Championships Iran - ITT (NC),40.0,2,20,2016
 01.04 » 06.04,,,The Princess Maha Chackri Sirindhorn's Cup 'Tour of Thailand' (2.2),,,,2016
-03.04,DSQ,,Stage 3 - Sakon Nakhon › Bueng Kan,194,,,2016
-02.04,52,17,Stage 2 - Mukdahan › Sakon Nakhon,132,,,2016
-01.04,11,11,Stage 1 - Ubon Ratchatani › Mukdahan,187,,,2016
+03.04,DSQ,,Stage 3 - Sakon Nakhon › Bueng Kan,194.0,,,2016
+02.04,52,17,Stage 2 - Mukdahan › Sakon Nakhon,132.0,,,2016
+01.04,11,11,Stage 1 - Ubon Ratchatani › Mukdahan,187.0,,,2016
 16.12 » 19.12,,,Tour of Al Zubarah (2.2),,,,2015
 ,16,,Points classification,,,,2015
 ,34,,General classification,,,,2015
@@ -111,30 +115,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 16.12,33,33,Prologue - Doha › Doha,3.3,,,2015
 09.12 » 13.12,,,Jelajah Malaysia (2.2),,,,2015
 ,30,,General classification,,,,2015
-13.12,51,,Stage 5 (ITT) - Kuala Lumpur › Kuala Lumpur,47,,,2015
+13.12,51,,Stage 5 (ITT) - Kuala Lumpur › Kuala Lumpur,47.0,,,2015
 12.12,43,29,Stage 4 - Kuala Lumpur › Putrajaya,115.3,,,2015
 11.12,53,36,Stage 3 - Bandar Baru Bangi › Putrajaya,103.3,,,2015
 10.12,2,34,Stage 2 (TTT) - Putrajaya › Putrajaya,16.5,4,1.25,2015
 09.12,37,37,Stage 1 - Kuala Lumpur › Putrajaya,176.1,,,2015
-13.05,19,,National Championships Iran - Road Race (NC),130,,,2015
-12.05,11,,National Championships Iran - ITT (NC),30,,,2015
+13.05,19,,National Championships Iran - Road Race (NC),130.0,,,2015
+12.05,11,,National Championships Iran - ITT (NC),30.0,,,2015
 07.06 » 15.06,,,Tour of Singkarak (2.2),,,,2014
 ,14,,General classification,,,,2014
-15.06,31,,Stage 9 - Pesisir Selatan › Padang,121,,,2014
-14.06,17,14,Stage 8 - Sawahlunto › Solok Selatan,167,,,2014
+15.06,31,,Stage 9 - Pesisir Selatan › Padang,121.0,,,2014
+14.06,17,14,Stage 8 - Sawahlunto › Solok Selatan,167.0,,,2014
 13.06,29,19,Stage 7 - Sijunjung › Dharmasraya,167.5,,,2014
-12.06,31,19,Stage 6 - Padang Panjang › Solok Kota,111,,,2014
-11.06,32,19,Stage 5 - Payakumbuh › Solok Kabupaten,102,,,2014
-10.06,26,18,Stage 4 - Bukittinggi › Agam,165,,,2014
-09.06,12,12,Stage 3 - Kota › Tanah Datar,100,,,2014
+12.06,31,19,Stage 6 - Padang Panjang › Solok Kota,111.0,,,2014
+11.06,32,19,Stage 5 - Payakumbuh › Solok Kabupaten,102.0,,,2014
+10.06,26,18,Stage 4 - Bukittinggi › Agam,165.0,,,2014
+09.06,12,12,Stage 3 - Kota › Tanah Datar,100.0,,,2014
 08.06,18,19,Stage 2 - Pasaman › Pasaman Barat,123.5,,,2014
-07.06,36,36,Stage 1 - Padang Pariaman › Pariaman,100,,,2014
+07.06,36,36,Stage 1 - Padang Pariaman › Pariaman,100.0,,,2014
 22.06,9,,National Championships Iran - ITT (NC),,,,2013
 22.05 » 27.05,,,Tour of Iran (Azarbaijan) (2.2),,,,2013
 ,33,,General classification,,,,2013
-27.05,43,,Stage 6 - Tabriz › Tabriz,100,,,2013
-26.05,38,34,Stage 5 - Aras › Sahand,191,,,2013
-25.05,44,29,Stage 4 - Khoy › Aras,152,,,2013
-24.05,38,33,Stage 3 - Urmiyeh › Khoy,122,,,2013
-23.05,35,38,Stage 2 - Maragheh › Urmiyeh,194,,,2013
-26.06,9,,National Championships Iran - ITT (NC),37,,,2012
+27.05,43,,Stage 6 - Tabriz › Tabriz,100.0,,,2013
+26.05,38,34,Stage 5 - Aras › Sahand,191.0,,,2013
+25.05,44,29,Stage 4 - Khoy › Aras,152.0,,,2013
+24.05,38,33,Stage 3 - Urmiyeh › Khoy,122.0,,,2013
+23.05,35,38,Stage 2 - Maragheh › Urmiyeh,194.0,,,2013
+26.06,9,,National Championships Iran - ITT (NC),37.0,,,2012

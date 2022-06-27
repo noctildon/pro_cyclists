@@ -1,4 +1,39 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,8,,National Championships Czech Republic - Road Race (NC) ,,,10,2022
+23.06,3,,National Championships Czech Republic U23 - ITT (NC) ,,,10,2022
+09.06 » 12.06,,,Raiffeisen Oberösterreich Rundfahrt (2.2) ,,,,2022
+,2,,Youth classification ,,,,2022
+,7,,Points classification ,,,,2022
+,7,,General classification ,,4,5,2022
+12.06,10,,Stage 3 - St. Florian/Asten › Hutterer Hös ,133.5,,,2022
+11.06,21,4,Stage 2 - Eferding › Niederkappel ,129.5,,,2022
+10.06,3,3,Stage 1 - Wels › Ranshofen ,168.5,1,1,2022
+09.06,21,21,Prologue - Linz › Linz ,0.65,,,2022
+02.06 » 05.06,,,Course de la Paix Grand Prix Jeseníky (2.Ncup) ,,,,2022
+,30,,General classification ,,,,2022
+05.06,38,,Stage 3 - Jeseník › Jeseník ,166.7,,,2022
+04.06,35,36,Stage 2 - Bruntál › Dlouhé Stráně ,134.6,,,2022
+03.06,52,62,Stage 1 - Jeseník › Rýmařov ,131.5,,,2022
+02.06,73,73,Prologue - Jeseník › Jeseník ,3.4,,,2022
+25.05 » 29.05,,,Alpes Isère Tour (2.2) ,,,,2022
+,38,,Youth classification ,,,,2022
+,60,,General classification ,,,,2022
+29.05,64,,Stage 5 - Entre-deux-Guiers › Allevard-les-Bains ,133.1,,,2022
+28.05,33,92,Stage 4 - Saint-Maurice-l'Exil › Beaurepaire ,171.4,,,2022
+27.05,64,92,Stage 3 - Saint-Exupéry › Toussieu ,145.5,,,2022
+26.05,108,102,Stage 2 - Les Abrets-en-Dauphiné › Saint-Quentin-Fallavier ,161.2,,,2022
+25.05,37,41,Stage 1 - Charvieu-Chavagneux › Charvieu-Chavagneux ,118.1,,,2022
+30.04,31,,Grand Prix Wyszków (1.2) ,168,,,2022
+29.04,6,,Grand Prix Nasielsk-Serock (1.2) ,140,1,10,2022
+06.04 » 09.04,,,Circuit des Ardennes (2.2) ,,,,2022
+,22,,Youth classification ,,,,2022
+,33,,General classification ,,,,2022
+09.04,18,,Stage 4 - Charleville-Mézières › Charleville-Mézières ,172.7,,,2022
+07.04,41,39,Stage 2 - Bazeilles › Sedan ,92.5,,,2022
+06.04,50,51,Stage 1 - Signy-le-Petit › Signy-le-Petit ,165.2,,,2022
+24.03,43,,GP Vipava Valley & Crossborder Goriška (1.2) ,154.4,,,2022
+13.03,DNF,,Dorpenomloop Rucphen (1.2) ,186,,,2022
+06.03,42,,Visit Friesland Elfsteden Race (1.2) ,199.2,,,2022
 06.04 » 09.04,,,Circuit des Ardennes (2.2),,,,2022
 ,22,,Youth classification,,,,2022
 ,33,,General classification,,,,2022
@@ -6,7 +41,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.04,41,39,Stage 2 - Bazeilles › Sedan,92.5,,,2022
 06.04,50,51,Stage 1 - Signy-le-Petit › Signy-le-Petit,165.2,,,2022
 24.03,43,,GP Vipava Valley & Crossborder Goriška (1.2),154.4,,,2022
-13.03,DNF,,Dorpenomloop Rucphen (1.2),186,,,2022
+13.03,DNF,,Dorpenomloop Rucphen (1.2),186.0,,,2022
 06.03,42,,Visit Friesland Elfsteden Race (1.2),199.2,,,2022
 24.09,62,,World Championships U23 - Road Race (WC),161.1,,,2021
 11.09,9,,European Continental Championships U23 - Road Race (CC),133.6,,25,2021
@@ -16,13 +51,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.08,22,,Stage 9 - La Toussuire › Col du Petit Saint-Bernard,151.6,,,2021
 21.08,25,21,Stage 8 - La Tour-en-Maurienne › Saint Jean d’Arves,71.3,,,2021
 20.08,37,26,Stage 7 - Saint-Vulbas › Grand Colombier,97.9,,,2021
-19.08,22,23,Stage 6 - Champagnole › Septmoncel,111,,,2021
+19.08,22,23,Stage 6 - Champagnole › Septmoncel,111.0,,,2021
 18.08,22,30,Stage 5 - Tomblaine › Bar-sur-Aube,150.7,,,2021
 17.08,25,31,Stage 4 - Provins › Bar-le-Duc,183.9,,,2021
 16.08,28,33,Stage 3 - Château-Thierry › Donnemarie-Dontilly,153.4,,,2021
 15.08,13,47,Stage 2 (TTT) - Laon › Laon,26.8,,,2021
 14.08,64,62,Stage 1 - Charleville-Mézières › Soissons,161.2,,,2021
-13.08,87,87,Prologue - Charleville-Mézières › Charleville-Mézières,5,,,2021
+13.08,87,87,Prologue - Charleville-Mézières › Charleville-Mézières,5.0,,,2021
 21.07 » 25.07,,,Tour Alsace (2.2),,,,2021
 ,28,,Youth classification,,,,2021
 ,49,,General classification,,,,2021
@@ -31,9 +66,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.07,44,46,Stage 3 - Vesoul › La Planche des Belles Filles,143.1,,,2021
 22.07,61,56,Stage 2 - Colmar › Altkirch,163.1,,,2021
 21.07,24,67,Prologue - Sausheim › Sausheim,4.3,,,2021
-18.07,36,,Visegrad 4 Bicycle Race Grand Prix Poland (1.2),147,,,2021
+18.07,36,,Visegrad 4 Bicycle Race Grand Prix Poland (1.2),147.0,,,2021
 17.07,DNF,,Visegrad 4 Bicycle Race - GP Czech Republic (1.2),183.5,,,2021
-11.07,21,,Visegrad 4 Bicycle Race - GP Slovakia (1.2),134,,,2021
+11.07,21,,Visegrad 4 Bicycle Race - GP Slovakia (1.2),134.0,,,2021
 10.07,95,,Visegrad 4 Kerekparverseny (1.2),157.3,,,2021
 23.06 » 26.06,,,Course Cycliste de Solidarnosc et des Champions Olympiques (2.2),,,,2021
 ,1,,Youth classification,,,,2021
@@ -46,7 +81,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.06,27,28,Stage 2 - Kutno › Płock,96.9,,,2021
 23.06,27,29,Stage 1 - Pabianice › Łódź,75.1,,,2021
 20.06,12,,National Championships Czech Republic - Road Race (NC),227.5,,1,2021
-17.06,6,,National Championships Czech Republic U23 - ITT (NC),40,,,2021
+17.06,6,,National Championships Czech Republic U23 - ITT (NC),40.0,,,2021
 03.06 » 06.06,,,Course de la Paix Grand Prix Jeseníky (2.Ncup),,,,2021
 ,10,,Youth classification,,,,2021
 ,22,,Mountains classification,,,,2021
@@ -61,17 +96,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 29.05,9,9,Stage 1 - Białystok › Białystok,143.2,,,2021
 28.03,DNF,,GP Adria Mobil (1.2),181.5,,,2021
 21.03,27,,GP Slovenian Istria (1.2),156.5,,,2021
-07.03,59,,Trofej Poreč - Poreč Trophy (1.2),156,,,2021
+07.03,59,,Trofej Poreč - Poreč Trophy (1.2),156.0,,,2021
 17.09 » 20.09,,,Tour of Malopolska (2.2),,,,2020
 ,24,,Youth classification,,,,2020
 ,45,,General classification,,,,2020
-20.09,36,,Stage 3 - Chochołowskie Termy › Przehyba,131,,,2020
-19.09,17,55,Stage 2 - Niepołomice › Nowy Targ,142,,,2020
-18.09,56,56,Stage 1 - Wieliczka › Myślenice/Góra Chełm,116,,,2020
+20.09,36,,Stage 3 - Chochołowskie Termy › Przehyba,131.0,,,2020
+19.09,17,55,Stage 2 - Niepołomice › Nowy Targ,142.0,,,2020
+18.09,56,56,Stage 1 - Wieliczka › Myślenice/Góra Chełm,116.0,,,2020
 17.09,47,47,Prologue - Kraków › Kraków,1.2,,,2020
 31.08,8,,Carpathian Couriers Race in memory of Wacław Felczak (1.2U),134.5,,1,2020
-22.08,16,,National Championships Czech Republic - Road Race (NC),192,,,2020
-20.08,7,,National Championships Czech Republic U23 - ITT (NC),40,,,2020
+22.08,16,,National Championships Czech Republic - Road Race (NC),192.0,,,2020
+20.08,7,,National Championships Czech Republic U23 - ITT (NC),40.0,,,2020
 16.08,5,,National Championships Czech Republic U23 - Road Race (NC),165.2,,10,2020
 26.07,37,,GP Kranj (1.2),157.3,,,2020
 26.09,59,,World Championships MJ - Road Race (WC),148.1,,,2019
@@ -81,19 +116,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 31.08,51,56,Stage 3 - Casette › Casette,113.6,,,2019
 30.08,68,76,Stage 2a - Aulla › Castelnuovo Magra,70.6,,,2019
 30.08,59,70,Stage 2b (ITT) - Bocca di Magra › Montemarcello,4.5,,,2019
-29.08,77,77,Stage 1 - Lerici › La Specia,100,,,2019
-09.08,13,,European Continental Championships MJ - Road Race (CC),115,4,,2019
+29.08,77,77,Stage 1 - Lerici › La Specia,100.0,,,2019
+09.08,13,,European Continental Championships MJ - Road Race (CC),115.0,4,,2019
 07.08,43,,European Continental Championships MJ - ITT (CC),22.4,,,2019
-29.06,2,,National Championships Czech Republic MJ - Road Race (NC),125,12,,2019
+29.06,2,,National Championships Czech Republic MJ - Road Race (NC),125.0,12,,2019
 27.06,1,,National Championships Czech Republic MJ - ITT (NC),20.5,10,,2019
 20.06 » 23.06,,,LVM Saarland Trofeo (2.Ncup),,,,2019
 ,10,,Mountains classification,,,,2019
 ,10,,General classification,,40,,2019
-23.06,13,,Stage 4 - Walsheim › Walsheim,118,,,2019
-22.06,8,42,Stage 3a - Homburg › Homburg,81,1,,2019
+23.06,13,,Stage 4 - Walsheim › Walsheim,118.0,,,2019
+22.06,8,42,Stage 3a - Homburg › Homburg,81.0,1,,2019
 22.06,2,10,Stage 3b (TTT) - Bitche › Reinheim,31.6,10,,2019
-21.06,49,48,Stage 2 - Neunkirchen  › Münchwies,111,,,2019
-20.06,30,30,Stage 1 - Aßweiler  › Erfweiler-Ehlingen,113,,,2019
+21.06,49,48,Stage 2 - Neunkirchen  › Münchwies,111.0,,,2019
+20.06,30,30,Stage 1 - Aßweiler  › Erfweiler-Ehlingen,113.0,,,2019
 30.05 » 02.06,,,Tour du Pays de Vaud (2.Ncup),,,,2019
 ,54,,General classification,,5,,2019
 02.06,22,,Stage 3 - Granges-près-Marnand  › Granges-près-Marnand ,110.9,,,2019

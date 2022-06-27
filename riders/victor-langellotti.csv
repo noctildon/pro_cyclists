@@ -1,27 +1,48 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+14.06,OTL,,Mont Ventoux Dénivelé Challenge (1.1) ,154,,,2022
+04.04 » 09.04,,,Itzulia Basque Country (2.UWT) ,,,,2022
+05.04,DNF,,Stage 2 - Leitza › Viana ,207.92,,,2022
+04.04,142,142,Stage 1 (ITT) - Hondarribia › Hondarribia ,7.51,,,2022
+02.04,52,,Gran Premio Miguel Indurain (1.Pro) ,190,,,2022
+27.03,63,,La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire (1.1) ,202,,,2022
+24.02 » 27.02,,,Gran Camiño (2.1) ,,,,2022
+,28,,General classification ,,,,2022
+27.02,67,,Stage 4 (ITT) - Sarria  › Sarria  ,15.8,,,2022
+26.02,30,24,Stage 3 - Maceda  › Luintra ,148.4,,,2022
+25.02,16,16,Stage 2 - Bertamiráns  › Mirador do Ézaro ,177.6,,,2022
+24.02,42,46,Stage 1 - O Porriño › Vigo ,165,,,2022
+10.02 » 15.02,,,Tour of Oman (2.Pro) ,,,,2022
+,36,,Points classification ,,,,2022
+,73,,General classification ,,,,2022
+15.02,54,,Stage 6 - Al Mouj Muscat › Matrah Corniche  108k,132.5,,,2022
+14.02,78,79,Stage 5 - Samail › Jabal Al Akhdhar ,150.5,,,2022
+13.02,91,79,Stage 4 - Al Sifah › Muscat ,119.5,,,2022
+12.02,12,23,Stage 3 - Sultan Qaboos University › Qurayyat  ,180,,,2022
+11.02,77,69,Stage 2 - Naseem Park › Suhar Corniche ,167.5,,,2022
+10.02,26,29,Stage 1 - Al Rustaq Fort › Muscat ,138,,,2022
 04.04 » 09.04,,,Itzulia Basque Country (2.UWT),,,,2022
 05.04,DNF,,Stage 2 - Leitza › Viana,207.92,,,2022
 04.04,142,142,Stage 1 (ITT) - Hondarribia › Hondarribia,7.51,,,2022
-02.04,52,,Gran Premio Miguel Indurain (1.Pro),190,,,2022
-27.03,63,,La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire (1.1),202,,,2022
+02.04,52,,Gran Premio Miguel Indurain (1.Pro),190.0,,,2022
+27.03,63,,La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire (1.1),202.0,,,2022
 24.02 » 27.02,,,Gran Camiño (2.1),,,,2022
 ,28,,General classification,,,,2022
 27.02,67,,Stage 4 (ITT) - Sarria  › Sarria ,15.8,,,2022
 26.02,30,24,Stage 3 - Maceda  › Luintra,148.4,,,2022
 25.02,16,16,Stage 2 - Bertamiráns  › Mirador do Ézaro,177.6,,,2022
-24.02,42,46,Stage 1 - O Porriño › Vigo,165,,,2022
+24.02,42,46,Stage 1 - O Porriño › Vigo,165.0,,,2022
 10.02 » 15.02,,,Tour of Oman (2.Pro),,,,2022
 ,36,,Points classification,,,,2022
 ,73,,General classification,,,,2022
 15.02,54,,Stage 6 - Al Mouj Muscat › Matrah Corniche,132.5,,,2022
 14.02,78,79,Stage 5 - Samail › Jabal Al Akhdhar,150.5,,,2022
 13.02,91,79,Stage 4 - Al Sifah › Muscat,119.5,,,2022
-12.02,12,23,Stage 3 - Sultan Qaboos University › Qurayyat ,180,,,2022
+12.02,12,23,Stage 3 - Sultan Qaboos University › Qurayyat ,180.0,,,2022
 11.02,77,69,Stage 2 - Naseem Park › Suhar Corniche,167.5,,,2022
-10.02,26,29,Stage 1 - Al Rustaq Fort › Muscat,138,,,2022
+10.02,26,29,Stage 1 - Al Rustaq Fort › Muscat,138.0,,,2022
 17.10,DNF,,Boucles de l'Aulne - Châteaulin (1.1),177.6,,,2021
 16.10,DNF,,Grand Prix du Morbihan (1.Pro),176.9,,,2021
-19.09,DNF,,Trofeo Matteotti (1.1),195,,,2021
+19.09,DNF,,Trofeo Matteotti (1.1),195.0,,,2021
 18.09,DNF,,Memorial Marco Pantani (1.1),190.7,,,2021
 16.09,DNF,,Coppa Sabatini - Gran Premio città di Peccioli (1.Pro),210.8,,,2021
 15.09,DNF,,Giro della Toscana - Memorial Alfredo Martini (1.1),191.6,,,2021
@@ -34,8 +55,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 25.07,22,,Prueba Villafranca - Ordiziako Klasika (1.1),165.7,,3,2021
 16.07 » 18.07,,,GP Internacional Torres Vedras - Trofeu Joaquim Agostinho (2.2),,,,2021
 ,51,,General classification,,,,2021
-18.07,21,,Stage 3 - Serra d'El-Rei › Alto do Montejunto,185,,,2021
-17.07,80,80,Stage 2 - Arruda dos Vinhos   › Torres Vedras,166,,,2021
+18.07,21,,Stage 3 - Serra d'El-Rei › Alto do Montejunto,185.0,,,2021
+17.07,80,80,Stage 2 - Arruda dos Vinhos   › Torres Vedras,166.0,,,2021
 16.07,86,86,Stage 1 - Turcifal › Serra do Socorro ,85.3,,,2021
 10.06 » 13.06,,,La Route d'Occitanie - La Dépêche du Midi (2.1),,,,2021
 ,76,,General classification,,,,2021
@@ -43,13 +64,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.06,53,59,Stage 3 - Pierrefitte-Nestalas › Le Mourtis,191.8,,,2021
 11.06,82,86,Stage 2 - Villefranche-De-Rouergue › Auch,198.7,,,2021
 10.06,65,65,Stage 1 - Cazouls-Lès-Béziers › Lacaune Les Bains ,156.5,,,2021
-08.06,42,,Mont Ventoux Dénivelé Challenge (1.1),153,,,2021
+08.06,42,,Mont Ventoux Dénivelé Challenge (1.1),153.0,,,2021
 27.05 » 30.05,,,Boucles de la Mayenne (2.Pro),,,,2021
 ,94,,General classification,,,,2021
-30.05,70,,Stage 4 - Méral › Laval,181,,,2021
-29.05,74,97,Stage 3 - Saint-Berthevin › Craon,182,,,2021
-28.05,97,102,Stage 2 - Vaiges › Évron,173,,,2021
-27.05,108,108,Stage 1 - Le Genest-Saint-Isle › Ambrières-les-Vallées,175,,,2021
+30.05,70,,Stage 4 - Méral › Laval,181.0,,,2021
+29.05,74,97,Stage 3 - Saint-Berthevin › Craon,182.0,,,2021
+28.05,97,102,Stage 2 - Vaiges › Évron,173.0,,,2021
+27.05,108,108,Stage 1 - Le Genest-Saint-Isle › Ambrières-les-Vallées,175.0,,,2021
 24.05,17,,Mercan'Tour Classic Alpes-Maritimes (1.1),149.9,4,3,2021
 16.05,121,,Trofeo Alcudia-Port d'Alcudia (1.1),169.8,,,2021
 15.05,DNF,,Trofeo Andratx - Mirador des Colomer (Puerto Pollença) (1.1),161.3,,,2021
@@ -59,17 +80,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.03,DNF,,Cholet - Pays de la Loire (1.1),201.8,,,2021
 19.02 » 21.02,,,Tour des Alpes Maritimes et du Var (2.1),,,,2021
 ,80,,General classification,,,,2021
-21.02,65,,Stage 3 - Blausasc › Blausasc,136,,,2021
+21.02,65,,Stage 3 - Blausasc › Blausasc,136.0,,,2021
 20.02,114,90,Stage 2 - Fayence › Fayence,168.9,,,2021
 19.02,54,54,Stage 1 - Biot › Gourdon,186.8,,,2021
 26.08,DNF,,European Continental Championships - Road Race (CC),177.45,,,2020
 25.06,34,,European Games - ITT (JR),28.6,,,2019
-23.06,DNF,,European Games - Road Race (JR),180,,,2019
+23.06,DNF,,European Games - Road Race (JR),180.0,,,2019
 12.06 » 16.06,,,Baloise Belgium Tour (2.HC),,,,2019
 13.06,DNF,,Stage 2 - Knokke-Heist › Zottegem,179.9,,,2019
 12.06,150,150,Stage 1 - Sint-Niklaas › Knokke-Heist,183.4,,,2019
 02.06,DNF,,Boucles de l'Aulne - Châteaulin (1.1),177.6,,,2019
-01.06,DNF,,Grand Prix de Plumelec-Morbihan (1.1),188,,,2019
+01.06,DNF,,Grand Prix de Plumelec-Morbihan (1.1),188.0,,,2019
 16.04 » 21.04,,,Presidential Cycling Tour of Turkey (2.UWT),,,,2019
 ,18,,Mountains classification,,,,2019
 ,53,,Points classification,,,,2019
@@ -84,7 +105,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.02 » 24.02,,,Tour Cycliste International du Haut Var (2.1),,,,2019
 ,11,,Youth classification,,,,2019
 ,65,,General classification,,,,2019
-24.02,55,,Stage 3 -  La Londe-les-Maures › Mont Faron (Toulon),136,,,2019
+24.02,55,,Stage 3 -  La Londe-les-Maures › Mont Faron (Toulon),136.0,,,2019
 23.02,91,74,Stage 2 - Le Cannet-des-Maures › Mons,201.4,,,2019
 22.02,64,64,Stage 1 - Vence › Mandelieu-la-Napoul,154.5,,,2019
 17.02,DNF,,Clasica de Almeria (1.HC),192.5,,,2019
@@ -102,9 +123,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.01,DNF,,Trofeo Lloseta - Andratx (1.1),165.8,,,2018
 26.01,DNF,,Trofeo Serra de Tramuntana (1.1),140.1,,,2018
 01.10,DNF,,Piccolo Giro di Lombardia (1.2U),163.1,,,2017
-22.09,DNF,,World Championships U23 - Road Race (WC),191,,,2017
+22.09,DNF,,World Championships U23 - Road Race (WC),191.0,,,2017
 18.09,55,,World Championships U23 - ITT (WC),37.2,,,2017
-16.08,79,,GP Capodarco - Comunità di Capodarco (1.2U),180,,,2017
+16.08,79,,GP Capodarco - Comunità di Capodarco (1.2U),180.0,,,2017
 05.08,128,,European Continental Championships U23 - Road Race (CC),160.8,,,2017
 03.08,38,,European Continental Championships U23 - ITT (CC),31.5,,,2017
 30.07,DNF,,National Championships France U23 - Road Race (NC),172.8,,,2017
@@ -114,37 +135,37 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.07,43,71,Stage 3 - Valtournenche › Breuil Cervinia,170.1,,,2017
 14.07,110,92,Stage 2 - Villeneuve › Introd (Les Combes),138.4,,,2017
 13.07,58,43,Stage 1 - Quassolo › Quincinetto (Scalaro),172.6,,,2017
-12.07,3,3,Prologue - Saint Gervais Mont Blanc › Saint Nicolas de Veroce,8,1,,2017
-04.06,37,,Coppa della Pace - Trofeo F.lli Anelli (1.2),170,,,2017
+12.07,3,3,Prologue - Saint Gervais Mont Blanc › Saint Nicolas de Veroce,8.0,1,,2017
+04.06,37,,Coppa della Pace - Trofeo F.lli Anelli (1.2),170.0,,,2017
 30.05,28,,Games of the Small States of Europe (JR),100.2,,,2017
 14.05,52,,Gran Premio Industrie del Marmo (1.2U),174.7,,,2017
 28.04 » 29.04,,,Toscana Terra di Ciclismo Eroica (2.2U),,,,2017
 29.04,DNF,,Stage 2 - Foiano della Chiana › Buonconvento,147.5,,,2017
-28.04,62,61,Stage 1b - Cinigiano › Civitella Marittima,125,,,2017
+28.04,62,61,Stage 1b - Cinigiano › Civitella Marittima,125.0,,,2017
 28.04,5,19,Stage 1a (TTT) - Cinigiano  › Cinigiano ,14.6,,,2017
 23.04,DNF,,Tr. Città di S. Vendemiano - 57th GP Industria & Commercio (1.2U),171.8,,,2017
-18.04,DNF,,G.P. Palio del Recioto (1.2U),143,,,2017
+18.04,DNF,,G.P. Palio del Recioto (1.2U),143.0,,,2017
 02.04,DNF,,Trofeo Piva (1.2U),179.8,,,2017
-13.10,99,,World Championships U23 - Road Race (WC),166,,,2016
+13.10,99,,World Championships U23 - Road Race (WC),166.0,,,2016
 10.10,53,,World Championships U23 - ITT (WC),28.9,,,2016
 02.10,65,,Piccolo Giro di Lombardia (1.2U),163.1,,,2016
-27.09,DNF,,Ruota d'Oro - GP Festa del Perdono (1.2U),167,,,2016
+27.09,DNF,,Ruota d'Oro - GP Festa del Perdono (1.2U),167.0,,,2016
 17.09,116,,UEC Road European Championships U23 - Road Race (CC),150.7,,,2016
 14.09,40,,UEC Road European Championships U23 - ITT (CC),24.5,,,2016
-21.08,DNF,,National Championships France U23 - Road Race (NC),180,,,2016
+21.08,DNF,,National Championships France U23 - Road Race (NC),180.0,,,2016
 13.07 » 17.07,,,Giro Ciclistico della Valle d'Aosta Mont Blanc (2.2U),,,,2016
 16.07,DNS,,Stage 4 - Pontey / Fénis › Clavalité,166.9,,,2016
 15.07,111,93,Stage 3 - Quincinetto › Piani di Tavagnasco,159.1,,,2016
 14.07,15,31,Stage 2 - Morillon › Saint-Gervais Mont-Blanc,138.4,,,2016
 13.07,23,92,Stage 1 (TTT) - Pont-Saint-Martin › Montjovet,19.94,,,2016
-15.05,DNF,,Gran Premio Industrie del Marmo (1.2),174,,,2016
+15.05,DNF,,Gran Premio Industrie del Marmo (1.2),174.0,,,2016
 08.05,DNF,,Tr. Citta di San Vendemiano - 56th GP Industria & Commercio (1.2U),171.8,,,2016
 16.04,DNF,,Trofeo Edil C (1.2),149.1,,,2016
 03.04,DNF,,Trofeo Piva (1.2U),179.8,,,2016
 29.03,DNF,,G.P. Palio del Recioto - 34th Memorial cav. Sante Carradori (1.2U),143.2,,,2016
 03.10,DNF,,Piccolo Giro di Lombardia (1.2U),164.1,,,2015
 23.08,90,,National Championships France U23 - Road Race (NC),168.2,,,2015
-16.08,DNF,,GP Capodarco - Comunità di Capodarco (1.2U),156,,,2015
+16.08,DNF,,GP Capodarco - Comunità di Capodarco (1.2U),156.0,,,2015
 09.08,DNF,,UEC Road European Championships U23 - Road Race (CC),161.2,,,2015
 07.08,56,,UEC Road European Championships U23 - ITT (CC),31.5,,,2015
 14.07 » 19.07,,,Giro Ciclistico della Valle d'Aosta Mont Blanc (2.2U),,,,2015
@@ -153,10 +174,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.07,40,40,Prologue - Morillon › Morillon,5.4,,,2015
 21.06,DNF,,European Games - Road Race (JR),215.8,,,2015
 17.05,DNF,,Gran Premio Industrie del Marmo (1.2),158.7,,,2015
-03.05,46,,Circuito del Porto - Trofeo Arvedi (1.2),180,,,2015
+03.05,46,,Circuito del Porto - Trofeo Arvedi (1.2),180.0,,,2015
 04.10,DNF,,Piccolo Giro di Lombardia (1.2U),170.8,,,2014
 12.04,DNF,,Trofeo Edil C (1.2),149.1,,,2014
-28.09,17,,World Championships MJ - Road Race (WC),140,14,,2013
+28.09,17,,World Championships MJ - Road Race (WC),140.0,14,,2013
 24.09,70,,World Championships MJ - ITT (WC),22.05,,,2013
 24.08,8,,National Championships France MJ - Road Race (NC),140.3,3,,2013
 23.09,DNF,,World Championships MJ - Road Race (WC),128.8,,,2012
@@ -166,7 +187,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.09,105,80,Stage 3 - Fosdinovo › Fosdinovo,116.9,,,2012
 31.08,57,49,Stage 2 - Follo › Follo,104.8,,,2012
 30.08,82,82,Stage 1 - La Spezia  › Brugnato,109.9,,,2012
-11.08,107,,European Championships MJ - Road Race (CC),129,,,2012
-15.07,41,,Trofeo San Rocco (1.1),104,,,2012
+11.08,107,,European Championships MJ - Road Race (CC),129.0,,,2012
+15.07,41,,Trofeo San Rocco (1.1),104.0,,,2012
 17.06,16,,Trofeo Buffoni (1.1),135.5,5,,2012
-03.06,40,,GP Dell'Arno (1.1),124,,,2012
+03.06,40,,GP Dell'Arno (1.1),124.0,,,2012

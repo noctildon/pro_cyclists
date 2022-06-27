@@ -1,9 +1,47 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+17.10,61,,Veneto Classic (1.1) ,206.5,,,2021
+13.10,70,,Giro del Veneto (1.1) ,168.8,,,2021
+02.10,DNF,,Giro dell'Emilia (1.Pro) ,195.3,,,2021
+16.09,DNF,,Coppa Sabatini - Gran Premio città di Peccioli (1.Pro) ,210.8,,,2021
+05.09,91,,Tour du Doubs (1.1) ,201,,,2021
+04.09,DNF,,Tour du Jura Cycliste (1.1) ,181.75,,,2021
+03.09,113,,Classic Grand Besançon Doubs (1.1) ,172.55,,,2021
+10.08 » 14.08,,,PostNord Danmark Rundt - Tour of Denmark (2.Pro) ,,,,2021
+,61,,General classification ,,,,2021
+14.08,88,,Stage 5 (ITT) - Frederiksberg › Frederiksberg ,10.8,,,2021
+13.08,62,61,Stage 4 - Holbæk › Kalundborg ,188.4,,,2021
+12.08,76,66,Stage 3 - Tønder › Vejle ,219.2,,,2021
+11.08,68,69,Stage 2 - Ribe › Sønderborg ,189.6,,,2021
+10.08,72,74,Stage 1 - Struer › Esbjerg ,175.3,,,2021
+14.07 » 18.07,,,Settimana Ciclistica Italiana (2.1) ,,,,2021
+,26,,Youth classification ,,,,2021
+,115,,General classification ,,,,2021
+18.07,118,,Stage 5 - Cagliari › Cagliari ,170.2,,,2021
+17.07,80,116,Stage 4 - Cagliari › Cagliari ,168,,,2021
+16.07,17,124,Stage 3 - Oristano › Cagliari ,180.9,,,2021
+15.07,136,135,Stage 2 - Sassari › Oristano ,185.5,,,2021
+14.07,122,122,Stage 1 - Alghero › Sassari ,155.8,,,2021
+20.06,DNF,,National Championships Italy - Road Race (NC) ,225.9,,,2021
+18.06,19,,National Championships Italy - ITT (NC) ,45.7,,,2021
+09.06 » 13.06,,,Baloise Belgium Tour (2.Pro) ,,,,2021
+,88,,General classification ,,,,2021
+13.06,108,,Stage 5 - Turnhout › Beringen ,178.7,,,2021
+12.06,79,88,Stage 4 - Hamoir › Hamoir ,152.7,,,2021
+11.06,67,114,Stage 3 - Gingelom › Scherpenheuvel-Zichem ,174.4,,,2021
+10.06,135,131,Stage 2 (ITT) - Knokke-Heist › Knokke-Heist ,11.2,,,2021
+09.06,121,121,Stage 1 - Beveren › Maarkedal ,175.3,,,2021
+14.05 » 16.05,,,Tour d'Eure-et-Loir (2.2) ,,,,2021
+16.05,DNS,,Stage 3 - Bonneval  › Chartres ,193.5,,,2021
+15.05,51,45,Stage 2 - Courville-sur-Eure › Dreux ,186.2,,,2021
+14.05,26,29,Stage 1 - Illiers-Combray › Brou ,120.4,,,2021
+19.03,45,,Bredene Koksijde Classic (1.Pro) ,199.9,,,2021
+17.03,DNF,,Danilith Nokere Koerse ME (1.Pro) ,195,,,2021
+06.03,OTL,,Strade Bianche (1.UWT) ,184,,,2021
 17.10,61,,Veneto Classic (1.1),206.5,,,2021
 13.10,70,,Giro del Veneto (1.1),168.8,,,2021
 02.10,DNF,,Giro dell'Emilia (1.Pro),195.3,,,2021
 16.09,DNF,,Coppa Sabatini - Gran Premio città di Peccioli (1.Pro),210.8,,,2021
-05.09,91,,Tour du Doubs (1.1),201,,,2021
+05.09,91,,Tour du Doubs (1.1),201.0,,,2021
 04.09,DNF,,Tour du Jura Cycliste (1.1),181.75,,,2021
 03.09,113,,Classic Grand Besançon Doubs (1.1),172.55,,,2021
 10.08 » 14.08,,,PostNord Danmark Rundt - Tour of Denmark (2.Pro),,,,2021
@@ -17,7 +55,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,26,,Youth classification,,,,2021
 ,115,,General classification,,,,2021
 18.07,118,,Stage 5 - Cagliari › Cagliari,170.2,,,2021
-17.07,80,116,Stage 4 - Cagliari › Cagliari,168,,,2021
+17.07,80,116,Stage 4 - Cagliari › Cagliari,168.0,,,2021
 16.07,17,124,Stage 3 - Oristano › Cagliari,180.9,,,2021
 15.07,136,135,Stage 2 - Sassari › Oristano,185.5,,,2021
 14.07,122,122,Stage 1 - Alghero › Sassari,155.8,,,2021
@@ -35,8 +73,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.05,51,45,Stage 2 - Courville-sur-Eure › Dreux,186.2,,,2021
 14.05,26,29,Stage 1 - Illiers-Combray › Brou,120.4,,,2021
 19.03,45,,Bredene Koksijde Classic (1.Pro),199.9,,,2021
-17.03,DNF,,Danilith Nokere Koerse ME (1.Pro),195,,,2021
-06.03,OTL,,Strade Bianche (1.UWT),184,,,2021
+17.03,DNF,,Danilith Nokere Koerse ME (1.Pro),195.0,,,2021
+06.03,OTL,,Strade Bianche (1.UWT),184.0,,,2021
 16.09 » 19.09,,,Okolo Slovenska / Tour de Slovaquie (2.1),,,,2020
 ,15,,Youth classification,,,,2020
 ,75,,General classification,,,,2020
@@ -45,13 +83,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.09,66,70,Stage 2 - Žilina › Banská Bystrica,206.6,,,2020
 16.09,15,16,Stage 1a - Žilina › Žilina,106.4,,,2020
 16.09,114,88,Stage 1b (ITT) - Žilina › Žilina,7.1,,,2020
-06.09,73,,Tour du Doubs (1.1),200,,,2020
-30.08,105,,Brussels Cycling Classic (1.Pro),204,,,2020
+06.09,73,,Tour du Doubs (1.1),200.0,,,2020
+30.08,105,,Brussels Cycling Classic (1.Pro),204.0,,,2020
 29.08,91,,Druivenkoers - Overijse (1.1),194.7,,,2020
 23.08,DNF,,National Championships Italy - Road Race (NC),253.8,,,2020
-01.03,55,,Royal Bernard Drome Classic (1.Pro),203,,,2020
+01.03,55,,Royal Bernard Drome Classic (1.Pro),203.0,,,2020
 29.02,DNF,,Faun-Ardèche Classic (1.Pro),184.4,,,2020
-15.02,DNF,,Malaysian International Classic Race (1.1),159,,,2020
+15.02,DNF,,Malaysian International Classic Race (1.1),159.0,,,2020
 07.02 » 14.02,,,PETRONAS Le Tour de Langkawi (2.Pro),,,,2020
 ,55,,Points classification,,,,2020
 ,83,,General classification,,,,2020
@@ -73,13 +111,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,39,,General classification,,,,2019
 15.10,14,,Stage 6 - Jinhu › Jinhu,73.6,,,2019
 14.10,9,39,Stage 5 - Jurong › Jurong,121.8,,,2019
-13.10,4,57,Stage 4 - Suzhou › Suzhou,116,5,,2019
-12.10,15,57,Stage 3 - Huzhou › Changxing,117,,,2019
-11.10,10,57,Stage 2 - Hufuzhen › Hufuzhen,101,,,2019
+13.10,4,57,Stage 4 - Suzhou › Suzhou,116.0,5,,2019
+12.10,15,57,Stage 3 - Huzhou › Changxing,117.0,,,2019
+11.10,10,57,Stage 2 - Hufuzhen › Hufuzhen,101.0,,,2019
 10.10,11,56,Stage 1 - Wuxi  › Wuxi ,88.8,,,2019
 09.10,55,55,Prologue - Wuxi  › Wuxi ,5.5,,,2019
 24.09,19,,Ruota d'Oro - GP Festa del Perdono (1.2U),167.7,,,2019
-16.08,33,,Gp Capodarco Comunita Di Capodarco (1.2U),180,,,2019
+16.08,33,,Gp Capodarco Comunita Di Capodarco (1.2U),180.0,,,2019
 11.08,DNF,,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni (1.2U),169.6,,,2019
 30.06,DNF,,National Championships Italy U23 - Road Race (NC),153.9,,,2019
 13.06 » 23.06,,,Giro Ciclistico d'Italia (2.2U),,,,2019
@@ -97,24 +135,23 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.06,78,78,Prologue - Riccione › Riccione,3.3,,,2019
 10.05 » 12.05,,,CCC Tour - Grody Piastowskie (2.2),,,,2019
 ,13,,Youth classification,,,,2019
-,16,,Points classification,,,,2019
 ,50,,General classification,,,,2019
 12.05,54,,Stage 3 - Nowa Ruda › Dzierżoniów,145.3,,,2019
 11.05,38,24,Stage 2 - Złotoryja › Jawor,144.3,,,2019
 10.05,4,32,Stage 1b - Głogów › Polkowice,112.5,,,2019
 10.05,33,33,Stage 1a (ITT) - Polkowice › Polkowice,16.2,,,2019
 05.05,16,,Circuito del Porto - Trofeo Arvedi (1.2),179.9,,,2019
-21.04,11,,Tr. Città di S. Vendemiano - 59° GP Industria (1.2U),175,,,2019
+21.04,11,,Tr. Città di S. Vendemiano - 59° GP Industria (1.2U),175.0,,,2019
 13.04,10,,Trofeo Edil c (1.2U),149.1,,1,2019
 13.05,23,,Gran Premio Industrie del Marmo (1.2U),174.7,,,2018
-25.04,DNF,,Gran Premio della Liberazione (1.2U),138,,,2018
+25.04,DNF,,Gran Premio della Liberazione (1.2U),138.0,,,2018
 22.04,5,,Tr. Città di S. Vendemiano - 58th GP Industria & Commercio (1.2U),171.8,2,10,2018
 07.04,9,,Trofeo Edil C (1.2U),147.5,,1,2018
 02.04,DNF,,Giro del Belvedere (1.2U),166.6,,,2018
-01.04,8,,Trofeo Piva (1.2U),160,,1,2018
-26.09,11,,Ruota d'Oro - GP Festa del Perdono (1.2U),167,,,2017
+01.04,8,,Trofeo Piva (1.2U),160.0,,1,2018
+26.09,11,,Ruota d'Oro - GP Festa del Perdono (1.2U),167.0,,,2017
 14.05,10,,Gran Premio Industrie del Marmo (1.2U),174.7,,1,2017
-25.04,16,,Gran Premio della Liberazione (1.2U),138,,,2017
+25.04,16,,Gran Premio della Liberazione (1.2U),138.0,,,2017
 25.09,11,,Trofeo Buffoni (1.1),135.4,12,,2016
 16.09,20,,UEC Road European Championships MJ - Road Race (CC),123.3,,,2016
 02.09 » 04.09,,,Giro della Lunigiana (2.1),,,,2016
@@ -122,12 +159,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,15,,General classification,,6,,2016
 04.09,4,,Stage 3 - La Spezia › Ortonovo,113.7,5,,2016
 03.09,13,16,Stage 2 - Fosdinovo › Fosdinovo,116.9,,,2016
-02.09,17,17,Stage 1 - Castelnuovo Magra › Bocca di Magra,88,,,2016
+02.09,17,17,Stage 1 - Castelnuovo Magra › Bocca di Magra,88.0,,,2016
 19.06,1,,National Championships Italy MJ - Road Race (NC),,20,,2016
 30.04 » 01.05,,,Tour des Portes du Pays d'Othe (2.1),,,,2016
-01.05,DNF,,Stage 3 - Estissac › Estissac,113,,,2016
+01.05,DNF,,Stage 3 - Estissac › Estissac,113.0,,,2016
 30.04,23,23,Stage 1 - Prugny › Bercenay-en-Othe,118.3,,,2016
-03.04,2,,Trofeo Citta di Loano (1.1),125,55,,2016
+03.04,2,,Trofeo Citta di Loano (1.1),125.0,55,,2016
 13.09,DNF,,Trofeo Buffoni (1.1),135.4,,,2015
 03.05,44,,G.P. Sportivi Sovilla-La Piccola SanRemo (1.1),125.95,,,2015
 29.03,28,,Trofeo Citta di Loano (1.1),127.3,,,2015

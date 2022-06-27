@@ -1,20 +1,51 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+25.06,19,,National Championships Italy U23  - Road Race (NC) ,,,,2022
+11.06 » 18.06,,,Giro d'Italia Giovani Under 23 (2.2U) ,,,,2022
+,23,,Mountains classification ,,,,2022
+,55,,Points classification ,,,,2022
+,87,,General classification ,,,,2022
+18.06,16,,Stage 7 - Cuneo › Pinerolo ,121,,,2022
+17.06,69,91,Stage 6 - Boves › Colle Fauniera ,110.7,,,2022
+16.06,21,94,Stage 5 - Busca › Peveragno ,146.6,,,2022
+14.06,36,111,Stage 4 - Chiuro › Chiavenna ,101.1,,,2022
+13.06,107,118,Stage 3 - Pinzolo › Santa Caterina Valfurva ,177.1,,,2022
+12.06,125,129,Stage 2 - Rossano Veneto › Pinzolo ,166.5,,,2022
+11.06,152,151,Stage 1 - Gradara › Argenta ,164.9,,,2022
+02.06,DNF,,Giro dell'Appennino (1.1) ,191.7,,,2022
+19.04,41,,G.P. Palio del Recioto - Trofeo C (1.2U) ,147.2,,,2022
+12.04 » 15.04,,,Giro di Sicilia - Tour of Sicily (2.1) ,,,,2022
+,28,,Youth classification ,,,,2022
+,22,,Mountains classification ,,,,2022
+,50,,General classification ,,,,2022
+15.04,53,,Stage 4 - Ragalna › Etna ,140,,,2022
+14.04,11,49,Stage 3 - Realmonte › Piazza Armerina ,171,,,2022
+13.04,40,58,Stage 2 - Palma di Montechiaro › Caltanissetta ,152,,,2022
+12.04,124,124,Stage 1 - Milazzo › Bagheria ,199,,,2022
+03.04,51,,Trofeo Piva (1.2U) ,179.2,,,2022
+22.03 » 26.03,,,Settimana Internazionale Coppi e Bartali (2.1) ,,,,2022
+,35,,Youth classification ,,,,2022
+,74,,General classification ,,,,2022
+26.03,50,,Stage 5 - Casalguidi › Cantagrillo ,160,,,2022
+25.03,57,81,Stage 4 - Montecatini › Montecatini ,158.7,,,2022
+24.03,85,94,Stage 3 - San Marino › San Marino ,147,,,2022
+23.03,120,107,Stage 2 - Riccione › Longiano ,165.9,,,2022
+22.03,95,95,Stage 1 - Riccione › Riccione ,164.6,,,2022
 19.04,41,,G.P. Palio del Recioto - Trofeo C (1.2U),147.2,,,2022
 12.04 » 15.04,,,Giro di Sicilia - Tour of Sicily (2.1),,,,2022
 ,28,,Youth classification,,,,2022
 ,22,,Mountains classification,,,,2022
 ,50,,General classification,,,,2022
-15.04,53,,Stage 4 - Ragalna › Etna,140,,,2022
-14.04,11,49,Stage 3 - Realmonte › Piazza Armerina,171,,,2022
-13.04,40,58,Stage 2 - Palma di Montechiaro › Caltanissetta,152,,,2022
-12.04,124,124,Stage 1 - Milazzo › Bagheria,199,,,2022
+15.04,53,,Stage 4 - Ragalna › Etna,140.0,,,2022
+14.04,11,49,Stage 3 - Realmonte › Piazza Armerina,171.0,,,2022
+13.04,40,58,Stage 2 - Palma di Montechiaro › Caltanissetta,152.0,,,2022
+12.04,124,124,Stage 1 - Milazzo › Bagheria,199.0,,,2022
 03.04,51,,Trofeo Piva (1.2U),179.2,,,2022
 22.03 » 26.03,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2022
 ,35,,Youth classification,,,,2022
 ,74,,General classification,,,,2022
-26.03,50,,Stage 5 - Casalguidi › Cantagrillo,160,,,2022
+26.03,50,,Stage 5 - Casalguidi › Cantagrillo,160.0,,,2022
 25.03,57,81,Stage 4 - Montecatini › Montecatini,158.7,,,2022
-24.03,85,94,Stage 3 - San Marino › San Marino,147,,,2022
+24.03,85,94,Stage 3 - San Marino › San Marino,147.0,,,2022
 23.03,120,107,Stage 2 - Riccione › Longiano,165.9,,,2022
 22.03,95,95,Stage 1 - Riccione › Riccione,164.6,,,2022
 28.09 » 03.10,,,Cro Race (2.1),,,,2021
@@ -22,10 +53,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,89,,General classification,,,,2021
 03.10,106,,Stage 6 - Samobor › Zagreb,156.5,,,2021
 02.10,78,89,Stage 5 - Rabac/Labin › Opatija,137.5,,,2021
-01.10,74,90,Stage 4 - Zadar › Crikvenica,197,,,2021
-30.09,94,102,Stage 3 - Primošten › Makarska,167,,,2021
-29.09,65,81,Stage 2 - Slunj › Otočac,187,,,2021
-28.09,92,94,Stage 1 - Osijek › Varaždin,237,,,2021
+01.10,74,90,Stage 4 - Zadar › Crikvenica,197.0,,,2021
+30.09,94,102,Stage 3 - Primošten › Makarska,167.0,,,2021
+29.09,65,81,Stage 2 - Slunj › Otočac,187.0,,,2021
+28.09,92,94,Stage 1 - Osijek › Varaždin,237.0,,,2021
 15.09 » 19.09,,,Okolo Slovenska / Tour de Slovaquie (2.1),,,,2021
 ,3,,Youth classification,,,,2021
 ,10,,Mountains classification,,,,2021
@@ -40,20 +71,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,2,,Mountains classification,,,,2021
 ,17,,Points classification,,,,2021
 ,95,,General classification,,,,2021
-05.09,6,,Stage 3 - Mortegliano › Pordenone,157,,,2021
-04.09,107,102,Stage 2 - Casarsa della Delizia › Piancavallo,142,,,2021
-03.09,99,99,Stage 1 - Rive d’Arcano › Tarvisio,153,,,2021
+05.09,6,,Stage 3 - Mortegliano › Pordenone,157.0,,,2021
+04.09,107,102,Stage 2 - Casarsa della Delizia › Piancavallo,142.0,,,2021
+03.09,99,99,Stage 1 - Rive d’Arcano › Tarvisio,153.0,,,2021
 29.08 » 31.08,,,Carpathian Couriers Race in memory of Wacław Felczak (2.2U),,,,2021
 ,13,,Mountains classification,,,,2021
 ,8,,Points classification,,,,2021
 ,16,,General classification,,,,2021
-31.08,2,,Stage 2 - Muszyna › Niedzica-Zamek,130,2,1,2021
-30.08,17,17,Stage 1 - Tarnów › Ciężkowice,137,,,2021
-29.08,15,15,Stage 0 - Połaniec › Połaniec,4,,,2021
+31.08,2,,Stage 2 - Muszyna › Niedzica-Zamek,130.0,2,1,2021
+30.08,17,17,Stage 1 - Tarnów › Ciężkowice,137.0,,,2021
+29.08,15,15,Stage 0 - Połaniec › Połaniec,4.0,,,2021
 25.07,5,,GP Kranj (1.2),157.3,2,15,2021
 16.07 » 18.07,,,Giro Ciclistico della Valle d'Aosta - Mont Blanc (2.2U),,,,2021
 ,58,,General classification,,,,2021
-18.07,48,,Stage 3 - Fénis › Cogne (Valnontey),149,,,2021
+18.07,48,,Stage 3 - Fénis › Cogne (Valnontey),149.0,,,2021
 17.07,51,69,Stage 2 - Valtournenche › Breuil Cervinia,158.4,,,2021
 16.07,79,79,Stage 1 - Pollein › Pollein,110.7,,,2021
 03.07 » 06.07,,,Sibiu Cycling Tour (2.1),,,,2021
@@ -64,7 +95,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.07,105,82,Stage 2 - Sibiu › Bâlea Lac,187.5,,,2021
 04.07,57,57,Stage 1 - Sibiu › Paltinis,177.9,,,2021
 03.07,70,70,Prologue - Sibiu › Sibiu,2.5,,,2021
-19.06,58,,National Championships Italy U23  - Road Race (NC),175,,,2021
+19.06,58,,National Championships Italy U23  - Road Race (NC),175.0,,,2021
 03.06 » 12.06,,,Giro Ciclistico d'Italia (2.2),,,,2021
 ,24,,Mountains classification,,,,2021
 ,74,,General classification,,,,2021
@@ -73,7 +104,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 10.06,50,87,Stage 8 - Aprica  › Andalo,115.5,,,2021
 09.06,52,100,Stage 7 - Sondrio › Lanzada Lago di Campo Moro,119.4,,,2021
 08.06,84,119,Stage 6 - Bonferraro di Sorgà › San Pellegrino Terme,177.5,,,2021
-07.06,80,129,Stage 5 - Fanano › Sestola,142,,,2021
+07.06,80,129,Stage 5 - Fanano › Sestola,142.0,,,2021
 06.06,96,149,Stage 4 (ITT) - Sorbolo Mezzani › Guastalla,25.4,,,2021
 05.06,139,150,Stage 3 - Cesenatico  › Cesenatico ,132.5,,,2021
 04.06,98,147,Stage 2 - Riccione › Imola,138.3,,,2021
@@ -101,16 +132,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.09,76,119,Stage 4 - Bonferraro di Sorgà › Bolca,159.6,,,2020
 31.08,141,126,Stage 3 - Riccione ›  Mordano,149.4,,,2020
 30.08,116,103,Stage 2 - Gradara  ›  Riccione,103.9,,,2020
-29.08,102,102,Stage 1 - Urbino › Urbino,149,,,2020
+29.08,102,102,Stage 1 - Urbino › Urbino,149.0,,,2020
 23.07 » 26.07,,,Sibiu Cycling Tour (2.1),,,,2020
-,10,,Youth classification,,,,2020
 ,41,,General classification,,,,2020
-26.07,85,,Stage 3b - Sibiu › Sibiu,109,,,2020
+26.07,85,,Stage 3b - Sibiu › Sibiu,109.0,,,2020
 26.07,30,41,Stage 3a (ITT) - Curmătura Ștezii › Arena Platos,12.5,,,2020
 25.07,20,42,Stage 2 - Sibiu › Sibiu,181.2,,,2020
-24.07,47,49,Stage 1 - Sibiu › Bâlea Lac ,183,,,2020
+24.07,47,49,Stage 1 - Sibiu › Bâlea Lac ,183.0,,,2020
 23.07,115,115,Prologue - Sibiu › Sibiu,2.5,,,2020
-06.10,78,,Il Piccolo Lombardia (1.2U),176,,,2019
+06.10,78,,Il Piccolo Lombardia (1.2U),176.0,,,2019
 24.09,62,,Ruota d'Oro - GP Festa del Perdono (1.2U),167.7,,,2019
 11.09 » 15.09,,,Turul Romaniei (2.1),,,,2019
 ,10,,Youth classification,,,,2019
@@ -120,9 +150,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.09,25,31,Stage 4 - Ploiești › Cabana Piatra Arsă (,119.2,,,2019
 13.09,43,54,Stage 3 - Buzău › Târgoviște,124.7,,,2019
 12.09,58,59,Stage 2 - Brașov › Focșani ,176.3,,,2019
-11.09,67,68,Stage 1 - Cluj-Napoca › Sighișoara,168,,,2019
+11.09,67,68,Stage 1 - Cluj-Napoca › Sighișoara,168.0,,,2019
 01.09,72,,Croatia- Slovenia (1.2),179.6,,,2019
-16.08,58,,Gp Capodarco Comunita Di Capodarco (1.2U),180,,,2019
+16.08,58,,Gp Capodarco Comunita Di Capodarco (1.2U),180.0,,,2019
 11.08,43,,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni (1.2U),169.6,,,2019
 04.08,61,,GP Kranj (1.2),157.3,,,2019
 14.07,DNF,,Giro del Medio Brenta (1.2),178.8,,,2019
@@ -137,15 +167,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.06 » 09.06,,,Cycling Tour of Bihor - Bellotto (2.1),,,,2019
 ,12,,Youth classification,,,,2019
 ,69,,General classification,,,,2019
-09.06,69,,Stage 3 - Oradea › Oradea,183,,,2019
-08.06,82,77,Stage 2b - Oradea › Padis,156,,,2019
-08.06,69,67,Stage 2a (ITT) - Oradea › Oradea,2,,,2019
-07.06,86,86,Stage 1 - Oradea › Oradea,163,,,2019
+09.06,69,,Stage 3 - Oradea › Oradea,183.0,,,2019
+08.06,82,77,Stage 2b - Oradea › Padis,156.0,,,2019
+08.06,69,67,Stage 2a (ITT) - Oradea › Oradea,2.0,,,2019
+07.06,86,86,Stage 1 - Oradea › Oradea,163.0,,,2019
 28.04,DNF,,Giro dell'Appennino (1.1),198.7,,,2019
 23.04,DNF,,G.P. Palio del Recioto - Trofeo C&F Resinatura Blocchi (1.2U),159.7,,,2019
-21.04,DNF,,Tr. Città di S. Vendemiano - 59° GP Industria (1.2U),175,,,2019
+21.04,DNF,,Tr. Città di S. Vendemiano - 59° GP Industria (1.2U),175.0,,,2019
 13.04,DNF,,Trofeo Edil c (1.2U),149.1,,,2019
 07.04,DNF,,Trofeo Piva (1.2U),174.8,,,2019
 17.03,115,,Popolarissima (1.2),174.7,,,2019
 29.04,22,,G.P. Sportivi Sovilla-La Piccola Sanremo (1.1),146.6,,,2018
-30.04,DNF,,G.P. Sportivi Sovilla-La Piccola Sanremo (1.1),126,,,2017
+30.04,DNF,,G.P. Sportivi Sovilla-La Piccola Sanremo (1.1),126.0,,,2017

@@ -1,4 +1,40 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,6,,National Championships Ireland - Road Race (NC) ,,1,30,2022
+16.06 » 19.06,,,La Route d'Occitanie - La Dépêche du Midi (2.1) ,,,,2022
+,24,,General classification ,,,3,2022
+19.06,49,,Stage 4 - Les Angles › Auterive ,188.3,,,2022
+18.06,28,26,Stage 3 - Sigean › Les Angles ,188.7,,,2022
+17.06,65,58,Stage 2 - Belmont-sur-Rance › Roquefort-sur-Soulzon ,33.6,,,2022
+16.06,79,80,Stage 1 - Séméac › L'Isle Jourdain ,174.4,,,2022
+10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro) ,,,,2022
+,117,,General classification ,,,,2022
+16.04,140,117,Stage 7 - Gelibolu › Tekirdağ ,131.3,,,2022
+15.04,146,107,Stage 6 - Edremit (Akçay) › Eceabat (57.Alay Şehitliği) ,201.5,,,2022
+14.04,142,103,Stage 5 - Manisa › Ayvalık ,186.1,,,2022
+13.04,63,101,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park) ,146.2,,,2022
+12.04,97,122,Stage 3 - Çeşme › İzmir (Karşıyaka) ,117.9,,,2022
+11.04,118,124,Stage 2 - Selçuk (Efes) › Alaçatı ,156.4,,,2022
+10.04,117,117,Stage 1 - Bodrum › Kuşadası ,202,,,2022
+21.03 » 27.03,,,Tour de Normandie (2.2) ,,,,2022
+,16,,Mountains classification ,,,,2022
+,36,,General classification ,,,,2022
+27.03,76,,Stage 7 - Ducey-les-Chéris › Caen ,142.5,,,2022
+26.03,87,35,Stage 6 - Carentan-les-Marais › Carentan-les-Marais ,175.9,,,2022
+25.03,46,35,Stage 5 - Les Monts d'Aunay › Bagnoles-de-l'Orne ,156.7,,,2022
+24.03,48,40,Stage 4 - Gacé › Argentan ,160.6,,,2022
+23.03,46,50,Stage 3 - Nonancourt › Elbeuf-sur-Seine ,181.4,,,2022
+22.03,95,74,Stage 2 - Le Neubourg › Forges-les-Eaux ,187.5,,,2022
+21.03,69,69,Stage 1 - Ouistreham › Vimoutiers ,148.2,,,2022
+20.02 » 27.02,,,Tour du Rwanda (2.1) ,,,,2022
+,3,,General classification ,,50,70,2022
+27.02,8,,Stage 8 - Kigali › Kigali ,75.3,1,,2022
+26.02,9,3,Stage 7 - Kigali › Mont Kigali ,152.6,,,2022
+25.02,9,5,Stage 6 - Musanze › Kigali ,152,,,2022
+24.02,10,5,Stage 5 - Muhanga › Musanze  ,129.9,,,2022
+23.02,17,6,Stage 4 - Kigali › Gicumbi  ,124.3,,,2022
+22.02,5,7,Stage 3 - Kigali › Rubavu  ,155.9,4,,2022
+21.02,24,54,Stage 2 - Kigali › Rwamagana  ,148.3,,,2022
+20.02,55,55,Prologue - Kigali › Kigali ,4,,,2022
 10.04 » 17.04,,,Presidential Cycling Tour of Türkiye (2.Pro),,,,2022
 ,117,,General classification,,,,2022
 16.04,140,117,Stage 7 - Gelibolu › Tekirdağ,131.3,,,2022
@@ -7,7 +43,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.04,63,101,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park),146.2,,,2022
 12.04,97,122,Stage 3 - Çeşme › İzmir (Karşıyaka),117.9,,,2022
 11.04,118,124,Stage 2 - Selçuk (Efes) › Alaçatı,156.4,,,2022
-10.04,117,117,Stage 1 - Bodrum › Kuşadası,202,,,2022
+10.04,117,117,Stage 1 - Bodrum › Kuşadası,202.0,,,2022
 21.03 » 27.03,,,Tour de Normandie (2.2),,,,2022
 ,16,,Mountains classification,,,,2022
 ,36,,General classification,,,,2022
@@ -19,20 +55,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.03,95,74,Stage 2 - Le Neubourg › Forges-les-Eaux,187.5,,,2022
 21.03,69,69,Stage 1 - Ouistreham › Vimoutiers,148.2,,,2022
 20.02 » 27.02,,,Tour du Rwanda (2.1),,,,2022
-,16,,Mountains classification,,,,2022
 ,3,,General classification,,50,70,2022
 27.02,8,,Stage 8 - Kigali › Kigali,75.3,1,,2022
 26.02,9,3,Stage 7 - Kigali › Mont Kigali,152.6,,,2022
-25.02,9,5,Stage 6 - Musanze › Kigali,152,,,2022
+25.02,9,5,Stage 6 - Musanze › Kigali,152.0,,,2022
 24.02,10,5,Stage 5 - Muhanga › Musanze ,129.9,,,2022
 23.02,17,6,Stage 4 - Kigali › Gicumbi ,124.3,,,2022
 22.02,5,7,Stage 3 - Kigali › Rubavu ,155.9,4,,2022
 21.02,24,54,Stage 2 - Kigali › Rwamagana ,148.3,,,2022
-20.02,55,55,Prologue - Kigali › Kigali,4,,,2022
+20.02,55,55,Prologue - Kigali › Kigali,4.0,,,2022
 11.04 » 18.04,,,Presidential Cycling Tour of Turkey (2.Pro),,,,2021
 ,27,,General classification,,,5,2021
 18.04,62,,Stage 8 - Bodrum › Kusadasi,160.3,,,2021
-17.04,67,26,Stage 7 - Marmaris › Turgutreis,180,,,2021
+17.04,67,26,Stage 7 - Marmaris › Turgutreis,180.0,,,2021
 16.04,61,27,Stage 6 - Fethiye › Marmaris,129.1,,,2021
 15.04,32,32,Stage 5 - Kemer › Elmalı (Göğübeli),160.3,,,2021
 14.04,126,120,Stage 4 - Alanya › Kemer,184.4,,,2021
@@ -41,14 +76,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 11.04,112,112,Stage 1 - Konya › Konya,72.4,,,2021
 07.02,5,,National Championships Australia - Road Race (NC),185.6,2,,2021
 01.03,77,,Grand Prix Manavgat - Side ME (1.2),147.5,,,2020
-29.02,4,,Grand Prix Velo Alanya ME (1.2),106,4,20,2020
+29.02,4,,Grand Prix Velo Alanya ME (1.2),106.0,4,20,2020
 20.02 » 23.02,,,Tour of Antalya (2.1),,,,2020
 ,53,,General classification,,,,2020
 23.02,68,,Stage 4 - Side › Antalya,136.8,,,2020
 22.02,41,53,Stage 3 - Aspendos › Termessos,101.6,,,2020
 21.02,88,84,Stage 2 - Kemer › Antalya,165.3,,,2020
 20.02,105,106,Stage 1 - Antalya › Antalya,149.2,,,2020
-15.02,2,,Malaysian International Classic Race (1.1),159,55,85,2020
+15.02,2,,Malaysian International Classic Race (1.1),159.0,55,85,2020
 05.02 » 09.02,,,Jayco Herald Sun Tour (2.1),,,,2020
 ,14,,Mountains classification,,,,2020
 ,9,,Points classification,,,,2020
@@ -83,8 +118,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,7,,General classification,,20,35,2019
 06.10,34,,Stage 5 - Sarein › Tabriz,188.9,,,2019
 05.10,8,7,Stage 4 - Tabriz › Sarein,198.2,1,,2019
-04.10,8,7,Stage 3 - Urmia › Tabriz,163,1,,2019
-03.10,47,45,Stage 2 - Aras › Khoy,180,,,2019
+04.10,8,7,Stage 3 - Urmia › Tabriz,163.0,1,,2019
+03.10,47,45,Stage 2 - Aras › Khoy,180.0,,,2019
 02.10,50,50,Stage 1 - Tabriz › Aras,148.3,,,2019
 25.09 » 28.09,,,International Tour de Banyuwangi Ijen (2.2),,,,2019
 ,13,,Mountains classification,,,,2019
@@ -100,30 +135,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,4,,General classification,,36,60,2019
 23.08,5,,Stage 5 - Gilimanuk › Gianyar,136.8,4,,2019
 22.08,7,4,Stage 4 - Jember › Banyuwangi,147.3,2,,2019
-21.08,41,8,Stage 3 - Kota Batu › Jember,193,,,2019
+21.08,41,8,Stage 3 - Kota Batu › Jember,193.0,,,2019
 20.08,4,8,Stage 2 - Madiun › Kota Batu,157.8,5,,2019
 19.08,21,21,Stage 1 - Yogyakarta › Madiun,182.7,,,2019
 14.07 » 27.07,,,Tour of Qinghai Lake (2.HC),,,,2019
 ,47,,General classification,,,,2019
-27.07,57,,Stage 13 - Yinchuan › Yinchuan,117,,,2019
-26.07,66,47,Stage 12 - Zhongwei › Zhongwei,111,,,2019
-25.07,42,47,Stage 11 - Minqin › Tengger Desert,153,,,2019
-24.07,76,48,Stage 10 - Jingchang › Wuwei,116,,,2019
-22.07,96,48,Stage 9 - Menyuan › Minie,160,,,2019
-21.07,55,49,Stage 8 - Xihaizhen › Qingshizui,224,,,2019
-20.07,58,44,Stage 7 (ITT) - Haiyan › Haiyan,42,,,2019
-19.07,99,46,Stage 6 - Chaka › Bird Island,136,,,2019
-18.07,101,40,Stage 5 - Gongha › Chaka,173,,,2019
-17.07,42,40,Stage 4 - Guide › Longyangxia,100,,,2019
-16.07,63,38,Stage 3 - Duoba › Guide,140,,,2019
-15.07,119,18,Stage 2 - Xining › Xining,119,,,2019
-14.07,3,17,Stage 1 (TTT) - Hehuang New District › Xining,40,9,0.71,2019
+27.07,57,,Stage 13 - Yinchuan › Yinchuan,117.0,,,2019
+26.07,66,47,Stage 12 - Zhongwei › Zhongwei,111.0,,,2019
+25.07,42,47,Stage 11 - Minqin › Tengger Desert,153.0,,,2019
+24.07,76,48,Stage 10 - Jingchang › Wuwei,116.0,,,2019
+22.07,96,48,Stage 9 - Menyuan › Minie,160.0,,,2019
+21.07,55,49,Stage 8 - Xihaizhen › Qingshizui,224.0,,,2019
+20.07,58,44,Stage 7 (ITT) - Haiyan › Haiyan,42.0,,,2019
+19.07,99,46,Stage 6 - Chaka › Bird Island,136.0,,,2019
+18.07,101,40,Stage 5 - Gongha › Chaka,173.0,,,2019
+17.07,42,40,Stage 4 - Guide › Longyangxia,100.0,,,2019
+16.07,63,38,Stage 3 - Duoba › Guide,140.0,,,2019
+15.07,119,18,Stage 2 - Xining › Xining,119.0,,,2019
+14.07,3,17,Stage 1 (TTT) - Hehuang New District › Xining,40.0,9,0.71,2019
 26.05 » 31.05,,,Tour of Taiyuan (2.2),,,,2019
 30.05,DNF,,Stage 5 - Guanquelou › Hejin,134.4,,,2019
 29.05,16,12,Stage 4 - Changzhi › Taihang Baquanxia Scenic Area ,87.2,,,2019
 28.05,21,12,Stage 3 - Wutaishan › Wutaishan,83.4,,,2019
 27.05,29,13,Stage 2 - Zuoyun › Datong,126.4,,,2019
-26.05,12,12,Stage 1 - Taiyuan › Taiyuan,199,,,2019
+26.05,12,12,Stage 1 - Taiyuan › Taiyuan,199.0,,,2019
 06.04 » 13.04,,,Le Tour de Langkawi (2.HC),,,,2019
 ,15,,General classification,,20,10,2019
 13.04,72,,Stage 8 - Dataran Lang › Kuah,103.8,,,2019
@@ -135,7 +170,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.04,48,27,Stage 2 - Senawang › Melaka,200.6,,,2019
 06.04,29,30,Stage 1 - Kuala Lumpur › Tampin,176.9,,,2019
 17.03 » 21.03,,,Tour de Taiwan (2.1),,,,2019
-,9,,Mountains classification,,,,2019
 ,28,,Points classification,,,,2019
 ,12,,General classification,,10,10,2019
 21.03,38,,Stage 5 - Pingtung › Pingtung,192.8,,,2019
@@ -149,17 +183,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.02,38,,Stage 5 - Melbourne › Melbourne,89.1,,,2019
 02.02,24,24,Stage 4 - Cape Schanck › Arthurs Seat,128.8,,,2019
 01.02,20,33,Stage 3 - Sale › Warragul,161.3,,,2019
-31.01,31,36,Stage 2 - Wonthaggi › Churchill,127,,,2019
+31.01,31,36,Stage 2 - Wonthaggi › Churchill,127.0,,,2019
 30.01,46,47,Stage 1 - Philip Island › Philip Island,97.9,,,2019
 04.11 » 11.11,,,Tour de Singkarak (2.2),,,,2018
 ,5,,Mountains classification,,,,2018
 ,3,,Points classification,,,,2018
 ,1,,General classification,,25,40,2018
-11.11,21,,Stage 8 - Pessel › Pariaman,158,,,2018
+11.11,21,,Stage 8 - Pessel › Pariaman,158.0,,,2018
 10.11,6,1,Stage 7 - Padang Panjang › Solok Selatan,194.4,,,2018
-09.11,28,1,Stage 6 - Kota Solok › Payakumbuh,105,,,2018
+09.11,28,1,Stage 6 - Kota Solok › Payakumbuh,105.0,,,2018
 08.11,45,1,Stage 5 - 50 Kota › Pasaman,161.4,,,2018
-07.11,23,1,Stage 4 - Padang › Agam,144,,,2018
+07.11,23,1,Stage 4 - Padang › Agam,144.0,,,2018
 06.11,1,1,Stage 3 - Kab.Solok › Tanah Datar,150.4,5,7,2018
 05.11,51,53,Stage 2 - Sawahlunto › Dharmasraya,204.1,,,2018
 04.11,56,55,Stage 1 - Bukittinggi › Sijunjung,140.5,,,2018
@@ -204,7 +238,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,28,,Points classification,,,,2018
 ,12,,General classification,,,,2018
 25.03,28,,Stage 4 - Alanya › Alanya,112.5,,,2018
-24.03,14,12,Stage 3 - Alanya › Alanya,175,,,2018
+24.03,14,12,Stage 3 - Alanya › Alanya,175.0,,,2018
 23.03,13,14,Stage 2 - Turkler › Alanya,109.9,,,2018
 22.03,23,23,Prologue - Manavgat › Manavgat,12.6,,,2018
 11.03 » 15.03,,,Tour de Taiwan (2.1),,,,2018
@@ -212,7 +246,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.03,37,,Stage 5 - Pingtung County Hall › Dapeng Bay National Scenic Area,192.8,,,2018
 14.03,68,66,Stage 4 - Nantou County Hall › Xiangsan Visitor Centre of Sun Moon Lake,166.6,,,2018
 13.03,72,57,Stage 3 - HSR Hsinschu Station › Shingan Visitor Information Center,156.3,,,2018
-12.03,43,33,Stage 2 - Taouyan City Hall  › Jiaobanshan Park,120,,,2018
+12.03,43,33,Stage 2 - Taouyan City Hall  › Jiaobanshan Park,120.0,,,2018
 11.03,44,46,Stage 1 - Taipei City Hall › Taipei City Hall,83.2,,,2018
 22.02 » 25.02,,,Tour of Antalya (2.2),,,,2018
 ,47,,General classification,,,,2018
@@ -220,26 +254,26 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.02,79,51,Stage 3 - Feslikan › Feslikan,32.5,,,2018
 23.02,38,44,Stage 2 - Antalya  › Antalya ,118.3,,,2018
 22.02,59,60,Stage 1 - Antalya  › Antalya ,155.6,,,2018
-18.02,23,,Grand Prix Alanya (1.2),175,,,2018
+18.02,23,,Grand Prix Alanya (1.2),175.0,,,2018
 25.01 » 28.01,,,Tour of Indonesia (2.1),,,,2018
 ,10,,General classification,,14,20,2018
-28.01,10,,Stage 4 - Gilimanuk › Den Pasar,155,,,2018
-27.01,45,46,Stage 3 - Probolinggo › Banyuwangi,202,,,2018
+28.01,10,,Stage 4 - Gilimanuk › Den Pasar,155.0,,,2018
+27.01,45,46,Stage 3 - Probolinggo › Banyuwangi,202.0,,,2018
 26.01,48,52,Stage 2 -  Madiun ›  Mojokerto,117.5,,,2018
 25.01,46,51,Stage 1 - Prambanan › Ngawi,127.4,,,2018
 17.10 » 21.10,,,Tour de Selangor (2.2),,,,2017
 ,11,,General classification,,,,2017
 21.10,24,,Stage 5 - Shah Alam › Shah Alam,112.2,,,2017
-20.10,26,11,Stage 4 - Shah Alam › Kuala Kubu Bharu,84,,,2017
-19.10,14,12,Stage 3 - Shah Alam › Pandan Indah,110,,,2017
+20.10,26,11,Stage 4 - Shah Alam › Kuala Kubu Bharu,84.0,,,2017
+19.10,14,12,Stage 3 - Shah Alam › Pandan Indah,110.0,,,2017
 18.10,39,14,Stage 2 - Shah Alam › Dengkil,138.2,,,2017
-17.10,14,14,Stage 1 - Petaling Jaya › Kuala Selangor,114,,,2017
+17.10,14,14,Stage 1 - Petaling Jaya › Kuala Selangor,114.0,,,2017
 03.10 » 07.10,,,Jelajah Malaysia (2.2),,,,2017
 ,24,,Points classification,,,,2017
 ,18,,General classification,,,,2017
 07.10,52,,Stage 5 - Alor Setar › Alor Setar,132.8,,,2017
 06.10,27,18,Stage 4 - Kulim › Gunung Jerai,101.3,,,2017
-05.10,22,19,Stage 3 - Kuala Kangsar › Kulim,141,,,2017
+05.10,22,19,Stage 3 - Kuala Kangsar › Kulim,141.0,,,2017
 04.10,52,24,Stage 2 - Lumut ›  Kuala Kurau ,145.3,,,2017
 03.10,26,26,Stage 1 - Shah Alam › Hutan Melintang,161.9,,,2017
 27.09 » 30.09,,,International Tour de Banyuwangi Ijen (2.2),,,,2017
@@ -265,9 +299,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.09,35,36,Stage 1 - Hakodate › Hokuto,156.7,,,2017
 25.08 » 27.08,,,Tour of Xingtai (2.2),,,,2017
 ,13,,General classification,,,,2017
-27.08,23,,Stage 3 - Qili › Qili,138,,,2017
-26.08,26,15,Stage 2 - Qili › Qili,150,,,2017
-25.08,13,13,Stage 1 - Qili › Qili,135,,,2017
+27.08,23,,Stage 3 - Qili › Qili,138.0,,,2017
+26.08,26,15,Stage 2 - Qili › Qili,150.0,,,2017
+25.08,13,13,Stage 1 - Qili › Qili,135.0,,,2017
 14.07 » 19.07,,,Tour de Flores (2.2),,,,2017
 ,22,,Mountains classification,,,,2017
 ,8,,General classification,,3,3,2017
@@ -278,8 +312,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.07,6,8,Stage 2 - Maumere › Ende,142.8,,,2017
 14.07,36,37,Stage 1 - Larantuka › Maumere,136.3,,,2017
 01.06 » 04.06,,,Tour de Kumano (2.2),,,,2017
-,18,,General classification,,,,2017
-04.06,27,,Stage 3 - Taiji Hanto › Taiji Hanto,100,,,2017
+04.06,27,,Stage 3 - Taiji Hanto › Taiji Hanto,100.0,,,2017
 03.06,17,20,Stage 2 - Kumano › Kumano,109.3,,,2017
 02.06,59,83,Stage 1 - Akagigawa › Akagigawa,114.1,,,2017
 01.06,102,102,Prologue - Shingu › Shingu,0.7,,,2017
@@ -287,32 +320,32 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,15,,Mountains classification,,,,2017
 ,27,,Points classification,,,,2017
 ,14,,General classification,,,,2017
-16.04,26,,Stage 4 - Mataram › Mataram,112,,,2017
+16.04,26,,Stage 4 - Mataram › Mataram,112.0,,,2017
 15.04,20,14,Stage 3 - Pantai Kuta › Sembalun,133.9,,,2017
-14.04,33,9,Stage 2 - Bangsal › Senaru,113,,,2017
+14.04,33,9,Stage 2 - Bangsal › Senaru,113.0,,,2017
 13.04,8,8,Stage 1 - Mataram › Pantai Kuta,126.3,,,2017
 01.04 » 06.04,,,The Princess Maha Chackri Sirindhorn's Cup 'Tour of Thailand' (2.1),,,,2017
 ,43,,General classification,,,,2017
 06.04,62,,Stage 6 - Lampang › Chiangmai,135.65,,,2017
-05.04,33,41,Stage 5 - Sukhothai › Lampang,194,,,2017
+05.04,33,41,Stage 5 - Sukhothai › Lampang,194.0,,,2017
 04.04,75,67,Stage 4 - Uttaradit › Sukhothai,120.65,,,2017
-03.04,37,62,Stage 3 - Phitsanulok › Uttaradit,111,,,2017
-02.04,82,81,Stage 2 - Chainat › Phitsanulok,190,,,2017
+03.04,37,62,Stage 3 - Phitsanulok › Uttaradit,111.0,,,2017
+02.04,82,81,Stage 2 - Chainat › Phitsanulok,190.0,,,2017
 01.04,69,69,Stage 1 - Bangkok › Chainat,193.4,,,2017
 22.02 » 01.03,,,Le Tour de Langkawi (2.HC),,,,2017
 ,45,,Points classification,,,,2017
 ,42,,General classification,,,,2017
-01.03,93,,Stage 8 - Setiawangsa › Putrajaya,121,,,2017
+01.03,93,,Stage 8 - Setiawangsa › Putrajaya,121.0,,,2017
 28.02,67,36,Stage 7 - Melaka › Rembau,148.1,,,2017
 27.02,64,33,Stage 6 - Senawang › Muar,176.3,,,2017
 26.02,59,34,Stage 5 - Meru Raya  › Kuala Kubu Bharu ,151.5,,,2017
 25.02,46,34,Stage 4 - Seri Manjung › Cameron Highlands,174.4,,,2017
-24.02,68,45,Stage 3 - Serdang › Pantai Remis,118,,,2017
+24.02,68,45,Stage 3 - Serdang › Pantai Remis,118.0,,,2017
 23.02,53,47,Stage 2 - Jerteh › Gerik,208.1,,,2017
 22.02,65,67,Stage 1 - Kuala Berang › Kuala Terengganu,124.8,,,2017
 01.02 » 05.02,,,Herald Sun Tour (2.1),,,,2017
 ,30,,General classification,,,,2017
-05.02,45,,Stage 4 - Kinglake › Kinglake,121,,,2017
+05.02,45,,Stage 4 - Kinglake › Kinglake,121.0,,,2017
 04.02,34,30,Stage 3 - Benalla › Mitchelton Winery,165.6,,,2017
 03.02,42,34,Stage 2 - Mt Beauty  › Beechworth,165.6,,,2017
 02.02,31,33,Stage 1 - Wangaratta › Falls Creek,174.2,,,2017
@@ -339,13 +372,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.08,30,19,Stage 3 - Pasaman › Pasaman Barat ,123.1,,,2016
 07.08,2,10,Stage 2 - Limapuluh Kota › Tanah Datar,119.5,2,3,2016
 06.08,19,19,Stage 1 - Solok › Payakumbuh ,95.8,,,2016
-30.07,DNF,,Tour de Jakarta (1.2),175,,,2016
+30.07,DNF,,Tour de Jakarta (1.2),175.0,,,2016
 08.05,42,,Tr. Citta di San Vendemiano - 56th GP Industria & Commercio (1.2U),171.8,,,2016
-25.04,DNF,,Gran Premio della Liberazione (1.2U),138,,,2016
+25.04,DNF,,Gran Premio della Liberazione (1.2U),138.0,,,2016
 16.04,DNF,,Trofeo Edil C (1.2),149.1,,,2016
 24.02 » 02.03,,,Le Tour de Langkawi (2.HC),,,,2016
 ,62,,General classification,,,,2016
-02.03,66,,Stage 8 - Batu Pahat › Melaka,119,,,2016
+02.03,66,,Stage 8 - Batu Pahat › Melaka,119.0,,,2016
 01.03,43,64,Stage 7 - Seremban › Parit Sulong,202.3,,,2016
 29.02,73,66,Stage 6 - Putrajaya › Rembau,147.6,,,2016
 28.02,77,71,Stage 5 - Tapah › Kuala Lumpur,148.8,,,2016
@@ -357,33 +390,33 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,3,,Youth classification,,,,2016
 ,10,,Points classification,,,,2016
 ,4,,General classification,,11,20,2016
-21.02,14,,Stage 4 - Legazpi City › Legazpi City,160,,,2016
-20.02,27,3,Stage 3 - Daet › Legazpi City,185,,,2016
-19.02,3,3,Stage 2 - Lucena › Daet,208,1,1,2016
+21.02,14,,Stage 4 - Legazpi City › Legazpi City,160.0,,,2016
+20.02,27,3,Stage 3 - Daet › Legazpi City,185.0,,,2016
+19.02,3,3,Stage 2 - Lucena › Daet,208.0,1,1,2016
 09.01,23,,National Championships Australia U23 - Road Race (NC),132.6,,,2016
 09.08,DNF,,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran Premio Pasta Zara (1.2U),178.4,,,2015
-12.07,DNF,,Giro del Medio Brenta (1.2),177,,,2015
+12.07,DNF,,Giro del Medio Brenta (1.2),177.0,,,2015
 10.01,DNF,,National Championships Australia U23 - Road Race (NC),132.6,,,2015
 04.10,52,,Piccolo Giro di Lombardia (1.2U),170.8,,,2014
-30.09,63,,Ruota d'Oro - GP Festa del Perdono (1.2U),167,,,2014
-16.08,49,,GP Capodarco - Comunità di Capodarco (1.2),180,,,2014
+30.09,63,,Ruota d'Oro - GP Festa del Perdono (1.2U),167.0,,,2014
+16.08,49,,GP Capodarco - Comunità di Capodarco (1.2),180.0,,,2014
 10.08,48,,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran Premio Pasta Zara (1.2U),178.4,,,2014
 16.07 » 20.07,,,Giro Ciclistico della Valle d'Aosta Mont Blanc (2.2U),,,,2014
 18.07,DNF,,Stage 2 - Martigny › Salvan,120.6,,,2014
 17.07,75,77,Stage 1 - Valtournenche › Breuil Cervinia,170.6,,,2014
 16.07,98,98,Prologue - Arvier › Valgrisenche,5.1,,,2014
-08.06,35,,Coppa della Pace - Trofeo F.lli Anelli (1.2),170,,,2014
+08.06,35,,Coppa della Pace - Trofeo F.lli Anelli (1.2),170.0,,,2014
 02.06,31,,Trofeo Alcide Degasperi (1.2),159.5,,,2014
 22.04,DNF,,G.P. Palio del Recioto (1.2U),179.6,,,2014
-23.02,10,,Oceania Continental Championships U23 - Road Race (CC),142,,,2014
+23.02,10,,Oceania Continental Championships U23 - Road Race (CC),142.0,,,2014
 29.01 » 02.02,,,New Zealand Cycle Classic (2.2),,,,2014
 ,66,,General classification,,,,2014
 02.02,68,,Stage 5 - Palmerston North › Palmerston North,150.8,,,2014
 01.02,48,66,Stage 4 - Palmerston North › Palmerston North,151.4,,,2014
 31.01,68,68,Stage 3 - Palmerston North › Palmerston North,154.5,,,2014
-30.01,43,65,Stage 2 - Palmerston North › Palmerston North,143,,,2014
+30.01,43,65,Stage 2 - Palmerston North › Palmerston North,143.0,,,2014
 29.01,81,81,Prologue - Palmerston North › Palmerston North,5.1,,,2014
 11.01,21,,National Championships Australia U23 - Road Race (NC),137.6,,,2014
-17.03,DNF,,Oceania Cycling Championships - en ligne / ind. road race - ME (CC),153,,,2013
+17.03,DNF,,Oceania Cycling Championships - en ligne / ind. road race - ME (CC),153.0,,,2013
 12.01,DNF,,National Championships Australia U23 - Road Race (NC),137.2,,,2013
 09.01,29,,National Championships Australia U23 - ITT (NC),29.2,,,2013

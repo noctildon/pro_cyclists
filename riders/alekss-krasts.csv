@@ -1,18 +1,58 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,4,,National Championships Latvia - Road Race (NC) ,164,4,50,2022
+22.06,3,,National Championships Latvia U23 - ITT (NC) ,34,,10,2022
+19.06,1,,National Championships Latvia U23 - Road Race (NC) ,133,,50,2022
+26.05 » 28.05,,,Tour of Estonia (2.1) ,,,,2022
+,4,,Youth classification ,,,,2022
+,4,,Mountains classification ,,,,2022
+,24,,General classification ,,,3,2022
+28.05,31,,Stage 2 - Tartu › Tartu ,164.8,,,2022
+27.05,35,32,Stage 1 - Tallinn › Tartu ,192.6,,,2022
+26.05,31,31,Prologue - Tallinn › Tallinn ,3.7,,,2022
+25.04 » 01.05,,,Le Tour de Bretagne Cycliste (2.2) ,,,,2022
+,39,,Youth classification ,,,,2022
+,36,,Mountains classification ,,,,2022
+,51,,Points classification ,,,,2022
+,60,,General classification ,,,,2022
+01.05,54,,Stage 7 - Plumilliau › Lannion ,158.8,,,2022
+30.04,61,64,Stage 6 - Plumergat › Camors ,162.1,,,2022
+29.04,63,65,Stage 5 - Ploërmel › Scaër ,193.2,,,2022
+28.04,97,72,Stage 4 - Saint-Jacut-de-la-Mer › Guillac ,164.7,,,2022
+27.04,28,14,Stage 3 - Lohéac › Le Hinglé ,171.7,,,2022
+26.04,14,14,Stage 2 - Missillac › La Chapelle-Bouëxic ,152,,,2022
+25.04,77,78,Stage 1 - Guenrouët › Sainte-Reine-de-Bretagne ,162.3,,,2022
+13.04 » 17.04,,,Tour du Loir et Cher (2.2) ,,,,2022
+,19,,Youth classification ,,,,2022
+,53,,General classification ,,,,2022
+17.04,90,,Stage 5 - Blois › Blois ,97.5,,,2022
+16.04,69,47,Stage 4 - La Motte-Beuvron › La Motte-Beuvron ,205,,,2022
+15.04,53,55,Stage 3 - Cloyes-Les-Trois-Rivières › Vendôme ,213,,,2022
+14.04,52,58,Stage 2 - Le Controis-en-Sologne › Vallières-les-Grandes ,197.5,,,2022
+13.04,61,63,Stage 1 - Blois › Fontaines-en-Sologne ,147,,,2022
+27.03,26,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup) ,177,,,2022
+17.03 » 20.03,,,Olympia's Tour (2.2) ,,,,2022
+,11,,Youth classification ,,,,2022
+,1,,Mountains classification ,,,,2022
+,35,,General classification ,,,,2022
+20.03,37,,Stage 4 - Assen › Assen ,165.3,,,2022
+19.03,41,41,Stage 3 - Leek › Leek ,182.6,,,2022
+18.03,45,44,Stage 2 - Westerbork › Wijster ,173.1,,,2022
+17.03,52,61,Stage 1b - Hardenberg › Hardenberg ,74.6,,,2022
+17.03,9,66,Stage 1a (TTT) - Hardenberg › Hardenberg ,7.2,,,2022
 25.04 » 01.05,,,Le Tour de Bretagne Cycliste (2.2),,,,2022
 28.04,97,72,Stage 4 - Saint-Jacut-de-la-Mer › Guillac,164.7,,,2022
 27.04,28,14,Stage 3 - Lohéac › Le Hinglé,171.7,,,2022
-26.04,14,14,Stage 2 - Missillac › La Chapelle-Bouëxic,152,,,2022
+26.04,14,14,Stage 2 - Missillac › La Chapelle-Bouëxic,152.0,,,2022
 25.04,77,78,Stage 1 - Guenrouët › Sainte-Reine-de-Bretagne,162.3,,,2022
 13.04 » 17.04,,,Tour du Loir et Cher (2.2),,,,2022
 ,19,,Youth classification,,,,2022
 ,53,,General classification,,,,2022
 17.04,90,,Stage 5 - Blois › Blois,97.5,,,2022
-16.04,69,47,Stage 4 - La Motte-Beuvron › La Motte-Beuvron,205,,,2022
-15.04,53,55,Stage 3 - Cloyes-Les-Trois-Rivières › Vendôme,213,,,2022
+16.04,69,47,Stage 4 - La Motte-Beuvron › La Motte-Beuvron,205.0,,,2022
+15.04,53,55,Stage 3 - Cloyes-Les-Trois-Rivières › Vendôme,213.0,,,2022
 14.04,52,58,Stage 2 - Le Controis-en-Sologne › Vallières-les-Grandes,197.5,,,2022
-13.04,61,63,Stage 1 - Blois › Fontaines-en-Sologne,147,,,2022
-27.03,26,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup),177,,,2022
+13.04,61,63,Stage 1 - Blois › Fontaines-en-Sologne,147.0,,,2022
+27.03,26,,Gent-Wevelgem / Kattekoers-Ieper (1.Ncup),177.0,,,2022
 17.03 » 20.03,,,Olympia's Tour (2.2),,,,2022
 ,11,,Youth classification,,,,2022
 ,1,,Mountains classification,,,,2022
@@ -31,20 +71,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 20.08,51,53,Stage 1 - Tallinn › Tallinn,163.4,,,2021
 20.06,8,,National Championships Latvia - Road Race (NC),173.3,,10,2021
 16.06,6,,National Championships Latvia U23 - ITT (NC),32.7,,,2021
-12.06,2,,National Championships Latvia MU23 - Road Race (NC),120,,30,2021
+12.06,2,,National Championships Latvia MU23 - Road Race (NC),120.0,,30,2021
 28.05 » 29.05,,,Tour of Estonia (2.1),,,,2021
 ,7,,Youth classification,,,,2021
 ,7,,Mountains classification,,,,2021
 ,38,,General classification,,,,2021
-29.05,35,,Stage 2 - Tartu › Tartu,163,,,2021
+29.05,35,,Stage 2 - Tartu › Tartu,163.0,,,2021
 28.05,65,65,Stage 1 - Tallinn › Tartu,193.3,,,2021
-12.09,1,,National Championships Latvia U23 - ITT (NC),20,,25,2020
-06.09,4,,National Championships Latvia - Road Race (NC),100,4,50,2020
+12.09,1,,National Championships Latvia U23 - ITT (NC),20.0,,25,2020
+06.09,4,,National Championships Latvia - Road Race (NC),100.0,4,50,2020
 13.08 » 15.08,,,Baltic Chain Tour (2.2),,,,2020
 13.08,DNF,,Stage 1 - Tallinn › Jõgeva,194.9,,,2020
-09.08,66,,European Continental Championships MJ - Road Race (CC),115,,,2019
-03.08,78,,Johan Museeuw Classic - G.P. Stad Gistel (1.1),120,,,2019
-28.07,DNF,,La Route des Géants Saint-Omer/Ypres (1.1),134,,,2019
+09.08,66,,European Continental Championships MJ - Road Race (CC),115.0,,,2019
+03.08,78,,Johan Museeuw Classic - G.P. Stad Gistel (1.1),120.0,,,2019
+28.07,DNF,,La Route des Géants Saint-Omer/Ypres (1.1),134.0,,,2019
 05.07 » 08.07,,,Sint-Martinusprijs Kontich (2.1),,,,2019
 08.07,DNS,,Stage 4 - Kontich › Kontich,125.1,,,2019
 07.07,127,105,Stage 3b - Kontich › Kontich,119.4,,,2019
@@ -55,15 +95,15 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.05 » 04.05,,,La Coupe du President de la Ville de  Grudziądz (2.1),,,,2019
 ,12,,Points classification,,,,2019
 ,7,,General classification,,20,,2019
-04.05,16,,Stage 4 - Grudziądz › Grudziądz,85,,,2019
+04.05,16,,Stage 4 - Grudziądz › Grudziądz,85.0,,,2019
 03.05,13,7,Stage 3 - Świecie › Świecie,102.2,,,2019
 02.05,7,8,Stage 2 - Lisewo › Płużnica,86.2,2,,2019
-01.05,28,28,Stage 1a - Gruta › Łasin,58,,,2019
+01.05,28,28,Stage 1a - Gruta › Łasin,58.0,,,2019
 01.05,40,34,Stage 1b - Jabłonowo Pomorskie › Jabłonowo Pomorskie ,58.8,,,2019
 12.04 » 14.04,,,Internationale Cottbuser Junioren-Etappenfahrt (2.1),,,,2019
-14.04,DNF,,Stage 3 - Dissen › Dissen,120,,,2019
-13.04,94,95,Stage 2b - Cottbus › Cottbus,60,,,2019
-13.04,61,61,Stage 2a (ITT) - Drachhausen › Drachhausen,11,,,2019
+14.04,DNF,,Stage 3 - Dissen › Dissen,120.0,,,2019
+13.04,94,95,Stage 2b - Cottbus › Cottbus,60.0,,,2019
+13.04,61,61,Stage 2a (ITT) - Drachhausen › Drachhausen,11.0,,,2019
 12.04,67,68,Stage 1 - Drebkau › Drebkau,77.2,,,2019
 31.03,59,,Gent-Wevelgem/Grote Prijs A. Noyelle-Ieper (1.Ncup),120.6,,,2019
 24.03,7,,Guido Reybrouck Classic (1.1),133.4,20,,2019
@@ -77,9 +117,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 09.07,50,,Stage 4 - Kontich › Kontich,129.6,,,2018
 08.07,75,17,Stage 3b - Kontich › Kontich,119.5,,,2018
 08.07,77,17,Stage 3a (ITT) - Kontich › Kontich,11.2,,,2018
-07.07,20,16,Stage 2 - Antwerp › Kontich,123,,,2018
+07.07,20,16,Stage 2 - Antwerp › Kontich,123.0,,,2018
 06.07,12,46,Stage 1 (ITT) - Waarloos › Waarloos,16.8,,,2018
-30.06,3,,National Championships Latvia MJ - Road Race (NC),96,7,,2018
+30.06,3,,National Championships Latvia MJ - Road Race (NC),96.0,7,,2018
 03.05 » 06.05,,,Course de la Paix Juniors (2.Ncup),,,,2018
 ,24,,Youth classification,,,,2018
 ,73,,General classification,,5,,2018
@@ -88,4 +128,4 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.05,56,94,Stage 2b - Roudnice nad Labem › Roudnice nad Labem,62.4,,,2018
 04.05,90,95,Stage 2a (ITT) - Trebenice › Trebenice,11.2,,,2018
 03.05,97,97,Stage 1 - Litomerice › Litomerice,102.5,,,2018
-25.03,DNF,,Gent-Wevelgem/Grote Prijs A. Noyelle-Ieper (1.Ncup),118,,,2018
+25.03,DNF,,Gent-Wevelgem/Grote Prijs A. Noyelle-Ieper (1.Ncup),118.0,,,2018

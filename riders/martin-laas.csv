@@ -1,4 +1,34 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,5,,National Championships Estonia - Road Race (NC) ,164,2,40,2022
+24.05 » 29.05,,,Tour of Norway (2.Pro) ,,,,2022
+25.05,DNF,,Stage 2 - Ulvik › Geilo ,123.8,,,2022
+24.05,106,106,Stage 1 - Bergen › Voss ,173.6,,,2022
+17.04,DNF,,Paris-Roubaix (1.UWT) ,257.2,,,2022
+13.04,DNF,,De Brabantse Pijl - La Flèche Brabançonne (1.Pro) ,205.1,,,2022
+10.04,DNF,,Amstel Gold Race (1.UWT) ,254.1,,,2022
+06.04,DNF,,Scheldeprijs (1.Pro) ,198.7,,,2022
+03.04,DNF,,Ronde van Vlaanderen - Tour des Flandres ME (1.UWT) ,272.5,,,2022
+21.03 » 27.03,,,Volta Ciclista a Catalunya (2.UWT) ,,,,2022
+27.03,DNF,,Stage 7 - Barcelona › Barcelona ,138.6,,,2022
+26.03,114,114,Stage 6 - Salou › Cambrils ,168.6,,,2022
+25.03,6,140,Stage 5 - La Pobla de Segur › Vilanova i la Geltrú ,206.3,7,,2022
+24.03,142,143,Stage 4 - La Seu d'Urgell › Boí Taüll ,166.7,,,2022
+23.03,149,152,Stage 3 - Perpignan › La Molina ,161.1,,,2022
+22.03,139,153,Stage 2 - L'Escala › Perpignan ,202.4,,,2022
+21.03,160,160,Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols ,171.2,,,2022
+18.03,43,,Bredene Koksijde Classic (1.Pro) ,200.9,,,2022
+17.03,78,,Grand Prix de Denain - Porte du Hainaut (1.Pro) ,200.3,,,2022
+16.03,DNF,,Danilith Nokere Koerse (1.Pro) ,189.8,,,2022
+01.03,DNF,,Le Samyn (1.1) ,209,,,2022
+27.02,DNF,,Kuurne - Bruxelles - Kuurne (1.Pro) ,195.1,,,2022
+01.02 » 05.02,,,Saudi Tour (2.1) ,,,,2022
+,13,,Points classification ,,,,2022
+,64,,General classification ,,,,2022
+05.02,58,,Stage 5 - AlUla Old Town › AlUla Old Town ,138.9,,,2022
+04.02,53,69,Stage 4 - Winter Park › Skyviews of Harrat Uwayrid ,149.3,,,2022
+03.02,89,75,Stage 3 - Tayma Hadaj Well › AlUla Old Town ,181.2,,,2022
+02.02,85,74,Stage 2 - Taibah University › Abu Rakah ,163.9,,,2022
+01.02,2,2,Stage 1 - Winter Park › Winter Park ,198,12,5,2022
 17.04,DNF,,Paris-Roubaix (1.UWT),257.2,,,2022
 13.04,DNF,,De Brabantse Pijl - La Flèche Brabançonne (1.Pro),205.1,,,2022
 10.04,DNF,,Amstel Gold Race (1.UWT),254.1,,,2022
@@ -15,7 +45,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 18.03,43,,Bredene Koksijde Classic (1.Pro),200.9,,,2022
 17.03,78,,Grand Prix de Denain - Porte du Hainaut (1.Pro),200.3,,,2022
 16.03,DNF,,Danilith Nokere Koerse (1.Pro),189.8,,,2022
-01.03,DNF,,Le Samyn (1.1),209,,,2022
+01.03,DNF,,Le Samyn (1.1),209.0,,,2022
 27.02,DNF,,Kuurne - Bruxelles - Kuurne (1.Pro),195.1,,,2022
 01.02 » 05.02,,,Saudi Tour (2.1),,,,2022
 ,13,,Points classification,,,,2022
@@ -24,13 +54,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.02,53,69,Stage 4 - Winter Park › Skyviews of Harrat Uwayrid,149.3,,,2022
 03.02,89,75,Stage 3 - Tayma Hadaj Well › AlUla Old Town,181.2,,,2022
 02.02,85,74,Stage 2 - Taibah University › Abu Rakah,163.9,,,2022
-01.02,2,2,Stage 1 - Winter Park › Winter Park,198,12,5,2022
+01.02,2,2,Stage 1 - Winter Park › Winter Park,198.0,12,5,2022
 10.10,DNF,,Paris - Tours Elite (1.Pro),212.3,,,2021
-07.10,DNF,,Paris - Bourges (1.1),198,,,2021
+07.10,DNF,,Paris - Bourges (1.1),198.0,,,2021
 03.10,DNF,,Sparkassen Münsterland Giro (1.Pro),188.5,,,2021
 26.09,DNF,,World Championships - Road Race (WC),268.3,,,2021
 21.09,82,,Grand Prix de Denain - Porte du Hainaut (1.Pro),200.3,,,2021
-19.09,41,,Gooikse Pijl (1.1),199,,,2021
+19.09,41,,Gooikse Pijl (1.1),199.0,,,2021
 18.09,76,,Primus Classic (1.Pro),197.7,,,2021
 17.09,3,,Kampioenschap van Vlaanderen (1.1),195.3,40,70,2021
 14.08 » 05.09,,,La Vuelta ciclista a España (2.UWT),,,,2021
@@ -41,16 +71,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.09,134,144,Stage 19 - Tapia › Monforte de Lemos,191.2,,,2021
 02.09,148,146,Stage 18 - Salas › Altu d'El Gamoniteiru,162.6,,,2021
 01.09,150,151,Stage 17 - Unquera › Lagos de Covadonga,185.8,,,2021
-31.08,72,155,Stage 16 - Laredo › Santa Cruz de Bezana,180,,,2021
+31.08,72,155,Stage 16 - Laredo › Santa Cruz de Bezana,180.0,,,2021
 29.08,142,159,Stage 15 - Navalmoral de la Mata › El Barraco,197.5,,,2021
 28.08,162,161,Stage 14 - Don Benito › Pico Villuercas,165.7,,,2021
 27.08,80,162,Stage 13 - Belmez › Villanueva de la Serena,203.7,,,2021
-26.08,144,164,Stage 12 - Jaén › Córdoba,175,,,2021
+26.08,144,164,Stage 12 - Jaén › Córdoba,175.0,,,2021
 25.08,168,166,Stage 11 - Antequera › Valdepeñas de Jaén,133.6,,,2021
-24.08,170,167,Stage 10 - Roquetas de Mar › Rincón de la Victoria,189,,,2021
-22.08,170,167,Stage 9 - Puerto-Lumbreras › Alto de Velefique,188,,,2021
+24.08,170,167,Stage 10 - Roquetas de Mar › Rincón de la Victoria,189.0,,,2021
+22.08,170,167,Stage 9 - Puerto-Lumbreras › Alto de Velefique,188.0,,,2021
 21.08,8,166,Stage 8 - Santa Pola › La Manga del Mar Menor,173.7,10,,2021
-20.08,175,169,Stage 7 - Gandía › Balcón de Alicante,152,,,2021
+20.08,175,169,Stage 7 - Gandía › Balcón de Alicante,152.0,,,2021
 19.08,142,159,Stage 6 - Requena › Alto de la Montaña de Cullera,158.3,,,2021
 18.08,44,154,Stage 5 - Tarancón › Albacete,184.4,,,2021
 17.08,101,171,Stage 4 - El Burgo de Osma › Molina de Aragón,163.9,,,2021
@@ -83,7 +113,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.05 » 29.05,,,Tour of Estonia (2.1),,,,2021
 ,1,,Points classification,,,,2021
 ,2,,General classification,,70,85,2021
-29.05,1,,Stage 2 - Tartu › Tartu,163,20,14,2021
+29.05,1,,Stage 2 - Tartu › Tartu,163.0,20,14,2021
 28.05,7,7,Stage 1 - Tallinn › Tartu,193.3,2,,2021
 05.05 » 09.05,,,Volta ao Algarve em Bicicleta (2.Pro),,,,2021
 09.05,DNS,,Stage 5 - Albufeira › Malhão,170.1,,,2021
@@ -95,42 +125,42 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.04,DNF,,Scheldeprijs ME (1.Pro),193.8,,,2021
 24.03,30,,Oxyclean Classic Brugge-De Panne ME (1.UWT),203.9,5,12,2021
 19.03,44,,Bredene Koksijde Classic (1.Pro),199.9,,,2021
-17.03,DNF,,Danilith Nokere Koerse ME (1.Pro),195,,,2021
+17.03,DNF,,Danilith Nokere Koerse ME (1.Pro),195.0,,,2021
 21.02 » 27.02,,,UAE Tour (2.UWT),,,,2021
 ,122,,General classification,,5,,2021
-27.02,17,,Stage 7 - Yas Mall  › Abu Dhabi Breakwater,147,,,2021
-26.02,43,124,Stage 6 - Deira Island › Palm Jumeirah,165,,,2021
-25.02,125,127,Stage 5 - Fujairah Marine Club › Jebel Jais,170,,,2021
-24.02,33,128,Stage 4 - Al Marjan Island › Al Marjan Island,204,,,2021
-23.02,131,130,Stage 3 - Strata Manufactoring › Jebel Hafeet,166,,,2021
-22.02,130,129,Stage 2 (ITT) - Al Hudayriat Island › Al Hudayriat Island,13,,,2021
-21.02,135,135,Stage 1 - Al Dhafra Castle  › Al Mirfa,176,,,2021
+27.02,17,,Stage 7 - Yas Mall  › Abu Dhabi Breakwater,147.0,,,2021
+26.02,43,124,Stage 6 - Deira Island › Palm Jumeirah,165.0,,,2021
+25.02,125,127,Stage 5 - Fujairah Marine Club › Jebel Jais,170.0,,,2021
+24.02,33,128,Stage 4 - Al Marjan Island › Al Marjan Island,204.0,,,2021
+23.02,131,130,Stage 3 - Strata Manufactoring › Jebel Hafeet,166.0,,,2021
+22.02,130,129,Stage 2 (ITT) - Al Hudayriat Island › Al Hudayriat Island,13.0,,,2021
+21.02,135,135,Stage 1 - Al Dhafra Castle  › Al Mirfa,176.0,,,2021
 14.02,3,,Clasica de Almeria (1.Pro),183.3,60,125,2021
 20.10 » 08.11,,,La Vuelta ciclista a España (2.UWT),,,,2020
 ,140,,General classification,,20,,2020
 08.11,67,,Stage 18 - Hipódromo de la Zarzuela › Madrid,139.6,,,2020
 07.11,129,141,Stage 17 - Sequeros › Alto de la Covatilla,178.2,,,2020
-06.11,143,141,Stage 16 - Salamanca › Ciudad Rodrigo,162,,,2020
+06.11,143,141,Stage 16 - Salamanca › Ciudad Rodrigo,162.0,,,2020
 05.11,116,143,Stage 15 - Mos › Puebla de Sanabria,230.8,,,2020
 04.11,137,146,Stage 14 - Lugo › Ourense,204.7,,,2020
 03.11,141,150,Stage 13 (ITT) - Muros › Mirador de Ézaro,33.7,,,2020
 01.11,140,150,Stage 12 - Pola de Laviana › Alto de l'Angliru,109.4,,,2020
-31.10,137,150,Stage 11 - Villaviciosa › Alto de la Farrapona,170,,,2020
-30.10,138,154,Stage 10 - Castro Urdiales › Suances,185,,,2020
+31.10,137,150,Stage 11 - Villaviciosa › Alto de la Farrapona,170.0,,,2020
+30.10,138,154,Stage 10 - Castro Urdiales › Suances,185.0,,,2020
 29.10,66,155,Stage 9 - Castrillo del Val › Aguilar de Campoo,157.7,,,2020
-28.10,155,155,Stage 8 - Logroño › Alto de Moncalvillo,164,,,2020
+28.10,155,155,Stage 8 - Logroño › Alto de Moncalvillo,164.0,,,2020
 27.10,150,157,Stage 7 - Vitoria-Gasteiz › Villanueva de Valdegovia,159.7,,,2020
 25.10,146,159,Stage 6 - Biescas › Aramón Formigal,146.4,,,2020
 24.10,162,162,Stage 5 - Huesca › Sabiñanigo,184.4,,,2020
 23.10,115,165,Stage 4 - Garray › Ejea de los Caballeros,191.7,,,2020
 22.10,165,166,Stage 3 - Lodosa › La Laguna Negra de Vinuesa,166.1,,,2020
 21.10,157,168,Stage 2 - Pamplona › Lekunberri,151.6,,,2020
-20.10,169,169,Stage 1 - Irún › Arrate,173,,,2020
-04.10,DNF,,Liège-Bastogne-Liège (1.UWT),257,,,2020
+20.10,169,169,Stage 1 - Irún › Arrate,173.0,,,2020
+04.10,DNF,,Liège-Bastogne-Liège (1.UWT),257.0,,,2020
 29.09 » 03.10,,,BinckBank Tour (2.UWT),,,,2020
 03.10,DNF,,Stage 5 - Ottignies-Louvain-la-Neuve › Geraardsbergen,183.6,,,2020
 02.10,145,100,Stage 4 (ITT) - Riemst › Riemst,8.14,,,2020
-01.10,127,96,Stage 3 - Aalter › Aalter,157,,,2020
+01.10,127,96,Stage 3 - Aalter › Aalter,157.0,,,2020
 29.09,103,103,Stage 1 - Blankenberge › Ardooie,132.1,,,2020
 16.09 » 19.09,,,Okolo Slovenska / Tour de Slovaquie (2.1),,,,2020
 ,1,,Points classification,,,,2020
@@ -140,10 +170,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 17.09,114,86,Stage 2 - Žilina › Banská Bystrica,206.6,,,2020
 16.09,1,1,Stage 1a - Žilina › Žilina,106.4,20,14,2020
 16.09,54,32,Stage 1b (ITT) - Žilina › Žilina,7.1,,,2020
-30.08,DNF,,Brussels Cycling Classic (1.Pro),204,,,2020
+30.08,DNF,,Brussels Cycling Classic (1.Pro),204.0,,,2020
 29.08,DNF,,Druivenkoers - Overijse (1.1),194.7,,,2020
 26.08,76,,European Continental Championships - Road Race (CC),177.45,,,2020
-20.08,12,,National Championships Estonia - Road Race (NC),159,,1,2020
+20.08,12,,National Championships Estonia - Road Race (NC),159.0,,1,2020
 06.08 » 09.08,,,Czech Tour (2.1),,,,2020
 09.08,DNF,,Stage 4 - Mohelnice › Šternberk,179.2,,,2020
 08.08,3,88,Stage 3 - Olomouc › Frýdek-Místek,209.8,7,3,2020
@@ -152,62 +182,61 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.07 » 01.08,,,Vuelta a Burgos (2.Pro),,,,2020
 ,25,,Points classification,,,,2020
 ,124,,General classification,,,,2020
-01.08,125,,Stage 5 - Covarrubias › Lagunas de Neila,158,,,2020
-31.07,8,133,Stage 4 - Gumiel de Izán › Roa de Duero,163,1,,2020
-30.07,138,138,Stage 3 - Sargentes de la Lora › Picón Blanco,150,,,2020
-29.07,122,130,Stage 2 - Castrojeriz › Villadiego,168,,,2020
-28.07,122,122,Stage 1 - Catedral de Burgos › Mirador del Castillo,157,,,2020
-01.03,131,,Kuurne-Bruxelles-Kuurne (1.Pro),201,,,2020
-29.02,DNF,,Omloop Het Nieuwsblad ME (1.UWT),200,,,2020
+01.08,125,,Stage 5 - Covarrubias › Lagunas de Neila,158.0,,,2020
+31.07,8,133,Stage 4 - Gumiel de Izán › Roa de Duero,163.0,1,,2020
+30.07,138,138,Stage 3 - Sargentes de la Lora › Picón Blanco,150.0,,,2020
+29.07,122,130,Stage 2 - Castrojeriz › Villadiego,168.0,,,2020
+28.07,122,122,Stage 1 - Catedral de Burgos › Mirador del Castillo,157.0,,,2020
+01.03,131,,Kuurne-Bruxelles-Kuurne (1.Pro),201.0,,,2020
+29.02,DNF,,Omloop Het Nieuwsblad ME (1.UWT),200.0,,,2020
 19.02 » 23.02,,,Volta ao Algarve em Bicicleta (2.Pro),,,,2020
-,124,,General classification,,,,2020
 23.02,109,,Stage 5 (ITT) - Lagoa › Lagoa,20.3,,,2020
 22.02,128,122,Stage 4 - Albufeira › Malhão,169.7,,,2020
 21.02,12,105,Stage 3 - Faro › Tavira,201.9,,,2020
 20.02,158,114,Stage 2 - Sagres › Alto da Fóia,183.9,,,2020
 19.02,13,13,Stage 1 - Portimão › Lagos,195.6,,,2020
 02.02,92,,Cadel Evans Great Ocean Road Race (1.UWT),171.1,5,,2020
-30.01,16,,Race Torquay (1.1),133,5,3,2020
+30.01,16,,Race Torquay (1.1),133.0,5,3,2020
 21.01 » 26.01,,,Santos Tour Down Under (2.UWT),,,,2020
 ,31,,Points classification,,,,2020
 ,110,,General classification,,5,,2020
 26.01,99,,Stage 6 - McLaren Vale › Willunga Hill,151.5,,,2020
 25.01,112,112,Stage 5 - Glenelg › Victor Harbor,149.1,,,2020
 24.01,6,111,Stage 4 - Norwood › Murray Bridge,152.8,7,,2020
-23.01,115,120,Stage 3 - Unley › Paracombe,131,,,2020
+23.01,115,120,Stage 3 - Unley › Paracombe,131.0,,,2020
 22.01,123,122,Stage 2 - Woodside › Stirling,135.8,,,2020
-21.01,112,112,Stage 1 - Tanunda › Tanunda,150,,,2020
+21.01,112,112,Stage 1 - Tanunda › Tanunda,150.0,,,2020
 11.09 » 15.09,,,Turul Romaniei (2.1),,,,2019
-11.09,DNS,,Stage 1 - Cluj-Napoca › Sighișoara,168,,,2019
+11.09,DNS,,Stage 1 - Cluj-Napoca › Sighișoara,168.0,,,2019
 30.08 » 31.08,,,Tour of Almaty (2.1),,,,2019
-31.08,DNF,,Stage 2 - Almaty › Medeo ice skating stadium,160,,,2019
+31.08,DNF,,Stage 2 - Almaty › Medeo ice skating stadium,160.0,,,2019
 30.08,102,102,Stage 1 - Almaty › Almaty,118.6,,,2019
 11.08,DNF,,European Continental Championships - Road Race (CC),172.6,,,2019
 30.06,4,,National Championships Estonia - Road Race (NC),165.2,4,50,2019
-23.06,13,,European Games - Road Race (JR),180,8,30,2019
+23.06,13,,European Games - Road Race (JR),180.0,8,30,2019
 12.06 » 16.06,,,Tour de Korea (2.1),,,,2019
 ,5,,Points classification,,,,2019
 ,65,,General classification,,,,2019
-16.06,1,,Stage 5 - Seoul › Seoul,65,20,14,2019
-15.06,1,67,Stage 4 - Samcheok › Goseong,127,20,14,2019
+16.06,1,,Stage 5 - Seoul › Seoul,65.0,20,14,2019
+15.06,1,67,Stage 4 - Samcheok › Goseong,127.0,20,14,2019
 14.06,90,70,Stage 3 - Danyang › Samcheok,178.3,,,2019
 13.06,1,64,Stage 2 - Cheonan › Danyang,161.6,20,14,2019
-12.06,107,107,Stage 1 - Gunsan › Gunsan,63,,,2019
+12.06,107,107,Stage 1 - Gunsan › Gunsan,63.0,,,2019
 26.05 » 31.05,,,Tour of Taiyuan (2.2),,,,2019
 ,1,,Points classification,,,,2019
 ,29,,General classification,,,,2019
-31.05,1,,Stage 6 - Pingyao › Taiyuan,100,5,7,2019
+31.05,1,,Stage 6 - Pingyao › Taiyuan,100.0,5,7,2019
 30.05,1,30,Stage 5 - Guanquelou › Hejin,134.4,5,7,2019
 29.05,54,31,Stage 4 - Changzhi › Taihang Baquanxia Scenic Area ,87.2,,,2019
 28.05,1,31,Stage 3 - Wutaishan › Wutaishan,83.4,5,7,2019
 27.05,1,31,Stage 2 - Zuoyun › Datong,126.4,5,7,2019
-26.05,37,37,Stage 1 - Taiyuan › Taiyuan,199,,,2019
-12.05,2,,Grand Prix Minsk (1.2),147,10,30,2019
-11.05,17,,Minsk Cup (1.2),176,,,2019
+26.05,37,37,Stage 1 - Taiyuan › Taiyuan,199.0,,,2019
+12.05,2,,Grand Prix Minsk (1.2),147.0,10,30,2019
+11.05,17,,Minsk Cup (1.2),176.0,,,2019
 01.04 » 06.04,,,The Princess Maha Chakri Sirindhorn's Cup (2.1),,,,2019
 ,4,,Points classification,,,,2019
 ,74,,General classification,,,,2019
-06.04,1,,Stage 6 - Lampang › Chiang Mai,116,20,14,2019
+06.04,1,,Stage 6 - Lampang › Chiang Mai,116.0,20,14,2019
 05.04,6,77,Stage 5 - Phayao › Lampang,164.3,3,,2019
 04.04,87,82,Stage 4 - Nan › Phayao,145.5,,,2019
 03.04,72,67,Stage 3 - Nan › Nan,199.7,,,2019
@@ -215,13 +244,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.04,20,22,Stage 1 - Phitsanuloke › Uttaradit,166.8,,,2019
 12.02 » 17.02,,,Colombia 2.1 (2.1),,,,2019
 16.02,DNF,,Stage 5 - La Union › La Union,176.8,,,2019
-15.02,131,128,Stage 4 - Medellín › Medellín,144,,,2019
+15.02,131,128,Stage 4 - Medellín › Medellín,144.0,,,2019
 14.02,139,133,Stage 3 - Llanogrande › Llanogrande,167.6,,,2019
-13.02,2,122,Stage 2 - La Ceja › La Ceja,157,12,5,2019
-12.02,24,152,Stage 1 (TTT) - Medellín › Medellín,14,,,2019
+13.02,2,122,Stage 2 - La Ceja › La Ceja,157.0,12,5,2019
+12.02,24,152,Stage 1 (TTT) - Medellín › Medellín,14.0,,,2019
 29.09 » 30.09,,,Tour of Almaty (2.1),,,,2018
 ,79,,General classification,,,,2018
-30.09,78,,Stage 2 - Almaty › Medeo,160,,,2018
+30.09,78,,Stage 2 - Almaty › Medeo,160.0,,,2018
 29.09,91,91,Stage 1 - Almaty › Almaty,182.7,,,2018
 19.09 » 23.09,,,Turul Romaniei (2.2),,,,2018
 21.09,DNF,,Stage 3 - Brașov › Focșani,176.3,,,2018
@@ -241,28 +270,28 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.07,14,92,Stage 3a (TTT) - Cisnadie › Sibiu,9.6,,,2018
 06.07,98,96,Stage 1 - Sibiu › Balea Lac,91.2,,,2018
 05.07,7,7,Prologue - Sibiu › Sibiu,2.2,2,,2018
-01.07,DNF,,National Championships Estonia - Road Race (NC),165,,,2018
+01.07,DNF,,National Championships Estonia - Road Race (NC),165.0,,,2018
 03.06,DNS,,Gran Premio Citta di Lugano (1.1),185.6,,,2018
 20.05 » 27.05,,,Tour of Japan (2.1),,,,2018
 ,18,,Youth classification,,,,2018
 ,5,,Points classification,,,,2018
 ,59,,General classification,,,,2018
 27.05,1,,Stage 8 - Tokyo › Tokyo,112.7,20,14,2018
-26.05,71,61,Stage 7 - Izu › Izu,122,,,2018
+26.05,71,61,Stage 7 - Izu › Izu,122.0,,,2018
 25.05,67,62,Stage 6 - Fuji Speedway › Mount Fuji,32.9,,,2018
 24.05,65,58,Stage 5 - Minami Shinshu › Minami Shinshu,123.6,,,2018
 23.05,3,58,Stage 4 - Mino › Mino,139.4,7,3,2018
-22.05,76,63,Stage 3 - Inabe › Inabe,127,,,2018
-21.05,62,41,Stage 2 - Kyoto › Kyoto,105,,,2018
+22.05,76,63,Stage 3 - Inabe › Inabe,127.0,,,2018
+21.05,62,41,Stage 2 - Kyoto › Kyoto,105.0,,,2018
 20.05,21,21,Prologue - Sakai › Sakai,2.6,,,2018
 01.04 » 06.04,,,"The Princess Maha Chackri Sirindhorn's Cup ""Tour of Thailand"" (2.1)",,,,2018
 ,1,,Points classification,,,,2018
 ,97,,General classification,,,,2018
 06.04,1,,Stage 6 - Roi Et  › Khon Kaen,110.7,20,14,2018
-05.04,1,99,Stage 5 - Nakhon Ratchasima  › Roi Et ,229,20,14,2018
+05.04,1,99,Stage 5 - Nakhon Ratchasima  › Roi Et ,229.0,20,14,2018
 04.04,1,101,Stage 4 - Khao Yai › Nakhon Ratchasima,183.4,20,14,2018
 03.04,108,104,Stage 3 - Aranyarathet › Khao Yai,177.7,,,2018
-02.04,4,5,Stage 2 - Chanthaburi › Aranyarathet,173,5,,2018
+02.04,4,5,Stage 2 - Chanthaburi › Aranyarathet,173.0,5,,2018
 01.04,7,3,Stage 1 - Pattaya › Chanthaburi,207.1,2,,2018
 11.03 » 15.03,,,Tour de Taiwan (2.1),,,,2018
 ,11,,Mountains classification,,,,2018
@@ -271,7 +300,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.03,11,,Stage 5 - Pingtung County Hall › Dapeng Bay National Scenic Area,192.8,,,2018
 14.03,93,85,Stage 4 - Nantou County Hall › Xiangsan Visitor Centre of Sun Moon Lake,166.6,,,2018
 13.03,50,77,Stage 3 - HSR Hsinschu Station › Shingan Visitor Information Center,156.3,,,2018
-12.03,104,104,Stage 2 - Taouyan City Hall  › Jiaobanshan Park,120,,,2018
+12.03,104,104,Stage 2 - Taouyan City Hall  › Jiaobanshan Park,120.0,,,2018
 11.03,11,14,Stage 1 - Taipei City Hall › Taipei City Hall,83.2,,,2018
 06.02 » 11.02,,,Colombia Oro y Paz (2.1),,,,2018
 ,54,,Youth classification,,,,2018
@@ -301,13 +330,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,62,,General classification,,,,2017
 17.10,62,,Stage 7 - Jurong Chishanhu › Maoshan,130.6,,,2017
 16.10,31,78,Stage 6 - Jiangyan › Jiangyan,106.4,,,2017
-15.10,53,80,Stage 5 - Nantong › Haimen,148,,,2017
+15.10,53,80,Stage 5 - Nantong › Haimen,148.0,,,2017
 14.10,4,82,Stage 4 - Wujiang › Wujiang,117.4,5,,2017
 13.10,11,83,Stage 3 - Huzhou › Changxing,134.3,,,2017
 12.10,54,89,Stage 2 - Wujin › Wujin,117.1,,,2017
 11.10,25,90,Stage 1 - Wuxi › Wuxi,111.3,,,2017
 10.10,92,92,Prologue - Wuxi › Wuxi,5.3,,,2017
-08.10,18,,Sun Hung Kai Properties Hong Kong Challenge (1.1),113,3,3,2017
+08.10,18,,Sun Hung Kai Properties Hong Kong Challenge (1.1),113.0,3,3,2017
 17.09,DNF,,Grand Prix d'Isbergues - Pas de Calais (1.1),203.6,,,2017
 16.09,DNF,,Primus Classic (1.HC),199.6,,,2017
 22.08 » 25.08,,,Tour du Poitou Charentes (2.1),,,,2017
@@ -326,8 +355,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.06 » 18.06,,,Tour de Korea (2.1),,,,2017
 ,9,,Points classification,,,,2017
 ,45,,General classification,,,,2017
-18.06,10,,Stage 5 - Seoul › Seoul,65,,,2017
-17.06,6,45,Stage 4 - Yeongju › Chungju,156,3,,2017
+18.06,10,,Stage 5 - Seoul › Seoul,65.0,,,2017
+17.06,6,45,Stage 4 - Yeongju › Chungju,156.0,3,,2017
 16.06,4,67,Stage 3 - Muju › Yeongju,167.8,5,,2017
 15.06,74,70,Stage 2 - Gunsan › Muju,156.8,,,2017
 14.06,20,23,Stage 1 - Yeosu › Gunsan,216.9,,,2017
@@ -335,9 +364,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,7,,Mountains classification,,,,2017
 ,35,,Points classification,,,,2017
 ,99,,General classification,,,,2017
-04.06,94,,Stage 3 - Saint Cyr-le-Gravelais › Laval,180,,,2017
-03.06,111,107,Stage 2 - Chantrigné › Hambers,179,,,2017
-02.06,106,108,Stage 1 - Renault Saint-Berthevin › Ernée,187,,,2017
+04.06,94,,Stage 3 - Saint Cyr-le-Gravelais › Laval,180.0,,,2017
+03.06,111,107,Stage 2 - Chantrigné › Hambers,179.0,,,2017
+02.06,106,108,Stage 1 - Renault Saint-Berthevin › Ernée,187.0,,,2017
 01.06,117,117,Prologue - Laval › Laval,4.5,,,2017
 26.05 » 27.05,,,Tour of Estonia (2.1),,,,2017
 ,5,,Mountains classification,,,,2017
@@ -345,27 +374,26 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.05,54,,Stage 2 - Tartu › Tartu,172.8,,,2017
 26.05,11,11,Stage 1 - Tallinn › Tartu,211.2,,,2017
 03.05 » 06.05,,,Rhône-Alpes Isère Tour (2.2),,,,2017
-05.05,DNF,,Stage 3 - Genay › Saint-Maurice l'Exil,175,,,2017
+05.05,DNF,,Stage 3 - Genay › Saint-Maurice l'Exil,175.0,,,2017
 04.05,111,113,Stage 2 - Saint Laurent de Mure › Saint Laurent de Mure,165.6,,,2017
 03.05,110,110,Stage 1 - Charvieu-Chavagneux › Succieu,126.9,,,2017
-09.04,DNF,,Paris-Roubaix (1.UWT),257,,,2017
+09.04,DNF,,Paris-Roubaix (1.UWT),257.0,,,2017
 27.02 » 05.03,,,La Tropicale Amissa Bongo (2.1),,,,2017
 ,10,,Points classification,,,,2017
-,45,,General classification,,,,2017
 05.03,9,,Stage 7 - Owendo › Libreville,137.5,,,2017
 04.03,5,45,Stage 6 - Akanda (Cap Estérias) › Libreville,132.6,4,,2017
-03.03,65,47,Stage 5 - Lambaréné › Kango,140,,,2017
-01.03,6,46,Stage 3 - Mounana › Koulamoutou,157,3,,2017
-28.02,61,58,Stage 2 - Leconi › Franceville,98,,,2017
-27.02,12,4,Stage 1 - Moanda › Akiéni,147,,,2017
+03.03,65,47,Stage 5 - Lambaréné › Kango,140.0,,,2017
+01.03,6,46,Stage 3 - Mounana › Koulamoutou,157.0,3,,2017
+28.02,61,58,Stage 2 - Leconi › Franceville,98.0,,,2017
+27.02,12,4,Stage 1 - Moanda › Akiéni,147.0,,,2017
 14.02 » 19.02,,,Tour of Oman (2.HC),,,,2017
 ,38,,Youth classification,,,,2017
 ,134,,General classification,,,,2017
 19.02,139,,Stage 6 - The Wave › Muttrah Corniche,130.5,,,2017
 18.02,106,128,Stage 5 - Samail › Jebel Akhdar (Green Mountain),152.5,,,2017
-17.02,133,133,Stage 4 - Yiti (Al Sifah) › Ministry of Tourism,118,,,2017
-16.02,121,127,Stage 3 - Sultan Qaboos University › Quriyat ,162,,,2017
-15.02,118,114,Stage 2 - Nakhal › Al Bustan,142,,,2017
+17.02,133,133,Stage 4 - Yiti (Al Sifah) › Ministry of Tourism,118.0,,,2017
+16.02,121,127,Stage 3 - Sultan Qaboos University › Quriyat ,162.0,,,2017
+15.02,118,114,Stage 2 - Nakhal › Al Bustan,142.0,,,2017
 14.02,45,48,Stage 1 - Al Sawadi Beach › Naseem Park,176.5,,,2017
 05.02,105,,G.P. Costa degli Etruschi (1.1),190.6,,,2017
 09.10,99,,Paris - Tours Elite (1.HC),252.5,,,2016
@@ -373,11 +401,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.10,DNF,,Tour de Vendée (1.1),203.8,,,2016
 18.09,DNF,,Grand Prix d'Isbergues - Pas de Calais (1.1),204.3,,,2016
 17.09,DNF,,Primus Classic Impanis - Van Petegem (1.HC),200.4,,,2016
-04.09,DNF,,GP de Fourmies / La Voix du Nord (1.HC),205,,,2016
+04.09,DNF,,GP de Fourmies / La Voix du Nord (1.HC),205.0,,,2016
 03.09,DNF,,Brussels Cycling Classic (1.HC),199.3,,,2016
 23.08 » 26.08,,,Tour du Poitou Charentes (2.1),,,,2016
 26.08,DNF,,Stage 5 - Thouars › Poitiers,171.3,,,2016
-25.08,100,111,Stage 4 (ITT) - Saint-Sauveur › Châtellerault,23,,,2016
+25.08,100,111,Stage 4 (ITT) - Saint-Sauveur › Châtellerault,23.0,,,2016
 25.08,115,110,Stage 3 - Thuré › Châtellerault,95.2,,,2016
 24.08,105,110,Stage 2 - La Rochelle › Niort,179.8,,,2016
 23.08,121,121,Stage 1 -  Angoulême › Puilboreau,189.6,,,2016
@@ -386,14 +414,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.06,114,,Rund um Köln (1.1),205.8,,,2016
 09.06,DNF,,GP du canton d'Argovie (1.HC),188.7,,,2016
 02.06 » 05.06,,,Boucles de la Mayenne (2.1),,,,2016
-04.06,DNF,,Stage 2 - Laval  › Villaines-la-Juhel,182,,,2016
-03.06,102,99,Stage 1 - Renault Saint-Berthevin › Château de Craon,190,,,2016
+04.06,DNF,,Stage 2 - Laval  › Villaines-la-Juhel,182.0,,,2016
+03.06,102,99,Stage 1 - Renault Saint-Berthevin › Château de Craon,190.0,,,2016
 02.06,118,118,Prologue - Laval  › Laval ,4.5,,,2016
 27.05 » 28.05,,,Tour of Estonia (2.1),,,,2016
 ,22,,Points classification,,,,2016
 ,79,,General classification,,,,2016
-28.05,80,,Stage 2 -  Tartu ›  Tartu,144,,,2016
-27.05,85,84,Stage 1 - Tallinn  › Tartu,190,,,2016
+28.05,80,,Stage 2 -  Tartu ›  Tartu,144.0,,,2016
+27.05,85,84,Stage 1 - Tallinn  › Tartu,190.0,,,2016
 22.05,DNF,,Grand Prix de la Somme « Conseil Général 80» (1.1),195.8,,,2016
 13.05 » 15.05,,,Tour de Picardie (2.1),,,,2016
 14.05,DNF,,Stage 2 - Feuquières-en-VImeu › Flixecourt,180.3,,,2016
@@ -401,29 +429,29 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.04,DNF,,GP de Denain - Porte du Hainaut / Valenciennes Métropole (1.HC),199.6,,,2016
 10.04,DNF,,Paris - Roubaix (1.UWT),257.5,,,2016
 01.04,DNF,,Route Adélie de Vitré (1.1),197.8,,,2016
-20.03,74,,Cholet-Pays de Loire (1.1),210,,,2016
+20.03,74,,Cholet-Pays de Loire (1.1),210.0,,,2016
 16.03,132,,Nokere Koerse - Danilith Classic (1.HC),199.5,,,2016
-13.03,DNF,,Paris-Troyes (1.2),168,,,2016
+13.03,DNF,,Paris-Troyes (1.2),168.0,,,2016
 02.03,DNF,,Le Samyn (1.1),202.6,,,2016
 23.02 » 25.02,,,Tour Cycliste International La Provence (2.1),,,,2016
-25.02,DNF,,Stage 3 - La Ciotat › Marseille,171,,,2016
-24.02,129,132,Stage 2 - Miramas › Istres,180,,,2016
-23.02,107,107,Stage 1 - Aubagne › Cassis,169,,,2016
+25.02,DNF,,Stage 3 - La Ciotat › Marseille,171.0,,,2016
+24.02,129,132,Stage 2 - Miramas › Istres,180.0,,,2016
+23.02,107,107,Stage 1 - Aubagne › Cassis,169.0,,,2016
 14.02,DNF,,Trofeo Laigueglia (1.HC),192.5,,,2016
 03.02 » 07.02,,,Etoile de Bessèges (2.1),,,,2016
 ,23,,Youth classification,,,,2016
 ,121,,General classification,,,,2016
-07.02,105,,Stage 5 (ITT) - Alès › Alès,12,,,2016
-06.02,118,128,Stage 4 - Tavel › Laudun,148,,,2016
-05.02,128,131,Stage 3 - Bessèges › Bessèges,152,,,2016
-04.02,137,145,Stage 2 - Nîmes › Mejannes Le Clap,153,,,2016
-03.02,146,146,Stage 1 - Bellegarde › Beaucaire,156,,,2016
+07.02,105,,Stage 5 (ITT) - Alès › Alès,12.0,,,2016
+06.02,118,128,Stage 4 - Tavel › Laudun,148.0,,,2016
+05.02,128,131,Stage 3 - Bessèges › Bessèges,152.0,,,2016
+04.02,137,145,Stage 2 - Nîmes › Mejannes Le Clap,153.0,,,2016
+03.02,146,146,Stage 1 - Bellegarde › Beaucaire,156.0,,,2016
 10.11 » 11.11,,,Tour of Yancheng Coastal Wetlands (2.2),,,,2015
 ,2,,Youth classification,,,,2015
 ,2,,Points classification,,,,2015
 ,10,,General classification,,1,,2015
 11.11,36,,Stage 2 - Dongtan › Dongtan,134.5,,,2015
-10.11,9,9,Stage 1 - Yancheng › Guandong,186,,,2015
+10.11,9,9,Stage 1 - Yancheng › Guandong,186.0,,,2015
 31.10 » 08.11,,,Tour of Taihu Lake (2.1),,,,2015
 ,17,,Youth classification,,,,2015
 ,10,,Points classification,,,,2015
@@ -433,29 +461,29 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.11,6,50,Stage 7 - Wuxing › Changxing,139.5,3,2,2015
 05.11,17,55,Stage 6 - Yixing Yangxian › Yixing Yangxian,123.3,,,2015
 04.11,54,56,Stage 5 - Chishanhu Lake State wetlands Park › Maoshan Mountain,130.6,,,2015
-03.11,108,100,Stage 4 - Wujin Yancheng Park › Xitaihu Lake,113,,,2015
-02.11,4,20,Stage 3 - Haimen › Haimen,133,5,5,2015
+03.11,108,100,Stage 4 - Wujin Yancheng Park › Xitaihu Lake,113.0,,,2015
+02.11,4,20,Stage 3 - Haimen › Haimen,133.0,5,5,2015
 01.11,41,28,Stage 2 - Nantong › Haimen,120.9,,,2015
-31.10,11,17,Stage 1 - Wuxi Binhu › Wuxi Binhu,142,,,2015
+31.10,11,17,Stage 1 - Wuxi Binhu › Wuxi Binhu,142.0,,,2015
 20.10 » 28.10,,,Tour of Hainan (2.HC),,,,2015
 ,13,,Points classification,,,,2015
 ,92,,General classification,,,,2015
-28.10,8,,Stage 9 - Wuzhishan › Xinglong,119,1,2,2015
+28.10,8,,Stage 9 - Wuzhishan › Xinglong,119.0,1,2,2015
 27.10,108,93,Stage 8 - Dongfang › Wuzhishan,204.8,,,2015
 26.10,23,39,Stage 7 - Sanya › Dongfang,165.7,,,2015
 25.10,84,38,Stage 6 - Qiongzhong › Sanya,174.1,,,2015
 24.10,27,31,Stage 5 - Chengmai › Qiongzhong,191.9,,,2015
-23.10,29,32,Stage 4 - Haikou › Chengmai,237,,,2015
+23.10,29,32,Stage 4 - Haikou › Chengmai,237.0,,,2015
 22.10,4,35,Stage 3 - Wenchang › Haikou,130.7,7,7,2015
 21.10,114,53,Stage 2 - Xinglong › Wenchang,188.3,,,2015
 20.10,5,8,Stage 1 - Xinglong › Xinglong,76.1,4,6,2015
 11.10,DNF,,Paris-Tours Espoirs (1.2U),182.5,,,2015
 08.10,DNF,,Paris-Bourges (1.1),186.2,,,2015
 04.10,DNF,,Tour de Vendée (1.1),201.1,,,2015
-25.09,DNF,,World Championships U23 - Road Race (WC),162,,,2015
-20.09,17,,Grand Prix d'Isbergues - Pas de Calais (1.1),204,4,,2015
-13.09,DNF,,Tour du Doubs - Conseil Général (1.1),177,,,2015
-06.09,162,,GP de Fourmies / La Voix du Nord (1.HC),205,,,2015
+25.09,DNF,,World Championships U23 - Road Race (WC),162.0,,,2015
+20.09,17,,Grand Prix d'Isbergues - Pas de Calais (1.1),204.0,4,,2015
+13.09,DNF,,Tour du Doubs - Conseil Général (1.1),177.0,,,2015
+06.09,162,,GP de Fourmies / La Voix du Nord (1.HC),205.0,,,2015
 25.08 » 28.08,,,Tour du Poitou Charentes (2.1),,,,2015
 ,28,,Youth classification,,,,2015
 ,88,,General classification,,,,2015
@@ -463,7 +491,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.08,98,100,Stage 4 (ITT) - Monts sur Guesnes › Loudun,23.2,,,2015
 27.08,80,102,Stage 3 - Monts sur Guesnes › Loudun,98.6,,,2015
 26.08,113,103,Stage 2 - Blanzac-Porcheresse › La Creche,194.7,,,2015
-25.08,106,106,Stage 1 - Rochefort › Barbezieux,187,,,2015
+25.08,106,106,Stage 1 - Rochefort › Barbezieux,187.0,,,2015
 09.08,6,,UEC Road European Championships U23 - Road Race (CC),161.2,24,16,2015
 01.08 » 03.08,,,Kreiz Breizh Elites (2.2),,,,2015
 ,48,,Youth classification,,,,2015
@@ -474,7 +502,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.08,118,94,Stage 3 - Carhaix › Carhaix,110.2,,,2015
 02.08,115,91,Stage 2 - Ploërdut › Callac,82.2,,,2015
 01.08,94,94,Stage 1 - Calanhel › Plouray,184.5,,,2015
-26.07,10,,Coppa dei Laghi - Trofeo Almar (1.Ncup),180,,,2015
+26.07,10,,Coppa dei Laghi - Trofeo Almar (1.Ncup),180.0,,,2015
 28.06,DNF,,National Championships Estonia  - Road Race (NC),183.2,,,2015
 25.06,11,,National Championships Estonia - ITT (NC),38.8,,,2015
 21.06,28,,European Games - Road Race (JR),215.8,,,2015
@@ -482,8 +510,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,1,,Youth classification,,,,2015
 ,1,,Points classification,,,,2015
 ,1,,General classification,,100,80,2015
-30.05,5,,Stage 2 - Tartu › Tartu,150,4,4,2015
-29.05,1,1,Stage 1 - Tallinn › Tartu,197,20,16,2015
+30.05,5,,Stage 2 - Tartu › Tartu,150.0,4,4,2015
+29.05,1,1,Stage 1 - Tallinn › Tartu,197.0,20,16,2015
 06.05 » 10.05,,,Tour d'Azerbaïdjan (2.1),,,,2015
 ,8,,Youth classification,,,,2015
 ,19,,Points classification,,,,2015
@@ -497,18 +525,18 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,61,,Youth classification,,,,2015
 ,114,,General classification,,,,2015
 19.04,85,,Stage 5 - Blois › Blois,97.5,,,2015
-18.04,111,135,Stage 4 - Angé › Angé,171,,,2015
-17.04,136,141,Stage 3 - Freteval › Vendôme,209,,,2015
-16.04,153,148,Stage 2 - Huisseau/Cosson › Fougères/Bièvre,196,,,2015
-15.04,140,147,Stage 1 - Blois › Nouan-le-Fuzelier,175,,,2015
-11.04,79,,Ronde van Vlaanderen Beloften (1.Ncup),177,,,2015
+18.04,111,135,Stage 4 - Angé › Angé,171.0,,,2015
+17.04,136,141,Stage 3 - Freteval › Vendôme,209.0,,,2015
+16.04,153,148,Stage 2 - Huisseau/Cosson › Fougères/Bièvre,196.0,,,2015
+15.04,140,147,Stage 1 - Blois › Nouan-le-Fuzelier,175.0,,,2015
+11.04,79,,Ronde van Vlaanderen Beloften (1.Ncup),177.0,,,2015
 03.04 » 06.04,,,Le Triptyque des Monts et Châteaux (2.2),,,,2015
 ,96,,General classification,,,,2015
 06.04,107,,Stage 4 - Beloeil › Frasnes-Lez-Buissenal,158.9,,,2015
 05.04,126,104,Stage 3 - Tournai › Flobecq,133.8,,,2015
 04.04,82,84,Stage 2 - Leuze-en-Hainaut › Mont de l’Enclus,144.7,,,2015
 03.04,119,119,Stage 1 - Antoing › Quevaucamps,158.3,,,2015
-12.10,DNF,,Paris-Tours Espoirs (1.2U),173,,,2014
+12.10,DNF,,Paris-Tours Espoirs (1.2U),173.0,,,2014
 20.08 » 24.08,,,Baltic Chain Tour (2.2),,,,2014
 ,2,,Youth classification,,,,2014
 ,9,,Points classification,,,,2014
@@ -525,12 +553,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,13,,Youth classification,,,,2014
 ,17,,Points classification,,,,2014
 ,31,,General classification,,,,2014
-31.05,7,,Stage 2 - Tartu › Tartu,150,2,,2014
-30.05,79,75,Stage 1 - Tallinn › Tartu,192,,,2014
+31.05,7,,Stage 2 - Tartu › Tartu,150.0,2,,2014
+30.05,79,75,Stage 1 - Tallinn › Tartu,192.0,,,2014
 16.04 » 20.04,,,Tour du Loir et Cher E Provost (2.2),,,,2014
-19.04,DNF,,Stage 4 - Angé › Angé,165,,,2014
-18.04,67,141,Stage 3 - Savigny › Vendôme,208,,,2014
-17.04,158,154,Stage 2 - Montoire › Villebarou,198,,,2014
+19.04,DNF,,Stage 4 - Angé › Angé,165.0,,,2014
+18.04,67,141,Stage 3 - Savigny › Vendôme,208.0,,,2014
+17.04,158,154,Stage 2 - Montoire › Villebarou,198.0,,,2014
 16.04,150,151,Stage 1 - Blois › Nouan-le-Fuzelier,183.5,,,2014
 12.04,DNF,,Ronde van Vlaanderen Beloften (1.Ncup),165.7,,,2014
 19.08 » 25.08,,,Baltic Chain Tour (2.2),,,,2013
@@ -538,37 +566,37 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,54,,General classification,,,,2013
 25.08,11,,Stage 6 - Utena › Vilnius,152.4,,,2013
 24.08,86,55,Stage 5 - Panevezys › Utena,154.1,,,2013
-22.08,20,16,Stage 4 - Smiltene › Sigulda,179,,,2013
-21.08,3,9,Stage 3 - Viljandi › Otepää,183,1,2,2013
-20.08,15,10,Stage 2 - Tallinn › Viljandi,187,,,2013
+22.08,20,16,Stage 4 - Smiltene › Sigulda,179.0,,,2013
+21.08,3,9,Stage 3 - Viljandi › Otepää,183.0,1,2,2013
+20.08,15,10,Stage 2 - Tallinn › Viljandi,187.0,,,2013
 19.08,18,15,Stage 1 - Lahti › Lahti,168.6,,,2013
-21.07,DNF,,European Championships U23 - Road Race (CC),165,,,2013
-22.06,9,,National Championships Estonia - Road Race (NC),175,,,2013
-20.06,3,,National Championships Estonia U23 - ITT (NC),42,,,2013
-09.06,34,,Jurmala Grand Prix (1.1),179,,,2013
-08.06,3,,Riga - Jurmala Grand Prix (1.1),168,40,32,2013
+21.07,DNF,,European Championships U23 - Road Race (CC),165.0,,,2013
+22.06,9,,National Championships Estonia - Road Race (NC),175.0,,,2013
+20.06,3,,National Championships Estonia U23 - ITT (NC),42.0,,,2013
+09.06,34,,Jurmala Grand Prix (1.1),179.0,,,2013
+08.06,3,,Riga - Jurmala Grand Prix (1.1),168.0,40,32,2013
 30.05 » 01.06,,,Tour of Estonia (2.1),,,,2013
-01.06,DNF,,Stage 3 - Tartu › Tartu,150,,,2013
-31.05,115,108,Stage 2 - Tallinn › Tartu,192,,,2013
-30.05,77,77,Stage 1a - Viimsi › Viimsi,125,,,2013
-30.05,23,24,Stage 1b (ITT) - Tallinn › Tallinn,3,,,2013
-28.04,DNF,,Destination Thy (1.2),180,,,2013
+01.06,DNF,,Stage 3 - Tartu › Tartu,150.0,,,2013
+31.05,115,108,Stage 2 - Tallinn › Tartu,192.0,,,2013
+30.05,77,77,Stage 1a - Viimsi › Viimsi,125.0,,,2013
+30.05,23,24,Stage 1b (ITT) - Tallinn › Tallinn,3.0,,,2013
+28.04,DNF,,Destination Thy (1.2),180.0,,,2013
 27.04,DNF,,Himmerland Rundt (1.2),194.3,,,2013
-26.04,55,,Skive-Løbet (1.2),168,,,2013
+26.04,55,,Skive-Løbet (1.2),168.0,,,2013
 13.04,DNF,,ZLM tour (1.Ncup),178.9,,,2013
 10.04,DNF,,La Côte Picarde (1.Ncup),172.2,,,2013
 06.04,DNF,,Ronde van Vlaanderen Beloften (1.Ncup),169.7,,,2013
 21.08 » 25.08,,,Baltic Chain Tour (2.2),,,,2012
 ,88,,General classification,,,,2012
-25.08,89,88,Stage 5 - Utena › Vilnius,140,,,2012
-24.08,85,87,Stage 4 - Šiauliai › Utena,180,,,2012
+25.08,89,88,Stage 5 - Utena › Vilnius,140.0,,,2012
+24.08,85,87,Stage 4 - Šiauliai › Utena,180.0,,,2012
 23.08,98,93,Stage 3 - Smiltene › Riga,180.9,,,2012
-22.08,96,93,Stage 2 - Viljandi  › Otepää,185,,,2012
-21.08,96,96,Stage 1 - Tallinn › Viljandi,187,,,2012
-03.06,26,,Riga Grand Prix (1.2),180,,,2012
+22.08,96,93,Stage 2 - Viljandi  › Otepää,185.0,,,2012
+21.08,96,96,Stage 1 - Tallinn › Viljandi,187.0,,,2012
+03.06,26,,Riga Grand Prix (1.2),180.0,,,2012
 12.05,DNF,,Scandinavian Race in Uppsala 1909-2012 (1.2),187.5,,,2012
 28.04 » 01.05,,,La Coupe du Président de la Ville de Grudziądz (2.1),,,,2011
-30.04,DNF,,Stage 3 - Świecie › Świecie,105,,,2011
+30.04,DNF,,Stage 3 - Świecie › Świecie,105.0,,,2011
 29.04,109,96,Stage 2 - Jabłonowo Pomorskie › Jabłonowo Pomorskie,96.5,,,2011
-28.04,85,66,Stage 1b - Łasin › Łasin,90,,,2011
-28.04,16,75,Stage 1a (TTT) - Gruta › Gruta,10,,,2011
+28.04,85,66,Stage 1b - Łasin › Łasin,90.0,,,2011
+28.04,16,75,Stage 1a (TTT) - Gruta › Gruta,10.0,,,2011

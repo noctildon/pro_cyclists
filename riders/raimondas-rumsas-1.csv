@@ -1,13 +1,15 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
 25.06,3,,National Championships Lithuania - Road Race (NC) ,155,7,,2006
 23.06,1,,National Championships Lithuania - ITT (NC) ,32,15,,2006
+25.06,3,,National Championships Lithuania - Road Race (NC) ,155.0,7,,2006
+23.06,1,,National Championships Lithuania - ITT (NC) ,32.0,15,,2006
 26.06,2,,National Championships Lithuania - Road Race (NC) ,,10,,2005
-24.06,1,,National Championships Lithuania - ITT (NC) ,25,15,,2005
+24.06,1,,National Championships Lithuania - ITT (NC) ,25.0,15,,2005
 03.10,DNF,,World Championships - Road Race (WC) ,265.5,,,2004
 26.09,64,,Gran Premio Bruno Beghelli (1.2) ,199.9,,,2004
 05.09,43,,Giro di Romagna (1.2) ,190.2,,,2004
 17.08,51,,Tre Valli Varesine (1.1) ,197.9,,,2004
-10.08,34,,2 Giorni Marchigiana - GP Fred Mengoni (1.3) ,204,,,2004
+10.08,34,,2 Giorni Marchigiana - GP Fred Mengoni (1.3) ,204.0,,,2004
 04.08,43,,GP Città di Camaiore (1.2) ,193.7,,,2004
 04.06 » 08.06,,,Euskal Bizikleta (2.1) ,,,,2003
 08.06,DNS,,Stage 5 - ETB (Iurreta) › Arrate (Eibar) ,147.9,,,2003
@@ -20,84 +22,84 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,12,,Mountains classification ,,,,2003
 ,13,,Points classification ,,,,2003
 ,6,,General classification ,,190,,2003
-01.06,5,,Stage 21 (ITT) - Idsroscalo › Milano ,33,18,,2003
-31.05,42,6,Stage 20 - Canobio › Cantu ,133,,,2003
-30.05,7,6,Stage 19 - Canelli › Cascata del Toce ,239,12,,2003
-29.05,5,6,Stage 18 - Santuorio Vico › Chianale ,175,18,,2003
-28.05,42,5,Stage 17 - Salice Terme › Asti ,117,,,2003
-26.05,30,5,Stage 16 - Arco Trento › Pavia ,207,,,2003
+01.06,5,,Stage 21 (ITT) - Idsroscalo › Milano ,33.0,18,,2003
+31.05,42,6,Stage 20 - Canobio › Cantu ,133.0,,,2003
+30.05,7,6,Stage 19 - Canelli › Cascata del Toce ,239.0,12,,2003
+29.05,5,6,Stage 18 - Santuorio Vico › Chianale ,175.0,18,,2003
+28.05,42,5,Stage 17 - Salice Terme › Asti ,117.0,,,2003
+26.05,30,5,Stage 16 - Arco Trento › Pavia ,207.0,,,2003
 25.05,17,5,Stage 15 (ITT) - Merano › Bolzano ,42.5,,,2003
-24.05,3,5,Stage 14 - Marostica › Alpe Pampeago ,162,35,,2003
-23.05,24,6,Stage 13 - Pordenone › Marostica ,155,,,2003
-22.05,13,6,Stage 12 - San Donà di Piave › Monte Zoncolan ,185,3,,2003
-21.05,38,7,Stage 11 - Faenza › San Donà di Piave ,222,,,2003
-20.05,25,7,Stage 10 - Montecatini › Faenza ,211,,,2003
-19.05,32,8,Stage 9 - Arezzo › Montecatini Terme ,160,,,2003
-18.05,31,8,Stage 8 - Rieti › Arezzo ,214,,,2003
-17.05,7,7,Stage 7 - Avezzano › Terminillo ,146,12,,2003
-15.05,29,30,Stage 6 - Maddaloni › Avezzano ,218,,,2003
-14.05,67,32,Stage 5 - Messina › Catania ,176,,,2003
-13.05,25,23,Stage 4 - Terme Luigiane › Vibo Valentia ,170,,,2003
-12.05,28,24,Stage 3 - Policoro › Terme Liugiane ,145,,,2003
-11.05,21,26,Stage 2 - Copertino › Matera ,177,,,2003
-10.05,56,60,Stage 1 - Lecce › Lecce ,201,,,2003
-04.05,30,,Giro di Toscana (1.3) ,196,,,2003
-03.05,14,,GP Industria & Artigianato-Larciano (1.2) ,200,7,,2003
-27.04,42,,Liège - Bastogne - Liège (CDM) ,258,5,,2003
+24.05,3,5,Stage 14 - Marostica › Alpe Pampeago ,162.0,35,,2003
+23.05,24,6,Stage 13 - Pordenone › Marostica ,155.0,,,2003
+22.05,13,6,Stage 12 - San Donà di Piave › Monte Zoncolan ,185.0,3,,2003
+21.05,38,7,Stage 11 - Faenza › San Donà di Piave ,222.0,,,2003
+20.05,25,7,Stage 10 - Montecatini › Faenza ,211.0,,,2003
+19.05,32,8,Stage 9 - Arezzo › Montecatini Terme ,160.0,,,2003
+18.05,31,8,Stage 8 - Rieti › Arezzo ,214.0,,,2003
+17.05,7,7,Stage 7 - Avezzano › Terminillo ,146.0,12,,2003
+15.05,29,30,Stage 6 - Maddaloni › Avezzano ,218.0,,,2003
+14.05,67,32,Stage 5 - Messina › Catania ,176.0,,,2003
+13.05,25,23,Stage 4 - Terme Luigiane › Vibo Valentia ,170.0,,,2003
+12.05,28,24,Stage 3 - Policoro › Terme Liugiane ,145.0,,,2003
+11.05,21,26,Stage 2 - Copertino › Matera ,177.0,,,2003
+10.05,56,60,Stage 1 - Lecce › Lecce ,201.0,,,2003
+04.05,30,,Giro di Toscana (1.3) ,196.0,,,2003
+03.05,14,,GP Industria & Artigianato-Larciano (1.2) ,200.0,7,,2003
+27.04,42,,Liège - Bastogne - Liège (CDM) ,258.0,5,,2003
 23.04,45,,La Flèche Wallonne (1.HC) ,199.5,5,,2003
 20.04,24,,Amstel Gold Race (CDM) ,250.7,11,,2003
 07.04 » 11.04,,,Vuelta al Pais Vasco (2.HC) ,,,,2003
-10.04,90,74,Stage 4 - Vitoria › Santesteban ,171,,,2003
-09.04,73,60,Stage 3 - Plencia › Vitoria ,191,,,2003
-08.04,64,56,Stage 2 - Legazpia › Plencia ,158,,,2003
-07.04,56,56,Stage 1 - Legazpia › Legazpia ,129,,,2003
+10.04,90,74,Stage 4 - Vitoria › Santesteban ,171.0,,,2003
+09.04,73,60,Stage 3 - Plencia › Vitoria ,191.0,,,2003
+08.04,64,56,Stage 2 - Legazpia › Plencia ,158.0,,,2003
+07.04,56,56,Stage 1 - Legazpia › Legazpia ,129.0,,,2003
 26.03 » 30.03,,,Settimana Internazionale Coppi e Bartali (2.3) ,,,,2003
-27.03,10,10,Stage 2 - Riccione › Faenza ,247,,,2003
+27.03,10,10,Stage 2 - Riccione › Faenza ,247.0,,,2003
 26.03,1,5,Stage 1b (TTT) - Rimini › Rimini ,8.2,10,,2003
-22.03,33,,Milano-Sanremo (CDM) ,297,7,,2003
+22.03,33,,Milano-Sanremo (CDM) ,297.0,7,,2003
 13.03 » 19.03,,,Tirreno-Adriatico (2.HC) ,,,,2003
 ,37,,General classification ,,5,,2003
-19.03,35,,Stage 7 - San Benedetto Del Tronto › San Benedetto Del Tronto ,162,,,2003
-18.03,37,40,Stage 6 - Teramo › Torricella ,179,,,2003
-17.03,23,34,Stage 5 - Monte San Giusto › Rapagnano ,181,,,2003
-15.03,75,45,Stage 3 - Tarquinia › Foligno ,175,,,2003
-14.03,38,41,Stage 2 - Sabaudia › Tarquinia ,213,,,2003
-13.03,67,67,Stage 1 - Sabaudia › Sabaudia ,178,,,2003
+19.03,35,,Stage 7 - San Benedetto Del Tronto › San Benedetto Del Tronto ,162.0,,,2003
+18.03,37,40,Stage 6 - Teramo › Torricella ,179.0,,,2003
+17.03,23,34,Stage 5 - Monte San Giusto › Rapagnano ,181.0,,,2003
+15.03,75,45,Stage 3 - Tarquinia › Foligno ,175.0,,,2003
+14.03,38,41,Stage 2 - Sabaudia › Tarquinia ,213.0,,,2003
+13.03,67,67,Stage 1 - Sabaudia › Sabaudia ,178.0,,,2003
 05.03 » 09.03,,,Vuelta a Murcia (2.3) ,,,,2003
 ,31,,General classification ,,,,2003
 09.03,20,,Stage 5 (ITT) - Murcia › Murcia ,12.9,,,2003
-08.03,35,33,Stage 4 - Cartagena › Alto de La Santa ,167,,,2003
+08.03,35,33,Stage 4 - Cartagena › Alto de La Santa ,167.0,,,2003
 07.03,63,18,Stage 3 - Caravaca › Caravaca ,160.8,,,2003
 06.03,15,18,Stage 2 - Alguazas › Alto Cresta del Gallo ,153.6,,,2003
 05.03,78,79,Stage 1 - Murcia › Ceuti ,162.2,,,2003
 19.02 » 22.02,,,Giro Della Liguria (2.3) ,,,,2003
 ,12,,General classification ,,10,,2003
-18.02,20,,Trofeo Laigueglia (1.2) ,183,1,,2003
+18.02,20,,Trofeo Laigueglia (1.2) ,183.0,1,,2003
 06.07 » 28.07,,,Tour de France () ,,,,2002
 ,10,,Mountains classification ,,,,2002
 ,9,,Points classification ,,,,2002
 ,3,,General classification ,,340,,2002
-28.07,31,,Stage 20 - Melun › Paris ,140,,,2002
-27.07,2,3,Stage 19 (ITT) - Regnier-Durette › Macon ,50,70,,2002
+28.07,31,,Stage 20 - Melun › Paris ,140.0,,,2002
+27.07,2,3,Stage 19 (ITT) - Regnier-Durette › Macon ,50.0,70,,2002
 26.07,47,3,Stage 18 - Cluses › Bourg-en-Bresse ,176.5,,,2002
-25.07,23,3,Stage 17 - Aime › Cluses ,142,,,2002
+25.07,23,3,Stage 17 - Aime › Cluses ,142.0,,,2002
 24.07,5,3,Stage 16 - Les Deux Alpes › La Plagne ,179.5,32,,2002
 23.07,7,3,Stage 15 - Vaison-le-Romaine › Les deux Alpes ,226.5,22,,2002
-21.07,5,3,Stage 14 - Lodève › Mont Ventoux ,221,32,,2002
-20.07,36,4,Stage 13 - Lavelanet › Béziers ,171,,,2002
+21.07,5,3,Stage 14 - Lodève › Mont Ventoux ,221.0,32,,2002
+20.07,36,4,Stage 13 - Lavelanet › Béziers ,171.0,,,2002
 19.07,6,4,Stage 12 - Lannemezan › Plateau de Beille ,199.5,26,,2002
-18.07,5,4,Stage 11 - Pau › La Mongie ,158,32,,2002
-17.07,64,9,Stage 10 - Bazas › Pau ,147,,,2002
-15.07,6,8,Stage 9 (ITT) - Lanester › Lorient ,52,26,,2002
+18.07,5,4,Stage 11 - Pau › La Mongie ,158.0,32,,2002
+17.07,64,9,Stage 10 - Bazas › Pau ,147.0,,,2002
+15.07,6,8,Stage 9 (ITT) - Lanester › Lorient ,52.0,26,,2002
 14.07,43,32,Stage 8 - Saint-Martin-de-Landelles › Plouay ,217.5,,,2002
-13.07,76,32,Stage 7 - Bagnoles De l'Orne › Avranches ,176,,,2002
+13.07,76,32,Stage 7 - Bagnoles De l'Orne › Avranches ,176.0,,,2002
 12.07,88,36,Stage 6 - Forges-les-Eaux › Alencon ,199.5,,,2002
-11.07,87,35,Stage 5 - Soissons › Rouen ,195,,,2002
+11.07,87,35,Stage 5 - Soissons › Rouen ,195.0,,,2002
 10.07,10,35,Stage 4 (TTT) - Epernay › Château-Thierry ,67.5,,,2002
 09.07,112,6,Stage 3 - Metz › Reims ,174.5,,,2002
-08.07,90,5,Stage 2 - Luxembourg › Saarbrücken ,181,,,2002
+08.07,90,5,Stage 2 - Luxembourg › Saarbrücken ,181.0,,,2002
 07.07,16,4,Stage 1 - Luxembourg  › Luxembourg  ,192.5,,,2002
-06.07,3,3,Prologue - Luxembourg › Luxembourg ,7,50,,2002
+06.07,3,3,Prologue - Luxembourg › Luxembourg ,7.0,50,,2002
 17.06 » 23.06,,,Volta a Catalunya (2.HC) ,,,,2002
 ,11,,Mountains classification ,,,,2002
 ,4,,Points classification ,,,,2002
@@ -105,44 +107,44 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.06,3,,Stage 7 - Montcada i Reixac › Barcelona ,115.9,18,,2002
 22.06,34,,Stage 6 - Llivia › Montcada i Reixac ,180.1,,,2002
 21.06,8,,Stage 5 - Andorre › Llivia ,141.3,3,,2002
-20.06,20,,Stage 4 - Barruera › Station de Pal ,52,,,2002
+20.06,20,,Stage 4 - Barruera › Station de Pal ,52.0,,,2002
 19.06,3,3,Stage 3 (ITT) - Sant Climent de Taull › Boi Taull ,10.8,18,,2002
 18.06,46,,Stage 2 - La Senia › Les Borges Blanques ,182.9,,,2002
 17.06,5,30,Stage 1 (TTT) - Sant Jaume d'Enveja › Deltebre ,30.9,0.5,,2002
 05.06 » 09.06,,,Euskal Bizikleta (2.1) ,,,,2002
 ,2,,General classification ,,110,,2002
-09.06,3,,Stage 5 ,148,12,,2002
-08.06,2,,Stage 4b (ITT) ,21,18,,2002
-06.06,7,,Stage 2 ,163,2,,2002
+09.06,3,,Stage 5 ,148.0,12,,2002
+08.06,2,,Stage 4b (ITT) ,21.0,18,,2002
+06.06,7,,Stage 2 ,163.0,2,,2002
 05.05,24,,Giro di Toscana (1.3) ,194.1,,,2002
-04.05,21,,GP Industria & Artigianato-Larciano (1.2) ,200,,,2002
+04.05,21,,GP Industria & Artigianato-Larciano (1.2) ,200.0,,,2002
 28.04,91,,Amstel Gold Race (CDM) ,254.4,5,,2002
-25.04,92,,GP de Denain Porte du Hainaut (1.3) ,197,,,2002
-21.04,39,,Liège - Bastogne - Liège (CDM) ,258,5,,2002
-17.04,58,,La Flèche Wallonne (1.HC) ,198,5,,2002
+25.04,92,,GP de Denain Porte du Hainaut (1.3) ,197.0,,,2002
+21.04,39,,Liège - Bastogne - Liège (CDM) ,258.0,5,,2002
+17.04,58,,La Flèche Wallonne (1.HC) ,198.0,5,,2002
 08.04 » 12.04,,,Vuelta al Pais Vasco (2.HC) ,,,,2002
-12.04,DNF,,Stage 5a - Villabona › Elgoibar ,94,,,2002
-11.04,75,61,Stage 4 - Alasua › Villabona ,154,,,2002
-10.04,83,60,Stage 3 - Vitoria › Alasua ,170,,,2002
-09.04,70,52,Stage 2 - Zalla › Vitoria ,183,,,2002
-08.04,44,44,Stage 1 - Zalla › Zalla ,139,,,2002
-09.03,11,,Trofeo Pantalica (1.3) ,197,12,,2002
-23.02,20,,Tour du Haut Var (1.2) ,180,1,,2002
-19.02,14,,Trofeo Laigueglia (1.3) ,173,7,,2002
+12.04,DNF,,Stage 5a - Villabona › Elgoibar ,94.0,,,2002
+11.04,75,61,Stage 4 - Alasua › Villabona ,154.0,,,2002
+10.04,83,60,Stage 3 - Vitoria › Alasua ,170.0,,,2002
+09.04,70,52,Stage 2 - Zalla › Vitoria ,183.0,,,2002
+08.04,44,44,Stage 1 - Zalla › Zalla ,139.0,,,2002
+09.03,11,,Trofeo Pantalica (1.3) ,197.0,12,,2002
+23.02,20,,Tour du Haut Var (1.2) ,180.0,1,,2002
+19.02,14,,Trofeo Laigueglia (1.3) ,173.0,7,,2002
 13.02 » 17.02,,,Tour Méditerranéen (2.3) ,,,,2002
-15.02,85,,Stage 3 - Villeneuve-Loubet › Hyères ,142,,,2002
-14.02,116,,Stage 2 - Bouc-Bel-Air › Le Cannet ,168,,,2002
-13.02,110,110,Stage 1 (TTT) - Salon-de-Provence › Berre ,36,,,2002
+15.02,85,,Stage 3 - Villeneuve-Loubet › Hyères ,142.0,,,2002
+14.02,116,,Stage 2 - Bouc-Bel-Air › Le Cannet ,168.0,,,2002
+13.02,110,110,Stage 1 (TTT) - Salon-de-Provence › Berre ,36.0,,,2002
 27.10,17,,Firenze - Pistoia () ,34.1,4,,2001
 14.10,74,,World Championships - Road Race (WC) ,254.1,15,,2001
-16.09,DNF,,GP de Fourmies / La Voix du Nord (1.HC) ,210,,,2001
+16.09,DNF,,GP de Fourmies / La Voix du Nord (1.HC) ,210.0,,,2001
 03.09 » 10.09,,,Tour de Pologne (2.3) ,,,,2001
-08.09,DNF,,Stage 6 - Piechowice › Karpacz ,150,,,2001
+08.09,DNF,,Stage 6 - Piechowice › Karpacz ,150.0,,,2001
 07.09,5,,Stage 5 - Kożuchów › Szklarska Poręba ,160.5,4,,2001
-06.09,41,,Stage 4 - Stargard › Zielona Góra ,256,,,2001
-05.09,44,,Stage 3 - Kołobrzeg › Szczecin ,178,,,2001
+06.09,41,,Stage 4 - Stargard › Zielona Góra ,256.0,,,2001
+05.09,44,,Stage 3 - Kołobrzeg › Szczecin ,178.0,,,2001
 04.09,51,,Stage 2 - Gdynia › Koszalin ,246.5,,,2001
-03.09,32,,Stage 1 - Gdansk › Sopot ,178,,,2001
+03.09,32,,Stage 1 - Gdansk › Sopot ,178.0,,,2001
 26.08,DNF,,Züri Metzgete (CDM) ,248.4,,,2001
 02.08 » 15.08,,,Volta a Portugal (2.3) ,,,,2001
 ,57,,General classification ,,,,2001
@@ -153,238 +155,237 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,52,,General classification ,,,,2001
 11.07 » 14.07,,,International UNIQA Classic (2.4) ,,,,2001
 ,27,,General classification ,,,,2001
-14.07,29,,Stage 4 - Gresten › Hochkar ,144,,,2001
-13.07,62,29,Stage 3 - Rabenstein › Gresten ,170,,,2001
-12.07,32,25,Stage 2 - Traismauer › Rabenstein ,164,,,2001
-11.07,45,,Stage 1 - Traismauer › Traismauer ,178,,,2001
-01.07,1,,National Championships Lithuania - Road Race (NC) ,209,15,,2001
+14.07,29,,Stage 4 - Gresten › Hochkar ,144.0,,,2001
+13.07,62,29,Stage 3 - Rabenstein › Gresten ,170.0,,,2001
+12.07,32,25,Stage 2 - Traismauer › Rabenstein ,164.0,,,2001
+11.07,45,,Stage 1 - Traismauer › Traismauer ,178.0,,,2001
+01.07,1,,National Championships Lithuania - Road Race (NC) ,209.0,15,,2001
 28.06,3,,National Championships Lithuania - ITT (NC) ,,2,,2001
 23.06 » 26.06,,,Route du Sud (2.3) ,,,,2001
 ,3,,General classification ,,50,,2001
-26.06,4,,Stage 4 - Saint-Gaudens › Plateau de Beille ,181,5,,2001
-25.06,22,,Stage 3 - Saint-Salvy › Saint-Gaudens ,206,,,2001
-25.06,2,,Giro dell'Appennino (1.2) ,200,55,,2001
-24.06,39,,Stage 2a - Carcassonne › Castres ,118,,,2001
-24.06,5,,Stage 2b (ITT) - Castres › Castres ,17,4,,2001
-23.06,4,,Stage 1 - Carcassonne › Carcassonee ,168,5,,2001
+26.06,4,,Stage 4 - Saint-Gaudens › Plateau de Beille ,181.0,5,,2001
+25.06,22,,Stage 3 - Saint-Salvy › Saint-Gaudens ,206.0,,,2001
+25.06,2,,Giro dell'Appennino (1.2) ,200.0,55,,2001
+24.06,39,,Stage 2a - Carcassonne › Castres ,118.0,,,2001
+24.06,5,,Stage 2b (ITT) - Castres › Castres ,17.0,4,,2001
+23.06,4,,Stage 1 - Carcassonne › Carcassonee ,168.0,5,,2001
 11.06 » 17.06,,,Österreich-Rundfahrt () ,,,,2001
 ,32,,General classification ,,,,2001
-17.06,23,,Stage 7 - Mauterndorf › Gröbming ,133,,,2001
-15.06,32,32,Stage 5 - Kitzbühel › Lienz ,138,,,2001
-14.06,30,39,Stage 4 - Bad Gastein › Kitzbühler ,154,,,2001
-13.06,40,57,Stage 3 - Schwaz › Bad Hofgastein ,173,,,2001
-12.06,57,62,Stage 2 - Dornbirn › Lermoos ,197,,,2001
-11.06,66,66,Stage 1 - Dornbirn › Dornbirn ,141,,,2001
-05.05,13,,GP Industria & Artigianato-Larciano (1.2) ,200,8,,2001
+17.06,23,,Stage 7 - Mauterndorf › Gröbming ,133.0,,,2001
+15.06,32,32,Stage 5 - Kitzbühel › Lienz ,138.0,,,2001
+14.06,30,39,Stage 4 - Bad Gastein › Kitzbühler ,154.0,,,2001
+13.06,40,57,Stage 3 - Schwaz › Bad Hofgastein ,173.0,,,2001
+12.06,57,62,Stage 2 - Dornbirn › Lermoos ,197.0,,,2001
+11.06,66,66,Stage 1 - Dornbirn › Dornbirn ,141.0,,,2001
+05.05,13,,GP Industria & Artigianato-Larciano (1.2) ,200.0,8,,2001
 30.04 » 03.05,,,Giro del Trentino () ,,,,2001
-,3,,General classification ,,50,,2001
-02.05,7,,Stage 3 - Fondo › Malcesine ,178,2,,2001
-30.04,3,,Stage 1 - Tione › Passo Daone ,161,7,,2001
-22.04,6,,Liège - Bastogne - Liège (CDM) ,258,90,,2001
-18.04,12,,La Flèche Wallonne () ,198,34,,2001
+02.05,7,,Stage 3 - Fondo › Malcesine ,178.0,2,,2001
+30.04,3,,Stage 1 - Tione › Passo Daone ,161.0,7,,2001
+22.04,6,,Liège - Bastogne - Liège (CDM) ,258.0,90,,2001
+18.04,12,,La Flèche Wallonne () ,198.0,34,,2001
 09.04 » 14.04,,,Vuelta al Pais Vasco (2.HC) ,,,,2001
 ,3,,Points classification ,,,,2001
 ,1,,General classification ,,250,,2001
-14.04,1,,Stage 5b (ITT) - Lasarte › Lasarte ,10,50,,2001
-12.04,5,2,Stage 4 - Araia › Lekunberri ,182,10,,2001
-11.04,7,5,Stage 3 - Mungia › Araia ,162,4,,2001
-10.04,8,3,Stage 2 - Asteasu › Mungia ,175,3,,2001
-09.04,4,4,Stage 1 - Asteasu › Asteasu ,118,13,,2001
+14.04,1,,Stage 5b (ITT) - Lasarte › Lasarte ,10.0,50,,2001
+12.04,5,2,Stage 4 - Araia › Lekunberri ,182.0,10,,2001
+11.04,7,5,Stage 3 - Mungia › Araia ,162.0,4,,2001
+10.04,8,3,Stage 2 - Asteasu › Mungia ,175.0,3,,2001
+09.04,4,4,Stage 1 - Asteasu › Asteasu ,118.0,13,,2001
 27.03 » 31.03,,,Settimana Ciclistica Internazionale Coppi-Bartali (2.3) ,,,,2001
 ,7,,General classification ,,20,,2001
 29.03,3,,Stage 3 - Montese › Cantagrillo ,152.2,7,,2001
-28.03,7,7,Stage 2 - Cento › Montese ,214,2,,2001
-24.03,29,,Milano-Sanremo (CDM) ,287,11,,2001
+28.03,7,7,Stage 2 - Cento › Montese ,214.0,2,,2001
+24.03,29,,Milano-Sanremo (CDM) ,287.0,11,,2001
 11.03 » 18.03,,,Paris - Nice () ,,,,2001
 ,2,,General classification ,,190,,2001
 18.03,35,,Stage 7 - Nice › Nice ,157.1,,,2001
-17.03,2,,Stage 6 (ITT) - Nice › Col d'Eze ,10,30,,2001
+17.03,2,,Stage 6 (ITT) - Nice › Col d'Eze ,10.0,30,,2001
 16.03,31,,Stage 5 - Berre l'Etang › Saint-Raphaël ,240.3,,,2001
 15.03,28,,Stage 4 - Tarascon › Sisteron ,195.6,,,2001
 14.03,35,,Stage 3 - Saint-Etienne › Villeneuve-lez-Avignon ,217.9,,,2001
 13.03,9,,Stage 2 - Clermont-Ferrand › Saint-Etienne ,195.4,2,,2001
 12.03,18,,Stage 1 - Saint-Amand-Montrond › Clermont-Ferrand ,189.2,,,2001
 11.03,12,,Prologue - Nevers › Nevers ,6.2,,,2001
-03.03,3,,GP Chiasso (1.3) ,168,40,,2001
-25.02,19,,Classic Haribo (1.3) ,203,2,,2001
-24.02,20,,Tour du Haut Var (1.2) ,180,1,,2001
+03.03,3,,GP Chiasso (1.3) ,168.0,40,,2001
+25.02,19,,Classic Haribo (1.3) ,203.0,2,,2001
+24.02,20,,Tour du Haut Var (1.2) ,180.0,1,,2001
 20.02,9,,Trofeo Laigueglia (1.3) ,172.6,16,,2001
 14.02,28,,G.P. Costa degli Etruschi (NE) ,171.6,,,2001
-21.10,1,,Giro di Lombardia (CDM) ,258,275,,2000
+21.10,1,,Giro di Lombardia (CDM) ,258.0,275,,2000
 15.10,20,,World Championships - Road Race (WC) ,268.9,30,,2000
 08.10,90,,Paris - Tours (CDM) ,254.4,5,,2000
 30.09,22,,Olympic Games - ITT () ,46.8,10,,2000
 27.09,44,,Olympic Games Road Race (Olympics) ,239.4,15,,2000
 26.08 » 17.09,,,Vuelta a España () ,,,,2000
 ,5,,General classification ,,200,,2000
-17.09,11,,Stage 21 (ITT) - Madrid  ›  Madrid ,38,5,,2000
-16.09,8,,Stage 20 - Ávila › Alto de Abantos  ,125,10,,2000
-15.09,7,,Stage 19 - Salamanca  ›  Ávila ,130,12,,2000
-14.09,6,,Stage 18 - Béjar › Ciudad Rodrigo ,160,15,,2000
+17.09,11,,Stage 21 (ITT) - Madrid  ›  Madrid ,38.0,5,,2000
+16.09,8,,Stage 20 - Ávila › Alto de Abantos  ,125.0,10,,2000
+15.09,7,,Stage 19 - Salamanca  ›  Ávila ,130.0,12,,2000
+14.09,6,,Stage 18 - Béjar › Ciudad Rodrigo ,160.0,15,,2000
 13.09,23,,Stage 17 - Benavente › Salamanca ,155.5,,,2000
-12.09,8,,Stage 16 - Oviedo  ›  Alto Del Angliru  ,168,10,,2000
-11.09,25,,Stage 15 - Cangas de Onís  ›  Gijón ,164,,,2000
+12.09,8,,Stage 16 - Oviedo  ›  Alto Del Angliru  ,168.0,10,,2000
+11.09,25,,Stage 15 - Cangas de Onís  ›  Gijón ,164.0,,,2000
 10.09,11,,Stage 14 - Santander  ›  Lagos de Covadonga  ,146.5,5,,2000
 09.09,27,,Stage 13 - Santander  ›  Santander  ,143.3,,,2000
-07.09,30,,Stage 12 - Zaragoza  › Zaragoza ,132,,,2000
+07.09,30,,Stage 12 - Zaragoza  › Zaragoza ,132.0,,,2000
 05.09,15,,Stage 11 - Alp › Ordino ,136.5,1,,2000
-04.09,25,,Stage 10 - Sabadell  ›  La Molina  ,175,,,2000
-03.09,22,,Stage 9 (ITT) - Tarragona  ›  Tarragona ,38,,,2000
-02.09,25,,Stage 8 - Vinaroz  ›  Port Aventura ,170,,,2000
-01.09,19,,Stage 7 - Valencia  ›  Morella ,175,,,2000
+04.09,25,,Stage 10 - Sabadell  ›  La Molina  ,175.0,,,2000
+03.09,22,,Stage 9 (ITT) - Tarragona  ›  Tarragona ,38.0,,,2000
+02.09,25,,Stage 8 - Vinaroz  ›  Port Aventura ,170.0,,,2000
+01.09,19,,Stage 7 - Valencia  ›  Morella ,175.0,,,2000
 31.08,49,,Stage 6 - Benidorm  ›  Valencia ,155.5,,,2000
-30.08,6,,Stage 5 - Albacete  ›  Xorret de Catí  ,152,15,,2000
-29.08,23,,Stage 4 - Valdepeñas  ›  Albacete ,159,,,2000
-28.08,43,,Stage 3 - Montoro › Valdepeñas ,198,,,2000
+30.08,6,,Stage 5 - Albacete  ›  Xorret de Catí  ,152.0,15,,2000
+29.08,23,,Stage 4 - Valdepeñas  ›  Albacete ,159.0,,,2000
+28.08,43,,Stage 3 - Montoro › Valdepeñas ,198.0,,,2000
 27.08,70,,Stage 2 - Málaga › Córdoba ,167.5,,,2000
 26.08,24,,Prologue - Málaga  ›  Málaga ,13.3,,,2000
-18.08,2,,Coppa Bernocchi (1.3) ,207,55,,2000
-17.08,15,,Coppa Agostoni (1.2) ,197,6,,2000
-16.08,30,,Tre Valli Varesine (1.1) ,204,,,2000
-12.08,21,,Clasica Ciclista San Sebastian (CDM) ,232,14,,2000
+18.08,2,,Coppa Bernocchi (1.3) ,207.0,55,,2000
+17.08,15,,Coppa Agostoni (1.2) ,197.0,6,,2000
+16.08,30,,Tre Valli Varesine (1.1) ,204.0,,,2000
+12.08,21,,Clasica Ciclista San Sebastian (CDM) ,232.0,14,,2000
 07.08 » 10.08,,,Vuelta a Burgos (2.1) ,,,,2000
 ,4,,General classification ,,80,,2000
-10.08,11,,Stage 4 ,164,,,2000
-09.08,4,,Stage 3 ,164,7,,2000
-08.08,12,,Stage 2 ,181,,,2000
-02.08,5,,GP Città di Camaiore (1.2) ,196,28,,2000
-30.07,4,,Luk-Cup Bühl (1.3) ,194,32,,2000
+10.08,11,,Stage 4 ,164.0,,,2000
+09.08,4,,Stage 3 ,164.0,7,,2000
+08.08,12,,Stage 2 ,181.0,,,2000
+02.08,5,,GP Città di Camaiore (1.2) ,196.0,28,,2000
+30.07,4,,Luk-Cup Bühl (1.3) ,194.0,32,,2000
 22.05 » 27.05,,,GP du Midi-Libre () ,,,,2000
-22.05,136,,Stage 1 - Palavas  › Le Barcarès  ,197,,,2000
+22.05,136,,Stage 1 - Palavas  › Le Barcarès  ,197.0,,,2000
 02.05 » 07.05,,,Tour de Romandie () ,,,,2000
 ,30,,Points classification ,,,,2000
 ,9,,General classification ,,80,,2000
 07.05,21,,Stage 5 - Aigle › Geneva ,177.8,,,2000
-06.05,10,,Stage 4 - Orbe › Leysin ,160,1,,2000
+06.05,10,,Stage 4 - Orbe › Leysin ,160.0,1,,2000
 05.05,48,,Stage 3a - Neuchatel › Orbe ,66.6,,,2000
 05.05,13,,Stage 3b (ITT) - Orbe › Orbe ,24.2,,,2000
 04.05,14,,Stage 2 - Montreux › La Chaux de Fonds ,162.1,,,2000
 03.05,44,,Stage 1 - Locarno › Le Bouveret ,224.3,,,2000
 02.05,71,,Prologue - Locarno › Locarno ,6.5,,,2000
-01.05,42,,Rund um den Henninger Turm (1.1) ,206,,,2000
-16.04,35,,Liège - Bastogne - Liège (CDM) ,258,5,,2000
-12.04,38,,La Flèche Wallonne () ,198,5,,2000
-03.04,DNF,,Ronde van Vlaanderen / Tour des Flandres (CDM) ,269,,,2000
+01.05,42,,Rund um den Henninger Turm (1.1) ,206.0,,,2000
+16.04,35,,Liège - Bastogne - Liège (CDM) ,258.0,5,,2000
+12.04,38,,La Flèche Wallonne () ,198.0,5,,2000
+03.04,DNF,,Ronde van Vlaanderen / Tour des Flandres (CDM) ,269.0,,,2000
 28.03 » 30.03,,,KBC Driedaagse van De Panne-Koksijde () ,,,,2000
 ,63,,General classification ,,,,2000
-30.03,89,,Stage 3A - De Panne › Panne ,105,,,2000
-30.03,80,,Stage 3B (ITT) - De Panne › Panne ,14,,,2000
-29.03,45,,Stage 2 - Zottegem › Koksijde ,244,,,2000
-28.03,92,,Stage 1 - Mouscron › Zottegem ,178,,,2000
+30.03,89,,Stage 3A - De Panne › Panne ,105.0,,,2000
+30.03,80,,Stage 3B (ITT) - De Panne › Panne ,14.0,,,2000
+29.03,45,,Stage 2 - Zottegem › Koksijde ,244.0,,,2000
+28.03,92,,Stage 1 - Mouscron › Zottegem ,178.0,,,2000
 22.03 » 26.03,,,Settimana Internazionale Coppi e Bartali () ,,,,2000
 ,26,,General classification ,,,,2000
-25.03,DNF,,E3-Prijs Harelbeke (1.1) ,209,,,2000
+25.03,DNF,,E3-Prijs Harelbeke (1.1) ,209.0,,,2000
 08.03 » 15.03,,,Tirreno-Adriatico () ,,,,2000
 ,49,,General classification ,,5,,2000
-04.03,42,,Trofeo Pantalica (1.3) ,200,,,2000
-20.02,66,,Classic Haribo (1.2) ,205,,,2000
-06.02,25,,G.P. Costa degli Etruschi (NE) ,171,,,2000
-10.10,26,,World Championships - Road Race (WC) ,260,19,,1999
+04.03,42,,Trofeo Pantalica (1.3) ,200.0,,,2000
+20.02,66,,Classic Haribo (1.2) ,205.0,,,2000
+06.02,25,,G.P. Costa degli Etruschi (NE) ,171.0,,,2000
+10.10,26,,World Championships - Road Race (WC) ,260.0,19,,1999
 07.10,16,,World Championships - ITT (WC) ,50.8,10,,1999
 28.09 » 01.10,,,Giro della Provincia di Lucca (2.1) ,,,,1999
 ,3,,General classification ,,50,,1999
-28.09,3,,Stage 1 - Camaiore  › Viareggio ,163,7,,1999
+28.09,3,,Stage 1 - Camaiore  › Viareggio ,163.0,7,,1999
 06.09 » 12.09,,,Tour de Pologne (2.4) ,,,,1999
 ,4,,General classification ,,36,,1999
-12.09,1,,Stage 7 (ITT) - Piechowice › Karpacz ,23,20,,1999
+12.09,1,,Stage 7 (ITT) - Piechowice › Karpacz ,23.0,20,,1999
 11.09,1,,Stage 6 - Szklarska Poręba › Karpacz ,171.5,20,,1999
-10.09,4,,Stage 5 - Szczawno-Zdrój › Wałbrzych ,168,5,,1999
+10.09,4,,Stage 5 - Szczawno-Zdrój › Wałbrzych ,168.0,5,,1999
 11.08 » 14.08,,,Danmark Rundt (2.2) ,,,,1999
 ,30,,General classification ,,,,1999
-14.08,48,,Stage 5 - Frederikssund › Frederiksberg ,160,,,1999
-13.08,54,,Stage 4a - Odense › Sorø ,120,,,1999
-12.08,27,,Stage 3 - Esbjerg › Vejle ,190,,,1999
-12.08,46,,Stage 2 - Odder › Grindsted ,170,,,1999
-11.08,77,,Stage 1 - Aalborg › Århus ,185,,,1999
+14.08,48,,Stage 5 - Frederikssund › Frederiksberg ,160.0,,,1999
+13.08,54,,Stage 4a - Odense › Sorø ,120.0,,,1999
+12.08,27,,Stage 3 - Esbjerg › Vejle ,190.0,,,1999
+12.08,46,,Stage 2 - Odder › Grindsted ,170.0,,,1999
+11.08,77,,Stage 1 - Aalborg › Århus ,185.0,,,1999
 26.07 » 08.08,,,Volta a Portugal (2.3) ,,,,1999
-30.07,8,,Stage 5 (ITT) - Portalegre › Marvão ,20,1,,1999
-27.06,4,,National Championships Lithuania - Road Race (NC) ,230,4,,1999
-25.06,1,,National Championships Lithuania - ITT (NC) ,30,15,,1999
-13.06,33,,Giro dell'Appennino (1.2) ,200,,,1999
+30.07,8,,Stage 5 (ITT) - Portalegre › Marvão ,20.0,1,,1999
+27.06,4,,National Championships Lithuania - Road Race (NC) ,230.0,4,,1999
+25.06,1,,National Championships Lithuania - ITT (NC) ,30.0,15,,1999
+13.06,33,,Giro dell'Appennino (1.2) ,200.0,,,1999
 23.05 » 29.05,,,Prudential Tour () ,,,,1999
 ,5,,General classification ,,28,,1999
 29.05,8,,Stage 7b - Edinburgh › Edinburgh ,48.3,1,,1999
-29.05,20,,Stage 7a - Carlisle › Edinburgh ,148,,,1999
-28.05,14,,Stage 6 - Liverpool › Blackpool ,166,,,1999
-27.05,47,,Stage 5 - Swansea › Birmingham ,214,,,1999
-26.05,1,,Stage 4 - Bristol › Swansea ,172,20,,1999
-25.05,12,,Stage 3 - Winchester › Bristol ,171,,,1999
+29.05,20,,Stage 7a - Carlisle › Edinburgh ,148.0,,,1999
+28.05,14,,Stage 6 - Liverpool › Blackpool ,166.0,,,1999
+27.05,47,,Stage 5 - Swansea › Birmingham ,214.0,,,1999
+26.05,1,,Stage 4 - Bristol › Swansea ,172.0,20,,1999
+25.05,12,,Stage 3 - Winchester › Bristol ,171.0,,,1999
 24.05,98,,Stage 2a - Medway › Portsmouth ,178.5,,,1999
-24.05,12,,Stage 2b (ITT) - Portsmouth › Portsmouth ,5,,,1999
-23.05,47,,Stage 1 - Westminster › Westminster ,81,,,1999
+24.05,12,,Stage 2b (ITT) - Portsmouth › Portsmouth ,5.0,,,1999
+23.05,47,,Stage 1 - Westminster › Westminster ,81.0,,,1999
 11.05 » 20.05,,,Course de la Paix (2.4) ,,,,1999
 ,2,,General classification ,,70,,1999
-20.05,32,,Stage 10 - Erfurt › Magdeburg ,169,,,1999
-19.05,3,,Stage 9 - Rehau › Weimar ,160,7,,1999
-18.05,21,,Stage 8 - Freital › Hof ,240,,,1999
-17.05,3,,Stage 7 (ITT) - Cottbus › Cottbus ,28,7,,1999
-16.05,41,,Stage 6 - Zagan › Cottbus ,110,,,1999
-15.05,28,,Stage 5 - Polanica-Zdroj › Polkowice ,220,,,1999
-14.05,20,,Stage 4 - Opava › Polanica-Zdroj ,190,,,1999
+20.05,32,,Stage 10 - Erfurt › Magdeburg ,169.0,,,1999
+19.05,3,,Stage 9 - Rehau › Weimar ,160.0,7,,1999
+18.05,21,,Stage 8 - Freital › Hof ,240.0,,,1999
+17.05,3,,Stage 7 (ITT) - Cottbus › Cottbus ,28.0,7,,1999
+16.05,41,,Stage 6 - Zagan › Cottbus ,110.0,,,1999
+15.05,28,,Stage 5 - Polanica-Zdroj › Polkowice ,220.0,,,1999
+14.05,20,,Stage 4 - Opava › Polanica-Zdroj ,190.0,,,1999
 13.05,1,,Stage 3 - Luhacovice › Pustevny ,176.9,20,,1999
-12.05,35,,Stage 2 - Znojmo › Luhacovice ,165,,,1999
-11.05,36,,Stage 1 - Znojmo › Znojmo ,158,,,1999
+12.05,35,,Stage 2 - Znojmo › Luhacovice ,165.0,,,1999
+11.05,36,,Stage 1 - Znojmo › Znojmo ,158.0,,,1999
 27.04 » 02.05,,,Circuit des Mines (2.5) ,,,,1999
 30.04,1,1,Stage 5 - Trieux › Château de Malbrouck ,148.5,5,,1999
 22.03 » 28.03,,,Tour de Normandie () ,,,,1999
 ,18,,General classification ,,,,1999
-11.10,9,,World Championships - Road Race (WC) ,258,80,,1998
+11.10,9,,World Championships - Road Race (WC) ,258.0,80,,1998
 28.09 » 04.10,,,International Hessen Rundfahrt (2.1) ,,,,1998
 ,2,,General classification ,,70,,1998
 04.10,2,,Stage 6 - Wetzlar › Frankfurt am Main ,174.2,12,,1998
-02.10,1,,Stage 4 - Bad Karlshafen › Lauterbach ,210,20,,1998
+02.10,1,,Stage 4 - Bad Karlshafen › Lauterbach ,210.0,20,,1998
 01.10,2,,Stage 3 - Melsungen › Bad Karlshafen ,148.2,12,,1998
 06.09 » 13.09,,,Tour de Pologne (2.4) ,,,,1998
 ,5,,General classification ,,28,,1998
-13.09,6,,Stage 8 (ITT) - Wieliczka › Wieliczka ,30,3,,1998
-12.09,9,,Stage 7 - Rabka › Wieliczka ,174,,,1998
-11.09,5,,Stage 6 - Bielsko-Biała › Zakopane ,186,4,,1998
-10.09,2,,Stage 5 - Wisła › Cieszyn ,175,12,,1998
+13.09,6,,Stage 8 (ITT) - Wieliczka › Wieliczka ,30.0,3,,1998
+12.09,9,,Stage 7 - Rabka › Wieliczka ,174.0,,,1998
+11.09,5,,Stage 6 - Bielsko-Biała › Zakopane ,186.0,4,,1998
+10.09,2,,Stage 5 - Wisła › Cieszyn ,175.0,12,,1998
 25.08 » 28.08,,,Tour du Poitou Charentes et de la Vienne () ,,,,1998
 ,29,,General classification ,,,,1998
 05.08 » 09.08,,,Rothaus Regio-Tour International (2.3) ,,,,1998
-08.08,8,,Stage 4 - Lörrach › Wehr ,161,1,,1998
+08.08,8,,Stage 4 - Lörrach › Wehr ,161.0,1,,1998
 27.06,2,,National Championships Lithuania - Road Race (NC) ,,10,,1998
 25.06,3,,National Championships Lithuania - ITT (NC) ,,2,,1998
 02.06,7,,First Union Invitational (1.3) ,147.5,20,,1998
 28.05 » 01.06,,,Course Cycliste de Solidarnosc et des Champions Olympiques () ,,,,1998
 ,4,,General classification ,,11,,1998
-30.05,5,,Stage 3 - Wadowice › Bielsko-Biała ,165,,,1998
-29.05,2,,Stage 2 (ITT) - Łódź  › Łódź  ,5,2,,1998
+30.05,5,,Stage 3 - Wadowice › Bielsko-Biała ,165.0,,,1998
+29.05,2,,Stage 2 (ITT) - Łódź  › Łódź  ,5.0,2,,1998
 11.05 » 19.05,,,Course de la Paix (2.5) ,,,,1998
 ,7,,General classification ,,4,,1998
-14.05,1,,Stage 4 - Legnica › Jested ,220,5,,1998
+14.05,1,,Stage 4 - Legnica › Jested ,220.0,5,,1998
 11.05,1,,Stage 1 - Poznan › Poznan ,130.5,5,,1998
 05.04,20,,GP de la Ville de Rennes () ,193.5,1,,1998
 17.03 » 20.03,,,G.P. Portugal Telecom () ,,,,1998
-18.03,9,,Stage 2 - Evora › Tomar ,193,,,1998
-07.09,9,,Grote Prijs Jef Scherens - Leuven () ,187,16,,1997
+18.03,9,,Stage 2 - Evora › Tomar ,193.0,,,1998
+07.09,9,,Grote Prijs Jef Scherens - Leuven () ,187.0,16,,1997
 23.05 » 31.05,,,Course Cycliste de Solidarnosc et des Champions Olympiques () ,,,,1997
 ,4,,General classification ,,11,,1997
-26.05,1,,Stage 5 - Przemysl › Krosno ,177,5,,1997
+26.05,1,,Stage 5 - Przemysl › Krosno ,177.0,5,,1997
 11.05 » 21.05,,,Course de la Paix (2.5) ,,,,1997
-14.05,10,,Stage 3 - Freiburg › Dresden ,188,,,1997
-13.10,DNF,,World Championships - Road Race (WC) ,252,,,1996
+14.05,10,,Stage 3 - Freiburg › Dresden ,188.0,,,1997
+13.10,DNF,,World Championships - Road Race (WC) ,252.0,,,1996
 08.09 » 15.09,,,Tour de Pologne (2.5) ,,,,1996
 ,9,,General classification ,,2,,1996
-11.09,2,,Stage 4 - Legnica › Karpacz ,162,2,,1996
-10.09,5,,Stage 3 - Lubniewice › Polkowice ,212,,,1996
-09.09,7,,Stage 2 - Szczecin › Gorzów Wielkopolski ,184,,,1996
-01.09,17,,Grote Prijs Jef Scherens - Leuven () ,185,4,,1996
+11.09,2,,Stage 4 - Legnica › Karpacz ,162.0,2,,1996
+10.09,5,,Stage 3 - Lubniewice › Polkowice ,212.0,,,1996
+09.09,7,,Stage 2 - Szczecin › Gorzów Wielkopolski ,184.0,,,1996
+01.09,17,,Grote Prijs Jef Scherens - Leuven () ,185.0,4,,1996
 31.07,DNF,,Olympic Games Road Race (Olympics) ,221.85,,,1996
 28.05,3,,Course Cycliste de Solidarnosc et des Champions Olympiques () ,,14,,1996
 11.05 » 21.05,,,Course de la Paix (2.5) ,,,,1996
 ,12,,General classification ,,,,1996
-20.05,6,,Stage 9 - Cottbus › Dessau ,204,,,1996
-17.05,10,,Stage 6 - Ostrava › Chocen ,201,,,1996
-12.05,8,,Stage 1 - Brno › Zlin ,141,,,1996
+20.05,6,,Stage 9 - Cottbus › Dessau ,204.0,,,1996
+17.05,10,,Stage 6 - Ostrava › Chocen ,201.0,,,1996
+12.05,8,,Stage 1 - Brno › Zlin ,141.0,,,1996
 05.04,9,,Route Adélie de Vitré (1.4) ,209.7,16,,1996
-24.03,41,,Cholet-Pays de Loire () ,207,,,1996
+24.03,41,,Cholet-Pays de Loire () ,207.0,,,1996
 28.05,1,,Course Cycliste de Solidarnosc et des Champions Olympiques () ,,25,,1994
 11.05 » 19.05,,,Course de la Paix () ,,,,1994
-12.05,10,,Stage 2 - Tabor › Ceské Budéjovice ,125,,,1994
+12.05,10,,Stage 2 - Tabor › Ceské Budéjovice ,125.0,,,1994
 08.09 » 20.09,,,Tour de l'Avenir () ,,,,1992
 08.09,12,,Prologue - Rennes › Rennes ,4.5,,,1992
 30.08 » 06.09,,,Tour de Pologne () ,,,,1992
 ,2,,General classification ,,18,,1992
-01.09,1,,Stage 3 - Kielce › Wieliczka ,183,5,,1992
+01.09,1,,Stage 3 - Kielce › Wieliczka ,183.0,5,,1992

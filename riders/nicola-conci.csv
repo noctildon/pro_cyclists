@@ -1,27 +1,63 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,19,,National Championships Italy - Road Race (NC) ,237.1,,,2022
+15.06 » 19.06,,,Tour of Slovenia (2.Pro) ,,,,2022
+,7,,Points classification ,,,,2022
+,6,,General classification ,,60,70,2022
+19.06,6,,Stage 5 - Vrhnika › Novo mesto ,155.7,3,,2022
+18.06,19,6,Stage 4 - Laško › Velika planina ,152.4,,,2022
+17.06,3,4,Stage 3 - Žalec › Celje ,144.6,12,5,2022
+16.06,22,8,Stage 2 - Ptuj › Rogaška Slatina ,174.2,,,2022
+15.06,6,6,Stage 1 - Nova Gorica › Postojna ,164.7,3,,2022
+12.04 » 15.04,,,Giro di Sicilia - Tour of Sicily (2.1) ,,,,2022
+,2,,Youth classification ,,,,2022
+,16,,Mountains classification ,,,,2022
+,13,,Points classification ,,,,2022
+,6,,General classification ,,24,40,2022
+15.04,7,,Stage 4 - Ragalna › Etna ,140,2,,2022
+14.04,24,8,Stage 3 - Realmonte › Piazza Armerina ,171,,,2022
+13.04,7,7,Stage 2 - Palma di Montechiaro › Caltanissetta ,152,2,,2022
+12.04,32,34,Stage 1 - Milazzo › Bagheria ,199,,,2022
+27.03,27,,GP Industria  (1.Pro) ,192.2,,5,2022
+22.03 » 26.03,,,Settimana Internazionale Coppi e Bartali (2.1) ,,,,2022
+,15,,Points classification ,,,,2022
+,10,,General classification ,,14,20,2022
+26.03,31,,Stage 5 - Casalguidi › Cantagrillo ,160,,,2022
+25.03,39,10,Stage 4 - Montecatini › Montecatini ,158.7,,,2022
+24.03,9,9,Stage 3 - San Marino › San Marino ,147,,,2022
+23.03,4,7,Stage 2 - Riccione › Longiano ,165.9,5,,2022
+22.03,11,11,Stage 1 - Riccione › Riccione ,164.6,,,2022
+20.03,9,,Per Sempre Alfredo (1.1) ,172.7,16,25,2022
+02.02 » 06.02,,,Volta a la Comunitat Valenciana (2.Pro) ,,,,2022
+,13,,Youth classification ,,,,2022
+,48,,General classification ,,,,2022
+06.02,75,,Stage 5 - Paterna › Valencia ,92,,,2022
+05.02,57,49,Stage 4 - Orihuela › Torrevieja  ,193.1,,,2022
+04.02,48,55,Stage 3 - Alicante › Antenas del Maigmó ,155.1,,,2022
+03.02,40,82,Stage 2 - Bétera › Torrent ,171.5,,,2022
+02.02,96,96,Stage 1 - Les Alqueries › Torralba del Pinar ,166.7,,,2022
 12.04 » 15.04,,,Giro di Sicilia - Tour of Sicily (2.1),,,,2022
 ,2,,Youth classification,,,,2022
 ,16,,Mountains classification,,,,2022
 ,13,,Points classification,,,,2022
 ,6,,General classification,,24,40,2022
-15.04,7,,Stage 4 - Ragalna › Etna,140,2,,2022
-14.04,24,8,Stage 3 - Realmonte › Piazza Armerina,171,,,2022
-13.04,7,7,Stage 2 - Palma di Montechiaro › Caltanissetta,152,2,,2022
-12.04,32,34,Stage 1 - Milazzo › Bagheria,199,,,2022
+15.04,7,,Stage 4 - Ragalna › Etna,140.0,2,,2022
+14.04,24,8,Stage 3 - Realmonte › Piazza Armerina,171.0,,,2022
+13.04,7,7,Stage 2 - Palma di Montechiaro › Caltanissetta,152.0,2,,2022
+12.04,32,34,Stage 1 - Milazzo › Bagheria,199.0,,,2022
 27.03,27,,GP Industria  (1.Pro),192.2,,5,2022
 22.03 » 26.03,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2022
 ,15,,Points classification,,,,2022
 ,10,,General classification,,14,20,2022
-26.03,31,,Stage 5 - Casalguidi › Cantagrillo,160,,,2022
+26.03,31,,Stage 5 - Casalguidi › Cantagrillo,160.0,,,2022
 25.03,39,10,Stage 4 - Montecatini › Montecatini,158.7,,,2022
-24.03,9,9,Stage 3 - San Marino › San Marino,147,,,2022
+24.03,9,9,Stage 3 - San Marino › San Marino,147.0,,,2022
 23.03,4,7,Stage 2 - Riccione › Longiano,165.9,5,,2022
 22.03,11,11,Stage 1 - Riccione › Riccione,164.6,,,2022
 20.03,9,,Per Sempre Alfredo (1.1),172.7,16,25,2022
 02.02 » 06.02,,,Volta a la Comunitat Valenciana (2.Pro),,,,2022
 ,13,,Youth classification,,,,2022
 ,48,,General classification,,,,2022
-06.02,75,,Stage 5 - Paterna › Valencia,92,,,2022
+06.02,75,,Stage 5 - Paterna › Valencia,92.0,,,2022
 05.02,57,49,Stage 4 - Orihuela › Torrevieja ,193.1,,,2022
 04.02,48,55,Stage 3 - Alicante › Antenas del Maigmó,155.1,,,2022
 03.02,40,82,Stage 2 - Bétera › Torrent,171.5,,,2022
@@ -34,13 +70,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.06,55,65,Stage 7 (ITT) - Disentis Sedrun › Andermatt,23.2,,,2021
 11.06,115,67,Stage 6 - Fiesch › Disentis Sedrun,130.1,,,2021
 10.06,49,36,Stage 5 - Gstaad › Leukerbad,175.2,,,2021
-09.06,24,36,Stage 4 - Sankt Urban › Gstaad,171,,,2021
+09.06,24,36,Stage 4 - Sankt Urban › Gstaad,171.0,,,2021
 08.06,41,38,Stage 3 - Lachen › Pfaffnau,182.1,,,2021
-07.06,32,46,Stage 2 - Neuhausen am Rheinfall › Lachen,178,,,2021
+07.06,32,46,Stage 2 - Neuhausen am Rheinfall › Lachen,178.0,,,2021
 06.06,114,114,Stage 1 (ITT) - Frauenfeld › Frauenfeld,10.9,,,2021
 18.05 » 22.05,,,Vuelta a Andalucia Ruta Ciclista Del Sol (2.Pro),,,,2021
 ,56,,General classification,,,,2021
-22.05,33,,Stage 5 - Vera  › Pulpí,107,,,2021
+22.05,33,,Stage 5 - Vera  › Pulpí,107.0,,,2021
 21.05,83,60,Stage 4 - Baza › Cúllar Vega,182.9,,,2021
 20.05,58,60,Stage 3 - Beas de Segura › Villarrodrigo (Puerto de Onsares),176.9,,,2021
 19.05,24,69,Stage 2 - Iznájar  › Alcalá la Real,184.8,,,2021
@@ -60,39 +96,39 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,57,,General classification,,,,2021
 27.03,80,,Stage 5 - Forlì › Forlì,166.2,,,2021
 26.03,86,52,Stage 4 - San Marino › San Marino,154.8,,,2021
-25.03,35,22,Stage 3 - Riccione › Riccione,139,,,2021
+25.03,35,22,Stage 3 - Riccione › Riccione,139.0,,,2021
 24.03,27,22,Stage 2 - Riccione › Sogliano al Rubicone,163.5,,,2021
 23.03,104,104,Stage 1a - Gatteo › Gatteo,97.8,,,2021
 23.03,10,52,Stage 1b (TTT) - Gatteo › Gatteo,10.8,,,2021
-21.03,76,,"Per Sempre ""Alfredo"" (1.1)",162,,,2021
-20.03,105,,Milano-Sanremo (1.UWT),299,5,,2021
-06.03,DNF,,Strade Bianche (1.UWT),184,,,2021
-03.03,65,,Trofeo Laigueglia (1.Pro),202,,,2021
+21.03,76,,"Per Sempre ""Alfredo"" (1.1)",162.0,,,2021
+20.03,105,,Milano-Sanremo (1.UWT),299.0,5,,2021
+06.03,DNF,,Strade Bianche (1.UWT),184.0,,,2021
+03.03,65,,Trofeo Laigueglia (1.Pro),202.0,,,2021
 28.02,33,,Royal Bernard Drome Classic (1.Pro),179.2,,3,2021
 14.02,80,,Clasica de Almeria (1.Pro),183.3,,,2021
 03.10 » 25.10,,,Giro d'Italia (2.UWT),,,,2020
 ,15,,Youth classification,,,,2020
 ,52,,General classification,,20,12,2020
 25.10,87,,Stage 21 (ITT) - Cernusco sul Naviglio › Milan,15.7,,,2020
-24.10,30,52,Stage 20 - Alba › Sestriere,190,,,2020
-23.10,39,55,Stage 19 - Abbiategrasso › Asti,124,,,2020
-22.10,112,55,Stage 18 - Pinzolo › Laghi di Cancano,207,,,2020
-21.10,63,50,Stage 17 - Bassano del Grappa › Madonna di Campiglio,203,,,2020
-20.10,55,49,Stage 16 - Udine › San Daniele del Friuli,229,,,2020
-18.10,51,48,Stage 15 - Base Aerea Rivolto › Piancavallo,185,,,2020
+24.10,30,52,Stage 20 - Alba › Sestriere,190.0,,,2020
+23.10,39,55,Stage 19 - Abbiategrasso › Asti,124.0,,,2020
+22.10,112,55,Stage 18 - Pinzolo › Laghi di Cancano,207.0,,,2020
+21.10,63,50,Stage 17 - Bassano del Grappa › Madonna di Campiglio,203.0,,,2020
+20.10,55,49,Stage 16 - Udine › San Daniele del Friuli,229.0,,,2020
+18.10,51,48,Stage 15 - Base Aerea Rivolto › Piancavallo,185.0,,,2020
 17.10,122,53,Stage 14 (ITT) - Conegliano › Valdobbiadene,34.1,,,2020
-16.10,63,53,Stage 13 - Cervia › Monselice,192,,,2020
-15.10,86,55,Stage 12 - Cesenatico › Cesenatico,204,,,2020
-14.10,79,45,Stage 11 - Porto Sant'Elpidio › Rimini,182,,,2020
-13.10,24,47,Stage 10 - Lanciano › Tortoreto,177,,,2020
-11.10,71,73,Stage 9 - San Salvo › Roccaraso,208,,,2020
-10.10,76,73,Stage 8 - Giovinazzo › Vieste,200,,,2020
-09.10,124,73,Stage 7 - Matera › Brindisi,143,,,2020
-08.10,66,75,Stage 6 - Castrovillari › Matera,188,,,2020
-07.10,104,79,Stage 5 - Mileto › Camigliatello Silano,225,,,2020
-06.10,110,46,Stage 4 - Catania › Villafranca Tirrena,140,,,2020
-05.10,47,46,Stage 3 - Enna › Etna,150,,,2020
-04.10,63,67,Stage 2 - Alcamo › Agrigento,149,,,2020
+16.10,63,53,Stage 13 - Cervia › Monselice,192.0,,,2020
+15.10,86,55,Stage 12 - Cesenatico › Cesenatico,204.0,,,2020
+14.10,79,45,Stage 11 - Porto Sant'Elpidio › Rimini,182.0,,,2020
+13.10,24,47,Stage 10 - Lanciano › Tortoreto,177.0,,,2020
+11.10,71,73,Stage 9 - San Salvo › Roccaraso,208.0,,,2020
+10.10,76,73,Stage 8 - Giovinazzo › Vieste,200.0,,,2020
+09.10,124,73,Stage 7 - Matera › Brindisi,143.0,,,2020
+08.10,66,75,Stage 6 - Castrovillari › Matera,188.0,,,2020
+07.10,104,79,Stage 5 - Mileto › Camigliatello Silano,225.0,,,2020
+06.10,110,46,Stage 4 - Catania › Villafranca Tirrena,140.0,,,2020
+05.10,47,46,Stage 3 - Enna › Etna,150.0,,,2020
+04.10,63,67,Stage 2 - Alcamo › Agrigento,149.0,,,2020
 03.10,105,105,Stage 1 (ITT) - Monreale › Palermo,15.1,,,2020
 17.09,6,,Coppa Sabatini - Gran Premio città di Peccioli (1.Pro),210.1,40,70,2020
 16.09,47,,Giro della Toscana - Memorial Alfredo Martini (1.1),182.9,,,2020
@@ -106,23 +142,22 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.09,61,61,Stage 1a - Gatteo › Gatteo,97.8,,,2020
 01.09,10,48,Stage 1b (TTT) - Gatteo a Mare › Gatteo,13.3,,,2020
 30.08,37,,Memorial Marco Pantani (1.1),199.8,,,2020
-29.08,20,,Trofeo Matteotti (1.1),195,1,3,2020
+29.08,20,,Trofeo Matteotti (1.1),195.0,1,3,2020
 23.08,22,,National Championships Italy - Road Race (NC),253.8,,,2020
 18.08,15,,Giro dell'Emilia (1.Pro),199.7,12,10,2020
-15.08,38,,Il Lombardia (1.UWT),231,5,10,2020
-12.08,90,,Gran Piemonte (1.Pro),187,,,2020
-08.08,85,,Milano-Sanremo (1.UWT),305,5,,2020
-05.08,111,,Milano-Torino (1.Pro),198,,,2020
+15.08,38,,Il Lombardia (1.UWT),231.0,5,10,2020
+12.08,90,,Gran Piemonte (1.Pro),187.0,,,2020
+08.08,85,,Milano-Sanremo (1.UWT),305.0,5,,2020
+05.08,111,,Milano-Torino (1.Pro),198.0,,,2020
 03.08,DNF,,Gran Trittico Lombardo (1.Pro),199.7,,,2020
-01.08,DNF,,Strade Bianche (1.UWT),184,,,2020
+01.08,DNF,,Strade Bianche (1.UWT),184.0,,,2020
 23.02 » 29.02,,,UAE Tour (2.UWT),,,,2020
-,15,,Youth classification,,,,2020
 ,59,,General classification,,5,1,2020
-27.02,43,,Stage 5 - Al Ain › Jebel Hafeet ,162,,,2020
-26.02,84,66,Stage 4 - Zabeel Park  › Dubai City Walk,173,,,2020
-25.02,54,70,Stage 3 - Al Qudra Cycle Track  › Jebel Hafeet ,184,,,2020
-24.02,119,117,Stage 2 - Hatta › Hatta Dam,168,,,2020
-23.02,102,104,Stage 1 - The Pointe  › Dubai Silicon Oasis,148,,,2020
+27.02,43,,Stage 5 - Al Ain › Jebel Hafeet ,162.0,,,2020
+26.02,84,66,Stage 4 - Zabeel Park  › Dubai City Walk,173.0,,,2020
+25.02,54,70,Stage 3 - Al Qudra Cycle Track  › Jebel Hafeet ,184.0,,,2020
+24.02,119,117,Stage 2 - Hatta › Hatta Dam,168.0,,,2020
+23.02,102,104,Stage 1 - The Pointe  › Dubai Silicon Oasis,148.0,,,2020
 13.02 » 16.02,,,Tour de La Provence (2.Pro),,,,2020
 ,18,,Youth classification,,,,2020
 ,56,,General classification,,,,2020
@@ -138,7 +173,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.10,88,,Stage 6 - Guilin › Guilin,168.3,,,2019
 21.10,82,79,Stage 5 - Liuzhou › Guilin,212.2,,,2019
 20.10,121,95,Stage 4 - Nanning › Nongla Scenic Area,161.4,,,2019
-19.10,35,47,Stage 3 - Nanning › Nanning,143,,,2019
+19.10,35,47,Stage 3 - Nanning › Nanning,143.0,,,2019
 18.10,87,90,Stage 2 - Beihai  › Qinzhou,152.3,,,2019
 17.10,92,92,Stage 1 - Beihai  › Beihai ,135.6,,,2019
 06.10,72,,Gran Premio Bruno Beghelli (1.HC),199.3,,,2019
@@ -151,7 +186,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,40,,Points classification,,,,2019
 ,17,,General classification,,32,24,2019
 09.08,26,,Stage 7 - Bukovina Resort › Bukowina Tatrzańska,153.3,,,2019
-08.08,20,19,Stage 6 - Zakopane › Kościelisko,160,,,2019
+08.08,20,19,Stage 6 - Zakopane › Kościelisko,160.0,,,2019
 07.08,28,65,Stage 5 - Wieliczka › Bielsko-Biała,153.8,,,2019
 05.08,110,99,Stage 3 - Chorzów › Zabrze,150.5,,,2019
 04.08,102,95,Stage 2 - Tarnowskie Góry › Katowice,152.7,,,2019
@@ -163,7 +198,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.07,37,,Stage 4 - Cormòns › Trieste,103.5,,,2019
 27.07,9,6,Stage 3 - Padola › Cormòns/Monte Quarin,204.5,,,2019
 26.07,7,5,Stage 2 - Palmanova › Lago di Misurina/Tre Cime di Lavaredo,204.6,2,,2019
-25.07,19,18,Stage 1 - Venezia (Favaro Veneto) › Grado,186,,,2019
+25.07,19,18,Stage 1 - Venezia (Favaro Veneto) › Grado,186.0,,,2019
 30.06,19,,National Championships Italy - Road Race (NC),226.9,,,2019
 15.06 » 23.06,,,Tour de Suisse (2.UWT),,,,2019
 ,11,,Youth classification,,,,2019
@@ -173,7 +208,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.06,74,22,Stage 8 (ITT) - Goms › Goms,19.2,,,2019
 21.06,21,22,Stage 7 - Unterterzen › St. Gotthard,216.6,,,2019
 20.06,33,23,Stage 6 - Einsiedeln › Flumserberg,120.2,,,2019
-19.06,38,27,Stage 5 - Münchenstein › Einsiedeln,177,,,2019
+19.06,38,27,Stage 5 - Münchenstein › Einsiedeln,177.0,,,2019
 18.06,30,28,Stage 4 - Murten › Arlesheim,163.9,,,2019
 17.06,67,33,Stage 3 - Flamatt › Murten,162.3,,,2019
 16.06,21,34,Stage 2 - Langnau im Emmental › Langnau im Emmental,159.6,,,2019
@@ -182,30 +217,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,17,,Youth classification,,,,2019
 ,68,,Points classification,,,,2019
 ,63,,General classification,,20,,2019
-02.06,66,,Stage 21 (ITT) - Verona › Verona,17,,,2019
-01.06,26,64,Stage 20 - Feltre  › Monte Avena,194,,,2019
-31.05,60,73,Stage 19 - Treviso › San Martino di Castrozza,151,,,2019
-30.05,98,76,Stage 18 - Valdaora / Olang › Santa Maria di Sala,222,,,2019
-29.05,16,77,Stage 17 - Commezzadura (Val di Sole) › Anterselva / Antholz,181,,,2019
-28.05,101,86,Stage 16 - Lovere › Ponte di Legno,194,,,2019
-26.05,92,83,Stage 15 - Ivrea › Como,232,,,2019
-25.05,73,82,Stage 14 - Saint Vincent › Courmayeur (Skyway Monte Bianco),131,,,2019
-24.05,99,81,Stage 13 - Pinerolo › Ceresole Reale (Lago Serrù),196,,,2019
-23.05,65,78,Stage 12 - Cuneo › Pinerolo,158,,,2019
-22.05,66,79,Stage 11 - Carpi › Novi Ligure,221,,,2019
-21.05,160,79,Stage 10 - Ravenna › Modena,145,,,2019
+02.06,66,,Stage 21 (ITT) - Verona › Verona,17.0,,,2019
+01.06,26,64,Stage 20 - Feltre  › Monte Avena,194.0,,,2019
+31.05,60,73,Stage 19 - Treviso › San Martino di Castrozza,151.0,,,2019
+30.05,98,76,Stage 18 - Valdaora / Olang › Santa Maria di Sala,222.0,,,2019
+29.05,16,77,Stage 17 - Commezzadura (Val di Sole) › Anterselva / Antholz,181.0,,,2019
+28.05,101,86,Stage 16 - Lovere › Ponte di Legno,194.0,,,2019
+26.05,92,83,Stage 15 - Ivrea › Como,232.0,,,2019
+25.05,73,82,Stage 14 - Saint Vincent › Courmayeur (Skyway Monte Bianco),131.0,,,2019
+24.05,99,81,Stage 13 - Pinerolo › Ceresole Reale (Lago Serrù),196.0,,,2019
+23.05,65,78,Stage 12 - Cuneo › Pinerolo,158.0,,,2019
+22.05,66,79,Stage 11 - Carpi › Novi Ligure,221.0,,,2019
+21.05,160,79,Stage 10 - Ravenna › Modena,145.0,,,2019
 19.05,62,82,Stage 9 (ITT) - Riccione › San Marino,34.8,,,2019
-18.05,103,87,Stage 8 - Tortoreto Lido › Pesaro,239,,,2019
-17.05,125,86,Stage 7 - Vasto › L'Aquila,185,,,2019
-16.05,12,12,Stage 6 - Cassino › San Giovanni Rotondo,238,4,,2019
-15.05,83,67,Stage 5 - Frascati › Terracina,140,,,2019
-14.05,79,69,Stage 4 - Orbetello › Frascati,235,,,2019
-13.05,87,67,Stage 3 - Vinci › Orbetello,220,,,2019
-12.05,23,55,Stage 2 - Bologna › Fucecchio,205,,,2019
-11.05,75,75,Stage 1 (ITT) - Bologna › Madonna di San Luca,8,,,2019
+18.05,103,87,Stage 8 - Tortoreto Lido › Pesaro,239.0,,,2019
+17.05,125,86,Stage 7 - Vasto › L'Aquila,185.0,,,2019
+16.05,12,12,Stage 6 - Cassino › San Giovanni Rotondo,238.0,4,,2019
+15.05,83,67,Stage 5 - Frascati › Terracina,140.0,,,2019
+14.05,79,69,Stage 4 - Orbetello › Frascati,235.0,,,2019
+13.05,87,67,Stage 3 - Vinci › Orbetello,220.0,,,2019
+12.05,23,55,Stage 2 - Bologna › Fucecchio,205.0,,,2019
+11.05,75,75,Stage 1 (ITT) - Bologna › Madonna di San Luca,8.0,,,2019
 01.05,65,,Eschborn-Frankfurt (1.UWT),187.5,5,,2019
-28.04,61,,Liège-Bastogne-Liège (1.UWT),256,5,,2019
-24.04,DNF,,La Flèche Wallonne (1.UWT),195,,,2019
+28.04,61,,Liège-Bastogne-Liège (1.UWT),256.0,5,,2019
+24.04,DNF,,La Flèche Wallonne (1.UWT),195.0,,,2019
 08.04 » 13.04,,,Itzulia Basque Country (2.UWT),,,,2019
 ,20,,Youth classification,,,,2019
 ,55,,General classification,,5,4,2019
@@ -218,37 +253,36 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.03 » 19.03,,,Tirreno-Adriatico (2.UWT),,,,2019
 ,9,,Youth classification,,,,2019
 ,56,,General classification,,5,3,2019
-19.03,66,,Stage 7 (ITT) - San Benedetto del Tronto › San Benedetto del Tronto,10,,,2019
-18.03,138,56,Stage 6 - Matelica › Jesi,195,,,2019
-17.03,90,46,Stage 5 - Colli al Metauro › Recanati,180,,,2019
-16.03,32,32,Stage 4 - Foligno › Fossombrone,221,,,2019
-15.03,77,33,Stage 3 - Pomarance › Foligno,226,,,2019
-14.03,38,36,Stage 2 - Camaiore › Pomarance,195,,,2019
+19.03,66,,Stage 7 (ITT) - San Benedetto del Tronto › San Benedetto del Tronto,10.0,,,2019
+18.03,138,56,Stage 6 - Matelica › Jesi,195.0,,,2019
+17.03,90,46,Stage 5 - Colli al Metauro › Recanati,180.0,,,2019
+16.03,32,32,Stage 4 - Foligno › Fossombrone,221.0,,,2019
+15.03,77,33,Stage 3 - Pomarance › Foligno,226.0,,,2019
+14.03,38,36,Stage 2 - Camaiore › Pomarance,195.0,,,2019
 13.03,12,58,Stage 1 (TTT) - Lido di Camaiore › Lido di Camaiore,21.5,,,2019
-09.03,OTL,,Strade Bianche (1.UWT),184,,,2019
+09.03,OTL,,Strade Bianche (1.UWT),184.0,,,2019
 22.02 » 24.02,,,Tour Cycliste International du Haut Var (2.1),,,,2019
-,9,,Youth classification,,,,2019
 ,56,,General classification,,,,2019
-24.02,88,,Stage 3 -  La Londe-les-Maures › Mont Faron (Toulon),136,,,2019
+24.02,88,,Stage 3 -  La Londe-les-Maures › Mont Faron (Toulon),136.0,,,2019
 23.02,54,49,Stage 2 - Le Cannet-des-Maures › Mons,201.4,,,2019
 22.02,25,25,Stage 1 - Vence › Mandelieu-la-Napoul,154.5,,,2019
 03.02,125,,Trofeo Palma (1.1),159.6,,,2019
 02.02,45,,Trofeo de Tramuntana: Soller - Deia (1.1),179.3,,,2019
-13.10,37,,Il Lombardia (1.UWT),241,5,10,2018
-10.10,99,,Milano-Torino (1.HC),200,,,2018
-09.10,60,,Tre Valli Varesine (1.HC),212,,,2018
+13.10,37,,Il Lombardia (1.UWT),241.0,5,10,2018
+10.10,99,,Milano-Torino (1.HC),200.0,,,2018
+09.10,60,,Tre Valli Varesine (1.HC),212.0,,,2018
 06.10,59,,Giro dell'Emilia (1.HC),207.4,,,2018
 23.09,DNF,,Grand Prix d'Isbergues - Pas de Calais (1.1),198.3,,,2018
-22.09,DNF,,Tour de l'Eurométropole (1.HC),206,,,2018
+22.09,DNF,,Tour de l'Eurométropole (1.HC),206.0,,,2018
 19.09,DNF,,Omloop van het Houtland Lichtervelde (1.1),195.3,,,2018
 25.08 » 16.09,,,La Vuelta ciclista a España (2.UWT),,,,2018
-11.09,DNS,,Stage 16 (ITT) - Santillana del Mar › Torrelavega  ,32,,,2018
+11.09,DNS,,Stage 16 (ITT) - Santillana del Mar › Torrelavega  ,32.0,,,2018
 09.09,161,112,Stage 15 - Ribera de Arriba › Lagos de Covadonga  ,178.2,,,2018
-08.09,146,112,Stage 14 - Cistierna › Les Praeres. Nava  ,171,,,2018
+08.09,146,112,Stage 14 - Cistierna › Les Praeres. Nava  ,171.0,,,2018
 07.09,47,108,Stage 13 - Candás. Carreño › Valle de Sabero. La Camperona  ,174.8,,,2018
 06.09,136,120,Stage 12 - Mondoñedo › Faro de Estaca de Bares. Mañón  ,181.1,,,2018
 05.09,95,108,Stage 11 - Mombuey › Ribeira Sacra. Luintra  ,207.8,,,2018
-04.09,125,132,Stage 10 - Salamanca. VIII Centenario Universidad de Salamanc › Fermoselle. Bermillo de Sayago ,177,,,2018
+04.09,125,132,Stage 10 - Salamanca. VIII Centenario Universidad de Salamanc › Fermoselle. Bermillo de Sayago ,177.0,,,2018
 02.09,94,135,Stage 9 - Talavera de la Reina › La Covatilla  ,200.8,,,2018
 01.09,123,145,Stage 8 - Linares › Almadén  ,195.1,,,2018
 31.08,121,149,Stage 7 - Puerto Lumbreras › Pozo Alcón  ,185.7,,,2018
@@ -257,7 +291,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.08,140,108,Stage 4 - Vélez-Málaga › Alfacar. Sierra de la Alfaguara  ,161.4,,,2018
 27.08,128,90,Stage 3 - Mijas › Alhaurín de la Torre  ,178.2,,,2018
 26.08,87,85,Stage 2 - Marbella › Caminito del Rey  ,163.5,,,2018
-25.08,85,85,Stage 1 (ITT) - Málaga › Málaga,8,,,2018
+25.08,85,85,Stage 1 (ITT) - Málaga › Málaga,8.0,,,2018
 16.08 » 19.08,,,Colorado Classic (2.HC),,,,2018
 19.08,DNS,,Stage 4 - Denver › Denver,114.8,,,2018
 18.08,15,33,Stage 3 - Denver › Denver,161.9,,,2018
@@ -270,7 +304,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.08,10,,Stage 6 - Park City › Park City,122.3,,,2018
 11.08,14,17,Stage 5 - Canyons Village  › Snowbird Ski and Summer ,157.7,,,2018
 10.08,7,22,Stage 4 - Salt Lake City › Salt Lake City,109.4,2,,2018
-09.08,65,22,Stage 3 - Antelope Island › Layton City,188,,,2018
+09.08,65,22,Stage 3 - Antelope Island › Layton City,188.0,,,2018
 08.08,28,22,Stage 2 - Payson City › Payson City,138.4,,,2018
 07.08,64,24,Stage 1 - Cedar City › Cedar City,162.5,,,2018
 06.08,28,28,Prologue - St. George › St. George,5.31,,,2018
@@ -286,17 +320,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 07.06,74,,GP du canton d'Argovie (1.HC),185.9,,,2018
 01.06 » 03.06,,,Hammer Sportzone Limburg (2.1),,,,2018
 ,12,,General classification,,,1.43,2018
-03.06,10,,Stage 3 - Sittard-Geleen › Sittard-Geleen,37,,,2018
+03.06,10,,Stage 3 - Sittard-Geleen › Sittard-Geleen,37.0,,,2018
 01.06,11,,Stage 1 - Vaals › Drielandenpunt,76.3,,,2018
 13.05 » 19.05,,,Amgen Tour of California (2.UWT),,,,2018
 ,10,,Youth classification,,,,2018
 ,18,,General classification,,28,20,2018
-19.05,67,,Stage 7 - Sacramento › Sacramento,143,,,2018
+19.05,67,,Stage 7 - Sacramento › Sacramento,143.0,,,2018
 18.05,16,18,Stage 6 - Folsom › South Lake Tahoe,196.5,,,2018
 17.05,51,23,Stage 5 - Stockton › Elk Grove,176.5,,,2018
 16.05,59,23,Stage 4 (ITT) - San José › Morgan Hill,34.7,,,2018
-15.05,33,14,Stage 3 - King City › Laguna Seca Recreation Area (Monterey County),197,,,2018
-14.05,14,14,Stage 2 - Ventura › Gilbratar Road,157,,,2018
+15.05,33,14,Stage 3 - King City › Laguna Seca Recreation Area (Monterey County),197.0,,,2018
+14.05,14,14,Stage 2 - Ventura › Gilbratar Road,157.0,,,2018
 13.05,107,108,Stage 1 - Long Beach  › Long Beach ,134.5,,,2018
 01.05,62,,Eschborn-Frankfurt (1.UWT),212.5,5,,2018
 24.04 » 29.04,,,Tour de Romandie (2.UWT),,,,2018
@@ -309,7 +343,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 25.04,46,14,Stage 1 - Fribourg › Delémont,166.6,,,2018
 24.04,24,24,Prologue - Fribourg › Fribourg,4.02,,,2018
 16.04 » 20.04,,,Tour of the Alps (2.HC),,,,2018
-,4,,Youth classification,,,,2018
 ,22,,General classification,,4,5,2018
 20.04,45,,Stage 5 - Rattenberg › Innsbruck,164.2,,,2018
 19.04,7,18,Stage 4 - Chiusa/Klausen › Lienz,134.3,2,,2018
@@ -320,17 +353,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,13,,Youth classification,,,,2018
 ,50,,General classification,,,,2018
 25.03,29,,Stage 4 (ITT) - Fiorano Modenese › Montegibbio,12.5,,,2018
-24.03,111,52,Stage 3 - Crevalcore › Crevalcore,171,,,2018
-23.03,63,60,Stage 2 - Riccione › Sogliano al Rubicone,130,,,2018
+24.03,111,52,Stage 3 - Crevalcore › Crevalcore,171.0,,,2018
+23.03,63,60,Stage 2 - Riccione › Sogliano al Rubicone,130.0,,,2018
 22.03,109,109,Stage 1a - Gatteo › Gatteo,97.8,,,2018
 22.03,5,20,Stage 1b (TTT) - Gatteo a Mare › Gatteo,13.3,2,,2018
-25.02,DNF,,Royal Bernard Drome Classic (1.1),206,,,2018
+25.02,DNF,,Royal Bernard Drome Classic (1.1),206.0,,,2018
 24.02,DNF,,Faun Environnement - Classic de l'Ardèche Rhône Crussol (1.1),200.2,,,2018
 13.02 » 18.02,,,Tour of Oman (2.HC),,,,2018
 ,11,,Youth classification,,,,2018
 ,40,,General classification,,,3,2018
 18.02,115,,Stage 6 - Al Mouj Muscat › Matrah Corniche,135.5,,,2018
-17.02,34,22,Stage 5 - Sama'il › Jabal Al Akhdhar (Green Mountain),152,,,2018
+17.02,34,22,Stage 5 - Sama'il › Jabal Al Akhdhar (Green Mountain),152.0,,,2018
 16.02,52,13,Stage 4 - Yiti (Al Sifah) › Ministry of Tourism,117.5,,,2018
 15.02,17,13,Stage 3 - German University of Technology › Wadi Dayqah Dam,179.5,,,2018
 14.02,15,15,Stage 2 - Sultan Qaboos University › Al Bustan,167.5,,,2018
@@ -338,21 +371,21 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.01,34,,Trofeo Lloseta - Andratx (1.1),165.8,,,2018
 26.01,36,,Trofeo Serra de Tramuntana (1.1),140.1,,,2018
 01.10,24,,Piccolo Giro di Lombardia (1.2U),163.1,,,2017
-26.09,6,,Ruota d'Oro - GP Festa del Perdono (1.2U),167,1,5,2017
-22.09,60,,World Championships U23 - Road Race (WC),191,,,2017
+26.09,6,,Ruota d'Oro - GP Festa del Perdono (1.2U),167.0,1,5,2017
+22.09,60,,World Championships U23 - Road Race (WC),191.0,,,2017
 12.09 » 16.09,,,PostNord Danmark Rundt - Tour of Denmark (2.HC),,,,2017
 ,17,,Youth classification,,,,2017
 ,65,,General classification,,,,2017
-16.09,77,,Stage 5 - Ebeltoft › Aarhus,198,,,2017
+16.09,77,,Stage 5 - Ebeltoft › Aarhus,198.0,,,2017
 15.09,103,67,Stage 4 (ITT) - Randers › Randers,17.8,,,2017
 14.09,44,65,Stage 3 - Otterup › Vejle,183.6,,,2017
 12.09,103,105,Stage 1 - Frederiksberg › Kalundborg,176.6,,,2017
 18.08 » 27.08,,,Tour de l'Avenir (2.Ncup),,,,2017
 20.08,DNS,,Stage 3 - Missilla › Châteaubriant ,125.7,,,2017
 19.08,115,92,Stage 2 - Inzinzac-Lochrist › Bignan,132.4,,,2017
-18.08,62,62,Stage 1 - Loudéac › Loudéac,134,,,2017
+18.08,62,62,Stage 1 - Loudéac › Loudéac,134.0,,,2017
 13.08,1,,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran premio Pasta Zara (1.2U),169.8,15,30,2017
-09.07,8,,Giro del Medio Brenta (1.2),175,,3,2017
+09.07,8,,Giro del Medio Brenta (1.2),175.0,,3,2017
 09.06 » 15.06,,,Giro Ciclistico d'Italia (2.2U),,,,2017
 ,2,,Youth classification,,,,2017
 ,31,,Mountains classification,,,,2017
@@ -361,31 +394,31 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.06,9,,Stage 7 - Campo Imperatore Cima Pantin › Francavilla al Mare,148.9,,,2017
 14.06,8,7,Stage 6 - Castalincontrada › Francavilla al Mare,133.2,,,2017
 13.06,18,9,Stage 5a - Osima › Senigallia,87.2,,,2017
-13.06,12,7,Stage 5b (ITT) - Campocavallo di Osima › Campocavallo di Osima,14,,,2017
+13.06,12,7,Stage 5b (ITT) - Campocavallo di Osima › Campocavallo di Osima,14.0,,,2017
 12.06,30,12,Stage 4 - Gabicce Mare › Gabicce Mare,155.5,,,2017
 11.06,16,13,Stage 3 - Forli › Barnara di Romagna,140.5,,,2017
 10.06,8,19,Stage 2 - San Valentino di Castellarano › Castellarano,145.8,,,2017
 09.06,92,93,Stage 1 - Imola › Imola,131.7,,,2017
-04.06,46,,Coppa della Pace - Trofeo F.lli Anelli (1.2),170,,,2017
+04.06,46,,Coppa della Pace - Trofeo F.lli Anelli (1.2),170.0,,,2017
 02.06,22,,Trofeo Alcide Degasperi (1.2),156.4,,,2017
-25.04,22,,Gran Premio della Liberazione (1.2U),138,,,2017
+25.04,22,,Gran Premio della Liberazione (1.2U),138.0,,,2017
 23.04,1,,Tr. Città di S. Vendemiano - 57th GP Industria & Commercio (1.2U),171.8,15,30,2017
-18.04,8,,G.P. Palio del Recioto (1.2U),143,,1,2017
+18.04,8,,G.P. Palio del Recioto (1.2U),143.0,,1,2017
 08.04,6,,Trofeo Edil C (1.2U),149.1,1,5,2017
 02.04,4,,Trofeo Piva (1.2U),179.8,4,15,2017
 23.03 » 26.03,,,Settimana Internazionale Coppi e Bartali (2.1),,,,2017
 ,8,,Youth classification,,,,2017
 ,37,,General classification,,,,2017
-26.03,47,,Stage 4 - Fiorano modenese › Sassuolo,160,,,2017
+26.03,47,,Stage 4 - Fiorano modenese › Sassuolo,160.0,,,2017
 25.03,131,47,Stage 3 - Crevalcore › Crevalcore,171.4,,,2017
-24.03,46,45,Stage 2 - Riccione › Sogliano sul Rubicone,130,,,2017
+24.03,46,45,Stage 2 - Riccione › Sogliano sul Rubicone,130.0,,,2017
 23.03,77,77,Stage 1a - Gatteo › Gatteo,97.8,,,2017
 23.03,30,57,Stage 1b (TTT) - Gatteo a mare › Gatteo,13.3,,,2017
 05.03,32,,GP Industria & Artigianato (1.HC),199.2,,3,2017
 02.10,55,,Piccolo Giro di Lombardia (1.2U),163.1,,,2016
-27.09,56,,Ruota d'Oro - GP Festa del Perdono (1.2U),167,,,2016
-17.08,DNF,,Trofeo Beato Bernardo - Coppa Citta' di Offida (1.2U),152,,,2016
-16.08,DNF,,GP Capodarco - Comunità di Capodarco (1.2U),180,,,2016
+27.09,56,,Ruota d'Oro - GP Festa del Perdono (1.2U),167.0,,,2016
+17.08,DNF,,Trofeo Beato Bernardo - Coppa Citta' di Offida (1.2U),152.0,,,2016
+16.08,DNF,,GP Capodarco - Comunità di Capodarco (1.2U),180.0,,,2016
 14.08,11,,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran Premio Pasta Zara (1.2U),177.2,,,2016
 03.04,21,,Trofeo Piva (1.2U),179.8,,,2016
 29.03,DNF,,G.P. Palio del Recioto - 34th Memorial cav. Sante Carradori (1.2U),143.2,,,2016
@@ -399,16 +432,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.09,24,,Stage 3 - La Spezia › Luni di Ortonovo,94.4,,,2015
 05.09,1,6,Stage 2 - Fosdinovo › Fosdinovo,116.9,20,,2015
 04.09,11,11,Stage 1 - Castelnuovo Magra  › Ponzano ,98.7,,,2015
-30.08,1,,Trofeo Emilio Paganessi (1.1),123,75,,2015
+30.08,1,,Trofeo Emilio Paganessi (1.1),123.0,75,,2015
 11.07 » 12.07,,,GP Général Patton (2.Ncup),,,,2015
 ,10,,Mountains classification,,,,2015
 ,10,,Points classification,,,,2015
 ,4,,General classification,,80,,2015
-12.07,15,,Stage 2 - Wincrange › Wincrange,97,,,2015
-11.07,6,6,Stage 1 - Ettelbruck › Troisvierges,102,3,,2015
+12.07,15,,Stage 2 - Wincrange › Wincrange,97.0,,,2015
+11.07,6,6,Stage 1 - Ettelbruck › Troisvierges,102.0,3,,2015
 29.03,5,,Trofeo Citta di Loano (1.1),127.3,28,,2015
 27.09,61,,World Championships MJ - Road Race (WC),127.4,,,2014
-14.09,2,,Trofeo Buffoni (1.1),135,55,,2014
-06.07,7,,Trofeo San Rocco (1.1),104,20,,2014
-08.06,5,,GP Dell'Arno (1.1),124,28,,2014
+14.09,2,,Trofeo Buffoni (1.1),135.0,55,,2014
+06.07,7,,Trofeo San Rocco (1.1),104.0,20,,2014
+08.06,5,,GP Dell'Arno (1.1),124.0,28,,2014
 18.05,18,,Tf GD Dorigo - MO Biemmereti - MO Cristiano Floriani - MO F. Mazzero (1.1),137.2,3,,2014

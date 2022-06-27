@@ -1,10 +1,11 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
 07.08,103,,Clásica de Pascua-Ruta Xacobea (NAT) ,,,,2021
+07.08,103,,Clásica de Pascua-Ruta Xacobea (NAT) ,,,,2021
 27.08 » 09.09,,,Vuelta a Venezuela (2.2) ,,,,2007
 ,13,,Mountains classification ,,,,2007
 ,53,,Points classification ,,,,2007
 ,43,,General classification ,,,,2007
-09.09,9,,Stage 14 - Caracas › Caracas ,80,,,2007
+09.09,9,,Stage 14 - Caracas › Caracas ,80.0,,,2007
 08.09,29,44,Stage 13 - San Pablo de Yaracuy › Maracay ,189.2,,,2007
 07.09,35,50,Stage 12 - La Libertad › San Felipe ,220.9,,,2007
 06.09,28,51,Stage 11 - Santa Elena de Arenales › Valera ,170.6,,,2007
@@ -19,17 +20,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.08,66,66,Stage 2 - Casanay › Santa Barbara de Tapirin ,187.5,,,2007
 27.08,34,74,Stage 1b - Carúpano › Carúpano ,76.8,,,2007
 27.08,78,78,Stage 1a (ITT) - Carúpano › Río Caribe ,18.8,,,2007
-06.05,11,,Clasico Corre por la Vida (1.2) ,130,,,2007
-05.05,5,,Clasico Aniversario de la Federacion Venezolana de Ciclismo (1.2) ,130,2,,2007
+06.05,11,,Clasico Corre por la Vida (1.2) ,130.0,,,2007
+05.05,5,,Clasico Aniversario de la Federacion Venezolana de Ciclismo (1.2) ,130.0,2,,2007
 07.01 » 20.01,,,Vuelta al Tachira (2.2) ,,,,2006
 ,60,,General classification ,,,,2006
 08.01,54,47,Stage 2 - Dabajuro › Maracaibo ,140.1,,,2006
-07.01,39,41,Stage 1 - Santa Ana › Santa Ana ,133,,,2006
+07.01,39,41,Stage 1 - Santa Ana › Santa Ana ,133.0,,,2006
 08.01 » 21.01,,,Vuelta al Tachira (2.2) ,,,,2005
 ,42,,Points classification ,,,,2005
 ,64,,General classification ,,,,2005
-21.01,67,,Stage 14 - Peribeca › San Cristóbal ,125,,,2005
-20.01,69,62,Stage 13 (ITT) - San Cristóbal › Parque Nacional Chorro El Indio ,22,,,2005
+21.01,67,,Stage 14 - Peribeca › San Cristóbal ,125.0,,,2005
+20.01,69,62,Stage 13 (ITT) - San Cristóbal › Parque Nacional Chorro El Indio ,22.0,,,2005
 19.01,69,63,Stage 12 - Táriba › San Juan de Colon ,120.2,,,2005
 18.01,41,63,Stage 11 - Rubio › Bramon ,128.8,,,2005
 17.01,73,64,Stage 10 - San Rafael de El Piñal › Santa Ana del Táchira ,176.8,,,2005
@@ -38,7 +39,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.01,65,61,Stage 7 - Santa Cruz de Mora › La Grita ,155.3,,,2005
 13.01,71,60,Stage 6 - El Vigía › Mérida ,121.2,,,2005
 12.01,66,51,Stage 5 - Caja Seca › Tovar ,149.4,,,2005
-11.01,50,43,Stage 4 - Valera › Valera ,116,,,2005
+11.01,50,43,Stage 4 - Valera › Valera ,116.0,,,2005
 10.01,53,49,Stage 3 - Cabimas › Valera ,178.1,,,2005
 09.01,66,60,Stage 2 - Maracaibo › Ciudad Ojeda ,137.7,,,2005
 08.01,58,59,Stage 1 - Maracaibo › Maracaibo ,136.5,,,2005
@@ -61,5 +62,5 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.01,47,64,Stage 5 - Táriba › El Vigía ,165.8,,,2003
 13.01,82,66,Stage 4 - Socopó › Santa Ana del Táchira ,216.3,,,2003
 12.01,83,64,Stage 3 - Acarigua › Barinas ,176.9,,,2003
-11.01,49,64,Stage 2 - Qibor › Acarigua ,120,,,2003
+11.01,49,64,Stage 2 - Qibor › Acarigua ,120.0,,,2003
 10.01,66,66,Stage 1 - Barquisimeto › Barquisimeto ,121.6,,,2003

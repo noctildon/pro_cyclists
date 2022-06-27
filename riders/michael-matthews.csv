@@ -1,4 +1,42 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+12.06 » 19.06,,,Tour de Suisse (2.UWT) ,,,,2022
+,15,,Mountains classification ,,,,2022
+,1,,Points classification ,,,,2022
+,21,,General classification ,,18,20,2022
+19.06,14,,Stage 8 (ITT) - Vaduz › Vaduz ,25.6,,,2022
+18.06,33,23,Stage 7 - Ambri › Malbun  147k,194.6,,,2022
+17.06,28,23,Stage 6 - Locarno › Moosalp  136k,177.5,,,2022
+16.06,24,31,Stage 5 - Ambri › Novazzano ,190.1,,,2022
+15.06,2,57,Stage 4 - Grenchen › Brunnen ,190.8,30,25,2022
+14.06,8,71,Stage 3 - Aesch › Grenchen ,176.9,3,,2022
+13.06,3,77,Stage 2 - Küsnacht › Aesch ,198,18,10,2022
+12.06,89,89,Stage 1 - Küsnacht › Küsnacht  ,177.6,,,2022
+05.06,11,,Brussels Cycling Classic (1.Pro) ,203.9,20,30,2022
+24.04,DNF,,Liège-Bastogne-Liège (1.UWT) ,257.2,,,2022
+20.04,DNS,,La Flèche Wallonne (1.UWT) ,202.1,,,2022
+13.04,7,,De Brabantse Pijl - La Flèche Brabançonne (1.Pro) ,205.1,35,60,2022
+10.04,7,,Amstel Gold Race (1.UWT) ,254.1,60,150,2022
+03.04,11,,Ronde van Vlaanderen - Tour des Flandres ME (1.UWT) ,272.5,46,70,2022
+21.03 » 27.03,,,Volta Ciclista a Catalunya (2.UWT) ,,,,2022
+23.03,DNF,,Stage 3 - Perpignan › La Molina ,161.1,,,2022
+22.03,7,2,Stage 2 - L'Escala › Perpignan ,202.4,4,,2022
+21.03,1,1,Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols ,171.2,50,50 +8,2022
+19.03,4,,Milano-Sanremo (1.UWT) ,293,120,275,2022
+07.03 » 13.03,,,Tirreno-Adriatico (2.UWT) ,,,,2022
+,50,,General classification ,,5,10,2022
+13.03,19,,Stage 7 - San Benedetto del Tronto › San Benedetto del Tronto ,159,,,2022
+12.03,73,52,Stage 6 - Apecchio › Carpegna ,215,,,2022
+11.03,42,41,Stage 5 - Sefro › Fermo ,155,,,2022
+10.03,55,51,Stage 4 - Cascata delle Marmore › Bellante ,202,,,2022
+09.03,93,22,Stage 3 - Murlo › Terni ,170,,,2022
+08.03,61,23,Stage 2 - Camaiore › Sovicille ,219,,,2022
+07.03,24,24,Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore ,13.9,,,2022
+05.03,DNF,,Strade Bianche (1.UWT) ,184,,,2022
+30.01,6,,Trofeo Playa de Palma - Palma (1.1) ,169.1,24,40,2022
+29.01,4,,Trofeo Pollença - Port d'Andratx (1.1) ,170.1,32,60,2022
+28.01,DNS,,Trofeo Serra de Tramuntana (1.1) ,158.9,,,2022
+27.01,6,,Trofeo Alcúdia - Port d'Alcúdia (1.1) ,173.2,24,40,2022
+26.01,11,,Trofeo Calvia (1.1) ,154.7,12,15,2022
 24.04,DNF,,Liège-Bastogne-Liège (1.UWT),257.2,,,2022
 20.04,DNS,,La Flèche Wallonne (1.UWT),202.1,,,2022
 13.04,7,,De Brabantse Pijl - La Flèche Brabançonne (1.Pro),205.1,35,60,2022
@@ -8,17 +46,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.03,DNF,,Stage 3 - Perpignan › La Molina,161.1,,,2022
 22.03,7,2,Stage 2 - L'Escala › Perpignan,202.4,4,,2022
 21.03,1,1,Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols,171.2,50,50,2022
-19.03,4,,Milano-Sanremo (1.UWT),293,120,275,2022
+19.03,4,,Milano-Sanremo (1.UWT),293.0,120,275,2022
 07.03 » 13.03,,,Tirreno-Adriatico (2.UWT),,,,2022
 ,50,,General classification,,5,10,2022
-13.03,19,,Stage 7 - San Benedetto del Tronto › San Benedetto del Tronto,159,,,2022
-12.03,73,52,Stage 6 - Apecchio › Carpegna,215,,,2022
-11.03,42,41,Stage 5 - Sefro › Fermo,155,,,2022
-10.03,55,51,Stage 4 - Cascata delle Marmore › Bellante,202,,,2022
-09.03,93,22,Stage 3 - Murlo › Terni,170,,,2022
-08.03,61,23,Stage 2 - Camaiore › Sovicille,219,,,2022
+13.03,19,,Stage 7 - San Benedetto del Tronto › San Benedetto del Tronto,159.0,,,2022
+12.03,73,52,Stage 6 - Apecchio › Carpegna,215.0,,,2022
+11.03,42,41,Stage 5 - Sefro › Fermo,155.0,,,2022
+10.03,55,51,Stage 4 - Cascata delle Marmore › Bellante,202.0,,,2022
+09.03,93,22,Stage 3 - Murlo › Terni,170.0,,,2022
+08.03,61,23,Stage 2 - Camaiore › Sovicille,219.0,,,2022
 07.03,24,24,Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore,13.9,,,2022
-05.03,DNF,,Strade Bianche (1.UWT),184,,,2022
+05.03,DNF,,Strade Bianche (1.UWT),184.0,,,2022
 30.01,6,,Trofeo Playa de Palma - Palma (1.1),169.1,24,40,2022
 29.01,4,,Trofeo Pollença - Port d'Andratx (1.1),170.1,32,60,2022
 28.01,DNS,,Trofeo Serra de Tramuntana (1.1),158.9,,,2022
@@ -34,16 +72,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.09,13,83,Stage 19 - Tapia › Monforte de Lemos,191.2,3,,2021
 02.09,92,88,Stage 18 - Salas › Altu d'El Gamoniteiru,162.6,,,2021
 01.09,85,85,Stage 17 - Unquera › Lagos de Covadonga,185.8,,,2021
-31.08,4,85,Stage 16 - Laredo › Santa Cruz de Bezana,180,25,12,2021
+31.08,4,85,Stage 16 - Laredo › Santa Cruz de Bezana,180.0,25,12,2021
 29.08,104,90,Stage 15 - Navalmoral de la Mata › El Barraco,197.5,,,2021
 28.08,131,84,Stage 14 - Don Benito › Pico Villuercas,165.7,,,2021
 27.08,42,72,Stage 13 - Belmez › Villanueva de la Serena,203.7,,,2021
-26.08,3,73,Stage 12 - Jaén › Córdoba,175,35,20,2021
+26.08,3,73,Stage 12 - Jaén › Córdoba,175.0,35,20,2021
 25.08,23,89,Stage 11 - Antequera › Valdepeñas de Jaén,133.6,,,2021
-24.08,114,105,Stage 10 - Roquetas de Mar › Rincón de la Victoria,189,,,2021
-22.08,148,102,Stage 9 - Puerto-Lumbreras › Alto de Velefique,188,,,2021
+24.08,114,105,Stage 10 - Roquetas de Mar › Rincón de la Victoria,189.0,,,2021
+22.08,148,102,Stage 9 - Puerto-Lumbreras › Alto de Velefique,188.0,,,2021
 21.08,7,84,Stage 8 - Santa Pola › La Manga del Mar Menor,173.7,12,,2021
-20.08,138,86,Stage 7 - Gandía › Balcón de Alicante,152,,,2021
+20.08,138,86,Stage 7 - Gandía › Balcón de Alicante,152.0,,,2021
 19.08,6,57,Stage 6 - Requena › Alto de la Montaña de Cullera,158.3,15,,2021
 18.08,25,100,Stage 5 - Tarancón › Albacete,184.4,,,2021
 17.08,5,121,Stage 4 - El Burgo de Osma › Molina de Aragón,163.9,18,4,2021
@@ -56,10 +94,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,79,,General classification,,25,,2021
 18.07,7,,Stage 21 - Chatou › Paris Champs-Élysées,108.4,22,,2021
 17.07,78,80,Stage 20 (ITT) - Libourne › Saint-Émilion,30.8,,,2021
-16.07,108,81,Stage 19 - Mourenx › Libourne,207,,,2021
+16.07,108,81,Stage 19 - Mourenx › Libourne,207.0,,,2021
 15.07,119,81,Stage 18 - Pau › Luz Ardiden,129.7,,,2021
 14.07,75,76,Stage 17 - Muret › Saint-Lary-Soulan (Col du Portet),178.4,,,2021
-13.07,3,74,Stage 16 - El Pas de la Casa  › Saint-Gaudens,169,50,25,2021
+13.07,3,74,Stage 16 - El Pas de la Casa  › Saint-Gaudens,169.0,50,25,2021
 11.07,54,87,Stage 15 - Céret › Andorra la Vella,191.3,,,2021
 10.07,81,96,Stage 14 - Carcassonne › Quillan,183.7,,,2021
 09.07,12,99,Stage 13 - Nîmes › Carcassonne,219.9,6,,2021
@@ -82,19 +120,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.06,23,38,Stage 7 (ITT) - Disentis Sedrun › Andermatt,23.2,,,2021
 11.06,12,42,Stage 6 - Fiesch › Disentis Sedrun,130.1,,,2021
 10.06,122,62,Stage 5 - Gstaad › Leukerbad,175.2,,,2021
-09.06,10,14,Stage 4 - Sankt Urban › Gstaad,171,1,,2021
+09.06,10,14,Stage 4 - Sankt Urban › Gstaad,171.0,1,,2021
 08.06,4,13,Stage 3 - Lachen › Pfaffnau,182.1,13,,2021
-07.06,14,15,Stage 2 - Neuhausen am Rheinfall › Lachen,178,,,2021
+07.06,14,15,Stage 2 - Neuhausen am Rheinfall › Lachen,178.0,,,2021
 06.06,46,46,Stage 1 (ITT) - Frauenfeld › Frauenfeld,10.9,,,2021
-04.06,6,,Grosser Preis des Kantons Aargau (1.1),172,24,40,2021
+04.06,6,,Grosser Preis des Kantons Aargau (1.1),172.0,24,40,2021
 25.04,19,,Liège-Bastogne-Liège (1.UWT),259.1,22,30,2021
 21.04,21,,La Flèche Wallonne (1.UWT),193.6,14,16,2021
 18.04,4,,Amstel Gold Race (1.UWT),218.6,90,275,2021
 14.04,DNF,,De Brabantse Pijl - La Flèche Brabançonne (1.Pro),201.7,,,2021
 04.04,21,,Ronde van Vlaanderen - Tour des Flandres ME (1.UWT),254.3,19,20,2021
-28.03,5,,Gent-Wevelgem in Flanders Fields ME (1.UWT),250,80,225,2021
+28.03,5,,Gent-Wevelgem in Flanders Fields ME (1.UWT),250.0,80,225,2021
 26.03,DNF,,E3 Saxo Bank Classic (1.UWT),203.9,,,2021
-20.03,6,,Milano-Sanremo (1.UWT),299,90,175,2021
+20.03,6,,Milano-Sanremo (1.UWT),299.0,90,175,2021
 07.03 » 14.03,,,Paris - Nice (2.UWT),,,,2021
 ,4,,Points classification,,,,2021
 ,38,,General classification,,5,10,2021
@@ -104,18 +142,18 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 11.03,62,30,Stage 5 - Vienne › Bollène,200.2,,,2021
 10.03,37,30,Stage 4 - Chalon-sur-Saône › Chiroubles,187.6,,,2021
 09.03,17,5,Stage 3 (ITT) - Gien › Gien,14.4,,,2021
-08.03,3,1,Stage 2 - Oinville-sur-Montcient › Amilly,188,18,10,2021
+08.03,3,1,Stage 2 - Oinville-sur-Montcient › Amilly,188.0,18,10,2021
 07.03,17,3,Stage 1 - Saint-Cyr-L'École › Saint-Cyr-L'École,165.8,,,2021
 03.10 » 25.10,,,Giro d'Italia (2.UWT),,,,2020
-13.10,DNS,,Stage 10 - Lanciano › Tortoreto,177,,,2020
-11.10,64,87,Stage 9 - San Salvo › Roccaraso,208,,,2020
-10.10,7,98,Stage 8 - Giovinazzo › Vieste,200,12,,2020
-09.10,3,100,Stage 7 - Matera › Brindisi,143,35,20,2020
-08.10,2,102,Stage 6 - Castrovillari › Matera,188,50,40,2020
-07.10,115,105,Stage 5 - Mileto › Camigliatello Silano,225,,,2020
-06.10,8,104,Stage 4 - Catania › Villafranca Tirrena,140,10,,2020
-05.10,139,108,Stage 3 - Enna › Etna,150,,,2020
-04.10,4,11,Stage 2 - Alcamo › Agrigento,149,25,12,2020
+13.10,DNS,,Stage 10 - Lanciano › Tortoreto,177.0,,,2020
+11.10,64,87,Stage 9 - San Salvo › Roccaraso,208.0,,,2020
+10.10,7,98,Stage 8 - Giovinazzo › Vieste,200.0,12,,2020
+09.10,3,100,Stage 7 - Matera › Brindisi,143.0,35,20,2020
+08.10,2,102,Stage 6 - Castrovillari › Matera,188.0,50,40,2020
+07.10,115,105,Stage 5 - Mileto › Camigliatello Silano,225.0,,,2020
+06.10,8,104,Stage 4 - Catania › Villafranca Tirrena,140.0,10,,2020
+05.10,139,108,Stage 3 - Enna › Etna,150.0,,,2020
+04.10,4,11,Stage 2 - Alcamo › Agrigento,149.0,25,12,2020
 03.10,23,23,Stage 1 (ITT) - Monreale › Palermo,15.1,,,2020
 27.09,7,,World Championships - Road Race (WC),258.2,100,175,2020
 07.09 » 14.09,,,Tirreno-Adriatico (2.UWT),,,,2020
@@ -123,52 +161,52 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,17,,Points classification,,,,2020
 ,54,,General classification,,5,5,2020
 14.09,10,,Stage 8 (ITT) - San Benedetto del Tronto › San Benedetto del Tronto,10.1,1,,2020
-13.09,40,55,Stage 7 - Pieve Torina › Loreto,181,,,2020
-12.09,111,60,Stage 6 - Castelfidardo › Senigallia,171,,,2020
-11.09,67,62,Stage 5 - Norcia › Sassotetto,202,,,2020
-10.09,55,60,Stage 4 - Terni › Cascia,194,,,2020
-09.09,86,83,Stage 3 - Follonica › Saturnia,217,,,2020
-08.09,19,8,Stage 2 - Camaiore › Follonica,201,,,2020
-07.09,14,6,Stage 1 - Lido di Camaiore › Lido di Camaiore,133,,,2020
+13.09,40,55,Stage 7 - Pieve Torina › Loreto,181.0,,,2020
+12.09,111,60,Stage 6 - Castelfidardo › Senigallia,171.0,,,2020
+11.09,67,62,Stage 5 - Norcia › Sassotetto,202.0,,,2020
+10.09,55,60,Stage 4 - Terni › Cascia,194.0,,,2020
+09.09,86,83,Stage 3 - Follonica › Saturnia,217.0,,,2020
+08.09,19,8,Stage 2 - Camaiore › Follonica,201.0,,,2020
+07.09,14,6,Stage 1 - Lido di Camaiore › Lido di Camaiore,133.0,,,2020
 25.08,1,,Bretagne Classic - Ouest-France (1.UWT),247.75,225,400,2020
-08.08,3,,Milano-Sanremo (1.UWT),305,150,325,2020
+08.08,3,,Milano-Sanremo (1.UWT),305.0,150,325,2020
 08.03 » 15.03,,,Paris - Nice (2.UWT),,,,2020
 ,6,,Points classification,,,,2020
 ,26,,General classification,,9,20,2020
 14.03,54,,Stage 7 - Nice › Valdeblore La Colmiane,166.5,,,2020
 13.03,2,5,Stage 6 - Sorgues › Apt,161.5,30,25,2020
-12.03,21,10,Stage 5 - Gannat › La Côte-Saint-André,227,,,2020
+12.03,21,10,Stage 5 - Gannat › La Côte-Saint-André,227.0,,,2020
 11.03,7,10,Stage 4 (ITT) -  Saint-Amand-Montrond ›  Saint-Amand-Montrond,15.1,4,,2020
 10.03,33,20,Stage 3 - Chalette-sur-Loing › La Châtre,212.5,,,2020
 09.03,32,18,Stage 2 - Chevreuse › Chalette-sur-Loing,166.5,,,2020
-08.03,26,26,Stage 1 - Plaisir › Plaisir,154,,,2020
+08.03,26,26,Stage 1 - Plaisir › Plaisir,154.0,,,2020
 29.09,24,,World Championships - Road Race (WC),260.7,22,20,2019
 15.09,19,,Grand Prix Cycliste de Montréal (1.UWT),219.6,16,30,2019
 13.09,1,,Grand Prix Cycliste de Québec (1.UWT),201.6,225,500,2019
 01.09,14,,Bretagne Classic - Ouest-France (1.UWT),248.1,26,32,2019
-04.08,83,,Prudential RideLondon-Surrey Classic (1.UWT),167,5,,2019
+04.08,83,,Prudential RideLondon-Surrey Classic (1.UWT),167.0,5,,2019
 06.07 » 28.07,,,Tour de France (2.UWT),,,,2019
 ,5,,Points classification,,,,2019
 ,67,,General classification,,25,,2019
-28.07,28,,Stage 21 - Rambouillet › Paris,128,,,2019
+28.07,28,,Stage 21 - Rambouillet › Paris,128.0,,,2019
 27.07,98,67,Stage 20 - Albertville › Val Thorens,59.5,,,2019
-26.07,DF,63,Stage 19 - Saint-Jean-de-Maurienne › Tignes,127,,,2019
-25.07,104,63,Stage 18 - Embrun › Valloire,208,,,2019
-24.07,148,56,Stage 17 - Pont du Gard › Gap,200,,,2019
-23.07,6,48,Stage 16 - Nîmes › Nîmes,177,26,,2019
-21.07,103,50,Stage 15 - Limoux › Foix,185,,,2019
-20.07,97,44,Stage 14 - Tarbes › Col du Tourmalet,111,,,2019
+26.07,DF,63,Stage 19 - Saint-Jean-de-Maurienne › Tignes,127.0,,,2019
+25.07,104,63,Stage 18 - Embrun › Valloire,208.0,,,2019
+24.07,148,56,Stage 17 - Pont du Gard › Gap,200.0,,,2019
+23.07,6,48,Stage 16 - Nîmes › Nîmes,177.0,26,,2019
+21.07,103,50,Stage 15 - Limoux › Foix,185.0,,,2019
+20.07,97,44,Stage 14 - Tarbes › Col du Tourmalet,111.0,,,2019
 19.07,58,38,Stage 13 (ITT) - Pau › Pau,27.2,,,2019
 18.07,90,40,Stage 12 - Toulouse › Bagnères-de-Bigorre,209.5,,,2019
-17.07,74,39,Stage 11 - Albi › Toulouse,167,,,2019
+17.07,74,39,Stage 11 - Albi › Toulouse,167.0,,,2019
 15.07,4,41,Stage 10 - Saint-Flour › Albi,217.5,40,15,2019
 14.07,151,48,Stage 9 - Saint-Étienne › Brioude,170.5,,,2019
-13.07,4,38,Stage 8 - Mâcon › Saint-Étienne,200,40,15,2019
-12.07,9,54,Stage 7 - Belfort › Chalon-sur-Saône,230,14,,2019
+13.07,4,38,Stage 8 - Mâcon › Saint-Étienne,200.0,40,15,2019
+12.07,9,54,Stage 7 - Belfort › Chalon-sur-Saône,230.0,14,,2019
 11.07,108,59,Stage 6 - Mulhouse › La Planche des Belles Filles,160.5,,,2019
 10.07,7,5,Stage 5 - Saint-Dié-des-Vosges › Colmar,175.5,22,,2019
 09.07,9,5,Stage 4 - Reims › Nancy,213.5,14,,2019
-08.07,2,5,Stage 3 - Binche › Épernay,215,70,50,2019
+08.07,2,5,Stage 3 - Binche › Épernay,215.0,70,50,2019
 07.07,4,15,Stage 2 (TTT) - Brussels › Brussels,27.6,20,1.88,2019
 06.07,6,6,Stage 1 - Brussels › Brussels,194.5,26,,2019
 15.06 » 23.06,,,Tour de Suisse (2.UWT),,,,2019
@@ -176,17 +214,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.06,15,60,Stage 8 (ITT) - Goms › Goms,19.2,,,2019
 21.06,71,61,Stage 7 - Unterterzen › St. Gotthard,216.6,,,2019
 20.06,83,54,Stage 6 - Einsiedeln › Flumserberg,120.2,,,2019
-19.06,5,2,Stage 5 - Münchenstein › Einsiedeln,177,10,,2019
+19.06,5,2,Stage 5 - Münchenstein › Einsiedeln,177.0,10,,2019
 18.06,2,2,Stage 4 - Murten › Arlesheim,163.9,30,25,2019
 17.06,6,4,Stage 3 - Flamatt › Murten,162.3,7,,2019
 16.06,6,4,Stage 2 - Langnau im Emmental › Langnau im Emmental,159.6,7,,2019
 15.06,3,3,Stage 1 (ITT) - Langnau im Emmental › Langnau im Emmental,9.5,18,10,2019
 01.05,DNF,,Eschborn-Frankfurt (1.UWT),187.5,,,2019
-28.04,35,,Liège-Bastogne-Liège (1.UWT),256,5,10,2019
-24.04,8,,La Flèche Wallonne (1.UWT),195,50,100,2019
+28.04,35,,Liège-Bastogne-Liège (1.UWT),256.0,5,10,2019
+24.04,8,,La Flèche Wallonne (1.UWT),195.0,50,100,2019
 21.04,16,,Amstel Gold Race (1.UWT),265.7,20,30,2019
 17.04,4,,De Brabantse Pijl - La Flèche Brabançonne (1.HC),196.2,50,100,2019
-07.04,6,,Ronde van Vlaanderen - Tour des Flandres ME (1.UWT),267,90,175,2019
+07.04,6,,Ronde van Vlaanderen - Tour des Flandres ME (1.UWT),267.0,90,175,2019
 25.03 » 31.03,,,Volta Ciclista a Catalunya (2.UWT),,,,2019
 ,1,,Points classification,,,,2019
 ,59,,General classification,,5,2,2019
@@ -194,16 +232,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 30.03,1,86,Stage 6 - Valls › Vila-seca,169.1,50,50,2019
 29.03,2,95,Stage 5 - Puigcerdà › Sant Cugat del Vallès,188.1,30,20,2019
 28.03,87,103,Stage 4 - Llanars (Vall de Camprodon) › La Molina (Alp),150.3,,,2019
-27.03,117,104,Stage 3 - Sant Feliu de Guixols › Vallter 2000 (Setcases),179,,,2019
+27.03,117,104,Stage 3 - Sant Feliu de Guixols › Vallter 2000 (Setcases),179.0,,,2019
 26.03,1,3,Stage 2 - Mataró › Sant Feliu de Guixols,166.7,50,50,2019
 25.03,4,7,Stage 1 - Calella › Calella,163.7,13,,2019
-23.03,12,,Milano-Sanremo (1.UWT),291,42,60,2019
+23.03,12,,Milano-Sanremo (1.UWT),291.0,42,60,2019
 10.03 » 17.03,,,Paris - Nice (2.UWT),,,,2019
 10.03,DNF,,Stage 1 - Saint-Germain-en-Laye › Saint-Germain-en-Laye,138.5,,,2019
-02.03,12,,Omloop Het Nieuwsblad ME (1.UWT),200,34,35,2019
-13.10,DNF,,Il Lombardia (1.UWT),241,,,2018
-10.10,DNF,,Milano-Torino (1.HC),200,,,2018
-09.10,DNF,,Tre Valli Varesine (1.HC),212,,,2018
+02.03,12,,Omloop Het Nieuwsblad ME (1.UWT),200.0,34,35,2019
+13.10,DNF,,Il Lombardia (1.UWT),241.0,,,2018
+10.10,DNF,,Milano-Torino (1.HC),200.0,,,2018
+09.10,DNF,,Tre Valli Varesine (1.HC),212.0,,,2018
 23.09,2,,World Championships - TTT (WC),62.4,70,66.67,2018
 09.09,1,,Grand Prix Cycliste de Montréal (1.UWT),195.2,225,500,2018
 07.09,1,,Grand Prix Cycliste de Québec (1.UWT),201.6,225,500,2018
@@ -219,25 +257,25 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.08,4,4,Stage 2 (ITT) - Venray › Venray,12.7,13,,2018
 13.08,69,73,Stage 1 - Heerenveen › Bolsward ,177.3,,,2018
 04.08,55,,Clasica Ciclista San Sebastian (1.UWT),228.7,5,4,2018
-29.07,64,,Prudential RideLondon-Surrey Classic (1.UWT),187,5,,2018
+29.07,64,,Prudential RideLondon-Surrey Classic (1.UWT),187.0,5,,2018
 07.07 » 29.07,,,Tour de France (2.UWT),,,,2018
 11.07,DNS,,Stage 5 - Lorient › Quimper,204.5,,,2018
-10.07,34,9,Stage 4 - La Baule › Sarzeau,195,,,2018
+10.07,34,9,Stage 4 - La Baule › Sarzeau,195.0,,,2018
 09.07,5,9,Stage 3 (TTT) - Cholet › Cholet,35.5,4,0.62,2018
 08.07,148,52,Stage 2 - Mouilleron-Saint-Germain › La Roche-sur-Yon,182.5,,,2018
-07.07,7,8,Stage 1 - Noirmoutier-en-l'Île ›  Fontenay-le-Comte,201,22,,2018
+07.07,7,8,Stage 1 - Noirmoutier-en-l'Île ›  Fontenay-le-Comte,201.0,22,,2018
 09.06 » 17.06,,,Tour de Suisse (2.UWT),,,,2018
 ,2,,Points classification,,,,2018
 ,49,,General classification,,5,10,2018
-17.06,5,,Stage 9 (ITT) - Bellinzona › Bellinzona,34,10,,2018
-16.06,10,51,Stage 8 - Bellinzona › Bellinzona,123,1,,2018
-15.06,51,51,Stage 7 - Eschenbach/Atzmännig › Arosa,170,,,2018
-14.06,89,57,Stage 6 - Fiesch › Gommiswald,186,,,2018
-13.06,59,54,Stage 5 - Gstaad › Leukerbad,155,,,2018
-12.06,2,6,Stage 4 - Gansingen › Gstaad,189,30,25,2018
-11.06,6,6,Stage 3 - Oberstammheim › Gansingen,182,7,,2018
-10.06,4,6,Stage 2 - Frauenfeld › Frauenfeld,155,13,,2018
-09.06,2,8,Stage 1 (TTT) - Frauenfeld › Frauenfeld,18,16,3.57,2018
+17.06,5,,Stage 9 (ITT) - Bellinzona › Bellinzona,34.0,10,,2018
+16.06,10,51,Stage 8 - Bellinzona › Bellinzona,123.0,1,,2018
+15.06,51,51,Stage 7 - Eschenbach/Atzmännig › Arosa,170.0,,,2018
+14.06,89,57,Stage 6 - Fiesch › Gommiswald,186.0,,,2018
+13.06,59,54,Stage 5 - Gstaad › Leukerbad,155.0,,,2018
+12.06,2,6,Stage 4 - Gansingen › Gstaad,189.0,30,25,2018
+11.06,6,6,Stage 3 - Oberstammheim › Gansingen,182.0,7,,2018
+10.06,4,6,Stage 2 - Frauenfeld › Frauenfeld,155.0,13,,2018
+09.06,2,8,Stage 1 (TTT) - Frauenfeld › Frauenfeld,18.0,16,3.57,2018
 01.05,2,,Eschborn-Frankfurt (1.UWT),212.5,150,250,2018
 24.04 » 29.04,,,Tour de Romandie (2.UWT),,,,2018
 27.04,DNS,,Stage 3 (ITT) - Ollon › Villars,9.9,,,2018
@@ -246,7 +284,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.04,1,1,Prologue - Fribourg › Fribourg,4.02,50,60,2018
 22.04,63,,Liège - Bastogne - Liège (1.UWT),258.5,5,,2018
 18.04,5,,La Flèche Wallonne (1.UWT),198.5,80,180,2018
-15.04,24,,Amstel Gold Race (1.UWT),263,11,20,2018
+15.04,24,,Amstel Gold Race (1.UWT),263.0,11,20,2018
 02.04 » 07.04,,,Itzulia Basque Country (2.UWT),,,,2018
 07.04,DNF,,Stage 6 - Eibar › Arrate,122.2,,,2018
 06.04,60,44,Stage 5 - Vitoria › Eibar,164.7,,,2018
@@ -256,14 +294,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.04,68,68,Stage 1 - Zarautz › Zarautz,162.1,,,2018
 25.03,13,,Gent-Wevelgem in Flanders Fields ME (1.UWT),251.1,30,50,2018
 23.03,13,,Record Bank E3 Harelbeke (1.UWT),206.5,30,40,2018
-17.03,7,,Milano-Sanremo (1.UWT),294,80,150,2018
+17.03,7,,Milano-Sanremo (1.UWT),294.0,80,150,2018
 24.02,DNF,,Omloop Het Nieuwsblad ME (1.UWT),196.2,,,2018
 19.10 » 24.10,,,Gree - Tour of Guangxi (2.UWT),,,,2017
-22.10,DNS,,Stage 4 - Nanning › Mashan Nongla Scenic Spot ,151,,,2017
+22.10,DNS,,Stage 4 - Nanning › Mashan Nongla Scenic Spot ,151.0,,,2017
 21.10,84,91,Stage 3 - Nanning › Nanning,125.4,,,2017
 20.10,101,92,Stage 2 - Qinzhou › Nanning,156.7,,,2017
 19.10,17,21,Stage 1 - Beihai › Beihai,107.4,,,2017
-07.10,DNF,,Il Lombardia (1.UWT),247,,,2017
+07.10,DNF,,Il Lombardia (1.UWT),247.0,,,2017
 03.10,DNF,,Tre Valli Varesine (1.HC),192.9,,,2017
 24.09,3,,World Championships - Road Race (WC),267.5,190,400,2017
 17.09,1,,World Championships - TTT (WC),42.5,100,,2017
@@ -275,45 +313,45 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,16,,Mountains classification,,,,2017
 ,1,,Points classification,,100,,2017
 ,69,,General classification,,25,,2017
-23.07,11,,Stage 21 - Montgeron › Paris,105,8,,2017
+23.07,11,,Stage 21 - Montgeron › Paris,105.0,8,,2017
 22.07,78,69,Stage 20 (ITT) - Marseille › Marseille,22.5,,,2017
 21.07,94,69,Stage 19 - Embrun › Salon-de-Provence,222.5,,,2017
 20.07,118,69,Stage 18 - Briancon › Izoard,179.5,,,2017
-19.07,64,60,Stage 17 - La Mure › Serre-Chevalier,183,,,2017
-18.07,1,58,Stage 16 - Le Puy-en-Velay › Romans-sur-Isère,165,100,120,2017
+19.07,64,60,Stage 17 - La Mure › Serre-Chevalier,183.0,,,2017
+18.07,1,58,Stage 16 - Le Puy-en-Velay › Romans-sur-Isère,165.0,100,120,2017
 16.07,16,63,Stage 15 - Laissac-Sévérac l'Église › Le Puy-en-Velay,189.5,,,2017
 15.07,1,81,Stage 14 - Blagnac › Rodez,181.5,100,120,2017
-14.07,138,92,Stage 13 - Saint-Girons › Foix,101,,,2017
+14.07,138,92,Stage 13 - Saint-Girons › Foix,101.0,,,2017
 13.07,114,94,Stage 12 - Pau › Peyragudes,214.5,,,2017
 12.07,4,85,Stage 11 - Eymet › Pau,203.5,40,15,2017
-11.07,13,86,Stage 10 - Périgueux › Bergerac,178,4,,2017
+11.07,13,86,Stage 10 - Périgueux › Bergerac,178.0,4,,2017
 09.07,100,87,Stage 9 - Nantua › Chambéry,181.5,,,2017
 08.07,123,92,Stage 8 - Dole › Station des Rousses,187.5,,,2017
 07.07,3,84,Stage 7 - Troyes › Nuits-Saint-Georges,213.5,50,25,2017
-06.07,7,90,Stage 6 - Vesoul › Troyes,216,22,,2017
+06.07,7,90,Stage 6 - Vesoul › Troyes,216.0,22,,2017
 05.07,142,100,Stage 5 - Vittel › La Planche des Belles Filles,160.5,,,2017
 04.07,7,3,Stage 4 - Mondorf-les-Bains › Vittel,207.5,22,,2017
 03.07,2,3,Stage 3 - Verviers › Longwy,212.5,70,50,2017
 02.07,9,15,Stage 2 - Düsseldorf › Liège,203.5,14,,2017
-01.07,16,16,Stage 1 (ITT) - Düsseldorf › Düsseldorf,14,,,2017
+01.07,16,16,Stage 1 (ITT) - Düsseldorf › Düsseldorf,14.0,,,2017
 10.06 » 18.06,,,Tour de Suisse (2.UWT),,,,2017
 ,29,,Mountains classification,,,,2017
 ,6,,Points classification,,,,2017
 ,60,,General classification,,5,3,2017
 18.06,16,,Stage 9 (ITT) - Schaffhausen › Schaffhausen,28.6,,,2017
-17.06,6,62,Stage 8 - Schaffhausen › Schaffhausen,100,7,,2017
+17.06,6,62,Stage 8 - Schaffhausen › Schaffhausen,100.0,7,,2017
 16.06,90,63,Stage 7 - Zernez › Sölden,166.3,,,2017
 15.06,73,60,Stage 6 - Locarno › La Punt,166.7,,,2017
-14.06,6,50,Stage 5 - Bex › Cevio,222,7,,2017
+14.06,6,50,Stage 5 - Bex › Cevio,222.0,7,,2017
 13.06,109,55,Stage 4 - Bern › Villars-sur-Ollon,143.2,,,2017
 12.06,1,1,Stage 3 - Menziken › Bern,159.3,50,60,2017
 11.06,10,2,Stage 2 - Cham › Cham,172.7,1,,2017
-10.06,4,4,Stage 1 (ITT) - Cham › Cham,6,13,,2017
+10.06,4,4,Stage 1 (ITT) - Cham › Cham,6.0,13,,2017
 01.05,15,,Eschborn-Frankfurt 'Rund um den Finanzplatz' (1.UWT),215.7,22,20,2017
-23.04,4,,Liège - Bastogne - Liège (1.UWT),258,120,275,2017
+23.04,4,,Liège - Bastogne - Liège (1.UWT),258.0,120,275,2017
 19.04,67,,La Flèche Wallonne (1.UWT),200.5,5,,2017
-16.04,10,,Amstel Gold Race (1.UWT),261,42,85,2017
-12.04,11,,De Brabantse Pijl - La Flèche Brabançonne (1.HC),197,20,30,2017
+16.04,10,,Amstel Gold Race (1.UWT),261.0,42,85,2017
+12.04,11,,De Brabantse Pijl - La Flèche Brabançonne (1.HC),197.0,20,30,2017
 03.04 » 08.04,,,Vuelta al Pais Vasco (2.UWT),,,,2017
 ,2,,Points classification,,,,2017
 ,39,,General classification,,5,8,2017
@@ -323,30 +361,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.04,43,42,Stage 3 - Gasteiz › Donostia,160.5,,,2017
 04.04,4,1,Stage 2 - Pamplona  › Eltziego,173.4,13,,2017
 03.04,1,1,Stage 1 - Pamplona  › Eguesibar-Sarriguren,153.3,50,50,2017
-26.03,8,,Gent-Wevelgem in Flanders Fields ME (1.UWT),249,50,125,2017
+26.03,8,,Gent-Wevelgem in Flanders Fields ME (1.UWT),249.0,50,125,2017
 22.03,30,,Dwars door Vlaanderen / A travers la Flandre ME (1.UWT),203.4,5,12,2017
-18.03,12,,Milano-Sanremo (1.UWT),291,42,60,2017
+18.03,12,,Milano-Sanremo (1.UWT),291.0,42,60,2017
 05.03 » 12.03,,,Paris - Nice (2.UWT),,,,2017
 ,45,,Mountains classification,,,,2017
 ,4,,Points classification,,,,2017
 ,32,,General classification,,5,10,2017
 12.03,6,,Stage 8 - Nice › Nice,115.5,7,,2017
-11.03,87,41,Stage 7 - Nice › Col de la Couillole,177,,,2017
+11.03,87,41,Stage 7 - Nice › Col de la Couillole,177.0,,,2017
 10.03,35,24,Stage 6 - Aubagne › Fayence,193.5,,,2017
 09.03,4,36,Stage 5 - Quincié-en-Beaujolais › Bourg-de-Péage,199.5,13,,2017
 08.03,7,36,Stage 4 (ITT) - Beaujeu › Mont Brouilly,14.5,4,,2017
-07.03,5,40,Stage 3 - Chablis › Chalon-sur-Saône,190,10,,2017
-06.03,12,42,Stage 2 - Rochefort-en-Yvelines › Amilly,195,,,2017
+07.03,5,40,Stage 3 - Chablis › Chalon-sur-Saône,190.0,10,,2017
+06.03,12,42,Stage 2 - Rochefort-en-Yvelines › Amilly,195.0,,,2017
 05.03,58,58,Stage 1 - Bois-d'Arcy › Bois-d'Arcy,148.5,,,2017
 20.10 » 23.10,,,Abu Dhabi Tour (2.HC),,,,2016
 ,22,,Points classification,,,,2016
 ,23,,General classification,,3,5,2016
-23.10,7,,Stage 4 - Abu Dhabi  › Abu Dhabi ,143,2,,2016
-22.10,25,24,Stage 3 - Al Ain › Jebel Hafeet,150,,,2016
-21.10,48,20,Stage 2 - Abu Dhabi › Abu Dhabi,115,,,2016
-20.10,44,23,Stage 1 - Madinat Zayed › Madinat Zayed,147,,,2016
+23.10,7,,Stage 4 - Abu Dhabi  › Abu Dhabi ,143.0,2,,2016
+22.10,25,24,Stage 3 - Al Ain › Jebel Hafeet,150.0,,,2016
+21.10,48,20,Stage 2 - Abu Dhabi › Abu Dhabi,115.0,,,2016
+20.10,44,23,Stage 1 - Madinat Zayed › Madinat Zayed,147.0,,,2016
 16.10,4,,World Championships - Road Race (WC),257.3,150,325,2016
-09.10,3,,World Championships - TTT (WC),40,45,,2016
+09.10,3,,World Championships - TTT (WC),40.0,45,,2016
 19.09 » 25.09,,,Eneco Tour (2.UWT),,,,2016
 25.09,DNF,,Stage 7 - Bornem › Geraardsbergen,197.8,,,2016
 24.09,11,49,Stage 6 - Riemst › Lanaken ,185.2,,,2016
@@ -357,64 +395,64 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.09,82,84,Stage 1 - Bolsward › Bolsward,184.7,,,2016
 11.09,4,,Grand Prix Cycliste de Montréal (1.UWT),205.7,90,275,2016
 09.09,5,,Grand Prix Cycliste de Quebec (1.UWT),201.6,80,225,2016
-28.08,4,,Bretagne Classic - Ouest-France (1.UWT),247,90,220,2016
+28.08,4,,Bretagne Classic - Ouest-France (1.UWT),247.0,90,220,2016
 31.07,3,,RideLondon Classic (1.HC),202.3,60,125,2016
 02.07 » 24.07,,,Tour de France (2.UWT),,,,2016
 ,72,,Mountains classification,,,,2016
 ,3,,Points classification,,10,,2016
 ,110,,General classification,,25,,2016
-24.07,5,,Stage 21 - Chantilly › Paris,113,32,5,2016
+24.07,5,,Stage 21 - Chantilly › Paris,113.0,32,5,2016
 23.07,103,111,Stage 20 - Megève › Morzine,146.5,,,2016
-22.07,61,107,Stage 19 - Albertville › Saint-Gervais Mont Blanc,146,,,2016
-21.07,91,120,Stage 18 (ITT) - Sallanches › Megève,17,,,2016
+22.07,61,107,Stage 19 - Albertville › Saint-Gervais Mont Blanc,146.0,,,2016
+21.07,91,120,Stage 18 (ITT) - Sallanches › Megève,17.0,,,2016
 20.07,123,121,Stage 17 - Berne › Finhaut-Emosson,184.5,,,2016
-18.07,5,117,Stage 16 - Moirans-en-Montagne › Berne,209,32,5,2016
-17.07,130,122,Stage 15 - Bourg-en-Bresse › Culoz,159,,,2016
+18.07,5,117,Stage 16 - Moirans-en-Montagne › Berne,209.0,32,5,2016
+17.07,130,122,Stage 15 - Bourg-en-Bresse › Culoz,159.0,,,2016
 16.07,14,121,Stage 14 - Montélimar › Villars-les-Dombes Parc des Oiseaux,208.5,2,,2016
 15.07,134,123,Stage 13 (ITT) - Bourg-Saint-Andeol › Le Caverne de Pont d'Arc,37.5,,,2016
-14.07,166,125,Stage 12 - Montpellier › Chalet-Reynard (Mont Ventoux),178,,,2016
+14.07,166,125,Stage 12 - Montpellier › Chalet-Reynard (Mont Ventoux),178.0,,,2016
 13.07,168,111,Stage 11 - Carcassonne › Montpellier,162.5,,,2016
-12.07,1,108,Stage 10 - Escaldes-Engordany › Revel,197,100,120,2016
-10.07,127,130,Stage 9 - Vielha val d'Aran › Andorra Arcalis,184,,,2016
-09.07,111,121,Stage 8 - Pau › Bagnères-de-Luchon,184,,,2016
+12.07,1,108,Stage 10 - Escaldes-Engordany › Revel,197.0,100,120,2016
+10.07,127,130,Stage 9 - Vielha val d'Aran › Andorra Arcalis,184.0,,,2016
+09.07,111,121,Stage 8 - Pau › Bagnères-de-Luchon,184.0,,,2016
 08.07,181,119,Stage 7 - l'Isle-Jourdain › Lac de Payolle,162.5,,,2016
 07.07,11,80,Stage 6 - Arpajon-sur-Cère › Montauban,190.5,8,,2016
-06.07,163,83,Stage 5 - Limoges › Le Lioran,216,,,2016
+06.07,163,83,Stage 5 - Limoges › Le Lioran,216.0,,,2016
 05.07,14,9,Stage 4 - Saumur  › Limoges,237.5,2,,2016
 04.07,12,12,Stage 3 - Granville › Angers,223.5,6,,2016
-03.07,5,19,Stage 2 - Saint-Lô › Cherbourg,183,32,5,2016
-02.07,90,90,Stage 1 - Mont-Saint-Michel › Utah Beach Sainte-Marie-du-Mont,188,,,2016
+03.07,5,19,Stage 2 - Saint-Lô › Cherbourg,183.0,32,5,2016
+02.07,90,90,Stage 1 - Mont-Saint-Michel › Utah Beach Sainte-Marie-du-Mont,188.0,,,2016
 11.06 » 19.06,,,Tour de Suisse (2.UWT),,,,2016
-19.06,DNS,,Stage 9 - La Punt  › Davos ,57,,,2016
+19.06,DNS,,Stage 9 - La Punt  › Davos ,57.0,,,2016
 18.06,8,52,Stage 8 (ITT) - Davos  › Davos ,16.8,3,,2016
 17.06,44,52,Stage 7 - Arbon › Sölden,224.3,,,2016
 16.06,113,62,Stage 6 - Weese › Amden,162.8,,,2016
 15.06,68,55,Stage 5 - Brig/Glis ›  Carì,126.4,,,2016
-14.06,35,9,Stage 4 - Rheinfelden › Champagne,193,,,2016
+14.06,35,9,Stage 4 - Rheinfelden › Champagne,193.0,,,2016
 13.06,7,8,Stage 3 - Grosswangen › Rheinfelden,192.6,4,,2016
 12.06,3,13,Stage 2 -  Baar ›  Baar,187.6,18,10,2016
 11.06,26,26,Stage 1 (ITT) -  Baar ›  Baar,6.4,,,2016
-20.04,21,,La Flèche Wallonne (1.UWT),196,14,16,2016
+20.04,21,,La Flèche Wallonne (1.UWT),196.0,14,16,2016
 17.04,5,,Amstel Gold Race (1.UWT),248.7,80,225,2016
-13.04,5,,De Brabantse Pijl - La Flèche Brabançonne (1.HC),203,45,85,2016
+13.04,5,,De Brabantse Pijl - La Flèche Brabançonne (1.HC),203.0,45,85,2016
 03.04,1,,Vuelta Ciclista a La Rioja (1.1),157.4,75,125,2016
-02.04,DNF,,Gran Premio Miguel Indurain (1.1),192,,,2016
-19.03,59,,Milano-Sanremo (1.UWT),293,5,3,2016
+02.04,DNF,,Gran Premio Miguel Indurain (1.1),192.0,,,2016
+19.03,59,,Milano-Sanremo (1.UWT),293.0,5,3,2016
 06.03 » 13.03,,,Paris - Nice (2.UWT),,,,2016
 ,1,,Points classification,,,,2016
 ,53,,General classification,,5,5,2016
-13.03,47,,Stage 7 - Nice › Nice,141,,,2016
-12.03,63,49,Stage 6 - Nice › La Madone d'Utelle,177,,,2016
-11.03,3,1,Stage 5 - Saint-Paul-Trois-Châteaux › Salon-de-Provence,198,18,10,2016
+13.03,47,,Stage 7 - Nice › Nice,141.0,,,2016
+12.03,63,49,Stage 6 - Nice › La Madone d'Utelle,177.0,,,2016
+11.03,3,1,Stage 5 - Saint-Paul-Trois-Châteaux › Salon-de-Provence,198.0,18,10,2016
 10.03,5,1,Stage 4 - Juliénas › Romans-sur-Isère,193.5,10,,2016
-08.03,1,1,Stage 2 - Contres  › Commentry,214,50,60,2016
-07.03,5,1,Stage 1 - Condé-sur-Vesgre  › Vendôme,195,10,,2016
+08.03,1,1,Stage 2 - Contres  › Commentry,214.0,50,60,2016
+07.03,5,1,Stage 1 - Condé-sur-Vesgre  › Vendôme,195.0,10,,2016
 06.03,1,1,Prologue - Conflans-Sainte-Honorine › Conflans-Sainte-Honorine,6.1,50,60,2016
 08.10 » 11.10,,,Abu Dhabi Tour (2.1),,,,2015
 ,49,,General classification,,,,2015
-11.10,17,,Stage 4 - Yas Marina › Yas Marina,110,,,2015
-10.10,54,52,Stage 3 - Al Ain › Jebel Hafeet,140,,,2015
-09.10,13,29,Stage 2 - Abu Dhabi › Abu Dhabi,130,,,2015
+11.10,17,,Stage 4 - Yas Marina › Yas Marina,110.0,,,2015
+10.10,54,52,Stage 3 - Al Ain › Jebel Hafeet,140.0,,,2015
+09.10,13,29,Stage 2 - Abu Dhabi › Abu Dhabi,130.0,,,2015
 08.10,43,45,Stage 1 - Qasr Al Sarab › Madinat Zayed,159.5,,,2015
 27.09,2,,World Championships - Road Race (WC),261.4,260,475,2015
 20.09,4,,World Championships - TTT (WC),38.6,25,,2015
@@ -436,24 +474,24 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,152,,General classification,,25,,2015
 26.07,9,,Stage 21 - Sèvres › Paris,109.5,14,,2015
 25.07,135,152,Stage 20 - Modane › l'Alpe d'Huez,110.5,,,2015
-24.07,125,151,Stage 19 - Saint-Jean-de-Maurienne › La Toussuire - Les Sybelles,138,,,2015
+24.07,125,151,Stage 19 - Saint-Jean-de-Maurienne › La Toussuire - Les Sybelles,138.0,,,2015
 23.07,55,151,Stage 18 - Gap › Saint-Jean-de-Maurienne,186.5,,,2015
-22.07,120,161,Stage 17 - Digne-Les-Bains › Pra-Loup,161,,,2015
-20.07,148,165,Stage 16 - Bourg-de-Péage › Gap,201,,,2015
-19.07,8,166,Stage 15 - Mende › Valence,183,18,,2015
+22.07,120,161,Stage 17 - Digne-Les-Bains › Pra-Loup,161.0,,,2015
+20.07,148,165,Stage 16 - Bourg-de-Péage › Gap,201.0,,,2015
+19.07,8,166,Stage 15 - Mende › Valence,183.0,18,,2015
 18.07,108,168,Stage 14 - Rodez › Mende,178.5,,,2015
 17.07,17,173,Stage 13 - Muret › Rodez,198.5,,,2015
-16.07,163,175,Stage 12 - Lannemezan › Plateau de Beille,195,,,2015
-15.07,108,177,Stage 11 - Pau › Cauterets,188,,,2015
-14.07,182,183,Stage 10 - Tarbes › La Pierre-Saint-Martin,167,,,2015
-12.07,22,185,Stage 9 (TTT) - Vannes › Plumelec,28,,,2015
+16.07,163,175,Stage 12 - Lannemezan › Plateau de Beille,195.0,,,2015
+15.07,108,177,Stage 11 - Pau › Cauterets,188.0,,,2015
+14.07,182,183,Stage 10 - Tarbes › La Pierre-Saint-Martin,167.0,,,2015
+12.07,22,185,Stage 9 (TTT) - Vannes › Plumelec,28.0,,,2015
 11.07,162,185,Stage 8 - Rennes › Mûr-de-bretagne,181.5,,,2015
 10.07,176,186,Stage 7 - Livarot › Fougères,190.5,,,2015
 09.07,168,188,Stage 6 - Abbeville › Le Havre,191.5,,,2015
 08.07,176,189,Stage 5 - Arras › Amiens,189.5,,,2015
 07.07,190,191,Stage 4 - Seraing › Cambrai,223.5,,,2015
 06.07,194,194,Stage 3 - Antwerpen › Huy,159.5,,,2015
-05.07,180,114,Stage 2 - Utrecht › Neeltje Jans,166,,,2015
+05.07,180,114,Stage 2 - Utrecht › Neeltje Jans,166.0,,,2015
 04.07,47,47,Stage 1 (ITT) - Utrecht › Utrecht,13.8,,,2015
 13.06 » 21.06,,,Tour de Suisse (2.UWT),,,,2015
 17.06,DNS,,Stage 5 - Unterterzen/Flumserberg › Sölden/Rettenbachgletscher,237.3,,,2015
@@ -463,21 +501,21 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.06,11,11,Prologue - Risch-Rotkreuz › Risch-Rotkreuz,5.1,,,2015
 09.05 » 31.05,,,Giro d'Italia (2.UWT),,,,2015
 23.05,DNS,,Stage 14 (ITT) - Treviso › Valdobbiadene,59.4,,,2015
-22.05,14,51,Stage 13 - Montecchio Maggiore › Lido di Jesolo,147,2,,2015
-21.05,32,53,Stage 12 - Imola › Vicenza (Monte Berico),190,,,2015
-20.05,16,63,Stage 11 - Forlì › Imola,153,,,2015
-19.05,168,78,Stage 10 - Civitanova Marche › Forlì,200,,,2015
-17.05,16,74,Stage 9 - Benevento › San Giorgio del Sannio,224,,,2015
-16.05,152,90,Stage 8 - Fiuggi › Campitello Matese,186,,,2015
-15.05,84,78,Stage 7 - Grosseto › Fiuggi,264,,,2015
-14.05,17,83,Stage 6 - Montecatini Terme › Castiglione della Pescaia,183,,,2015
-13.05,188,86,Stage 5 - La Spezia › Abetone,152,,,2015
-12.05,130,61,Stage 4 - Chiavari › La Spezia,150,,,2015
-11.05,1,1,Stage 3 - Rapallo › Sestri Levante,136,80,16,2015
-10.05,7,1,Stage 2 - Albenga › Genova,177,12,,2015
+22.05,14,51,Stage 13 - Montecchio Maggiore › Lido di Jesolo,147.0,2,,2015
+21.05,32,53,Stage 12 - Imola › Vicenza (Monte Berico),190.0,,,2015
+20.05,16,63,Stage 11 - Forlì › Imola,153.0,,,2015
+19.05,168,78,Stage 10 - Civitanova Marche › Forlì,200.0,,,2015
+17.05,16,74,Stage 9 - Benevento › San Giorgio del Sannio,224.0,,,2015
+16.05,152,90,Stage 8 - Fiuggi › Campitello Matese,186.0,,,2015
+15.05,84,78,Stage 7 - Grosseto › Fiuggi,264.0,,,2015
+14.05,17,83,Stage 6 - Montecatini Terme › Castiglione della Pescaia,183.0,,,2015
+13.05,188,86,Stage 5 - La Spezia › Abetone,152.0,,,2015
+12.05,130,61,Stage 4 - Chiavari › La Spezia,150.0,,,2015
+11.05,1,1,Stage 3 - Rapallo › Sestri Levante,136.0,80,16,2015
+10.05,7,1,Stage 2 - Albenga › Genova,177.0,12,,2015
 09.05,1,2,Stage 1 (TTT) - San Lorenzo Mare › Sanremo,17.6,20,,2015
 22.04,DNF,,La Flèche Wallonne (1.UWT),205.5,,,2015
-19.04,3,,Amstel Gold Race (1.UWT),258,110,50,2015
+19.04,3,,Amstel Gold Race (1.UWT),258.0,110,50,2015
 15.04,2,,De Brabantse Pijl - La Flèche Brabançonne (1.HC),205.4,85,70,2015
 06.04 » 11.04,,,Vuelta Ciclista al Pais Vasco (2.UWT),,,,2015
 11.04,DNS,,Stage 6 (ITT) - Aia › Aia,18.3,,,2015
@@ -486,18 +524,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.04,95,65,Stage 3 - Vitoria-Gasteiz › Zumarraga,170.7,,,2015
 07.04,2,1,Stage 2 - Bilbao › Vitoria-Gasteiz,175.4,30,4,2015
 06.04,1,1,Stage 1 - Bilbao › Bilbao,162.7,50,6,2015
-22.03,3,,Milano-Sanremo (1.UWT),293,150,70,2015
+22.03,3,,Milano-Sanremo (1.UWT),293.0,150,70,2015
 08.03 » 15.03,,,Paris - Nice (2.UWT),,,,2015
 ,14,,Youth classification,,,,2015
-,1,,Points classification,,,,2015
 ,51,,General classification,,5,,2015
 15.03,58,,Stage 7 (ITT) - Nice › Col d'Eze,9.6,,,2015
 14.03,37,50,Stage 6 - Vence › Nice,181.5,,,2015
-13.03,3,73,Stage 5 - Saint-Etienne › Rasteau,192,18,2,2015
-12.03,78,74,Stage 4 - Varennes-sur-Allier › Croix de Chaubouret,204,,,2015
-11.03,1,1,Stage 3 - Saint-Amand-Montrond › Saint-Pourcain-sur-Sioule,179,50,6,2015
-10.03,4,5,Stage 2 - Zoo Parc de Beauval › Saint-Amand-Montrond,172,13,1,2015
-09.03,10,7,Stage 1 - Saint-Rémy-lès-Chevreuse › Contres,192,1,,2015
+13.03,3,73,Stage 5 - Saint-Etienne › Rasteau,192.0,18,2,2015
+12.03,78,74,Stage 4 - Varennes-sur-Allier › Croix de Chaubouret,204.0,,,2015
+11.03,1,1,Stage 3 - Saint-Amand-Montrond › Saint-Pourcain-sur-Sioule,179.0,50,6,2015
+10.03,4,5,Stage 2 - Zoo Parc de Beauval › Saint-Amand-Montrond,172.0,13,1,2015
+09.03,10,7,Stage 1 - Saint-Rémy-lès-Chevreuse › Contres,192.0,1,,2015
 08.03,8,8,Prologue - Maurepas › Maurepas,6.7,3,,2015
 28.09,14,,World Championships - Road Race (WC),254.8,50,30,2014
 23.08 » 14.09,,,Vuelta a España (2.UWT),,,,2014
@@ -506,7 +543,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.09,72,,Stage 21 (ITT) - Santiago de Compostela › Santiago de Compostela,9.7,,,2014
 13.09,111,75,Stage 20 - Santa Estevo de Ribas do Sil › Puerto de Ancares,185.7,,,2014
 12.09,5,74,Stage 19 - Salvaterra de Miño › Cangas de Morrazo,180.5,18,1,2014
-11.09,161,80,Stage 18 - A Estrada › Monte Castrove en Meis,157,,,2014
+11.09,161,80,Stage 18 - A Estrada › Monte Castrove en Meis,157.0,,,2014
 10.09,2,80,Stage 17 - Ortigueira › A Coruña,190.7,50,8,2014
 08.09,113,84,Stage 16 - San Martín del Rey Aurelio › Lagos de Somiedo (La Farrapona),160.5,,,2014
 07.09,147,80,Stage 15 - Oviedo › Lagos de Covadonga,152.2,,,2014
@@ -515,11 +552,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.09,42,66,Stage 12 - Logroño › Logroño,166.4,,,2014
 03.09,83,67,Stage 11 - Pamplona › Santuario de San Miguel de Aralar,153.4,,,2014
 02.09,132,74,Stage 10 (ITT) - Real Monasterio de Santa María de Veruela › Borja,36.7,,,2014
-31.08,168,73,Stage 9 - Carboneras de Guadazaón › Aramón Valdelinares,185,,,2014
-30.08,2,48,Stage 8 - Baeza › Albacete,207,50,8,2014
-29.08,15,49,Stage 7 - Alhendín › Alcaudete,169,1,,2014
+31.08,168,73,Stage 9 - Carboneras de Guadazaón › Aramón Valdelinares,185.0,,,2014
+30.08,2,48,Stage 8 - Baeza › Albacete,207.0,50,8,2014
+29.08,15,49,Stage 7 - Alhendín › Alcaudete,169.0,1,,2014
 28.08,150,55,Stage 6 - Benalmádena › La Zubia (Cumbres Verdes),167.1,,,2014
-27.08,11,1,Stage 5 - Priego de Córdoba › Ronda,180,5,,2014
+27.08,11,1,Stage 5 - Priego de Córdoba › Ronda,180.0,5,,2014
 26.08,3,1,Stage 4 - Mairena del Alcor (Sevilla) › Córdoba,164.7,35,4,2014
 25.08,1,1,Stage 3 - Cádiz › Arcos de la Frontera,197.8,80,16,2014
 24.08,12,8,Stage 2 - Algeciras › San Fernando,174.4,4,,2014
@@ -527,91 +564,91 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.08 » 09.08,,,Tour de Pologne (2.UWT),,,,2014
 ,2,,Points classification,,,,2014
 ,69,,General classification,,5,,2014
-09.08,10,,Stage 7 (ITT) - Kraków › Kraków,25,1,,2014
-08.08,101,73,Stage 6 - BUKOVINA Terma Hotel Spa › Bukowina Tatrzańska,174,,,2014
-07.08,41,62,Stage 5 - Zakopane › Strbske Pleso (Svk),190,,,2014
-06.08,11,129,Stage 4 - Tarnów Gemini Park › Katowice,236,,,2014
-05.08,3,131,Stage 3 - Kielce › Rzeszów,174,18,2,2014
-04.08,2,133,Stage 2 - Toruń › Warszawa,226,30,4,2014
-03.08,138,139,Stage 1 - Gdańsk › Bydgoszcz,226,,,2014
+09.08,10,,Stage 7 (ITT) - Kraków › Kraków,25.0,1,,2014
+08.08,101,73,Stage 6 - BUKOVINA Terma Hotel Spa › Bukowina Tatrzańska,174.0,,,2014
+07.08,41,62,Stage 5 - Zakopane › Strbske Pleso (Svk),190.0,,,2014
+06.08,11,129,Stage 4 - Tarnów Gemini Park › Katowice,236.0,,,2014
+05.08,3,131,Stage 3 - Kielce › Rzeszów,174.0,18,2,2014
+04.08,2,133,Stage 2 - Toruń › Warszawa,226.0,30,4,2014
+03.08,138,139,Stage 1 - Gdańsk › Bydgoszcz,226.0,,,2014
 19.06 » 22.06,,,Tour de Slovénie (2.1),,,,2014
 ,1,,Points classification,,,,2014
 ,56,,General classification,,,,2014
-22.06,3,,Stage 4 - Škofja Loka › Novo mesto,153,7,6,2014
-21.06,85,59,Stage 3 - Rogaška Slatina › Trije Kralji,192,,,2014
+22.06,3,,Stage 4 - Škofja Loka › Novo mesto,153.0,7,6,2014
+21.06,85,59,Stage 3 - Rogaška Slatina › Trije Kralji,192.0,,,2014
 20.06,2,1,Stage 2 - Ribnica › Kočevje,160.7,12,11,2014
 19.06,1,1,Stage 1 (ITT) - Ljubljana › Ljubljana,8.8,20,16,2014
 09.05 » 01.06,,,Giro d'Italia (2.UWT),,,,2014
-21.05,DNS,,Stage 11 - Collecchio › Savona,249,,,2014
-20.05,3,91,Stage 10 - Modena › Salsomaggiore Terme,173,35,4,2014
-18.05,180,93,Stage 9 - Lugo › Sestola (Passo del Lupo),172,,,2014
-17.05,180,74,Stage 8 - Foligno › Montecopiolo,179,,,2014
-16.05,4,1,Stage 7 - Frosinone › Foligno,211,25,2,2014
-15.05,1,1,Stage 6 - Sassano › Montecassino,257,80,16,2014
-14.05,6,1,Stage 5 - Taranto › Viggiano,203,15,,2014
-13.05,49,1,Stage 4 - Giovinazzo › Bari,112,,,2014
-11.05,16,1,Stage 3 - Armagh › Dublin,187,,,2014
-10.05,8,1,Stage 2 - Belfast › Belfast,219,10,,2014
+21.05,DNS,,Stage 11 - Collecchio › Savona,249.0,,,2014
+20.05,3,91,Stage 10 - Modena › Salsomaggiore Terme,173.0,35,4,2014
+18.05,180,93,Stage 9 - Lugo › Sestola (Passo del Lupo),172.0,,,2014
+17.05,180,74,Stage 8 - Foligno › Montecopiolo,179.0,,,2014
+16.05,4,1,Stage 7 - Frosinone › Foligno,211.0,25,2,2014
+15.05,1,1,Stage 6 - Sassano › Montecassino,257.0,80,16,2014
+14.05,6,1,Stage 5 - Taranto › Viggiano,203.0,15,,2014
+13.05,49,1,Stage 4 - Giovinazzo › Bari,112.0,,,2014
+11.05,16,1,Stage 3 - Armagh › Dublin,187.0,,,2014
+10.05,8,1,Stage 2 - Belfast › Belfast,219.0,10,,2014
 09.05,1,5,Stage 1 (TTT) - Belfast › Belfast,21.7,20,,2014
 20.04,12,,Amstel Gold Race (1.UWT),251.4,34,,2014
 16.04,2,,De Brabantse Pijl - La Flèche Brabançonne (1.HC),203.1,85,70,2014
 07.04 » 12.04,,,Vuelta Ciclista al Pais Vasco (2.UWT),,,,2014
 11.04,DNF,,Stage 5 - Eibar › Markina-Xemein,160.2,,,2014
-10.04,132,97,Stage 4 - Vitoria-Gasteiz › Eibar (Arrate),151,,,2014
+10.04,132,97,Stage 4 - Vitoria-Gasteiz › Eibar (Arrate),151.0,,,2014
 09.04,1,87,Stage 3 - Urdazubi › Vitoria-Gasteiz,194.7,50,6,2014
 08.04,9,95,Stage 2 - Ordizia › Dantxarinea (Urdazabi),155.8,2,,2014
 07.04,141,141,Stage 1 - Ordizia › Ordizia,153.4,,,2014
 06.04,1,,Vuelta Ciclista a La Rioja (1.1),164.7,75,80,2014
-23.03,78,,Milano-Sanremo (1.UWT),294,5,,2014
+23.03,78,,Milano-Sanremo (1.UWT),294.0,5,,2014
 09.03 » 16.03,,,Paris - Nice (2.UWT),,,,2014
-16.03,DNS,,Stage 8 - Nice › Nice,128,,,2014
+16.03,DNS,,Stage 8 - Nice › Nice,128.0,,,2014
 15.03,12,46,Stage 7 - Mougins › Biot,195.5,,,2014
 14.03,30,51,Stage 6 - Saint-Saturnin Les-Avignon › Fayence,221.5,,,2014
 13.03,13,83,Stage 5 - Crêches-sur-Saône › Rive-de-Gier,152.5,,,2014
 12.03,4,137,Stage 4 - Nevers › Belleville,201.5,13,1,2014
-11.03,143,159,Stage 3 - Toucy › Circuit de Nevers Magny-Cours,180,,,2014
-10.03,167,166,Stage 2 - Rambouillet › Saint-Georges-sur-Baulche,205,,,2014
+11.03,143,159,Stage 3 - Toucy › Circuit de Nevers Magny-Cours,180.0,,,2014
+10.03,167,166,Stage 2 - Rambouillet › Saint-Georges-sur-Baulche,205.0,,,2014
 09.03,150,152,Stage 1 - Mantes-La-Jolie › Mantes-La-Jolie,162.5,,,2014
 11.02,DNF,,Trofeo Serra de Tramuntana (1.1),152.9,,,2014
-10.02,6,,Trofeo Ses Salines (1.1),183,24,16,2014
-09.02,7,,Trofeo Palma (1.1),116,20,12,2014
+10.02,6,,Trofeo Ses Salines (1.1),183.0,24,16,2014
+09.02,7,,Trofeo Palma (1.1),116.0,20,12,2014
 21.01 » 26.01,,,Tour Down Under (2.UWT),,,,2014
 ,60,,General classification,,5,,2014
-26.01,82,,Stage 6 - Adelaide › Adelaide,95,,,2014
+26.01,82,,Stage 6 - Adelaide › Adelaide,95.0,,,2014
 25.01,79,61,Stage 5 - McLaren Vale › Willunga,151.5,,,2014
 24.01,61,57,Stage 4 - Unley › Victor Harbor,148.5,,,2014
-23.01,129,96,Stage 3 - Norwood › Campbelltown,145,,,2014
-22.01,104,65,Stage 2 - Prospect › Stirling,150,,,2014
-21.01,52,52,Stage 1 - Nuriootpa › Angaston,135,,,2014
+23.01,129,96,Stage 3 - Norwood › Campbelltown,145.0,,,2014
+22.01,104,65,Stage 2 - Prospect › Stirling,150.0,,,2014
+21.01,52,52,Stage 1 - Nuriootpa › Angaston,135.0,,,2014
 12.01,DNF,,National Championships Australia - Road Race (NC),183.6,,,2014
 11.10 » 15.10,,,Tour of Beijing (WT),,,,2013
 14.10,DNF,,Stage 4 - Yanqing › Mentougou Miaofeng Mountain,150.5,,,2013
-13.10,2,2,Stage 3 - Yanqing › Qiandiajian,176,30,4,2013
+13.10,2,2,Stage 3 - Yanqing › Qiandiajian,176.0,30,4,2013
 12.10,15,16,Stage 2 - Huairou Studio City › Yanqing,201.5,,,2013
 11.10,5,7,Stage 1 - Shunyi › Huairou Studio City,190.5,10,1,2013
-06.10,DNF,,Il Lombardia (WT),242,,,2013
+06.10,DNF,,Il Lombardia (WT),242.0,,,2013
 29.09,DNF,,World Championships - Road Race (WC),272.2,,,2013
 24.08 » 15.09,,,Vuelta a España (WT),,,,2013
 ,9,,Points classification,,,,2013
 ,110,,General classification,,20,,2013
 15.09,1,,Stage 21 - Leganés › Madrid,109.6,80,16,2013
 14.09,85,110,Stage 20 - Avilés › Angliru,142.2,,,2013
-13.09,133,111,Stage 19 - San Vicente de la Barquera › Alto del Naranco,181,,,2013
+13.09,133,111,Stage 19 - San Vicente de la Barquera › Alto del Naranco,181.0,,,2013
 12.09,94,108,Stage 18 - Burgos › Peña Cabarga,186.5,,,2013
-11.09,51,113,Stage 17 - Calahorra › Burgos,189,,,2013
+11.09,51,113,Stage 17 - Calahorra › Burgos,189.0,,,2013
 09.09,144,115,Stage 16 - Graus › Sallent de Gállego. Aramón Formigal,146.8,,,2013
 08.09,139,115,Stage 15 - Andorra › Peyragudes,224.9,,,2013
 07.09,117,118,Stage 14 - Bagà › Collada de la Gallina,155.7,,,2013
-06.09,168,119,Stage 13 - Valls › Castelldefels,169,,,2013
+06.09,168,119,Stage 13 - Valls › Castelldefels,169.0,,,2013
 05.09,170,110,Stage 12 - Maella › Tarragona,164.2,,,2013
 04.09,114,104,Stage 11 (ITT) - Tarazona › Tarazona,38.8,,,2013
-02.09,153,108,Stage 10 - Torredelcampo › Güéjar Sierra. Alto de Hazallanas,178,,,2013
+02.09,153,108,Stage 10 - Torredelcampo › Güéjar Sierra. Alto de Hazallanas,178.0,,,2013
 01.09,182,100,Stage 9 - Antequera › Valdepeñas de Jaén,163.7,,,2013
 31.08,180,74,Stage 8 - Jerez de la Frontera › Estepona. Alto de Peñas Blancas,166.6,,,2013
 30.08,14,61,Stage 7 - Almendralejo › Mairena del Aljarafe,205.9,2,,2013
-29.08,6,64,Stage 6 - Guijuelo › Cáceres,175,15,,2013
+29.08,6,64,Stage 6 - Guijuelo › Cáceres,175.0,15,,2013
 28.08,1,65,Stage 5 - Sober › Lago de Sanabria,174.3,80,16,2013
-27.08,3,68,Stage 4 - Lalín › Fisterra,189,35,4,2013
+27.08,3,68,Stage 4 - Lalín › Fisterra,189.0,35,4,2013
 26.08,50,82,Stage 3 - Vigo › Mirador de Lobeira / Vilagarcía de Arousa,184.8,,,2013
 25.08,162,121,Stage 2 - Pontevedra › Baiona. Alto do Monte da Groba,177.7,,,2013
 24.08,9,50,Stage 1 (TTT) - Vilanova de Arousa › Sanxenxo,27.4,,,2013
@@ -620,25 +657,25 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,1,,Points classification,,,,2013
 ,54,,General classification,,,,2013
 11.08,11,,Stage 6 - Park City › Park City,125.8,,,2013
-10.08,90,74,Stage 5 - Snowbasin Resort › Snowbird Ski and Summer Resort,182,,,2013
+10.08,90,74,Stage 5 - Snowbasin Resort › Snowbird Ski and Summer Resort,182.0,,,2013
 09.08,1,66,Stage 4 - Salt Lake City › Salt Lake City,54.7,20,16,2013
 08.08,77,67,Stage 3 - Richfield › Payson,191.5,,,2013
-07.08,1,1,Stage 2 - Panguitch › Torrey,210,20,16,2013
-06.08,2,2,Stage 1 - Brian Head › Cedar City,180,12,11,2013
-27.07,DNF,,Clasica Ciclista San Sebastian (WT),232,,,2013
+07.08,1,1,Stage 2 - Panguitch › Torrey,210.0,20,16,2013
+06.08,2,2,Stage 1 - Brian Head › Cedar City,180.0,12,11,2013
+27.07,DNF,,Clasica Ciclista San Sebastian (WT),232.0,,,2013
 25.07,32,,Prueba Villafranca-Ordiziako Klasika (1.1),165.7,,,2013
 02.06 » 09.06,,,Critérium du Dauphiné (WT),,,,2013
 ,20,,Youth classification,,,,2013
 ,15,,Points classification,,,,2013
 ,80,,General classification,,5,,2013
-09.06,40,,Stage 8 - Sisteron › Risoul,152,,,2013
-08.06,106,110,Stage 7 - Pont-de-Claix › Superdévoluy,184,,,2013
-07.06,94,119,Stage 6 - La Léchère › Grenoble,143,,,2013
-06.06,137,128,Stage 5 - Grésy-sur-Aix › Valmorel,139,,,2013
+09.06,40,,Stage 8 - Sisteron › Risoul,152.0,,,2013
+08.06,106,110,Stage 7 - Pont-de-Claix › Superdévoluy,184.0,,,2013
+07.06,94,119,Stage 6 - La Léchère › Grenoble,143.0,,,2013
+06.06,137,128,Stage 5 - Grésy-sur-Aix › Valmorel,139.0,,,2013
 05.06,141,118,Stage 4 (ITT) - Villars-les-Dombes › Parc des Oiseaux,32.5,,,2013
-04.06,2,112,Stage 3 - Ambérieu-en-Bugey › Tarare,167,30,4,2013
-03.06,81,121,Stage 2 - Châtel › Oyonnax,183,,,2013
-02.06,144,144,Stage 1 - Champéry › Champéry,121,,,2013
+04.06,2,112,Stage 3 - Ambérieu-en-Bugey › Tarare,167.0,30,4,2013
+03.06,81,121,Stage 2 - Châtel › Oyonnax,183.0,,,2013
+02.06,144,144,Stage 1 - Champéry › Champéry,121.0,,,2013
 12.05 » 19.05,,,Amgen Tour of California (2.HC),,,,2013
 ,6,,Points classification,,,,2013
 ,67,,General classification,,,,2013
@@ -654,7 +691,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.04,DNS,,Stage 1 - Saint-Maurice › Renens/Ouest lausannois,176.4,,,2013
 23.04,117,117,Prologue - Le Châble › Bruson,7.45,,,2013
 21.04,128,,Liège - Bastogne - Liège (WT),257.5,5,,2013
-17.04,112,,La Flèche Wallonne (WT),205,5,,2013
+17.04,112,,La Flèche Wallonne (WT),205.0,5,,2013
 14.04,DNF,,Amstel Gold Race (WT),251.8,,,2013
 01.04 » 06.04,,,Vuelta Ciclista al Pais Vasco (2.UWT),,,,2013
 05.04,DNF,,Stage 5 - Eibar › Beasain,166.1,,,2013
@@ -667,20 +704,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,14,,Youth classification,,,,2013
 ,91,,General classification,,5,,2013
 10.03,105,,Stage 7 (ITT) - Nice › Col d'Eze,9.6,,,2013
-09.03,98,92,Stage 6 - Manosque › Nice,220,,,2013
-08.03,107,74,Stage 5 - Châteauneuf-du-Pape › La Montagne de Lure,176,,,2013
+09.03,98,92,Stage 6 - Manosque › Nice,220.0,,,2013
+08.03,107,74,Stage 5 - Châteauneuf-du-Pape › La Montagne de Lure,176.0,,,2013
 07.03,41,58,Stage 4 - Brioude › Saint-Vallier,199.5,,,2013
 06.03,73,103,Stage 3 - Châtel-Guyon › Brioude,170.5,,,2013
 05.03,168,121,Stage 2 - Vimory › Cérilly,200.5,,,2013
-04.03,110,23,Stage 1 - Saint-Germain-en-Laye › Nemours,195,,,2013
+04.03,110,23,Stage 1 - Saint-Germain-en-Laye › Nemours,195.0,,,2013
 03.03,23,23,Prologue - Houilles › Houilles,2.9,,,2013
 23.02,DNF,,Omloop Het Nieuwsblad ME (1.HC),198.6,,,2013
 06.02,57,,Trofeo Alcúdia-Can Picafort-Playa de Muro (1.1),169.8,,,2013
 05.02,DNF,,"Trofeo Serra de Tramuntana, Deià-Lluc (1.1)",152.9,,,2013
-04.02,83,,Trofeo Migjorn (1.1),167,,,2013
-03.02,24,,Trofeo Palma (1.1),116,,,2013
+04.02,83,,Trofeo Migjorn (1.1),167.0,,,2013
+03.02,24,,Trofeo Palma (1.1),116.0,,,2013
 13.01,2,,National Championships Australia - Road Race (NC),195.6,10,70,2013
-09.01,3,,National Championships Australia - ITT (NC),37,2,6,2013
+09.01,3,,National Championships Australia - ITT (NC),37.0,2,6,2013
 23.09,DNF,,World Championships - Road Race (WC),267.4,,,2012
 09.09,71,,Grand Prix Cycliste de Montréal (WT),205.7,5,,2012
 07.09,DNF,,Grand Prix Cycliste de Quebec (WT),201.6,,,2012
@@ -693,9 +730,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.08,47,58,Stage 6 - Park City › Park City,123.5,,,2012
 11.08,65,65,Stage 5 - Park City  › Snowbird Sky and Summer Resort,162.8,,,2012
 10.08,4,56,Stage 4 - Utah County  › Salt Lake City,219.8,5,5,2012
-09.08,1,56,Stage 3 - Ogden  › University of Utah Research Park (Salt Lake City),137,20,,2012
+09.08,1,56,Stage 3 - Ogden  › University of Utah Research Park (Salt Lake City),137.0,20,,2012
 08.08,2,81,Stage 2 (TTT) - Miller Motorsports Park  › Miller Motorsports Park ,21.7,8,2.2,2012
-07.08,88,88,Stage 1 - Ogden › Ogden,211,,,2012
+07.08,88,88,Stage 1 - Ogden › Ogden,211.0,,,2012
 10.07 » 16.07,,,Tour de Pologne (WT),,,,2012
 15.07,DNF,,Stage 6 - Bukovina Terma › Bukowina Tatrzańska,191.8,,,2012
 14.07,5,88,Stage 5 - Rabka › Zakopane,163.1,10,1,2012
@@ -711,16 +748,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 09.06,145,138,Stage 6 - Saint-Alban-Leysse › Morzine,167.5,,,2012
 08.06,136,138,Stage 5 - Saint-Trivier-sur-Moignans › Rumilly,186.5,,,2012
 07.06,49,139,Stage 4 (ITT) - Villié-Morgon › Bourg-en-Bresse,53.5,,,2012
-06.06,8,143,Stage 3 - Givors › La Clayette,167,3,,2012
-05.06,166,148,Stage 2 - Lamastre › Saint-Félicien,160,,,2012
-04.06,93,82,Stage 1 - Seyssins › Saint-Vallier,187,,,2012
+06.06,8,143,Stage 3 - Givors › La Clayette,167.0,3,,2012
+05.06,166,148,Stage 2 - Lamastre › Saint-Félicien,160.0,,,2012
+04.06,93,82,Stage 1 - Seyssins › Saint-Vallier,187.0,,,2012
 03.06,43,43,Prologue - Grenoble › Grenoble,5.7,,,2012
 13.05 » 20.05,,,Amgen Tour of California (2.HC),,,,2012
 ,16,,Youth classification,,,,2012
 ,8,,Points classification,,,,2012
 ,83,,General classification,,,,2012
 20.05,9,84,Stage 8 - Los Angeles › Los Angeles,68.5,,,2012
-19.05,101,83,Stage 7 - Ontario › Mt. Baldy,126,,,2012
+19.05,101,83,Stage 7 - Ontario › Mt. Baldy,126.0,,,2012
 18.05,107,82,Stage 6 - Palmdale › Big Bear Lake,186.3,,,2012
 17.05,46,75,Stage 5 (ITT) - Bakersfield › Bakerfield,29.7,,,2012
 16.05,3,76,Stage 4 - Sonora › Clovis,209.6,12,8,2012
@@ -731,24 +768,24 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,20,,Youth classification,,,,2012
 ,110,,General classification,,5,,2012
 29.04,77,110,Stage 5 (ITT) - Crans-Montana › Crans-Montana,16.5,,,2012
-28.04,132,116,Stage 4 - Bulle › Sion,184,,,2012
+28.04,132,116,Stage 4 - Bulle › Sion,184.0,,,2012
 27.04,137,115,Stage 3 - La Neuveville › Charmey,157.6,,,2012
 26.04,99,99,Stage 2 - Montbéliard › Moutier,149.1,,,2012
 25.04,100,99,Stage 1 - Morges › La Chaux-de-Fonds,184.5,,,2012
 24.04,12,12,Prologue - Lausanne › Lausanne,3.34,,,2012
 11.04,10,,De Brabantse Pijl - La Flèche Brabançonne (1.HC),195.7,22,8,2012
 02.04 » 07.04,,,Vuelta Ciclista al Pais Vasco (2.UWT),,,,2012
-06.04,DNF,,Stage 5 - Vera de Bidasoa › Oñate,183,,,2012
-05.04,119,124,Stage 4 - Éibar › Alto de Ibardin,151,,,2012
-04.04,125,121,Stage 3 - Vitoria › Arrate,152,,,2012
+06.04,DNF,,Stage 5 - Vera de Bidasoa › Oñate,183.0,,,2012
+05.04,119,124,Stage 4 - Éibar › Alto de Ibardin,151.0,,,2012
+04.04,125,121,Stage 3 - Vitoria › Arrate,152.0,,,2012
 03.04,5,8,Stage 2 - Güeñes › Vitoria,165.7,10,1,2012
-02.04,18,18,Stage 1 - Güeñes › Güeñes,154,,,2012
+02.04,18,18,Stage 1 - Güeñes › Güeñes,154.0,,,2012
 31.03,36,,Volta Limburg Classic (1.1),190.5,,,2012
 07.03 » 13.03,,,Tirreno-Adriatico (WT),,,,2012
-09.03,DNS,,Stage 3 - Indicatore › Terni,178,,,2012
-08.03,176,100,Stage 2 - San Vincenzo › Arezzo,230,,,2012
+09.03,DNS,,Stage 3 - Indicatore › Terni,178.0,,,2012
+08.03,176,100,Stage 2 - San Vincenzo › Arezzo,230.0,,,2012
 07.03,16,107,Stage 1 (TTT) - San Vincenzo › Donoratico,16.9,,,2012
-26.02,1,,Clasica de Almeria (1.HC),190,125,100,2012
+26.02,1,,Clasica de Almeria (1.HC),190.0,125,100,2012
 19.02 » 23.02,,,Vuelta a Andalucia Ruta ciclista del Sol (2.1),,,,2012
 ,3,,Points classification,,,,2012
 ,64,,General classification,,,,2012
@@ -756,19 +793,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.02,3,70,Stage 3 - Montemayor › La Gabias,157.5,7,6,2012
 21.02,87,80,Stage 2 - Malaga › Lucena,144.7,,,2012
 20.02,7,4,Stage 1 - Zahara de los Atunes › Benalmadena,194.6,2,,2012
-19.02,4,4,Prologue - San Fernando › San Fernando,6,5,5,2012
+19.02,4,4,Prologue - San Fernando › San Fernando,6.0,5,5,2012
 06.02,16,,Trofeo Migjorn (1.1),171.7,5,,2012
-05.02,16,,Trofeo Palma de Mallorca (1.1),116,5,,2012
+05.02,16,,Trofeo Palma de Mallorca (1.1),116.0,5,,2012
 17.01 » 22.01,,,Santos Tour Down Under (WT),,,,2012
 ,3,,Youth classification,,,,2012
 ,5,,Points classification,,,,2012
 ,9,,General classification,,80,10,2012
-22.01,28,9,Stage 6 - Adelaide › Adelaide,90,,,2012
+22.01,28,9,Stage 6 - Adelaide › Adelaide,90.0,,,2012
 21.01,11,9,Stage 5 - McLaren › Old Willunga Hill,151.5,,,2012
-20.01,5,2,Stage 4 - Norwood › Tanunda,130,10,1,2012
+20.01,5,2,Stage 4 - Norwood › Tanunda,130.0,10,1,2012
 19.01,12,3,Stage 3 - Unley › Victor Harbor,134.5,,,2012
-18.01,2,3,Stage 2 - Lobethal › Stirling,148,30,4,2012
-17.01,12,16,Stage 1 - Prospect › Clare,149,,,2012
+18.01,2,3,Stage 2 - Lobethal › Stirling,148.0,30,4,2012
+17.01,12,16,Stage 1 - Prospect › Clare,149.0,,,2012
 08.01,DNF,,National Championships Australia - Road Race (NC),163.2,,,2012
 11.09 » 18.09,,,Tour of Britain (2.1),,,,2011
 ,15,,Points classification,,,,2011
@@ -776,20 +813,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 18.09,12,,Stage 8b - London › London,88.8,,,2011
 18.09,27,21,Stage 8a (ITT) - London › London,8.8,,,2011
 17.09,76,21,Stage 7 - Bury St. Edmunds › Sandringham Estate,199.7,,,2011
-16.09,27,21,Stage 6 - Taunton › Wells,146,,,2011
+16.09,27,21,Stage 6 - Taunton › Wells,146.0,,,2011
 15.09,35,22,Stage 5 - Exeter › Exmouth,180.3,,,2011
-14.09,60,23,Stage 4 - Powis Castle › Caerphilly,182,,,2011
-13.09,2,4,Stage 3 - Stoke-on-Trent › Stoke-on-Trent,140,12,,2011
+14.09,60,23,Stage 4 - Powis Castle › Caerphilly,182.0,,,2011
+13.09,2,4,Stage 3 - Stoke-on-Trent › Stoke-on-Trent,140.0,12,,2011
 11.09,25,26,Stage 1 - Peebles › Dumfries,170.3,,,2011
 07.09,66,,Memorial Rik Van Steenbergen (1.1),201.3,,,2011
 04.09,6,,Grote Prijs Jef Scherens - Rondom Leuven (1.1),183.3,24,,2011
 28.08,134,,GP Ouest France - Plouay (WT),248.3,5,,2011
 21.08,43,,Vattenfall Cyclassics (WT),216.5,5,,2011
-14.08,78,,London Surrey Cycle Classic (1.2),140,,,2011
+14.08,78,,London Surrey Cycle Classic (1.2),140.0,,,2011
 31.07 » 06.08,,,Tour de Pologne (WT),,,,2011
 ,14,,Points classification,,,,2011
 ,118,,General classification,,5,,2011
-06.08,23,,Stage 7 - Kraków › Kraków,128,,,2011
+06.08,23,,Stage 7 - Kraków › Kraków,128.0,,,2011
 05.08,140,,Stage 6 - Terma Bukovina › Terma Bukovina,207.7,,,2011
 04.08,2,,Stage 5 - Zakopane › Zakopane,201.5,30,4,2011
 03.08,107,,Stage 4 - Oswiecim › Cieszyn,176.9,,,2011
@@ -800,19 +837,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.07,7,,Stage 6 - Calcinato › Verona,164.6,2,,2011
 23.07,108,,Stage 5 - Concesio › Passo Maniva,158.5,,,2011
 22.07,122,,Stage 4 - Brescia Buffalora › Prevalle,211.5,,,2011
-21.07,86,,Stage 2 - Pisogne › Brescia,135,,,2011
-20.07,111,,Stage 1 - Ponte di Legno › Edolo,158,,,2011
+21.07,86,,Stage 2 - Pisogne › Brescia,135.0,,,2011
+20.07,111,,Stage 1 - Ponte di Legno › Edolo,158.0,,,2011
 15.06 » 19.06,,,Ster Zlm Toer - Gp Jan Van Heeswijk (2.1),,,,2011
 ,64,,General classification,,,,2011
 19.06,74,,Stage 4 - Etten-Leur › Etten-Leur,191.9,,,2011
-18.06,52,,Stage 3 - Verviers › La Gileppe,184,,,2011
-17.06,4,,Stage 2 - Nuth › Nuth,188,5,,2011
-16.06,11,,Stage 1 - Eindhoven › Sittard/Geleen,177,,,2011
-15.06,8,,Prologue - Alblasserdam › Alblasserdam,7,1,,2011
+18.06,52,,Stage 3 - Verviers › La Gileppe,184.0,,,2011
+17.06,4,,Stage 2 - Nuth › Nuth,188.0,5,,2011
+16.06,11,,Stage 1 - Eindhoven › Sittard/Geleen,177.0,,,2011
+15.06,8,,Prologue - Alblasserdam › Alblasserdam,7.0,1,,2011
 10.06 » 12.06,,,Delta Tour Zeeland (2.1),,,,2011
 ,5,,General classification,,28,,2011
 12.06,73,,Stage 3 - Terneuzen › Terneuzen,195.8,,,2011
-11.06,32,,Stage 2 - Middelburg › Goes,193,,,2011
+11.06,32,,Stage 2 - Middelburg › Goes,193.0,,,2011
 10.06,5,,Prologue - Vlissingen › ,3.8,4,,2011
 05.06,26,,Tour De Rijke (1.1),198.5,,,2011
 15.05 » 22.05,,,Amgen Tour Of California (2.HC),,,,2011
@@ -822,13 +859,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 01.05,3,,Rund um den Finanzplatz Eschborn-Frankfurt (1.HC),202.7,60,,2011
 25.04,1,,Rund um Köln (1.1),203.5,75,,2011
 13.04,DNF,,De Brabantse Pijl - La Flèche Brabançonne (1.HC),200.4,,,2011
-06.04,79,,Scheldeprijs (1.HC),200,,,2011
+06.04,79,,Scheldeprijs (1.HC),200.0,,,2011
 29.03 » 31.03,,,Driedaagse De Panne-Koksijde (2.HC),,,,2011
-31.03,OTL,,Stage 3 - De Panne › De Panne,111,,,2011
-30.03,128,,Stage 2 - Oudenaarde › Koksijde,219,,,2011
-29.03,80,,Stage 1 - Middelkerke › Zottegem,194,,,2011
+31.03,OTL,,Stage 3 - De Panne › De Panne,111.0,,,2011
+30.03,128,,Stage 2 - Oudenaarde › Koksijde,219.0,,,2011
+29.03,80,,Stage 1 - Middelkerke › Zottegem,194.0,,,2011
 27.03,69,,Gent - Wevelgem (WT),204.5,5,,2011
-19.03,107,,Milano-Sanremo (WT),298,5,,2011
+19.03,107,,Milano-Sanremo (WT),298.0,5,,2011
 16.03,102,,Nokere-Koerse (1.1),195.9,,,2011
 04.03 » 06.03,,,Vuelta ciclista a la region de Murcia (2.1),,,,2011
 ,77,,General classification,,,,2011
@@ -843,48 +880,48 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 18.02,109,,Stage 3 - Tavira › Malhão,179.2,,,2011
 17.02,3,,Stage 2 - Lagoa › Lagos,186.5,7,6,2011
 16.02,5,,Stage 1 - Estádio Algarve › Albufeira,157.5,4,4,2011
-09.02,87,,Trophée Deià (1.1),143,,,2011
-06.02,174,,Trofeo Palma de Mallorca (int.),116,,,2011
+09.02,87,,Trophée Deià (1.1),143.0,,,2011
+06.02,174,,Trofeo Palma de Mallorca (int.),116.0,,,2011
 18.01 » 23.01,,,Tour Down Under (WT),,,,2011
 ,4,,General classification,,140,60,2011
-23.01,11,,Stage 6 - Adelaide › Adelaide,90,,,2011
-22.01,2,,Stage 5 - McLaren Vale › Willunga,131,30,4,2011
-21.01,26,,Stage 4 - Norwood › Strathalbyn,124,,,2011
-20.01,1,,Stage 3 - Unley › Stirling,129,50,6,2011
-19.01,7,,Stage 2 - Tailem Bend › Mannum,146,4,,2011
-18.01,34,,Stage 1 - Mawson Lakes › Angaston,138,,,2011
+23.01,11,,Stage 6 - Adelaide › Adelaide,90.0,,,2011
+22.01,2,,Stage 5 - McLaren Vale › Willunga,131.0,30,4,2011
+21.01,26,,Stage 4 - Norwood › Strathalbyn,124.0,,,2011
+20.01,1,,Stage 3 - Unley › Stirling,129.0,50,6,2011
+19.01,7,,Stage 2 - Tailem Bend › Mannum,146.0,4,,2011
+18.01,34,,Stage 1 - Mawson Lakes › Angaston,138.0,,,2011
 11.01,3,,Australian Open Road Cycling Championships - Itt (NC),38.5,12,,2011
 09.01,15,,Australian Open Road Cycling Championships - Road Race (NC),163.2,,,2011
-01.10,1,,World Championships U23 - Road Race (WC),159,75,,2010
+01.10,1,,World Championships U23 - Road Race (WC),159.0,75,,2010
 05.09 » 12.09,,,Tour de l'Avenir (2.Ncup),,,,2010
 ,8,,General classification,,3,,2010
-12.09,6,,Stage 8 (ITT) - Guillestre › Risoul,14,,,2010
-11.09,6,,Stage 7 - Saillans › Risoul,204,,,2010
-10.09,6,,Stage 6 - Vals-les-Bains › Loriol-sur-Drôme,153,,,2010
-09.09,5,,Stage 5 - Ambert › Vals-les-Bains,183,,,2010
-08.09,17,,Stage 4 - Saint-Pourçain-sur-Sioule › Col du Béal,157,,,2010
+12.09,6,,Stage 8 (ITT) - Guillestre › Risoul,14.0,,,2010
+11.09,6,,Stage 7 - Saillans › Risoul,204.0,,,2010
+10.09,6,,Stage 6 - Vals-les-Bains › Loriol-sur-Drôme,153.0,,,2010
+09.09,5,,Stage 5 - Ambert › Vals-les-Bains,183.0,,,2010
+08.09,17,,Stage 4 - Saint-Pourçain-sur-Sioule › Col du Béal,157.0,,,2010
 07.09,38,,Stage 3 - Saint-Amand-Montrond › Cusset,148.5,,,2010
 06.09,2,,Stage 2 - Vierzon › Saint-Amand-Montrond,144.5,2,,2010
-05.09,3,,Prologue - Vierzon › Vierzon,7,1,,2010
+05.09,3,,Prologue - Vierzon › Vierzon,7.0,1,,2010
 08.08,37,,Trofeo Internazionale Bastianelli (1.2),142.2,,,2010
 15.06 » 20.06,,,Internationale Thüringen-Rundfahrt U23 (2.2U23),,,,2010
 18.06,DNF,,Stage 4 - Bad Berka › Bad Berka,142.5,,,2010
 17.06,94,,Stage 3 - Wasungen › Brotterode,159.7,,,2010
-16.06,8,,Stage 2 - Bleicherode › Wasungen,148,,,2010
+16.06,8,,Stage 2 - Bleicherode › Wasungen,148.0,,,2010
 15.06,1,,Stage 1 (TTT) - Bleicherode › Bleicherode,23.7,5,,2010
 02.06 » 06.06,,,Ringerike GP (2.2),,,,2010
 ,7,,General classification,,4,,2010
-06.06,6,,Stage 5 - Hønefoss › Hønefoss,160,,,2010
-05.06,7,,Stage 4 - Hønefoss › Hønefoss,175,,,2010
-04.06,1,,Stage 3 - Drammen › Vikersund,150,5,,2010
-03.06,1,,Stage 2 - Geilo › Krokstadelva,200,5,,2010
-02.06,8,,Stage 1 - Geilo › Geilo,135,,,2010
+06.06,6,,Stage 5 - Hønefoss › Hønefoss,160.0,,,2010
+05.06,7,,Stage 4 - Hønefoss › Hønefoss,175.0,,,2010
+04.06,1,,Stage 3 - Drammen › Vikersund,150.0,5,,2010
+03.06,1,,Stage 2 - Geilo › Krokstadelva,200.0,5,,2010
+02.06,8,,Stage 1 - Geilo › Geilo,135.0,,,2010
 16.05 » 23.05,,,Tour of Japan (2.2),,,,2010
 ,4,,General classification,,11,,2010
 23.05,2,,Stage 7 - Tokyo › Tokyo,112.7,2,,2010
 22.05,3,,Stage 6 - Izu › Izu,97.6,1,,2010
 21.05,4,,Stage 5 (ITT) - Subashiri › Fuji,11.4,,,2010
-19.05,8,,Stage 4 - Minami-Shinshu › Minami-Shinshu,148,,,2010
+19.05,8,,Stage 4 - Minami-Shinshu › Minami-Shinshu,148.0,,,2010
 18.05,4,,Stage 3 - Mino › Mino,160.7,,,2010
 17.05,2,,Stage 2 - Nara › Nara,121.2,2,,2010
 16.05,1,,Prologue - Sakai › Sakai,2.65,5,,2010
@@ -892,11 +929,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 26.04 » 27.04,,,Giro delle Regioni (2.Ncup),,,,2010
 27.04,DNF,,Stage 2 - Bagno di Romagna › Bagno di Romagna,154.1,,,2010
 26.04,47,,Stage 1 - Montefiascone › Montefiascone,139.5,,,2010
-25.04,2,,Gran Premio della Liberazione (1.2U23),138,10,,2010
-14.04,87,,La Côte Picarde (1.Ncup),176,,,2010
-10.04,2,,Tour Des Flandres Espoirs (1.Ncup),170,10,,2010
-06.04,33,,GP Palio del Recioto (1.2U23),133,,,2010
-05.04,16,,Giro del Belvedere (1.2U23),154,,,2010
+25.04,2,,Gran Premio della Liberazione (1.2U23),138.0,10,,2010
+14.04,87,,La Côte Picarde (1.Ncup),176.0,,,2010
+10.04,2,,Tour Des Flandres Espoirs (1.Ncup),170.0,10,,2010
+06.04,33,,GP Palio del Recioto (1.2U23),133.0,,,2010
+05.04,16,,Giro del Belvedere (1.2U23),154.0,,,2010
 04.04,2,,Trofeo Piva Banca Popolare di Vicenza (1.2U23),174.2,10,,2010
 01.03 » 07.03,,,Tour de Langkawi (2.HC),,,,2010
 ,21,,General classification,,6,,2010
@@ -904,67 +941,67 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.03,30,,"Stage 6 - Putrajaya, WP › Genting Highlands",103.9,,,2010
 05.03,8,,"Stage 5 - Muar, Johor › Port Dickson, Negeri Sembilan",111.5,1,,2010
 04.03,2,,"Stage 4 - Mersing, Johor › Parit Sulong, Johor",163.5,18,,2010
-03.03,1,,"Stage 3 - Pekan, Pahang › Mersing, Johor",144,30,,2010
+03.03,1,,"Stage 3 - Pekan, Pahang › Mersing, Johor",144.0,30,,2010
 02.03,4,,Stage 2 - Kuala Terengganu › Chuka,182.9,7,,2010
 01.03,1,,Stage 1 - Kota Bharu › Kuala Berang,174.5,30,,2010
 27.01 » 30.01,,,Tour of Wellington (2.2),,,,2010
 ,5,,General classification,,8,,2010
-30.01,1,,Stage 4 - Masterton › Masterton,128,5,,2010
-29.01,2,,Stage 3 - Masterton › Masterton,164,2,,2010
-28.01,6,,Stage 2 - Masterton › Admiral Hill,125,,,2010
-27.01,2,,Stage 1 - Upper Hutt › Martinborough,121,2,,2010
+30.01,1,,Stage 4 - Masterton › Masterton,128.0,5,,2010
+29.01,2,,Stage 3 - Masterton › Masterton,164.0,2,,2010
+28.01,6,,Stage 2 - Masterton › Admiral Hill,125.0,,,2010
+27.01,2,,Stage 1 - Upper Hutt › Martinborough,121.0,2,,2010
 19.01 » 24.01,,,Tour Down Under (PT),,,,2010
 ,81,,General classification,,5,,2010
-24.01,56,,Stage 6 - Adelaide › Adelaide,90,,,2010
-23.01,116,,Stage 5 - Snapper Point › Willunga,148,,,2010
+24.01,56,,Stage 6 - Adelaide › Adelaide,90.0,,,2010
+23.01,116,,Stage 5 - Snapper Point › Willunga,148.0,,,2010
 22.01,47,,Stage 4 - Norwood › Goolwa,149.5,,,2010
 21.01,85,,Stage 3 - Unley › Stirling,132.5,,,2010
-20.01,90,,Stage 2 - Gawler › Hahndorf,133,,,2010
-19.01,28,,Stage 1 - Clare › Tanunda,141,,,2010
+20.01,90,,Stage 2 - Gawler › Hahndorf,133.0,,,2010
+19.01,28,,Stage 1 - Clare › Tanunda,141.0,,,2010
 10.01,3,,National Championships Australia U23 - Road Race (NC),122.4,12,,2010
-06.01,3,,National TT Open Championships Australia (NC),28,12,,2010
-15.11,1,,Oceania Cycling Championships - Road Race (CC),113,10,,2009
-13.11,1,,Oceania TT Cycling Championships (CC),40,,,2009
+06.01,3,,National TT Open Championships Australia (NC),28.0,12,,2010
+15.11,1,,Oceania Cycling Championships - Road Race (CC),113.0,10,,2009
+13.11,1,,Oceania TT Cycling Championships (CC),40.0,,,2009
 11.10 » 17.10,,,Jayco Herald Sun Tour (2.1),,,,2009
 ,24,,General classification,,,,2009
 17.10,2,,Stage 6 - Melbourne › Melbourne,61.5,12,,2009
-16.10,7,,Stage 5 (ITT) - Geelong › Geelong,10,2,,2009
-15.10,32,,Stage 4 - Anglesea › Barwon Heads,138,,,2009
-14.10,34,,Stage 3 - Warrnambool › Apollo Bay,164,,,2009
-13.10,46,,Stage 2 - Colac › Warrnambool,141,,,2009
-12.10,13,,Stage 1 - Ballarat › Ballarat,149,,,2009
+16.10,7,,Stage 5 (ITT) - Geelong › Geelong,10.0,2,,2009
+15.10,32,,Stage 4 - Anglesea › Barwon Heads,138.0,,,2009
+14.10,34,,Stage 3 - Warrnambool › Apollo Bay,164.0,,,2009
+13.10,46,,Stage 2 - Colac › Warrnambool,141.0,,,2009
+12.10,13,,Stage 1 - Ballarat › Ballarat,149.0,,,2009
 ,4,,,,5,,2009
 26.09,DNF,,World Championships U23 - Road Race (WC),179.4,,,2009
 02.09 » 06.09,,,Okolo Slovenska (2.2),,,,2009
 ,23,,General classification,,,,2009
 06.09,31,,Stage 5 - Ilava › Ilava,122.9,,,2009
-05.09,48,,Stage 4 - Horné Lefantovce › Ilava,162,,,2009
-04.09,8,,Stage 3 (ITT) - Vráble › Vráble,21,,,2009
+05.09,48,,Stage 4 - Horné Lefantovce › Ilava,162.0,,,2009
+04.09,8,,Stage 3 (ITT) - Vráble › Vráble,21.0,,,2009
 03.09,10,,Stage 2 - Banská Bystrica › Vráble,152.2,,,2009
 02.09,13,,Stage 1 - Banská Bystrica › Banská Bystrica,158.8,,,2009
 21.08 » 23.08,,,Tour of Ireland (2.1),,,,2009
-22.08,18,,Stage 2 - Clonmel › Killarney,196,,,2009
+22.08,18,,Stage 2 - Clonmel › Killarney,196.0,,,2009
 21.08,32,,Stage 1 - Enniskerry › Waterford,196.4,,,2009
-17.08,33,,Gara Ciclistica Montappone - Tr. Marini Silvano Cappelli Sp. (1.2),156,,,2009
+17.08,33,,Gara Ciclistica Montappone - Tr. Marini Silvano Cappelli Sp. (1.2),156.0,,,2009
 17.05 » 24.05,,,Tour of Japan (2.2),,,,2009
 ,9,,General classification,,2,,2009
 24.05,18,,Stage 7 - Tokyo › Tokyo,109.7,,,2009
 23.05,4,,Stage 6 - Izu › Izu,95.9,,,2009
 22.05,12,,Stage 5 - Mount Fuji › Mount Fuji,11.4,,,2009
-20.05,5,,Stage 4 - Minami › Minami,148,,,2009
+20.05,5,,Stage 4 - Minami › Minami,148.0,,,2009
 19.05,5,,Stage 3 - Mino › Mino,155.7,,,2009
 18.05,4,,Stage 2 - Nara › Nara,121.2,,,2009
 17.05,4,,Stage 1 - Sakai › Sakai,102.6,,,2009
-03.05,28,,Circuito del Porto - Trofeo Arvedi (1.2),176,,,2009
+03.05,28,,Circuito del Porto - Trofeo Arvedi (1.2),176.0,,,2009
 01.05,12,,Rund um den Finanzplatz Eschborn-Frankfurt U23 (1.2U23),140.7,,,2009
-25.04,2,,Gran Premio della Liberazione (1.2U23),138,10,,2009
-13.04,26,,Giro del Belvedere (1.2U23),154,,,2009
+25.04,2,,Gran Premio della Liberazione (1.2U23),138.0,10,,2009
+13.04,26,,Giro del Belvedere (1.2U23),154.0,,,2009
 15.02,39,,Oceania Cycling Championships (CC),152.1,,,2009
-12.02,2,,Oceania Continental Championships U23 - ITT (CC),30,14,,2009
+12.02,2,,Oceania Continental Championships U23 - ITT (CC),30.0,14,,2009
 10.01,2,,National Championships Australia U23 - Road Race (NC),122.4,,,2009
-07.01,3,,Australian Open TT Championships (NC),28,,,2009
-07.01,3,,National TT Open Championships Australia (NC),28,,,2009
-20.07,8,,World Championships MJ - Road Race (WC),136,50,,2008
+07.01,3,,Australian Open TT Championships (NC),28.0,,,2009
+07.01,3,,National TT Open Championships Australia (NC),28.0,,,2009
+20.07,8,,World Championships MJ - Road Race (WC),136.0,50,,2008
 12.07 » 13.07,,,GP Général Patton (2.Ncup),,,,2008
 ,2,,General classification,,110,,2008
 13.07,1,,Stage 2 - Wincrange › Wincrange,99.7,30,,2008

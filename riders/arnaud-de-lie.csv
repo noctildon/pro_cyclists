@@ -1,13 +1,55 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,6,,National Championships Belgium - Road Race (NC) ,208.7,1,30,2022
+15.06 » 19.06,,,Baloise Belgium Tour (2.Pro) ,,,,2022
+,9,,Youth classification ,,,,2022
+,12,,Points classification ,,,,2022
+,72,,General classification ,,,,2022
+19.06,17,,Stage 5 - Gingelom › Beringen ,179.9,,,2022
+18.06,82,73,Stage 4 - Durbuy › Durbuy ,172.2,,,2022
+17.06,95,66,Stage 3 (ITT) - Scherpenheuvel-Zichem › Scherpenheuvel-Zichem ,11.8,,,2022
+16.06,4,63,Stage 2 - Beveren › Knokke-Heist ,175.6,7,,2022
+15.06,71,71,Stage 1 - Merelbeke › Maarkedal ,165,,,2022
+11.06,6,,Dwars door het Hageland (1.Pro) ,177,40,70,2022
+06.06,1,,Ronde van Limburg (1.1) ,202.6,75,125,2022
+04.06,1,,Heylen Vastgoed Heistse Pijl (1.1) ,192.8,75,125,2022
+29.05,1,,Marcel Kint Classic (1.1) ,199,75,125,2022
+26.05,12,,Circuit de Wallonie (1.1) ,192.2,10,10,2022
+22.05,8,,Antwerp Port Epic / Sels Trophy (1.1) ,181.4,18,30,2022
+21.05,3,,Veenendaal-Veenendaal Classic (1.1) ,197.9,40,70,2022
+15.05,4,,Tro-Bro Léon (1.Pro) ,207.8,50,100,2022
+14.05,DNF,,Grand Prix du Morbihan (1.Pro) ,185.4,,,2022
+03.05 » 08.05,,,4 Jours de Dunkerque / Grand Prix des Hauts de France (2.Pro) ,,,,2022
+04.05,DNS,,Stage 2 - Béthune › Maubeuge ,181.5,,,2022
+03.05,6,12,Stage 1 - Dunkerque › Aniche ,161.1,3,,2022
+01.05,7,,Eschborn-Frankfurt (1.UWT) ,185,60,95,2022
+06.04,14,,Scheldeprijs (1.Pro) ,198.7,14,15,2022
+02.04,1,,Volta Limburg Classic (1.1) ,195,75,125,2022
+30.03,DNF,,Dwars door Vlaanderen - A travers la Flandre ME (1.UWT) ,183.7,,,2022
+27.03,48,,Gent-Wevelgem in Flanders Fields ME (1.UWT) ,248.8,5,10,2022
+23.03,8,,Minerva Classic Brugge-De Panne (1.UWT) ,207.9,50,75,2022
+18.03,9,,Bredene Koksijde Classic (1.Pro) ,200.9,26,40,2022
+16.03,3,,Danilith Nokere Koerse (1.Pro) ,189.8,60,125,2022
+06.03,1,,Grote Prijs Jean-Pierre Monseré (1.1) ,203.2,75,125,2022
+01.03,10,,Le Samyn (1.1) ,209,14,20,2022
+27.02,92,,Kuurne - Bruxelles - Kuurne (1.Pro) ,195.1,,,2022
+18.02 » 20.02,,,Tour des Alpes Maritimes et du Var (2.1) ,,,,2022
+,23,,Youth classification ,,,,2022
+,86,,General classification ,,,,2022
+20.02,80,,Stage 3 - Villefranche-sur-Mer › Blausasc ,112.6,,,2022
+19.02,90,85,Stage 2 - Puget-Théniers › La Turbie ,149.1,,,2022
+18.02,71,74,Stage 1 - Saint-Raphaël  › La Seyne-sur-Mer ,176.3,,,2022
+30.01,1,,Trofeo Playa de Palma - Palma (1.1) ,169.1,75,125,2022
+28.01,117,,Trofeo Serra de Tramuntana (1.1) ,158.9,,,2022
+27.01,71,,Trofeo Alcúdia - Port d'Alcúdia (1.1) ,173.2,,,2022
 06.04,14,,Scheldeprijs (1.Pro),198.7,14,15,2022
-02.04,1,,Volta Limburg Classic (1.1),195,75,125,2022
+02.04,1,,Volta Limburg Classic (1.1),195.0,75,125,2022
 30.03,DNF,,Dwars door Vlaanderen - A travers la Flandre ME (1.UWT),183.7,,,2022
 27.03,48,,Gent-Wevelgem in Flanders Fields ME (1.UWT),248.8,5,10,2022
 23.03,8,,Minerva Classic Brugge-De Panne (1.UWT),207.9,50,75,2022
 18.03,9,,Bredene Koksijde Classic (1.Pro),200.9,26,40,2022
 16.03,3,,Danilith Nokere Koerse (1.Pro),189.8,60,125,2022
 06.03,1,,Grote Prijs Jean-Pierre Monseré (1.1),203.2,75,125,2022
-01.03,10,,Le Samyn (1.1),209,14,20,2022
+01.03,10,,Le Samyn (1.1),209.0,14,20,2022
 27.02,92,,Kuurne - Bruxelles - Kuurne (1.Pro),195.1,,,2022
 18.02 » 20.02,,,Tour des Alpes Maritimes et du Var (2.1),,,,2022
 ,23,,Youth classification,,,,2022
@@ -19,7 +61,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.01,117,,Trofeo Serra de Tramuntana (1.1),158.9,,,2022
 27.01,71,,Trofeo Alcúdia - Port d'Alcúdia (1.1),173.2,,,2022
 17.10,7,,Schwalbe TCM - 52ste Omloop van de Braakman (NAT),,,36,2021
-10.10,9,,Paris - Tours Espoirs (1.2U),177,,1,2021
+10.10,9,,Paris - Tours Espoirs (1.2U),177.0,,1,2021
 07.10 » 10.10,,,Circuit des Ardennes International (2.2),,,,2021
 09.10,DNS,,Stage 3 - Chooz › Hargnies,172.4,,,2021
 08.10,1,15,Stage 2 - Vouziers › Vouziers,186.9,5,7,2021
@@ -41,34 +83,32 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 22.08,70,,Stage 9 - La Toussuire › Col du Petit Saint-Bernard,151.6,,,2021
 21.08,68,63,Stage 8 - La Tour-en-Maurienne › Saint Jean d’Arves,71.3,,,2021
 20.08,99,61,Stage 7 - Saint-Vulbas › Grand Colombier,97.9,,,2021
-19.08,67,46,Stage 6 - Champagnole › Septmoncel,111,,,2021
+19.08,67,46,Stage 6 - Champagnole › Septmoncel,111.0,,,2021
 18.08,14,5,Stage 5 - Tomblaine › Bar-sur-Aube,150.7,,,2021
 17.08,5,5,Stage 4 - Provins › Bar-le-Duc,183.9,,,2021
 16.08,2,6,Stage 3 - Château-Thierry › Donnemarie-Dontilly,153.4,2,9,2021
 15.08,5,14,Stage 2 (TTT) - Laon › Laon,26.8,,,2021
 14.08,35,16,Stage 1 - Charleville-Mézières › Soissons,161.2,,,2021
-13.08,20,20,Prologue - Charleville-Mézières › Charleville-Mézières,5,,,2021
+13.08,20,20,Prologue - Charleville-Mézières › Charleville-Mézières,5.0,,,2021
 21.07 » 25.07,,,Tour Alsace (2.2),,,,2021
 ,46,,Youth classification,,,,2021
-,1,,Points classification,,,,2021
 ,81,,General classification,,,,2021
 25.07,1,,Stage 5 - Mulhouse › Berrwiller,153.6,5,7,2021
 24.07,87,89,Stage 4 - Ribeauvillé  › Lac Blanc,161.3,,,2021
 23.07,89,87,Stage 3 - Vesoul › La Planche des Belles Filles,143.1,,,2021
 22.07,1,1,Stage 2 - Colmar › Altkirch,163.1,5,7,2021
 21.07,14,38,Prologue - Sausheim › Sausheim,4.3,,,2021
-18.07,25,,Grand Prix International de la ville de Nogent-sur-Oise (1.2),174,,,2021
+18.07,25,,Grand Prix International de la ville de Nogent-sur-Oise (1.2),174.0,,,2021
 14.07,12,,National Championships Belgium U23 - ITT (NC),23.68,,,2021
 03.06 » 12.06,,,Giro Ciclistico d'Italia (2.2),,,,2021
 ,27,,Youth classification,,,,2021
 ,21,,Points classification,,,,2021
-,81,,General classification,,,,2021
 12.06,7,,Stage 10 - San Vito al Tagliamento › Castelfranco Veneto ,162.7,,,2021
 11.06,119,82,Stage 9 - Cavalese › Nevegal,167.1,,,2021
 10.06,87,72,Stage 8 - Aprica  › Andalo,115.5,,,2021
 09.06,78,68,Stage 7 - Sondrio › Lanzada Lago di Campo Moro,119.4,,,2021
 08.06,54,66,Stage 6 - Bonferraro di Sorgà › San Pellegrino Terme,177.5,,,2021
-07.06,86,68,Stage 5 - Fanano › Sestola,142,,,2021
+07.06,86,68,Stage 5 - Fanano › Sestola,142.0,,,2021
 06.06,62,72,Stage 4 (ITT) - Sorbolo Mezzani › Guastalla,25.4,,,2021
 05.06,9,74,Stage 3 - Cesenatico  › Cesenatico ,132.5,,,2021
 04.06,82,81,Stage 2 - Riccione › Imola,138.3,,,2021
@@ -76,30 +116,30 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 02.10 » 03.10,,,La Philippe Gilbert juniors (2.1),,,,2020
 ,1,,Mountains classification,,,,2020
 ,1,,General classification,,100,,2020
-03.10,4,,Stage 2 - Harzé › La Redoute,118,5,,2020
-02.10,1,1,Stage 1 - Harzé › La Gleize,82,20,,2020
+03.10,4,,Stage 2 - Harzé › La Redoute,118.0,5,,2020
+02.10,1,1,Stage 1 - Harzé › La Gleize,82.0,20,,2020
 20.09,8,,National Championships Belgium MJ - Road Race (NC),122.1,1,,2020
 28.08,3,,European Continental Championships MJ - Road Race (CC),109.2,50,,2020
-01.03,7,,Kuurne-Brussel-Kuurne Juniors (1.1),122,20,,2020
+01.03,7,,Kuurne-Brussel-Kuurne Juniors (1.1),122.0,20,,2020
 14.09 » 15.09,,,Keizer der Juniores (2.1),,,,2019
 ,5,,Youth classification,,,,2019
 ,8,,Mountains classification,,,,2019
 ,12,,General classification,,10,,2019
 15.09,11,,Stage 2b - Koksijde › Koksijde,93.6,,,2019
-15.09,52,41,Stage 2a (ITT) - Wulpen › Wulpen,6,,,2019
+15.09,52,41,Stage 2a (ITT) - Wulpen › Wulpen,6.0,,,2019
 14.09,11,11,Stage 1 - Pittem › Pittem,98.4,,,2019
-25.08,15,,Trofeo Emilio Paganessi (1.1),134,6,,2019
+25.08,15,,Trofeo Emilio Paganessi (1.1),134.0,6,,2019
 24.08,5,,Trofeo Comune di Vertova - Memorial Pietro Merelli (1.1),81.2,28,,2019
-09.08,DNF,,European Continental Championships MJ - Road Race (CC),115,,,2019
-28.07,7,,La Route des Géants Saint-Omer/Ypres (1.1),134,20,,2019
+09.08,DNF,,European Continental Championships MJ - Road Race (CC),115.0,,,2019
+28.07,7,,La Route des Géants Saint-Omer/Ypres (1.1),134.0,20,,2019
 11.07 » 14.07,,,Ain Bugey Valromey Tour (2.1),,,,2019
 14.07,DNF,,Stage 4 - Artemare › Hauteville-Lompnes,106.5,,,2019
 13.07,92,94,Stage 3 (ITT) - Massignieu de Rives › Massignieu de Rives,9.9,,,2019
 12.07,93,93,Stage 2 - Nantua › Belley,124.9,,,2019
-11.07,19,19,Stage 1 - Serrières de Briord › Blyes,119,,,2019
-02.06,1,,National Championships Belgium MJ - Road Race (NC),124,20,,2019
+11.07,19,19,Stage 1 - Serrières de Briord › Blyes,119.0,,,2019
+02.06,1,,National Championships Belgium MJ - Road Race (NC),124.0,20,,2019
 27.04,8,,E3 BinckBank Classic - Junioren (1.1),117.7,18,,2019
-14.04,7,,Paris - Roubaix Juniors (1.Ncup),111,35,,2019
+14.04,7,,Paris - Roubaix Juniors (1.Ncup),111.0,35,,2019
 07.04,64,,Ronde van Vlaanderen Juniores - Tour des Flandres Juniors (1.1),136.3,,,2019
 31.03,39,,Gent-Wevelgem/Grote Prijs A. Noyelle-Ieper (1.Ncup),120.6,,,2019
 24.03,25,,Guido Reybrouck Classic (1.1),133.4,,,2019

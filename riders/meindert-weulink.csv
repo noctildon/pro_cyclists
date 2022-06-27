@@ -1,7 +1,38 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+24.06,45,,National Championships Netherlands - Road Race (NC) ,193.8,,,2022
+09.06 » 12.06,,,Raiffeisen Oberösterreich Rundfahrt (2.2) ,,,,2022
+,40,,General classification ,,,,2022
+12.06,72,,Stage 3 - St. Florian/Asten › Hutterer Hös ,133.5,,,2022
+11.06,17,26,Stage 2 - Eferding › Niederkappel ,129.5,,,2022
+10.06,40,42,Stage 1 - Wels › Ranshofen ,168.5,,,2022
+09.06,60,60,Prologue - Linz › Linz ,0.65,,,2022
+05.06,45,,Memorial Philippe Van Coningsloo (1.2) ,176.3,,,2022
+25.05 » 29.05,,,Flèche du Sud (2.2) ,,,,2022
+,10,,Mountains classification ,,,,2022
+,34,,Points classification ,,,,2022
+,5,,General classification ,,8,15,2022
+29.05,59,,Stage 5 - Esch-sur-Alzette › Esch-sur-Alzette ,140,,,2022
+28.05,20,5,Stage 4 - Mondorf › Mondorf ,165.4,,,2022
+27.05,10,5,Stage 3 - Bourscheid › Bourscheid ,126.7,,,2022
+26.05,17,12,Stage 2 - Rumelange › Rumelange ,165.7,,,2022
+25.05,30,30,Stage 1 - Kayl › Kayl ,73.6,,,2022
+21.05,86,,Veenendaal-Veenendaal Classic (1.1) ,197.9,,,2022
+08.05,9,,Ton Dolmans Trofee (NAT) ,199,,,2022
+07.05,29,,Ronde van Overijssel (1.2) ,199.8,,,2022
+09.04,14,,Omloop van de Braakman (NAT) ,177.1,,,2022
+02.04,57,,Volta Limburg Classic (1.1) ,195,,,2022
+13.03,22,,Dorpenomloop Rucphen (1.2) ,186,,,2022
+19.02,2,,Grand Prix Velo Alanya (1.2) ,129.8,10,30,2022
+10.02 » 13.02,,,Tour of Antalya (2.1) ,,,,2022
+,10,,Points classification ,,,,2022
+,14,,General classification ,,7,5,2022
+13.02,51,,Stage 4 - Antalya › Antalya  103k,156.5,,,2022
+12.02,16,15,Stage 3 - Aspendos › Termessos ,110.6,,,2022
+11.02,24,43,Stage 2 - Kemer › Antalya ,180.3,,,2022
+10.02,79,80,Stage 1 - Side › Antalya ,142.4,,,2022
 09.04,14,,Omloop van de Braakman (NAT),177.1,,,2022
-02.04,57,,Volta Limburg Classic (1.1),195,,,2022
-13.03,22,,Dorpenomloop Rucphen (1.2),186,,,2022
+02.04,57,,Volta Limburg Classic (1.1),195.0,,,2022
+13.03,22,,Dorpenomloop Rucphen (1.2),186.0,,,2022
 19.02,2,,Grand Prix Velo Alanya (1.2),129.8,10,30,2022
 10.02 » 13.02,,,Tour of Antalya (2.1),,,,2022
 ,10,,Points classification,,,,2022
@@ -19,9 +50,9 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,48,,General classification,,,,2021
 05.09,68,,Stage 3 - Albert › Le Cateau-Cambrésis,175.3,,,2021
 04.09,41,39,Stage 2 - Neuville-Saint-Rémy › Roisel,174.7,,,2021
-03.09,52,52,Stage 1 - Arras › Lagnicourt-Marcel,129,,,2021
+03.09,52,52,Stage 1 - Arras › Lagnicourt-Marcel,129.0,,,2021
 29.08,34,,Rent Liv Løbet Skive (1.2),188.3,,,2021
-28.08,15,,GP Himmerland Rundt (1.2),200,,,2021
+28.08,15,,GP Himmerland Rundt (1.2),200.0,,,2021
 19.08 » 22.08,,,Tour of Norway (2.Pro),,,,2021
 ,4,,Youth classification,,,,2021
 ,39,,Points classification,,,,2021
@@ -44,7 +75,6 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 19.06,28,,National Championships Netherlands U23 - Road Race (NC),124.1,,,2021
 16.06,43,,National Championships Netherlands U23 - ITT (NC),29.6,,,2021
 10.06 » 13.06,,,Oberösterreichrundfahrt (2.2),,,,2021
-,2,,Youth classification,,,,2021
 ,16,,Points classification,,,,2021
 ,15,,General classification,,,,2021
 13.06,7,,Stage 3 - Traun › Hinterstoder (Höss),124.6,,,2021
@@ -55,7 +85,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,19,,Mountains classification,,,,2021
 ,29,,General classification,,,5,2021
 18.04,43,,Stage 8 - Bodrum › Kusadasi,160.3,,,2021
-17.04,29,31,Stage 7 - Marmaris › Turgutreis,180,,,2021
+17.04,29,31,Stage 7 - Marmaris › Turgutreis,180.0,,,2021
 16.04,22,34,Stage 6 - Fethiye › Marmaris,129.1,,,2021
 15.04,40,40,Stage 5 - Kemer › Elmalı (Göğübeli),160.3,,,2021
 14.04,21,42,Stage 4 - Alanya › Kemer,184.4,,,2021
@@ -64,18 +94,18 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 11.04,25,28,Stage 1 - Konya › Konya,72.4,,,2021
 27.09,35,,Paris-Chauny (1.1),203.1,,,2020
 20.09,28,,Gooikse Pijl (1.1),200.7,,,2020
-21.08,16,,National Championships Netherlands U23 - Road Race (NC),124,,,2020
+21.08,16,,National Championships Netherlands U23 - Road Race (NC),124.0,,,2020
 23.07 » 26.07,,,Sibiu Cycling Tour (2.1),,,,2020
 ,17,,Youth classification,,,,2020
 ,12,,Mountains classification,,,,2020
 ,59,,General classification,,,,2020
-26.07,66,,Stage 3b - Sibiu › Sibiu,109,,,2020
+26.07,66,,Stage 3b - Sibiu › Sibiu,109.0,,,2020
 26.07,40,59,Stage 3a (ITT) - Curmătura Ștezii › Arena Platos,12.5,,,2020
 25.07,94,62,Stage 2 - Sibiu › Sibiu,181.2,,,2020
-24.07,51,53,Stage 1 - Sibiu › Bâlea Lac ,183,,,2020
+24.07,51,53,Stage 1 - Sibiu › Bâlea Lac ,183.0,,,2020
 23.07,41,41,Prologue - Sibiu › Sibiu,2.5,,,2020
 08.03,65,,Grote prijs Jean-Pierre Monseré (1.1),196.8,,,2020
-06.10,61,,Il Piccolo Lombardia (1.2U),176,,,2019
+06.10,61,,Il Piccolo Lombardia (1.2U),176.0,,,2019
 29.06,48,,National Championships Netherlands U23 - Road Race (NC),147.8,,,2019
 13.06 » 16.06,,,Oberösterreichrundfahrt (2.2),,,,2019
 ,4,,Youth classification,,,,2019
@@ -86,16 +116,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.06,32,32,Prologue - Linz › Linz,0.7,,,2019
 01.06 » 02.06,,,Orlen Nations Grand Prix (2.Ncup),,,,2019
 ,49,,General classification,,,,2019
-02.06,34,,Stage 2 - Bukovina Resort › Bukowina Tatrzańska,113,,,2019
-01.06,8,87,Stage 1 (TTT) - Jurgów › Bukowina Tatrzańska,26,,,2019
+02.06,34,,Stage 2 - Bukovina Resort › Bukowina Tatrzańska,113.0,,,2019
+01.06,8,87,Stage 1 (TTT) - Jurgów › Bukowina Tatrzańska,26.0,,,2019
 30.04 » 05.05,,,Carpathian Couriers Race (2.2U),,,,2019
 ,3,,Youth classification,,,,2019
 ,14,,Points classification,,,,2019
 ,3,,General classification,,14,20,2019
-05.05,21,,Stage 5 - Veszprem › Papa,150,,,2019
+05.05,21,,Stage 5 - Veszprem › Papa,150.0,,,2019
 04.05,10,4,Stage 4 - Poprad › Poprad,112.6,,,2019
-03.05,20,4,Stage 3 - Oświęcim › Jabłonka,108,,,2019
-02.05,14,4,Stage 2 - Tarnow › Nowy Sacz,140,,,2019
+03.05,20,4,Stage 3 - Oświęcim › Jabłonka,108.0,,,2019
+02.05,14,4,Stage 2 - Tarnow › Nowy Sacz,140.0,,,2019
 01.05,13,11,Stage 1 - Polaniec › Tarnow,145.2,,,2019
 30.04,64,64,Prologue - Lublin › Lublin,1.4,,,2019
 07.10,DNF,,Il Piccolo Lombardia (1.2U),174.7,,,2018
@@ -109,7 +139,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 14.04,DNF,,Liège - Bastogne - Liège U23 (1.2U),173.4,,,2018
 03.04,DNF,,G.P. Palio del Recioto (1.2U),156.6,,,2018
 02.04,62,,Giro del Belvedere (1.2U),166.6,,,2018
-01.04,DNF,,Trofeo Piva (1.2U),160,,,2018
+01.04,DNF,,Trofeo Piva (1.2U),160.0,,,2018
 01.09 » 03.09,,,Grand Prix Rüebliland (2.1),,,,2017
 ,44,,General classification,,,,2017
 03.09,28,,Stage 4 - Wohlen › Wohlen,119.4,,,2017
@@ -120,7 +150,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,20,,General classification,,1,,2017
 06.08,18,,Stage 3 - Stavelot › Stavelot,98.1,,,2017
 05.08,59,38,Stage 2b - Thimister  › Thimister ,106.2,,,2017
-05.08,13,43,Stage 2a (TTT) - Thimister  › Thimister ,9,,,2017
+05.08,13,43,Stage 2a (TTT) - Thimister  › Thimister ,9.0,,,2017
 04.08,52,52,Stage 1 - Aubel › Aubel,94.2,,,2017
 28.07 » 30.07,,,Internationale Niedersachsen-Rundfahrt der Junioren (2.1),,,,2017
 ,12,,Mountains classification,,,,2017
@@ -136,7 +166,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.07,27,24,Stage 2 - Bad Leonfelden › Bad Leonfelden,117.6,,,2017
 14.07,28,29,Stage 1 - Haid/Ansfelden › Marchtrenk,96.5,,,2017
 19.05 » 21.05,,,SPIE Internationale Juniorendriedaagse (2.1),,,,2017
-21.05,DNF,,Stage 4 - Velzeke › Velzeke,96,,,2017
+21.05,DNF,,Stage 4 - Velzeke › Velzeke,96.0,,,2017
 20.05,25,68,Stage 3 - Sluiskil › Sluiskil,102.8,,,2017
 20.05,128,92,Stage 2 (ITT) - Axel › Axel,11.1,,,2017
 19.05,27,28,Stage 1 - Axel › Axel,101.7,,,2017

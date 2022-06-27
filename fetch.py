@@ -1,3 +1,4 @@
+from turtle import down
 from matplotlib.pyplot import clim
 import numpy as np
 from bs4 import BeautifulSoup
@@ -10,7 +11,7 @@ import os
 import sys
 from queue import Queue
 from termcolor import colored
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 
 
 
@@ -65,9 +66,9 @@ def get_dates():
     return dates
 
 
-# Update all riders in rankings.php and save to riders.csv
+# Get riders catalog in rankings.php and save to riders.csv
 # Takes around 30 mins
-def update_all_riders(verbose=False):
+def get_riders_catalog(verbose=False):
     riders = []
     dates = get_dates()
     for date in dates:
@@ -80,8 +81,7 @@ def update_all_riders(verbose=False):
     riders_df.to_csv('riders.csv', index=False)
 
 
-# much faster than update_all_riders
-def update_all_riders_concurrent(verbose=False):
+def get_riders_catalog_concurrent(verbose=False):
     riders = []
     threads = []
 
@@ -194,7 +194,7 @@ def get_all_race(rider_link, this_year_only=False):
     return pd.concat(races)
 
 
-def update_all_riders_races(verbose=False):
+def get_all_riders_races(verbose=False, this_year_only=False):
     riders_df = pd.read_csv('riders.csv')
 
     for i in range(len(riders_df)):
@@ -202,39 +202,74 @@ def update_all_riders_races(verbose=False):
         name = link[6:]                            # 'tadej-pogacar'
         textname = riders_df.loc[i, "Rider name"]  # 'Pogačar Tadej'
 
-        races = get_all_race(link)
+        races = get_all_race(link, this_year_only=this_year_only)
         if verbose:
             print_df(races)
 
+        if this_year_only:
+            races_old = pd.read_csv(f'riders/{name}.csv', dtype={'general classification':object, 'PCS point':object, 'UCI point':object})
+            races = pd.concat([races, races_old]).drop_duplicates().reset_index(drop=True)
+
         races.to_csv(f'riders/{name}.csv', index=False)
-        print(f'{textname}\'s races saved')
+        print(colored(f'{textname}\'s races saved!!', 'green'))
+        return
 
 
-def update_all_riders_races_concurrent(renew=False, this_year_only=False):
+def get_all_riders_races_concurrent(mode='old', this_year_only=False):
     riders_df = pd.read_csv('riders.csv')
+    with open('./ghosts.txt') as f:
+        ghosts = [line.strip()[6:] + '.csv' for line in f.readlines()]
 
     def get_all_race_concurrent(link, name, textname):
         races = get_all_race(link, this_year_only=this_year_only)
+        if this_year_only:
+            races_old = pd.read_csv(f'riders/{name}.csv', dtype={'general classification':object, 'PCS point':object, 'UCI point':object})
+            races = pd.concat([races, races_old]).drop_duplicates().reset_index(drop=True)
         races.to_csv(f'riders/{name}.csv', index=False)
         print(colored(f'{textname}\'s races saved!!', 'green'))
 
-    # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
-    downloaded = os.listdir('riders')
-    undownloaded = []
+
+    downloaded = os.listdir('riders') # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
+    todownload = []
+
+    # Rmove the ghost riders
+    for ghost in ghosts:
+        if ghost in downloaded:
+            downloaded.remove(ghost)
+            print(f'{ghost} is removed from the download queue')
 
     num = len(riders_df)
     for i in range(num):
         link = riders_df.loc[i, "The link"]        # 'rider/tadej-pogacar'
         name = link[6:]                            # 'tadej-pogacar'
         textname = riders_df.loc[i, "Rider name"]  # 'Pogačar Tadej'
+        csvname = f'{name}.csv'
+        filepath = f'riders/{csvname}'
 
-        if renew:
-            undownloaded.append([link,name,textname])
+        if mode == 'all':
+            # download all riders in riders.csv, even if they are already downloaded
+            todownload.append([link,name,textname])
+
+        elif mode == 'new':
+            # download only new riders (that are not downloaded yet)
+            if csvname not in downloaded:
+                todownload.append([link,name,textname])
+
+        elif mode == 'old':
+            # download and update only old riders (that are already downloaded before the date)
+            update_days = 7  # update the files modified before 7 days ago
+            this_year_only = True
+            if csvname in downloaded:
+                mtime = os.path.getmtime(filepath)
+                if mtime < datetime.timestamp(datetime.now() - timedelta(days=update_days)):
+                    todownload.append([link,name,textname])
         else:
-            if f'{name}.csv' not in downloaded:
-                undownloaded.append([link,name,textname])
+            raise ValueError('mode must be one of "all", "new" or "old"')
 
-    threads = [threading.Thread(target=get_all_race_concurrent, args=(d[0],d[1],d[2])) for d in undownloaded]
+
+    print(f'\n{len(todownload)} riders to download...')
+    print('................................................')
+    threads = [threading.Thread(target=get_all_race_concurrent, args=(d[0],d[1],d[2])) for d in todownload]
     for t in threads:
         t.start()
 
@@ -343,9 +378,10 @@ def get_all_riders_info(number=-1, renew=False, verbose=False):
 if __name__ == "__main__":
     # update_dates() # the website update the latest date every day
 
-    # update_all_riders_concurrent()
+    # get_riders_catalog_concurrent()
 
+    get_all_riders_races_concurrent()
 
-    # update_all_riders_races_concurrent()
+    # get_all_riders_info(verbose=True)
 
-    get_all_riders_info(verbose=True)
+    # get_all_riders_races(this_year_only=True)

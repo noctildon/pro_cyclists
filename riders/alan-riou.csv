@@ -1,4 +1,55 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,DNF,,National Championships France - Road Race (NC) ,240,,,2022
+23.06,31,,National Championships France - ITT (NC) ,44.3,,,2022
+10.06,DNF,,Grosser Preis des Kantons Aargau (1.1) ,173.8,,,2022
+26.05 » 29.05,,,Boucles de la Mayenne - Crédit Mutuel (2.Pro) ,,,,2022
+28.05,DNF,,Stage 3 - Saint-Berthevin › Château-Gontier-sur-Mayenne ,188,,,2022
+27.05,114,99,Stage 2 - Jublains › Pré-en-Pail-Saint-Samson  111k,171,,,2022
+26.05,69,72,Stage 1 - Saint-Pierre-des-Landes › Andouillé ,180,,,2022
+14.05,DNF,,Grand Prix du Morbihan (1.Pro) ,185.4,,,2022
+03.05 » 08.05,,,4 Jours de Dunkerque / Grand Prix des Hauts de France (2.Pro) ,,,,2022
+,87,,General classification ,,,,2022
+08.05,82,,Stage 6 - Ardres › Dunkerque ,182.9,,,2022
+07.05,74,91,Stage 5 - Roubaix › Cassel ,183.7,,,2022
+06.05,108,92,Stage 4 - Mazingarbe › Aire-sur-la-Lys ,170.8,,,2022
+05.05,89,92,Stage 3 - Péronne › Mont-Saint-Éloi ,170,,,2022
+04.05,111,103,Stage 2 - Béthune › Maubeuge ,181.5,,,2022
+03.05,82,82,Stage 1 - Dunkerque › Aniche ,161.1,,,2022
+01.05,98,,Eschborn-Frankfurt (1.UWT) ,185,5,,2022
+20.04,DNF,,La Flèche Wallonne (1.UWT) ,202.1,,,2022
+05.04 » 08.04,,,Circuit Cycliste Sarthe - Pays de la Loire (2.1) ,,,,2022
+,42,,General classification ,,,,2022
+08.04,48,,Stage 4 - La Chapelle-Saint-Aubin › La Chapelle-Saint-Aubin ,136.4,,,2022
+07.04,58,46,Stage 3 - Sablé-sur-Sarthe › Sablé-sur-Sarthe ,176.5,,,2022
+06.04,55,49,Stage 2 - Le Lude › Le Lude ,174.7,,,2022
+05.04,44,44,Stage 1 - Mamers › Mamers ,192.3,,,2022
+01.04,18,,La Route Adélie de Vitré (1.1) ,176.7,3,3,2022
+27.03,58,,La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire (1.1) ,202,,,2022
+20.03,56,,Cholet - Pays de la Loire (1.1) ,202,,,2022
+19.03,13,,Classic Loire Atlantique (1.1) ,182.8,8,5,2022
+07.03 » 13.03,,,Tirreno-Adriatico (2.UWT) ,,,,2022
+,14,,Youth classification ,,,,2022
+,106,,General classification ,,5,,2022
+13.03,110,,Stage 7 - San Benedetto del Tronto › San Benedetto del Tronto ,159,,,2022
+12.03,83,111,Stage 6 - Apecchio › Carpegna ,215,,,2022
+11.03,114,120,Stage 5 - Sefro › Fermo ,155,,,2022
+10.03,154,123,Stage 4 - Cascata delle Marmore › Bellante ,202,,,2022
+09.03,121,50,Stage 3 - Murlo › Terni ,170,,,2022
+08.03,117,52,Stage 2 - Camaiore › Sovicille ,219,,,2022
+07.03,55,55,Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore ,13.9,,,2022
+05.03,82,,Strade Bianche (1.UWT) ,184,5,,2022
+27.02,78,,Drôme Classic (1.Pro) ,191.5,,,2022
+14.02,33,,Clásica Jaén Paraiso Interior (1.1) ,187.8,,,2022
+12.02,81,,Vuelta Ciclista a la Region de Murcia Costa Calida (1.1) ,183.2,,,2022
+02.02 » 06.02,,,Etoile de Bessèges - Tour du Gard (2.1) ,,,,2022
+,72,,General classification ,,,,2022
+06.02,49,,Stage 5 (ITT) - Alès › Alès l'Ermitage ,10.64,,,2022
+05.02,94,75,Stage 4 - Saint-Hilaire-de-Brethmas › Le Mont Bouquet ,146.71,,,2022
+04.02,73,66,Stage 3 - Bessèges › Bessèges ,155.65,,,2022
+03.02,128,81,Stage 2 - Saint-Christol-lèz-Alès › Rousson ,156.21,,,2022
+02.02,53,53,Stage 1 - Bellegarde › Bellegarde ,160.86,,,2022
+30.01,57,,Grand Prix Cycliste de Marseille La Marseillaise (1.1) ,174.3,,,2022
+23.01,26,,Clàssica Comunitat Valenciana 1969 - Gran Premi València (1.2) ,175,,,2022
 20.04,DNF,,La Flèche Wallonne (1.UWT),202.1,,,2022
 05.04 » 08.04,,,Circuit Cycliste Sarthe - Pays de la Loire (2.1),,,,2022
 ,42,,General classification,,,,2022
@@ -7,20 +58,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.04,55,49,Stage 2 - Le Lude › Le Lude,174.7,,,2022
 05.04,44,44,Stage 1 - Mamers › Mamers,192.3,,,2022
 01.04,18,,La Route Adélie de Vitré (1.1),176.7,3,3,2022
-27.03,58,,La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire (1.1),202,,,2022
-20.03,56,,Cholet - Pays de la Loire (1.1),202,,,2022
+27.03,58,,La Roue Tourangelle Centre Val de Loire - Trophée Groupama Paris Val de Loire (1.1),202.0,,,2022
+20.03,56,,Cholet - Pays de la Loire (1.1),202.0,,,2022
 19.03,13,,Classic Loire Atlantique (1.1),182.8,8,5,2022
 07.03 » 13.03,,,Tirreno-Adriatico (2.UWT),,,,2022
 ,14,,Youth classification,,,,2022
 ,106,,General classification,,5,,2022
-13.03,110,,Stage 7 - San Benedetto del Tronto › San Benedetto del Tronto,159,,,2022
-12.03,83,111,Stage 6 - Apecchio › Carpegna,215,,,2022
-11.03,114,120,Stage 5 - Sefro › Fermo,155,,,2022
-10.03,154,123,Stage 4 - Cascata delle Marmore › Bellante,202,,,2022
-09.03,121,50,Stage 3 - Murlo › Terni,170,,,2022
-08.03,117,52,Stage 2 - Camaiore › Sovicille,219,,,2022
+13.03,110,,Stage 7 - San Benedetto del Tronto › San Benedetto del Tronto,159.0,,,2022
+12.03,83,111,Stage 6 - Apecchio › Carpegna,215.0,,,2022
+11.03,114,120,Stage 5 - Sefro › Fermo,155.0,,,2022
+10.03,154,123,Stage 4 - Cascata delle Marmore › Bellante,202.0,,,2022
+09.03,121,50,Stage 3 - Murlo › Terni,170.0,,,2022
+08.03,117,52,Stage 2 - Camaiore › Sovicille,219.0,,,2022
 07.03,55,55,Stage 1 (ITT) - Lido di Camaiore › Lido di Camaiore,13.9,,,2022
-05.03,82,,Strade Bianche (1.UWT),184,5,,2022
+05.03,82,,Strade Bianche (1.UWT),184.0,5,,2022
 27.02,78,,Drôme Classic (1.Pro),191.5,,,2022
 14.02,33,,Clásica Jaén Paraiso Interior (1.1),187.8,,,2022
 12.02,81,,Vuelta Ciclista a la Region de Murcia Costa Calida (1.1),183.2,,,2022
@@ -32,11 +83,11 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 03.02,128,81,Stage 2 - Saint-Christol-lèz-Alès › Rousson,156.21,,,2022
 02.02,53,53,Stage 1 - Bellegarde › Bellegarde,160.86,,,2022
 30.01,57,,Grand Prix Cycliste de Marseille La Marseillaise (1.1),174.3,,,2022
-23.01,26,,Clàssica Comunitat Valenciana 1969 - Gran Premi València (1.2),175,,,2022
+23.01,26,,Clàssica Comunitat Valenciana 1969 - Gran Premi València (1.2),175.0,,,2022
 17.10,21,,Boucles de l'Aulne - Châteaulin (1.1),177.6,,3,2021
 16.10,19,,Grand Prix du Morbihan (1.Pro),176.9,7,5,2021
 10.10,29,,Paris - Tours Elite (1.Pro),212.3,,5,2021
-07.10,62,,Paris - Bourges (1.1),198,,,2021
+07.10,62,,Paris - Bourges (1.1),198.0,,,2021
 05.10,16,,Binche -  Chimay - Binche / Mémorial Frank Vandenbroucke (1.1),198.6,5,3,2021
 02.10,1,,Classic Loire Atlantique (1.1),182.8,75,125,2021
 01.10,70,,La Route Adélie de Vitré (1.1),197.8,,,2021
@@ -44,12 +95,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,11,,Points classification,,,,2021
 ,24,,General classification,,,,2021
 26.09,33,,Stage 7 - Guitté › Dinan,155.3,,,2021
-25.09,55,25,Stage 6 - Quédillac › Fougères,166,,,2021
-24.09,14,13,Stage 5 - Châteaubriant › Boisgervilly,217,,,2021
+25.09,55,25,Stage 6 - Quédillac › Fougères,166.0,,,2021
+24.09,14,13,Stage 5 - Châteaubriant › Boisgervilly,217.0,,,2021
 23.09,2,13,Stage 4 - Ploeren › Louisfert,167.6,2,3,2021
 22.09,5,31,Stage 3 - Rosporden › Brandivy,170.5,,,2021
 21.09,12,55,Stage 2 - Corlay › Rosporden,169.1,,,2021
-20.09,73,73,Stage 1 - Le Cambout › Allineuc,159,,,2021
+20.09,73,73,Stage 1 - Le Cambout › Allineuc,159.0,,,2021
 15.09,68,,Grand Prix de Wallonie (1.Pro),208.1,,,2021
 04.09,DNF,,Tour du Jura Cycliste (1.1),181.75,,,2021
 03.09,76,,Classic Grand Besançon Doubs (1.1),172.55,,,2021
@@ -63,7 +114,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 24.08,102,102,Stage 1 - Pons › Parthenay,197.3,,,2021
 20.08,130,,Grote Prijs Marcel Kint (1.1),196.3,,,2021
 17.08,41,,Egmont Cycling Race (1.1),192.3,,,2021
-15.08,76,,Grote Prijs Jef Scherens - Rondom Leuven (1.1),190,,,2021
+15.08,76,,Grote Prijs Jef Scherens - Rondom Leuven (1.1),190.0,,,2021
 05.08 » 08.08,,,Arctic Race of Norway (2.Pro),,,,2021
 ,35,,Youth classification,,,,2021
 ,85,,General classification,,,,2021
@@ -75,20 +126,20 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 20.07 » 24.07,,,Tour de Wallonie (2.Pro),,,,2021
 ,124,,General classification,,,,2021
 24.07,117,,Stage 5 - Dinant › Quaregnon,192.4,,,2021
-23.07,104,126,Stage 4 - Neufchâteau › Fleurus,206,,,2021
-22.07,133,143,Stage 3 - Plombières › Érezée,177,,,2021
-21.07,153,145,Stage 2 - Zolder › Zolder,120,,,2021
+23.07,104,126,Stage 4 - Neufchâteau › Fleurus,206.0,,,2021
+22.07,133,143,Stage 3 - Plombières › Érezée,177.0,,,2021
+21.07,153,145,Stage 2 - Zolder › Zolder,120.0,,,2021
 20.07,144,144,Stage 1 - Genappe › Héron,185.7,,,2021
 20.06,DNF,,National Championships France - Road Race (NC),242.9,,,2021
-15.06,DNF,,Paris-Camembert (1.1),210,,,2021
-04.06,92,,Grosser Preis des Kantons Aargau (1.1),172,,,2021
+15.06,DNF,,Paris-Camembert (1.1),210.0,,,2021
+04.06,92,,Grosser Preis des Kantons Aargau (1.1),172.0,,,2021
 27.05 » 30.05,,,Boucles de la Mayenne (2.Pro),,,,2021
 ,17,,Youth classification,,,,2021
 ,90,,General classification,,,,2021
-30.05,107,,Stage 4 - Méral › Laval,181,,,2021
-29.05,112,88,Stage 3 - Saint-Berthevin › Craon,182,,,2021
-28.05,93,86,Stage 2 - Vaiges › Évron,173,,,2021
-27.05,47,47,Stage 1 - Le Genest-Saint-Isle › Ambrières-les-Vallées,175,,,2021
+30.05,107,,Stage 4 - Méral › Laval,181.0,,,2021
+29.05,112,88,Stage 3 - Saint-Berthevin › Craon,182.0,,,2021
+28.05,93,86,Stage 2 - Vaiges › Évron,173.0,,,2021
+27.05,47,47,Stage 1 - Le Genest-Saint-Isle › Ambrières-les-Vallées,175.0,,,2021
 22.05,54,,Tour du Finistère (1.1),196.3,,,2021
 16.05,DNF,,Trofeo Alcudia-Port d'Alcudia (1.1),169.8,,,2021
 14.05,108,,Trofeo Serra de Tramuntana (Lloseta - Deia) (1.1),158.6,,,2021
@@ -101,14 +152,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,32,,General classification,,,3,2021
 18.04,62,,Stage 5 - Paterna › Valencia,91.2,,,2021
 17.04,8,32,Stage 4 (ITT) - Xilxes › Playa Almenara,14.3,1,,2021
-16.04,39,33,Stage 3 - Torrent › Alto de la Reina,165,,,2021
-15.04,18,3,Stage 2 - Alicante › Alicante,179,,,2021
+16.04,39,33,Stage 3 - Torrent › Alto de la Reina,165.0,,,2021
+15.04,18,3,Stage 2 - Alicante › Alicante,179.0,,,2021
 14.04,3,3,Stage 1 - Elche › Ondara,168.9,12,5,2021
 03.04,80,,Gran Premio Miguel Indurain (1.Pro),203.2,,,2021
 22.03 » 28.03,,,Volta Ciclista a Catalunya (2.UWT),,,,2021
 ,36,,Youth classification,,,,2021
 ,130,,General classification,,5,,2021
-28.03,118,,Stage 7 - Barcelona › Barcelona,133,,,2021
+28.03,118,,Stage 7 - Barcelona › Barcelona,133.0,,,2021
 27.03,133,141,Stage 6 - Tarragona › Mataró,193.8,,,2021
 26.03,131,145,Stage 5 - La Pobla de Segur › Manresa,201.1,,,2021
 25.03,141,153,Stage 4 - Ripoll › Port Ainé,166.5,,,2021
@@ -116,44 +167,44 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 23.03,77,158,Stage 2 (ITT) - Banyoles › Banyoles,18.5,,,2021
 22.03,159,159,Stage 1 - Calella › Calella,178.4,,,2021
 19.03,DNF,,Bredene Koksijde Classic (1.Pro),199.9,,,2021
-17.03,DNF,,Danilith Nokere Koerse ME (1.Pro),195,,,2021
+17.03,DNF,,Danilith Nokere Koerse ME (1.Pro),195.0,,,2021
 14.03,2,,Paris - Troyes (1.2),179.9,10,30,2021
 07.03,107,,Grote Prijs Jean-Pierre Monseré (1.1),202.1,,,2021
 27.09 » 05.10,,,Volta a Portugal em Bicicleta Edição Especial (2.1),,,,2020
 ,60,,General classification,,,,2020
 05.10,18,,Stage 8 (ITT) - Lisbon › Lisbon,17.7,,,2020
-04.10,38,63,Stage 7 - Loures › Setúbal,161,,,2020
-03.10,52,72,Stage 6 - Caldas da Rainha › Torres Vedras,155,,,2020
+04.10,38,63,Stage 7 - Loures › Setúbal,161.0,,,2020
+03.10,52,72,Stage 6 - Caldas da Rainha › Torres Vedras,155.0,,,2020
 02.10,75,75,Stage 5 - Oliveira do Hospital › Águeda,176.3,,,2020
-01.10,81,77,Stage 4 - Guarda › Torre (Covilhã),148,,,2020
+01.10,81,77,Stage 4 - Guarda › Torre (Covilhã),148.0,,,2020
 30.09,70,67,Stage 3 - Felgueiras › Viseu,171.9,,,2020
-29.09,53,47,"Stage 2 - Paredes › Mondim, Alto da Senhora da Graça",167,,,2020
-28.09,56,43,"Stage 1 - Montalegre › Viana do Castelo, Alto Santa Luzia",180,,,2020
-27.09,16,16,Prologue - Fafe › Fafe,7,,,2020
+29.09,53,47,"Stage 2 - Paredes › Mondim, Alto da Senhora da Graça",167.0,,,2020
+28.09,56,43,"Stage 1 - Montalegre › Viana do Castelo, Alto Santa Luzia",180.0,,,2020
+27.09,16,16,Prologue - Fafe › Fafe,7.0,,,2020
 20.09,103,,Grand Prix d'Isbergues - Pas de Calais (1.1),199.3,,,2020
 16.09,DNF,,Giro della Toscana - Memorial Alfredo Martini (1.1),182.9,,,2020
-06.09,118,,Tour du Doubs (1.1),200,,,2020
-30.08,110,,Brussels Cycling Classic (1.Pro),204,,,2020
+06.09,118,,Tour du Doubs (1.1),200.0,,,2020
+30.08,110,,Brussels Cycling Classic (1.Pro),204.0,,,2020
 29.08,89,,Druivenkoers - Overijse (1.1),194.7,,,2020
 23.08,61,,National Championships France - Road Race (NC),237.9,,,2020
 18.08 » 21.08,,,Tour du Limousin - Nouvelle Aquitaine (2.1),,,,2020
-21.08,DNF,,Stage 4 - Lac de Saint-Pardoux › Limoges,167,,,2020
+21.08,DNF,,Stage 4 - Lac de Saint-Pardoux › Limoges,167.0,,,2020
 20.08,53,40,Stage 3 - Ussac › Chamberet,177.9,,,2020
 19.08,73,48,Stage 2 - Base Départementale de Rouffiac › Grand Etang de Saint-Estèph,173.9,,,2020
 18.08,26,26,Stage 1 - Couzeix › Evaux-Les-Bains,183.5,,,2020
-06.08,DNF,,Mont Ventoux Dénivelé Challenge (1.1),179,,,2020
+06.08,DNF,,Mont Ventoux Dénivelé Challenge (1.1),179.0,,,2020
 01.08 » 04.08,,,La Route d'Occitanie - La Dépêche du Midi (2.1),,,,2020
 ,32,,Youth classification,,,,2020
 ,28,,Mountains classification,,,,2020
 ,37,,Points classification,,,,2020
 ,100,,General classification,,,,2020
-04.08,96,,Stage 4 - Lectoure › Rocamadour,195,,,2020
+04.08,96,,Stage 4 - Lectoure › Rocamadour,195.0,,,2020
 03.08,82,94,Stage 3 - Saint-Gaudens › Col de Beyrède,163.5,,,2020
 02.08,102,112,Stage 2 - Carcassonne › Cap Découverte,182.5,,,2020
 01.08,120,122,Stage 1 - Saint-Affrique › Cazouls-lès-Béziers,189.5,,,2020
 08.03,58,,Grote prijs Jean-Pierre Monseré (1.1),196.8,,,2020
-01.03,31,,Royal Bernard Drome Classic (1.Pro),203,,3,2020
-16.02,DNF,,Trofeo Laigueglia (1.Pro),202,,,2020
+01.03,31,,Royal Bernard Drome Classic (1.Pro),203.0,,3,2020
+16.02,DNF,,Trofeo Laigueglia (1.Pro),202.0,,,2020
 05.02 » 09.02,,,Etoile de Bessèges (2.1),,,,2020
 ,20,,Youth classification,,,,2020
 ,92,,General classification,,,,2020
@@ -163,14 +214,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.02,99,66,Stage 2 - Milhaud › Poulx,156.1,,,2020
 05.02,44,44,Stage 1 - Bellegarde › Bellegarde,141.1,,,2020
 02.02,71,,Grand Prix Cycliste la Marseillaise (1.1),145.3,,,2020
-13.10,37,,Paris - Tours Elite (1.HC),217,,3,2019
+13.10,37,,Paris - Tours Elite (1.HC),217.0,,3,2019
 08.10,14,,Binche -  Chimay - Binche / Mémorial Frank Vandenbroucke (1.1),198.6,7,5,2019
-06.10,DNF,,La DH Famenne Ardenne Classic (1.1),180,,,2019
+06.10,DNF,,La DH Famenne Ardenne Classic (1.1),180.0,,,2019
 05.10,17,,Tour de l'Eurométropole (1.HC),176.7,9,5,2019
 29.09,DNF,,Paris-Chauny (1.1),203.7,,,2019
 22.09,DNF,,Grand Prix d'Isbergues - Pas de Calais (1.1),199.1,,,2019
-21.09,112,,Primus Classic (1.HC),197,,,2019
-20.09,60,,Kampioenschap van Vlaanderen (1.1),186,,,2019
+21.09,112,,Primus Classic (1.HC),197.0,,,2019
+20.09,60,,Kampioenschap van Vlaanderen (1.1),186.0,,,2019
 15.09,DNF,,Tour du Doubs (1.1),188.9,,,2019
 07.09,130,,Brussels Cycling Classic (1.HC),190.5,,,2019
 01.09,DNF,,Bretagne Classic - Ouest-France (1.UWT),248.1,,,2019
@@ -180,41 +231,40 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,23,,Points classification,,,,2019
 ,51,,General classification,,,,2019
 30.08,72,,Stage 5 - Aigre › Poitiers,167.4,,,2019
-29.08,29,44,Stage 4 (ITT) - Leigné-les-Bois › Pleumartin,23,,,2019
+29.08,29,44,Stage 4 (ITT) - Leigné-les-Bois › Pleumartin,23.0,,,2019
 29.08,79,59,Stage 3 - Châtellerault › Pleumartin,110.7,,,2019
 28.08,68,60,Stage 2 - Rochefort-sur-Mer › Aigre,168.1,,,2019
 27.08,79,79,Stage 1 - Niort › Rochefort-sur-Mer,188.9,,,2019
 15.08 » 18.08,,,Arctic Race of Norway (2.HC),,,,2019
 18.08,DNF,,Stage 4 - Lødingen › Narvik,165.5,,,2019
 17.08,89,93,Stage 3 - Sortland › Storheia Summit (Melbu),176.5,,,2019
-16.08,102,100,Stage 2 - Henningsvær › Svolvær,164,,,2019
-15.08,93,93,Stage 1 - Å › Leknes,181,,,2019
+16.08,102,100,Stage 2 - Henningsvær › Svolvær,164.0,,,2019
+15.08,93,93,Stage 1 - Å › Leknes,181.0,,,2019
 02.08 » 05.08,,,Kreiz Breizh Elites (2.2),,,,2019
 05.08,DNF,,Stage 4 - Guingamp › Rostrenen,171.8,,,2019
 04.08,81,78,Stage 3 - Ploerdut › Carhaix,181.8,,,2019
 03.08,87,31,Stage 2 - Calanhel › Plouray,181.1,,,2019
 02.08,4,30,Stage 1 (TTT) - Ploumagoar › Ploumagoar,12.4,2,,2019
 25.07,108,,Grand Prix Cerami (1.1),164.7,,,2019
-30.06,DNF,,National Championships France - Road Race (NC),252,,,2019
+30.06,DNF,,National Championships France - Road Race (NC),252.0,,,2019
 20.06 » 23.06,,,Le Tour de Savoie Mont Blanc (2.2),,,,2019
-22.06,DNF,,Stage 3 - Bessans › Saint-Martin-la-Porte,75,,,2019
+22.06,DNF,,Stage 3 - Bessans › Saint-Martin-la-Porte,75.0,,,2019
 21.06,87,90,Stage 2 - Moûtiers › La Norma,120.7,,,2019
 20.06,94,94,Stage 1 - Aix-les-Bains › Moûtiers,145.3,,,2019
 06.06 » 09.06,,,Boucles de la Mayenne (2.1),,,,2019
 ,15,,Youth classification,,,,2019
 ,61,,General classification,,,,2019
-09.06,84,,Stage 3 - Cossé-le-Vivien › Laval,173,,,2019
-08.06,69,57,Stage 2 - La Croixille › Lassay-les-Châteaux,179,,,2019
-07.06,54,54,Stage 1 - Renault Saint-Berthevin › Changé,183,,,2019
+09.06,84,,Stage 3 - Cossé-le-Vivien › Laval,173.0,,,2019
+08.06,69,57,Stage 2 - La Croixille › Lassay-les-Châteaux,179.0,,,2019
+07.06,54,54,Stage 1 - Renault Saint-Berthevin › Changé,183.0,,,2019
 06.06,35,35,Prologue - Laval › Laval ,4.5,,,2019
 02.06,DNF,,Boucles de l'Aulne - Châteaulin (1.1),177.6,,,2019
-01.06,DNF,,Grand Prix de Plumelec-Morbihan (1.1),188,,,2019
+01.06,DNF,,Grand Prix de Plumelec-Morbihan (1.1),188.0,,,2019
 10.05 » 12.05,,,Vuelta Ciclista Comunidad de Madrid (2.1),,,,2019
-,15,,Youth classification,,,,2019
 ,105,,General classification,,,,2019
 12.05,103,,Stage 3 - Madrid › Madrid,99.9,,,2019
-11.05,105,106,Stage 2 - San Martin de Valdeiglesias › San Martin de Valdeiglesias,163,,,2019
-10.05,111,111,Stage 1 - Aranjuez › Aranjuez,161,,,2019
+11.05,105,106,Stage 2 - San Martin de Valdeiglesias › San Martin de Valdeiglesias,163.0,,,2019
+10.05,111,111,Stage 1 - Aranjuez › Aranjuez,161.0,,,2019
 25.04 » 01.05,,,Le Tour de Bretagne Cycliste (2.2),,,,2019
 ,42,,Youth classification,,,,2019
 ,80,,General classification,,,,2019
@@ -227,16 +277,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 25.04,89,89,Stage 1 - Lorient › Inzinzac-Lochrist,150.5,,,2019
 20.04,DNF,,Tour du Finistère (1.1),187.5,,,2019
 17.04,DNF,,De Brabantse Pijl - La Flèche Brabançonne (1.HC),196.2,,,2019
-14.04,OTL,,Paris-Roubaix (1.UWT),257,,,2019
+14.04,OTL,,Paris-Roubaix (1.UWT),257.0,,,2019
 10.04,110,,Scheldeprijs (1.HC),202.3,,,2019
-07.04,DNF,,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),186,,,2019
+07.04,DNF,,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),186.0,,,2019
 05.04,DNF,,Route Adélie de Vitré (1.1),197.8,,,2019
 31.03,DNF,,Cholet - Pays de la Loire (1.1),203.2,,,2019
 30.03,66,,Classic Loire Atlantique (1.1),182.8,,,2019
-24.03,69,,Grand Prix de Denain - Porte du Hainaut (1.HC),198,,,2019
+24.03,69,,Grand Prix de Denain - Porte du Hainaut (1.HC),198.0,,,2019
 20.03,DNF,,Danilith Nokere Koerse ME (1.HC),195.6,,,2019
-17.03,71,,Paris-Troyes (1.2),184,,,2019
-05.03,DNF,,Le Samyn (1.1),200,,,2019
+17.03,71,,Paris-Troyes (1.2),184.0,,,2019
+05.03,DNF,,Le Samyn (1.1),200.0,,,2019
 14.02 » 17.02,,,Tour de La Provence (2.1),,,,2019
 ,26,,Youth classification,,,,2019
 ,103,,General classification,,,,2019
@@ -247,19 +297,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.01 » 27.01,,,La Tropicale Amissa Bongo (2.1),,,,2019
 ,17,,Youth classification,,,,2019
 ,53,,General classification,,,,2019
-27.01,72,,Stage 7 - Nkok › Libreville,140,,,2019
-26.01,63,51,Stage 6 - Bitam › Oyem,110,,,2019
-25.01,69,55,Stage 5 - Bitam › Mongomo,126,,,2019
-24.01,60,57,Stage 4 - Mitzic › Oyem,113,,,2019
-23.01,39,58,Stage 3 - Léconi › Franceville,98,,,2019
-22.01,63,63,Stage 2 - Franceville › Okondja,169,,,2019
-21.01,69,73,Stage 1 - Bongoville › Moanda,100,,,2019
-07.10,16,,Paris-Tours Espoirs (1.2U),182,,,2018
+27.01,72,,Stage 7 - Nkok › Libreville,140.0,,,2019
+26.01,63,51,Stage 6 - Bitam › Oyem,110.0,,,2019
+25.01,69,55,Stage 5 - Bitam › Mongomo,126.0,,,2019
+24.01,60,57,Stage 4 - Mitzic › Oyem,113.0,,,2019
+23.01,39,58,Stage 3 - Léconi › Franceville,98.0,,,2019
+22.01,63,63,Stage 2 - Franceville › Okondja,169.0,,,2019
+21.01,69,73,Stage 1 - Bongoville › Moanda,100.0,,,2019
+07.10,16,,Paris-Tours Espoirs (1.2U),182.0,,,2018
 17.08 » 26.08,,,Tour de l'Avenir (2.Ncup),,,,2018
 ,13,,Points classification,,,,2018
 ,78,,General classification,,,,2018
 26.08,60,,Stage 10 - Val d'Isère › Saint-Colomban-des-Villards Col du Glandon,150.8,,,2018
-25.08,90,78,Stage 9 - Séez › Val d'Isère,89,,,2018
+25.08,90,78,Stage 9 - Séez › Val d'Isère,89.0,,,2018
 24.08,105,76,Stage 8 - La Bathie › Crest-Voland Cohennoz,81.1,,,2018
 23.08,69,43,Stage 7 - Moutiers › Méribe,35.9,,,2018
 22.08,106,1,Stage 6 - Le Blanc › Cérilly,183.5,,,2018
@@ -274,37 +324,37 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,22,,General classification,,,,2018
 30.07,29,,Stage 4 - Guingamp › Rostrenen ,171.8,,,2018
 29.07,33,24,Stage 3 - Carhaix-Plouguer › Carhaix-Plouguer,91.8,,,2018
-29.07,3,41,Stage 2 - Ploërdut  › Callac,93,1,1,2018
+29.07,3,41,Stage 2 - Ploërdut  › Callac,93.0,1,1,2018
 28.07,91,91,Stage 1 - Calanhel › Plouray,181.1,,,2018
 31.05 » 03.06,,,Grand Prix Priessnitz spa (2.Ncup),,,,2018
 ,64,,General classification,,,,2018
-03.06,46,,Stage 3 - Jeseník › Jeseník,158,,,2018
+03.06,46,,Stage 3 - Jeseník › Jeseník,158.0,,,2018
 02.06,97,93,Stage 2 - Krnov › Dlouhé stráně,148.9,,,2018
-01.06,94,23,Stage 1 - Jeseník › Rýmařov,133,,,2018
-31.05,24,24,Prologue - Krnov › Krnov,2,,,2018
+01.06,94,23,Stage 1 - Jeseník › Rýmařov,133.0,,,2018
+31.05,24,24,Prologue - Krnov › Krnov,2.0,,,2018
 27.05,DNF,,Boucles de l'Aulne - Chateaulin (1.1),179.5,,,2018
-26.05,82,,Grand Prix de Plumelec-Morbihan (1.1),182,,,2018
+26.05,82,,Grand Prix de Plumelec-Morbihan (1.1),182.0,,,2018
 25.04 » 01.05,,,Le Tour de Bretagne Cycliste (2.2),,,,2018
 ,15,,Youth classification,,,,2018
 ,11,,Mountains classification,,,,2018
 ,33,,Points classification,,,,2018
 ,33,,General classification,,,,2018
-01.05,45,,Stage 7 - Saint-Pôtan › Dinan,145,,,2018
+01.05,45,,Stage 7 - Saint-Pôtan › Dinan,145.0,,,2018
 30.04,37,24,Stage 6 - Plancoët › Dol-de-Bretagne,151.6,,,2018
 29.04,7,16,Stage 5 - Colpo › Plancoët,155.7,,,2018
 28.04,49,55,Stage 4 - Clohars-Carnoët (Le Pouldu) › Grand-Champ,162.7,,,2018
 27.04,40,68,Stage 3 - Baden › Clohars-Carnoët,181.1,,,2018
-26.04,101,114,Stage 2 - Louisfert › Plougoumelen,180,,,2018
+26.04,101,114,Stage 2 - Louisfert › Plougoumelen,180.0,,,2018
 25.04,114,114,Stage 1 - Châteaubriant › Louisfert,159.8,,,2018
-25.03,48,,Gent-Wevelgem/Kattekoers-Ieper (1.Ncup),187,,,2018
+25.03,48,,Gent-Wevelgem/Kattekoers-Ieper (1.Ncup),187.0,,,2018
 08.10,80,,Paris-Tours Elite (1.HC),234.5,,,2017
 03.10,41,,Binche - Chimay - Binche (1.1),195.2,,,2017
 01.10,117,,Tour de l'Eurométropole (1.HC),188.6,,,2017
-30.09,160,,Omloop Eurometropool (1.1),177,,,2017
+30.09,160,,Omloop Eurometropool (1.1),177.0,,,2017
 24.09,7,,Paris-Chauny (1.2),174.9,,5,2017
 17.09,3,,Grand Prix d'Isbergues - Pas de Calais (1.1),203.6,40,70,2017
-15.09,98,,Kampioenschap van Vlaanderen (1.1),192,,,2017
-10.09,6,,Grand Prix de la Ville de Nogent-sur-Oise (1.2),168,1,10,2017
+15.09,98,,Kampioenschap van Vlaanderen (1.1),192.0,,,2017
+10.09,6,,Grand Prix de la Ville de Nogent-sur-Oise (1.2),168.0,1,10,2017
 18.08 » 27.08,,,Tour de l'Avenir (2.Ncup),,,,2017
 ,36,,Mountains classification,,,,2017
 ,69,,General classification,,,,2017
@@ -316,7 +366,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 21.08,116,111,Stage 4 - Derval › Saumur,166.6,,,2017
 20.08,98,49,Stage 3 - Missilla › Châteaubriant ,125.7,,,2017
 19.08,25,17,Stage 2 - Inzinzac-Lochrist › Bignan,132.4,,,2017
-18.08,34,34,Stage 1 - Loudéac › Loudéac,134,,,2017
+18.08,34,34,Stage 1 - Loudéac › Loudéac,134.0,,,2017
 30.07,DNF,,National Championships France U23 - Road Race (NC),172.8,,,2017
 27.07,35,,National Championships France U23 - ITT (NC),27.3,,,2017
 25.04 » 01.05,,,Le Tour de Bretagne Cycliste (2.2),,,,2017
@@ -329,24 +379,24 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 27.04,91,52,Stage 3 - Saint-Pol-de-Léon › Scaër,166.1,,,2017
 26.04,37,45,Stage 2 - Saint-Launeuc › Saint-Pol-De-Léon,202.7,,,2017
 25.04,75,77,Stage 1 - Rennes › Merdrinac,153.2,,,2017
-09.10,40,,Paris-Tours Espoirs (1.2U),180,,,2016
-21.08,26,,National Championships France U23 - Road Race (NC),180,,,2016
+09.10,40,,Paris-Tours Espoirs (1.2U),180.0,,,2016
+21.08,26,,National Championships France U23 - Road Race (NC),180.0,,,2016
 18.08,27,,National Championships France U23 - ITT (NC),28.2,,,2016
 30.07 » 01.08,,,Kreiz Breizh Elites (2.2),,,,2016
 ,35,,Youth classification,,,,2016
 ,12,,Mountains classification,,,,2016
 ,16,,Points classification,,,,2016
 ,64,,General classification,,,,2016
-01.08,42,,Stage 4 - Plouguernevel › Rostrenen,163,,,2016
-31.07,69,86,Stage 3 - Carhaix › Carhaix,100,,,2016
+01.08,42,,Stage 4 - Plouguernevel › Rostrenen,163.0,,,2016
+31.07,69,86,Stage 3 - Carhaix › Carhaix,100.0,,,2016
 31.07,3,108,Stage 2 - Ploërdut › Callac,82.2,1,1,2016
 30.07,120,120,Stage 1 - Calanhel › Plouray,194.8,,,2016
 22.08,6,,National Championships France MJ - Road Race (NC),130.3,3,,2015
 15.08 » 16.08,,,Ronde des Vallées (2.1),,,,2015
 ,4,,General classification,,36,,2015
-16.08,4,,Stage 3 - Hémonstoir › Hémonstoir,100,5,,2015
+16.08,4,,Stage 3 - Hémonstoir › Hémonstoir,100.0,5,,2015
 16.08,5,5,Stage 2 (ITT) - Saint-Caradec › Croixanvec,11.6,4,,2015
-15.08,11,11,Stage 1 - Loudéac › Loudéac,113,,,2015
+15.08,11,11,Stage 1 - Loudéac › Loudéac,113.0,,,2015
 07.08 » 09.08,,,Aubel - Thimister - La Gleize (2.1),,,,2015
 ,7,,General classification,,20,,2015
 09.08,5,,Stage 3 - La Gleize › La Gleize,111.4,4,,2015
@@ -357,22 +407,22 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,13,,Mountains classification,,,,2015
 ,20,,General classification,,8,,2015
 10.05,70,,Stage 4 - Terezín › Litoměřice,98.7,,,2015
-09.05,43,20,Stage 3 - Teplice › Zinwald,100,,,2015
+09.05,43,20,Stage 3 - Teplice › Zinwald,100.0,,,2015
 08.05,49,15,Stage 2b - Roudnice nad Labem › Roudnice nad Labem,62.4,,,2015
 08.05,34,19,Stage 2a (ITT) - Třebenice › Třebenice,11.2,,,2015
 07.05,23,4,Stage 1 - Litoměřice › Litoměřice,98.5,,,2015
-12.04,20,,Paris - Roubaix Juniors (1.Ncup),111,6,,2015
-01.03,3,,Kuurne-Brussel-Kuurne Juniors (1.1),119,40,,2015
+12.04,20,,Paris - Roubaix Juniors (1.Ncup),111.0,6,,2015
+01.03,3,,Kuurne-Brussel-Kuurne Juniors (1.1),119.0,40,,2015
 23.08,9,,National Championships France MJ - Road Race (NC),139.5,2,,2014
 16.08 » 17.08,,,Ronde des Vallées (2.1),,,,2014
 ,5,,General classification,,28,,2014
 17.08,31,,Stage 3 - Hémonstoir › Hémonstoir,104.5,,,2014
 17.08,10,4,Stage 2 (ITT) - Noyal-Pontivy › Hémonstoir,12.9,,,2014
-16.08,3,3,Stage 1 - Hémonstoir › Hémonstoir,112,7,,2014
+16.08,3,3,Stage 1 - Hémonstoir › Hémonstoir,112.0,7,,2014
 08.08 » 10.08,,,Aubel - Thimister - La Gleize (2.1),,,,2014
 ,6,,Youth classification,,,,2014
 ,22,,General classification,,,,2014
-10.08,48,,Stage 3 - La Gleize › La Gleize,112,,,2014
-09.08,42,20,Stage 2b - Thimister › Thimister,93,,,2014
-08.08,54,54,Stage 1 - Aubel › Aubel,99,,,2014
-02.03,21,,Kuurne-Brussel-Kuurne Juniors (1.1),124,,,2014
+10.08,48,,Stage 3 - La Gleize › La Gleize,112.0,,,2014
+09.08,42,20,Stage 2b - Thimister › Thimister,93.0,,,2014
+08.08,54,54,Stage 1 - Aubel › Aubel,99.0,,,2014
+02.03,21,,Kuurne-Brussel-Kuurne Juniors (1.1),124.0,,,2014

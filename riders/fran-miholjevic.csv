@@ -1,14 +1,50 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+26.06,6,,National Championships Croatia - Road Race (NC) ,,1,5,2022
+24.06,1,,National Championships Croatia - ITT (NC) ,31.6,15,25,2022
+11.06 » 18.06,,,Giro d'Italia Giovani Under 23 (2.2U) ,,,,2022
+,40,,Mountains classification ,,,,2022
+,57,,General classification ,,,,2022
+18.06,79,,Stage 7 - Cuneo › Pinerolo ,121,,,2022
+17.06,29,59,Stage 6 - Boves › Colle Fauniera ,110.7,,,2022
+16.06,45,81,Stage 5 - Busca › Peveragno ,146.6,,,2022
+14.06,57,98,Stage 4 - Chiuro › Chiavenna ,101.1,,,2022
+13.06,89,100,Stage 3 - Pinzolo › Santa Caterina Valfurva ,177.1,,,2022
+12.06,97,97,Stage 2 - Rossano Veneto › Pinzolo ,166.5,,,2022
+11.06,33,33,Stage 1 - Gradara › Argenta ,164.9,,,2022
+02.06,DNF,,Giro dell'Appennino (1.1) ,191.7,,,2022
+29.04 » 03.05,,,Carpathian Couriers Race in memory of Wacław Felczak (2.2U) ,,,,2022
+,1,,Youth classification ,,,,2022
+,3,,Mountains classification ,,,,2022
+,1,,Points classification ,,,,2022
+,1,,General classification ,,25,30,2022
+03.05,4,,Stage 4 (ITT) - Vysoké Tatry › Vysoké Tatry ,3,,,2022
+02.05,10,1,Stage 2 - Piwniczna-Zdrój › Niedzica Zapora ,149,, +1,2022
+01.05,1,1,Stage 1 - Stará Ľubovňa › Stará Ľubovňa ,138.4,5,5 +1,2022
+29.04,3,3,Prologue - Budapest › Budapest ,2.05,1,,2022
+19.04,15,,G.P. Palio del Recioto - Trofeo C (1.2U) ,147.2,,,2022
+12.04 » 15.04,,,Giro di Sicilia - Tour of Sicily (2.1) ,,,,2022
+,7,,Youth classification ,,,,2022
+,25,,Mountains classification ,,,,2022
+,4,,Points classification ,,,,2022
+,22,,General classification ,,,3,2022
+15.04,30,,Stage 4 - Ragalna › Etna ,140,,,2022
+14.04,1,1,Stage 3 - Realmonte › Piazza Armerina ,171,20,14 +3,2022
+13.04,31,31,Stage 2 - Palma di Montechiaro › Caltanissetta ,152,,,2022
+12.04,38,40,Stage 1 - Milazzo › Bagheria ,199,,,2022
+03.04,DNF,,Trofeo Piva (1.2U) ,179.2,,,2022
+27.03,2,,Trofeo Città di San Vendemiano - Gran Premio Industria e Commercio (1.2U) ,179.6,10,25,2022
+24.03,1,,GP Vipava Valley & Crossborder Goriška (1.2) ,154.4,15,40,2022
+20.03,29,,GP Slovenian Istria (1.2) ,156.5,,,2022
 19.04,15,,G.P. Palio del Recioto - Trofeo C (1.2U),147.2,,,2022
 12.04 » 15.04,,,Giro di Sicilia - Tour of Sicily (2.1),,,,2022
 ,7,,Youth classification,,,,2022
 ,25,,Mountains classification,,,,2022
 ,4,,Points classification,,,,2022
 ,22,,General classification,,,3,2022
-15.04,30,,Stage 4 - Ragalna › Etna,140,,,2022
-14.04,1,1,Stage 3 - Realmonte › Piazza Armerina,171,20,14,2022
-13.04,31,31,Stage 2 - Palma di Montechiaro › Caltanissetta,152,,,2022
-12.04,38,40,Stage 1 - Milazzo › Bagheria,199,,,2022
+15.04,30,,Stage 4 - Ragalna › Etna,140.0,,,2022
+14.04,1,1,Stage 3 - Realmonte › Piazza Armerina,171.0,20,14,2022
+13.04,31,31,Stage 2 - Palma di Montechiaro › Caltanissetta,152.0,,,2022
+12.04,38,40,Stage 1 - Milazzo › Bagheria,199.0,,,2022
 03.04,DNF,,Trofeo Piva (1.2U),179.2,,,2022
 27.03,2,,Trofeo Città di San Vendemiano - Gran Premio Industria e Commercio (1.2U),179.6,10,25,2022
 24.03,1,,GP Vipava Valley & Crossborder Goriška (1.2),154.4,15,40,2022
@@ -20,10 +56,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,35,,General classification,,,,2021
 03.10,47,,Stage 6 - Samobor › Zagreb,156.5,,,2021
 02.10,20,38,Stage 5 - Rabac/Labin › Opatija,137.5,,,2021
-01.10,18,46,Stage 4 - Zadar › Crikvenica,197,,,2021
-30.09,48,49,Stage 3 - Primošten › Makarska,167,,,2021
-29.09,76,8,Stage 2 - Slunj › Otočac,187,,,2021
-28.09,54,5,Stage 1 - Osijek › Varaždin,237,,,2021
+01.10,18,46,Stage 4 - Zadar › Crikvenica,197.0,,,2021
+30.09,48,49,Stage 3 - Primošten › Makarska,167.0,,,2021
+29.09,76,8,Stage 2 - Slunj › Otočac,187.0,,,2021
+28.09,54,5,Stage 1 - Osijek › Varaždin,237.0,,,2021
 24.09,71,,World Championships U23 - Road Race (WC),161.1,,,2021
 20.09,12,,World Championships U23 - ITT (WC),30.3,,10,2021
 11.09,43,,European Continental Championships U23 - Road Race (CC),133.6,,,2021
@@ -33,13 +69,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,8,,Mountains classification,,,,2021
 ,2,,Points classification,,,,2021
 ,3,,General classification,,14,20,2021
-31.08,4,,Stage 2 - Muszyna › Niedzica-Zamek,130,,,2021
-30.08,3,2,Stage 1 - Tarnów › Ciężkowice,137,1,,2021
-29.08,1,1,Stage 0 - Połaniec › Połaniec,4,5,5,2021
-16.08,4,,GP Capodarco Comunita Di Capodarco (1.2U),180,4,15,2021
+31.08,4,,Stage 2 - Muszyna › Niedzica-Zamek,130.0,,,2021
+30.08,3,2,Stage 1 - Tarnów › Ciężkowice,137.0,1,,2021
+29.08,1,1,Stage 0 - Połaniec › Połaniec,4.0,5,5,2021
+16.08,4,,GP Capodarco Comunita Di Capodarco (1.2U),180.0,4,15,2021
 08.08,DNF,,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni (1.2U),164.2,,,2021
 19.07 » 20.07,,,L'Etoile d'Or (2.Ncup),,,,2021
-19.07,DNF,,Stage 2 - Mérigny-Saint-Savin › Le Blanc,142,,,2021
+19.07,DNF,,Stage 2 - Mérigny-Saint-Savin › Le Blanc,142.0,,,2021
 19.07,6,6,Stage 1 (ITT) - Pouligny-Saint-Pierre › Pouligny-Saint-Pierre,9.6,,,2021
 03.07 » 06.07,,,Sibiu Cycling Tour (2.1),,,,2021
 ,4,,Youth classification,,,,2021
@@ -51,7 +87,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 20.06,2,,National Championships Croatia - Road Race (NC),122.8,10,30,2021
 18.06,1,,National Championships Croatia U23 - ITT (NC),25.2,,25,2021
 30.05,31,,GP Slovenia (1.2),173.6,,,2021
-25.04,22,,Gran Premio della Liberazione (1.2U),138,,,2021
+25.04,22,,Gran Premio della Liberazione (1.2U),138.0,,,2021
 18.04,DNF,,Tr. Città di S. Vendemiano - 61° GP Industria & Commercio (1.2U),179.6,,,2021
 05.04,21,,Giro del Belvedere (1.2U),166.8,,,2021
 04.04,DNF,,Trofeo Piva (1.2U),171.08,,,2021
@@ -64,17 +100,17 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 26.09,51,,World Championships MJ - Road Race (WC),148.1,,,2019
 23.09,24,,World Championships MJ - ITT (WC),27.6,,,2019
 15.09,23,,Trofeo Buffoni (1.1),135.4,,,2019
-09.08,25,,European Continental Championships MJ - Road Race (CC),115,,,2019
+09.08,25,,European Continental Championships MJ - Road Race (CC),115.0,,,2019
 07.08,38,,European Continental Championships MJ - ITT (CC),22.4,,,2019
 06.07 » 07.07,,,Olympic Hopes - Belgrade Trophy Milan Panić (2.1),,,,2019
 ,1,,Youth classification,,,,2019
 ,4,,Mountains classification,,,,2019
 ,1,,General classification,,100,,2019
-07.07,3,,Stage 2 - Bogosavac › Bogosavac,120,7,,2019
+07.07,3,,Stage 2 - Bogosavac › Bogosavac,120.0,7,,2019
 06.07,1,1,Stage 1b - Autodrome Navak › Autodrome Navak,98.2,20,,2019
-30.06,2,,National Championships Croatia MJ - Road Race (NC),68,12,,2019
+30.06,2,,National Championships Croatia MJ - Road Race (NC),68.0,12,,2019
 29.06,1,,National Championships Croatia MJ - ITT (NC),18.4,10,,2019
-09.06,17,,Gran Premio dell'Arno (1.1),124,4,,2019
+09.06,17,,Gran Premio dell'Arno (1.1),124.0,4,,2019
 26.05,9,,Tf GD Dorigo MO Biemmereti MO Ettore e Cristiano Floriani MO Emilio Mazzero (1.1),134.7,16,,2019
 25.05,6,,Gran Premio Eccellenze Valli del Soligo (Cronosquadre) (1.1),17.8,4.8,,2019
 19.05,23,,G.P. Sportivi Sovilla-La Piccola Sanremo (1.1),125.95,,,2019

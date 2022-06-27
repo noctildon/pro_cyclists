@@ -1,69 +1,71 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
 26.03 » 01.04,,,Tour de Normandie (2.2) ,,,,2007
 27.03,55,,Stage 2 ,211,,,2007
+26.03 » 01.04,,,Tour de Normandie (2.2) ,,,,2007
+27.03,55.0,,Stage 2 ,211.0,,,2007
 21.03 » 28.03,,,Tour de Normandie (2.2) ,,,,2005
-,17,,General classification ,,,,2005
-28.03,11,,Stage 7 - Bagnoles de L'orne › Caen ,142,,,2005
-27.03,3,,Stage 6 - Ducey › Bagnoles de L'orne ,173,1,,2005
-26.03,11,,Stage 5 - Domfront › Avranches ,80,,,2005
-25.03,19,,Stage 4 - Flers › Domfront ,74,,,2005
-24.03,3,,Stage 3 - Elbeuf › Flers ,201,1,,2005
-23.03,39,,Stage 2 - Forges-Les-eaux › Elbeuf ,147,,,2005
-22.03,7,,Stage 1 - Mondeville › Forges-Les-eaux ,208,,,2005
-21.03,58,,Prologue - Mondeville › Mondeville ,5.6,,,2005
+,17.0,,General classification ,,,,2005
+28.03,11.0,,Stage 7 - Bagnoles de L'orne › Caen ,142.0,,,2005
+27.03,3.0,,Stage 6 - Ducey › Bagnoles de L'orne ,173.0,1,,2005
+26.03,11.0,,Stage 5 - Domfront › Avranches ,80.0,,,2005
+25.03,19.0,,Stage 4 - Flers › Domfront ,74.0,,,2005
+24.03,3.0,,Stage 3 - Elbeuf › Flers ,201.0,1,,2005
+23.03,39.0,,Stage 2 - Forges-Les-eaux › Elbeuf ,147.0,,,2005
+22.03,7.0,,Stage 1 - Mondeville › Forges-Les-eaux ,208.0,,,2005
+21.03,58.0,,Prologue - Mondeville › Mondeville ,5.6,,,2005
 06.05 » 09.05,,,Tour de la Manche (2.6) ,,,,2004
-,20,,General classification ,,,,2004
-09.05,12,,Stage 5 - Mortain › Granville ,160,,,2004
-08.05,17,,Stage 4 - Agon-Coutainville › Mortain ,101,,,2004
-07.05,3,,Stage 2 - La Haye-du-Puits › Agon-Coutainville ,189,1,,2004
+,20.0,,General classification ,,,,2004
+09.05,12.0,,Stage 5 - Mortain › Granville ,160.0,,,2004
+08.05,17.0,,Stage 4 - Agon-Coutainville › Mortain ,101.0,,,2004
+07.05,3.0,,Stage 2 - La Haye-du-Puits › Agon-Coutainville ,189.0,1,,2004
 22.03 » 29.03,,,Tour de Normandie (2.5) ,,,,2004
-,35,,General classification ,,,,2004
+,35.0,,General classification ,,,,2004
 08.05 » 11.05,,,Tour de la Manche (2.6) ,,,,2003
-,20,,General classification ,,,,2003
-11.05,4,,Stage 5 - Saint-Hilaire-du-Harcouët › Granville ,170,,,2003
-10.05,12,,Stage 4 - Hambye › Saint-Hilaire-du-Harcouët ,97.5,,,2003
-08.05,13,,Stage 1 - Brecey › Les Pieux ,187,,,2003
+,20.0,,General classification ,,,,2003
+11.05,4.0,,Stage 5 - Saint-Hilaire-du-Harcouët › Granville ,170.0,,,2003
+10.05,12.0,,Stage 4 - Hambye › Saint-Hilaire-du-Harcouët ,97.5,,,2003
+08.05,13.0,,Stage 1 - Brecey › Les Pieux ,187.0,,,2003
 24.03 » 30.03,,,Tour de Normandie (2.5) ,,,,2003
-,18,,Points classification ,,,,2003
-,27,,General classification ,,,,2003
-30.03,13,,Stage 6 - Bagnoles-de-l'Orne  › Caen ,146,,,2003
-29.03,6,30,Stage 5 -  Valognes  › Bagnoles-de-l'Orne  ,194,,,2003
-28.03,16,30,Stage 4 - Flers  ›  Valognes  ,178,,,2003
-27.03,33,31,Stage 3 - Elbeuf  › Flers  ,208,,,2003
-26.03,10,49,Stage 2 - Forges-les-Eaux  › Elbeuf  ,151,,,2003
-25.03,60,,Stage 1 - Lisieux  › Forges-les-Eaux  ,181,,,2003
-24.03,79,79,Prologue - Mondeville  › Mondeville  ,5.6,,,2003
+,18.0,,Points classification ,,,,2003
+,27.0,,General classification ,,,,2003
+30.03,13.0,,Stage 6 - Bagnoles-de-l'Orne  › Caen ,146.0,,,2003
+29.03,6.0,30,Stage 5 -  Valognes  › Bagnoles-de-l'Orne  ,194.0,,,2003
+28.03,16.0,30,Stage 4 - Flers  ›  Valognes  ,178.0,,,2003
+27.03,33.0,31,Stage 3 - Elbeuf  › Flers  ,208.0,,,2003
+26.03,10.0,49,Stage 2 - Forges-les-Eaux  › Elbeuf  ,151.0,,,2003
+25.03,60.0,,Stage 1 - Lisieux  › Forges-les-Eaux  ,181.0,,,2003
+24.03,79.0,79,Prologue - Mondeville  › Mondeville  ,5.6,,,2003
 25.04 » 01.05,,,Ruban Granitier Breton (2.2) ,,,,2002
-,15,,General classification ,,,,2002
-01.05,3,,Stage 6 - Saint-James › Dinan ,151,1,,2002
-30.04,3,,Stage 5 - Rennes › Saint-James ,161.4,1,,2002
-29.04,13,,Stage 4 - Châtelaudren › Rennes ,152.7,,,2002
-28.04,11,,Stage 3 - Le Cambout › Landerneau ,178.6,,,2002
-27.04,5,,Stage 2 - Pontchâteau › Ploërmel ,143.2,,,2002
-26.04,31,,Stage 1 - Sainte-Anne-d'Aurey › Pontchâteau ,168.6,,,2002
-25.04,55,,Prologue - Concarneau › Concarneau ,5.1,,,2002
+,15.0,,General classification ,,,,2002
+01.05,3.0,,Stage 6 - Saint-James › Dinan ,151.0,1,,2002
+30.04,3.0,,Stage 5 - Rennes › Saint-James ,161.4,1,,2002
+29.04,13.0,,Stage 4 - Châtelaudren › Rennes ,152.7,,,2002
+28.04,11.0,,Stage 3 - Le Cambout › Landerneau ,178.6,,,2002
+27.04,5.0,,Stage 2 - Pontchâteau › Ploërmel ,143.2,,,2002
+26.04,31.0,,Stage 1 - Sainte-Anne-d'Aurey › Pontchâteau ,168.6,,,2002
+25.04,55.0,,Prologue - Concarneau › Concarneau ,5.1,,,2002
 25.03 » 31.03,,,Tour de Normandie (2.5) ,,,,2002
-,26,,General classification ,,,,2002
-31.03,35,,Stage 6 -  Bagnoles-de-l'Orne  › Caen ,146,,,2002
-30.03,4,,Stage 5 - Octeville  ›  Bagnoles-de-l'Orne  ,201,,,2002
-29.03,13,,Stage 4 - Flers  › Octeville  ,191,,,2002
-28.03,11,,Stage 3 - Elbeuf  › Flers  ,205,,,2002
-27.03,22,,Stage 2 - Forges-les-Eaux  › Elbeuf  ,153,,,2002
-26.03,2,,Stage 1 - Lisieux  › Forges-les-Eaux  ,181,2,,2002
-25.03,71,,Prologue - Mondeville  › Mondeville  ,5.6,,,2002
+,26.0,,General classification ,,,,2002
+31.03,35.0,,Stage 6 -  Bagnoles-de-l'Orne  › Caen ,146.0,,,2002
+30.03,4.0,,Stage 5 - Octeville  ›  Bagnoles-de-l'Orne  ,201.0,,,2002
+29.03,13.0,,Stage 4 - Flers  › Octeville  ,191.0,,,2002
+28.03,11.0,,Stage 3 - Elbeuf  › Flers  ,205.0,,,2002
+27.03,22.0,,Stage 2 - Forges-les-Eaux  › Elbeuf  ,153.0,,,2002
+26.03,2.0,,Stage 1 - Lisieux  › Forges-les-Eaux  ,181.0,2,,2002
+25.03,71.0,,Prologue - Mondeville  › Mondeville  ,5.6,,,2002
 20.03 » 27.03,,,Tour de Normandie () ,,,,2000
-,61,,General classification ,,,,2000
-27.03,30,,Stage 7 - Vire  › Caen ,97,,,2000
-25.03,15,,Stage 5 - Saint-Hilaire-du-Harcouët  › Condé-sur-Noireau ,177,,,2000
-24.03,16,,Stage 4 - Flers › Saint-Hilaire-du-Harcouët  ,168,,,2000
-22.03,8,,Stage 2 - Forges-les-Eaux  › Forges-les-Eaux  ,151,,,2000
-21.03,23,,Stage 1 - Mondeville  › Méry-Corbon ,212,,,2000
+,61.0,,General classification ,,,,2000
+27.03,30.0,,Stage 7 - Vire  › Caen ,97.0,,,2000
+25.03,15.0,,Stage 5 - Saint-Hilaire-du-Harcouët  › Condé-sur-Noireau ,177.0,,,2000
+24.03,16.0,,Stage 4 - Flers › Saint-Hilaire-du-Harcouët  ,168.0,,,2000
+22.03,8.0,,Stage 2 - Forges-les-Eaux  › Forges-les-Eaux  ,151.0,,,2000
+21.03,23.0,,Stage 1 - Mondeville  › Méry-Corbon ,212.0,,,2000
 22.03 » 28.03,,,Tour de Normandie () ,,,,1999
-,38,,General classification ,,,,1999
-25.03,7,,Stage 3 - Elbeuf sur Seine › Flers ,208,,,1999
-23.03,8,,Stage 1 - Mondeville › Forges-les-Eaux ,210,,,1999
+,38.0,,General classification ,,,,1999
+25.03,7.0,,Stage 3 - Elbeuf sur Seine › Flers ,208.0,,,1999
+23.03,8.0,,Stage 1 - Mondeville › Forges-les-Eaux ,210.0,,,1999
 24.03 » 30.03,,,Tour de Normandie (2.5) ,,,,1997
-,35,,General classification ,,,,1997
-30.03,4,,Stage 6b - Vire › Caen ,97,,,1997
-28.03,5,,Stage 4 - Flers › Valognes ,194,,,1997
-27.03,7,,Stage 3 - Elbeuf sur Seine › Flers ,205,,,1997
+,35.0,,General classification ,,,,1997
+30.03,4.0,,Stage 6b - Vire › Caen ,97.0,,,1997
+28.03,5.0,,Stage 4 - Flers › Valognes ,194.0,,,1997
+27.03,7.0,,Stage 3 - Elbeuf sur Seine › Flers ,205.0,,,1997

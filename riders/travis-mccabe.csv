@@ -1,4 +1,5 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
+20.06,60,,National Championships United States - Road Race (NC) ,190.9,,,2021
 20.06,60,,National Championships United States - Road Race (NC),190.9,,,2021
 21.10,DNF,,AG Driedaagse Brugge-De Panne ME (1.UWT),188.6,,,2020
 18.10,DNF,,Ronde van Vlaanderen - Tour des Flandres ME (1.UWT),243.3,,,2020
@@ -7,14 +8,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 29.09 » 03.10,,,BinckBank Tour (2.UWT),,,,2020
 03.10,DNF,,Stage 5 - Ottignies-Louvain-la-Neuve › Geraardsbergen,183.6,,,2020
 02.10,152,115,Stage 4 (ITT) - Riemst › Riemst,8.14,,,2020
-01.10,153,114,Stage 3 - Aalter › Aalter,157,,,2020
+01.10,153,114,Stage 3 - Aalter › Aalter,157.0,,,2020
 29.09,72,72,Stage 1 - Blankenberge › Ardooie,132.1,,,2020
 17.09,88,,Coppa Sabatini - Gran Premio città di Peccioli (1.Pro),210.1,,,2020
 16.09,107,,Giro della Toscana - Memorial Alfredo Martini (1.1),182.9,,,2020
 25.08,80,,Bretagne Classic - Ouest-France (1.UWT),247.75,5,,2020
 03.03,DNF,,Le Samyn (1.1),201.9,,,2020
-01.03,DNF,,Kuurne-Bruxelles-Kuurne (1.Pro),201,,,2020
-29.02,DNF,,Omloop Het Nieuwsblad ME (1.UWT),200,,,2020
+01.03,DNF,,Kuurne-Bruxelles-Kuurne (1.Pro),201.0,,,2020
+29.02,DNF,,Omloop Het Nieuwsblad ME (1.UWT),200.0,,,2020
 11.02 » 16.02,,,Tour Colombia 2.1 (2.1),,,,2020
 ,13,,Points classification,,,,2020
 ,99,,General classification,,,,2020
@@ -38,7 +39,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,1,,Points classification,,,,2019
 ,38,,General classification,,,3,2019
 18.08,38,,Stage 6 - Park City › Park City,125.9,,,2019
-17.08,11,40,Stage 5 - Canyons Village › Canyons Village,128,,,2019
+17.08,11,40,Stage 5 - Canyons Village › Canyons Village,128.0,,,2019
 16.08,2,43,Stage 4 - Salt Lake City › Salt Lake City,86.5,18,10,2019
 15.08,37,44,Stage 3 - Antelope Island › North Salt Lake,138.3,,,2019
 14.08,60,50,Stage 2 - Brigham City › Powder Mountain Resort,135.8,,,2019
@@ -54,22 +55,21 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.05 » 18.05,,,Amgen Tour of California (2.UWT),,,,2019
 ,10,,Points classification,,,,2019
 ,44,,General classification,,5,5,2019
-18.05,7,,Stage 7 - Santa Clarita › Pasadena,141,4,,2019
+18.05,7,,Stage 7 - Santa Clarita › Pasadena,141.0,4,,2019
 17.05,84,46,Stage 6 - Ontario › Mount Baldy,127.5,,,2019
 16.05,33,25,Stage 5 - Pismo Beach › Ventura,218.5,,,2019
 15.05,20,29,Stage 4 -  Raceway Laguna Seca › Morro Bay,212.5,,,2019
-14.05,11,29,Stage 3 - Stockton › Morgan Hill,207,,,2019
+14.05,11,29,Stage 3 - Stockton › Morgan Hill,207.0,,,2019
 13.05,31,29,Stage 2 - Rancho Cordova › South Lake Tahoe,194.5,,,2019
-12.05,2,2,Stage 1 - Sacramento › Sacramento,143,30,15,2019
+12.05,2,2,Stage 1 - Sacramento › Sacramento,143.0,30,15,2019
 01.05 » 05.05,,,Tour of the Gila (2.2),,,,2019
 05.05,DNF,,Stage 5 - Silver City › Pinos Altos,161.9,,,2019
 04.05,2,36,Stage 4 - Silver City › Silver City,69.5,2,3,2019
-03.05,31,39,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2019
+03.05,31,39,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2019
 02.05,1,45,Stage 2 - Fort Bayard › Fort Bayard,122.6,5,7,2019
-01.05,52,52,Stage 1 - Silver City › Mogollon ,148,,,2019
+01.05,52,52,Stage 1 - Silver City › Mogollon ,148.0,,,2019
 06.04 » 13.04,,,Le Tour de Langkawi (2.HC),,,,2019
 ,36,,Mountains classification,,,,2019
-,1,,Points classification,,,,2019
 ,10,,General classification,,40,35,2019
 13.04,5,,Stage 8 - Dataran Lang › Kuah,103.8,4,,2019
 12.04,8,10,Stage 7 - Pantai Cenang › Pantai Cenang,106.8,1,,2019
@@ -100,7 +100,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.08,51,,Stage 6 - Park City › Park City,122.3,,,2018
 11.08,78,54,Stage 5 - Canyons Village  › Snowbird Ski and Summer ,157.7,,,2018
 10.08,2,50,Stage 4 - Salt Lake City › Salt Lake City,109.4,18,10,2018
-09.08,1,52,Stage 3 - Antelope Island › Layton City,188,30,20,2018
+09.08,1,52,Stage 3 - Antelope Island › Layton City,188.0,30,20,2018
 08.08,73,56,Stage 2 - Payson City › Payson City,138.4,,,2018
 07.08,1,2,Stage 1 - Cedar City › Cedar City,162.5,30,20,2018
 06.08,8,8,Prologue - St. George › St. George,5.31,1,,2018
@@ -108,28 +108,28 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 13.05 » 19.05,,,Amgen Tour of California (2.UWT),,,,2018
 ,49,,Points classification,,,,2018
 ,65,,General classification,,5,,2018
-19.05,12,,Stage 7 - Sacramento › Sacramento,143,,,2018
+19.05,12,,Stage 7 - Sacramento › Sacramento,143.0,,,2018
 18.05,62,64,Stage 6 - Folsom › South Lake Tahoe,196.5,,,2018
 17.05,10,70,Stage 5 - Stockton › Elk Grove,176.5,1,,2018
 16.05,115,72,Stage 4 (ITT) - San José › Morgan Hill,34.7,,,2018
-15.05,38,61,Stage 3 - King City › Laguna Seca Recreation Area (Monterey County),197,,,2018
-14.05,110,86,Stage 2 - Ventura › Gilbratar Road,157,,,2018
+15.05,38,61,Stage 3 - King City › Laguna Seca Recreation Area (Monterey County),197.0,,,2018
+14.05,110,86,Stage 2 - Ventura › Gilbratar Road,157.0,,,2018
 13.05,12,15,Stage 1 - Long Beach  › Long Beach ,134.5,,,2018
 15.04,DNF,,Tro-Bro Léon (1.1),203.2,,,2018
 14.04,DNF,,Tour du Finistère (1.1),191.1,,,2018
 10.04,DNF,,Paris-Camembert (1.1),196.5,,,2018
 04.04,DNF,,Scheldeprijs (1.HC),200.4,,,2018
-01.04,23,,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),200,,3,2018
-30.03,DNF,,Route Adélie de Vitré (1.1),198,,,2018
+01.04,23,,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),200.0,,3,2018
+30.03,DNF,,Route Adélie de Vitré (1.1),198.0,,,2018
 25.03,DNF,,Cholet - Pays de la Loire (1.1),202.7,,,2018
 24.03,20,,Classic Loire Atlantique (1.1),182.8,1,3,2018
 21.03,24,,Driedaagse Brugge - De Panne ME (1.HC),202.4,2,5,2018
 18.03,80,,Grand Prix de Denain - Porte du Hainaut (1.HC),197.9,,,2018
 16.03,22,,Handzame Classic (1.HC),204.1,4,5,2018
 14.03,59,,Danilith Nokere Koerse (1.HC),191.1,,,2018
-11.03,99,,Ronde van Drenthe (1.HC),192,,,2018
+11.03,99,,Ronde van Drenthe (1.HC),192.0,,,2018
 04.03,DNF,,Dwars door West-Vlaanderen / Johan Museeuw Classics (1.1),189.3,,,2018
-27.02,DNF,,Le Samyn (1.1),200,,,2018
+27.02,DNF,,Le Samyn (1.1),200.0,,,2018
 21.01 » 28.01,,,Vuelta a San Juan Internacional (2.1),,,,2018
 27.01,3,55,Stage 6 - San Juan › San Juan,152.6,7,3,2018
 26.01,83,62,Stage 5 - San Martín › Alto de Colorado,169.5,,,2018
@@ -141,65 +141,62 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,15,,Mountains classification,,,,2017
 ,24,,General classification,,,3,2017
 04.09,19,,Stage 4 - Edmonton › Edmonton,124.1,,,2017
-03.09,39,26,Stage 3 - Edmonton › Edmonton,116,,,2017
-02.09,64,28,Stage 2 - Spruce Grove › Spruce Grove,139,,,2017
-01.09,29,29,Stage 1 - Jasper › Marmot Basin Ski Area,162,,,2017
+03.09,39,26,Stage 3 - Edmonton › Edmonton,116.0,,,2017
+02.09,64,28,Stage 2 - Spruce Grove › Spruce Grove,139.0,,,2017
+01.09,29,29,Stage 1 - Jasper › Marmot Basin Ski Area,162.0,,,2017
 10.08 » 13.08,,,Colorado Classic (2.HC),,,,2017
 ,1,,Points classification,,,,2017
 ,10,,General classification,,40,35,2017
 13.08,2,,Stage 4 - Denver › Denver,120.1,18,10,2017
-12.08,3,10,Stage 3 - Denver  › Denver ,130,12,5,2017
-11.08,14,13,Stage 2 - Breckenridge › Breckenridge,103,,,2017
+12.08,3,10,Stage 3 - Denver  › Denver ,130.0,12,5,2017
+11.08,14,13,Stage 2 - Breckenridge › Breckenridge,103.0,,,2017
 10.08,2,2,Stage 1 - Colorado Springs › Colorado Springs,150.4,18,10,2017
 31.07 » 06.08,,,The Larry H.Miller Tour of Utah (2.HC),,,,2017
-,1,,Points classification,,,,2017
 ,39,,General classification,,,3,2017
 06.08,7,,Stage 7 - Salt Lake City › Salt Lake City,117.8,2,,2017
 05.08,43,40,Stage 6 - Heber Valley › Snowbird Resort,97.8,,,2017
 04.08,1,42,Stage 5 - Layton › Bountiful,185.4,30,20,2017
 03.08,6,59,Stage 4 - South Jordan City › South Jordan City,201.1,3,,2017
-02.08,63,61,Stage 3 (ITT) - Big Cottonwood Canyon › Big Cottonwood Canyon,9,,,2017
-01.08,119,77,Stage 2 - Brigham City › Snowbasin Resort,151,,,2017
+02.08,63,61,Stage 3 (ITT) - Big Cottonwood Canyon › Big Cottonwood Canyon,9.0,,,2017
+01.08,119,77,Stage 2 - Brigham City › Snowbasin Resort,151.0,,,2017
 31.07,3,4,Stage 1 - Logan › Logan,211.2,12,5,2017
-25.06,25,,National Championships United States - Road Race (NC),179,,,2017
+25.06,25,,National Championships United States - Road Race (NC),179.0,,,2017
 14.06 » 18.06,,,Tour de Beauce (2.2),,,,2017
-15.06,DNS,,Stage 2 - Lac-Méganti › Lac-Méganti,170,,,2017
-14.06,3,3,Stage 1 - Saint-Georges › Saint-Georges,185,1,1,2017
+15.06,DNS,,Stage 2 - Lac-Méganti › Lac-Méganti,170.0,,,2017
+14.06,3,3,Stage 1 - Saint-Georges › Saint-Georges,185.0,1,1,2017
 29.05,6,,Winston Salem Cycling Classic (1.1),177.8,24,40,2017
 14.05 » 20.05,,,Amgen Tour of California (2.UWT),,,,2017
 ,41,,Points classification,,,,2017
 ,82,,General classification,,5,,2017
-20.05,33,,Stage 7 - Mountain High › Pasadena,125,,,2017
-19.05,92,97,Stage 6 (ITT) - Big Bear Lake › Big Bear Lake,24,,,2017
+20.05,33,,Stage 7 - Mountain High › Pasadena,125.0,,,2017
+19.05,92,97,Stage 6 (ITT) - Big Bear Lake › Big Bear Lake,24.0,,,2017
 18.05,109,94,Stage 5 - Ontario › Mt. Baldy,125.5,,,2017
 17.05,93,83,Stage 4 - Santa Barbara › Santa Clarita,159.5,,,2017
 16.05,9,57,Stage 3 - Pismo Beach › Morro Bay,186.5,2,,2017
-15.05,88,60,Stage 2 - Modesto › San Jose,143,,,2017
+15.05,88,60,Stage 2 - Modesto › San Jose,143.0,,,2017
 14.05,10,12,Stage 1 - Sacramento › Sacramento,167.5,1,,2017
 19.04 » 23.04,,,Tour of the Gila (2.2),,,,2017
 ,21,,Mountains classification,,,,2017
-,1,,Points classification,,,,2017
 ,40,,General classification,,,,2017
 23.04,41,,Stage 5 - Silver City › Pinos Altos,161.9,,,2017
 22.04,2,27,Stage 4 - Silver City › Silver City,69.5,2,3,2017
-21.04,51,30,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2017
+21.04,51,30,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2017
 20.04,2,2,Stage 2 - Fort Bayard › Fort Bayard,120.7,2,3,2017
 19.04,6,7,Stage 1 - Silver City › Whitewater Mesa,143.4,,,2017
 22.02 » 01.03,,,Le Tour de Langkawi (2.HC),,,,2017
 ,2,,Points classification,,,,2017
 ,27,,General classification,,,5,2017
-01.03,1,,Stage 8 - Setiawangsa › Putrajaya,121,30,20,2017
+01.03,1,,Stage 8 - Setiawangsa › Putrajaya,121.0,30,20,2017
 28.02,2,32,Stage 7 - Melaka › Rembau,148.1,18,10,2017
 27.02,28,34,Stage 6 - Senawang › Muar,176.3,,,2017
 26.02,3,35,Stage 5 - Meru Raya  › Kuala Kubu Bharu ,151.5,12,5,2017
 25.02,49,35,Stage 4 - Seri Manjung › Cameron Highlands,174.4,,,2017
-24.02,6,2,Stage 3 - Serdang › Pantai Remis,118,3,,2017
+24.02,6,2,Stage 3 - Serdang › Pantai Remis,118.0,3,,2017
 23.02,1,2,Stage 2 - Jerteh › Gerik,208.1,30,20,2017
 22.02,5,5,Stage 1 - Kuala Berang › Kuala Terengganu,124.8,4,,2017
 01.02 » 05.02,,,Herald Sun Tour (2.1),,,,2017
 ,7,,Points classification,,,,2017
-,40,,General classification,,,,2017
-05.02,10,,Stage 4 - Kinglake › Kinglake,121,,,2017
+05.02,10,,Stage 4 - Kinglake › Kinglake,121.0,,,2017
 04.02,1,48,Stage 3 - Benalla › Mitchelton Winery,165.6,20,14,2017
 03.02,44,54,Stage 2 - Mt Beauty  › Beechworth,165.6,,,2017
 02.02,65,65,Stage 1 - Wangaratta › Falls Creek,174.2,,,2017
@@ -213,53 +210,53 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 05.09,24,,Stage 5 - Edmonton › Edmonton,124.1,,,2016
 04.09,81,46,Stage 4 (ITT) - Edmonton › Edmonton,12.1,,,2016
 03.09,55,41,Stage 3 - Rocky Mountain House › Drayton Village,181.2,,,2016
-02.09,9,14,Stage 2 - Kananaskis › Olds,182,,,2016
+02.09,9,14,Stage 2 - Kananaskis › Olds,182.0,,,2016
 01.09,24,13,Stage 1 - Lethbridge › Lethbridge,106.9,,,2016
 01.08 » 07.08,,,The Larry H.Miller Tour of Utah (2.HC),,,,2016
 ,3,,Points classification,,,,2016
 ,63,,General classification,,,,2016
 07.08,86,,Stage 7 - Park City › Park City,125.7,,,2016
 06.08,62,57,Stage 6 - Snowbasin  › Snowbird ,183.1,,,2016
-05.08,43,53,Stage 5 - Antelope Island › Bountiful,186,,,2016
-04.08,1,54,Stage 4 - Lehi › Kearns,154,30,20,2016
+05.08,43,53,Stage 5 - Antelope Island › Bountiful,186.0,,,2016
+04.08,1,54,Stage 4 - Lehi › Kearns,154.0,30,20,2016
 03.08,77,57,Stage 3 - Richfield › Payson,191.8,,,2016
-02.08,3,5,Stage 2 - Escalante › Torrey,159,12,5,2016
+02.08,3,5,Stage 2 - Escalante › Torrey,159.0,12,5,2016
 01.08,4,6,Stage 1 - Zion Canyon Village › Cedar City,135.2,7,,2016
-05.06,2,,Philadelphia International Cycling Classic (1.1),178,55,85,2016
-30.05,7,,Winston Salem Cycling Classic (1.1),177,20,35,2016
-28.05,3,,National Championships United States - Road Race (NC),187,7,40,2016
+05.06,2,,Philadelphia International Cycling Classic (1.1),178.0,55,85,2016
+30.05,7,,Winston Salem Cycling Classic (1.1),177.0,20,35,2016
+28.05,3,,National Championships United States - Road Race (NC),187.0,7,40,2016
 15.05 » 22.05,,,Amgen Tour of California (2.HC),,,,2016
 ,25,,Points classification,,,,2016
 ,28,,General classification,,,5,2016
-22.05,10,,Stage 8 - Sacramento › Sacramento,138,,,2016
+22.05,10,,Stage 8 - Sacramento › Sacramento,138.0,,,2016
 21.05,7,29,Stage 7 - Santa Rosa › Santa Rosa,175.5,2,,2016
 20.05,53,36,Stage 6 (ITT) - Folsom › Folsom,20.3,,,2016
-19.05,8,36,Stage 5 - Lodi › South Lake Tahoe,212,1,,2016
-18.05,23,39,Stage 4 - Morro Bay › Monterey County,217,,,2016
+19.05,8,36,Stage 5 - Lodi › South Lake Tahoe,212.0,1,,2016
+18.05,23,39,Stage 4 - Morro Bay › Monterey County,217.0,,,2016
 17.05,60,53,Stage 3 - Thousand Oaks › Santa Barbara County,167.5,,,2016
 16.05,12,14,Stage 2 - South Pasadena › Santa Clarita,148.5,,,2016
-15.05,21,24,Stage 1 - San Diego › San Diego,175,,,2016
+15.05,21,24,Stage 1 - San Diego › San Diego,175.0,,,2016
 04.05 » 08.05,,,Silver City's Tour of the Gila (2.2),,,,2016
 ,1,,Points classification,,,,2016
 ,58,,General classification,,,,2016
 08.05,57,,Stage 5 - Silver City › Pinos Altos,161.9,,,2016
 07.05,2,50,Stage 4 - Silver City › Silver City,69.5,2,3,2016
-06.05,40,53,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2016
+06.05,40,53,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2016
 05.05,1,64,Stage 2 - Fort Bayard › Fort Bayard,122.6,5,7,2016
-04.05,75,75,Stage 1 - Silver City › Mogollon,148,,,2016
+04.05,75,75,Stage 1 - Silver City › Mogollon,148.0,,,2016
 21.04 » 24.04,,,Joe Martin Stage Race p/b Nature Valley (2.2),,,,2016
 ,5,,Points classification,,,,2016
 ,5,,General classification,,8,15,2016
-24.04,1,,Stage 4 - Fayetteville › Fayetteville,64,5,7,2016
+24.04,1,,Stage 4 - Fayetteville › Fayetteville,64.0,5,7,2016
 23.04,10,17,Stage 3 - Prairie Grove › Prairie Grove,176.1,,,2016
 22.04,11,17,Stage 2 - Fayetteville › Fayetteville,175.7,,,2016
 21.04,35,35,Stage 1 (ITT) - Devils Den State Park  › Devils Den State Park ,4.8,,,2016
 18.01 » 24.01,,,Tour de San Luis (2.1),,,,2016
 22.01,DNS,,Stage 5 - Renca › Juana Koslay,168.7,,,2016
-21.01,145,90,Stage 4 - Terrazas del Portezuelo › Cerro El Amago,140,,,2016
-20.01,3,20,Stage 3 - Potrero de Los Funes › La Punta (Cabildo) ,131,7,3,2016
+21.01,145,90,Stage 4 - Terrazas del Portezuelo › Cerro El Amago,140.0,,,2016
+20.01,3,20,Stage 3 - Potrero de Los Funes › La Punta (Cabildo) ,131.0,7,3,2016
 19.01,33,49,Stage 2 - San Luis › Villa Mercedes,181.9,,,2016
-18.01,11,58,Stage 1 (TTT) - El Durazno › El Durazno,21,,,2016
+18.01,11,58,Stage 1 (TTT) - El Durazno › El Durazno,21.0,,,2016
 02.09 » 07.09,,,Tour of Alberta (2.1),,,,2015
 ,13,,Points classification,,,,2015
 ,43,,General classification,,,,2015
@@ -280,21 +277,21 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 18.08,38,44,Stage 2 - Steamboat Springs › Arapahoe Basin,185.5,,,2015
 17.08,71,71,Stage 1 - Steamboat Springs › Steamboat Springs,155.5,,,2015
 03.08 » 09.08,,,The Larry H.Miller Tour of Utah (2.HC),,,,2015
-09.08,DNS,,Stage 7 - Park City › Park City,78,,,2015
+09.08,DNS,,Stage 7 - Park City › Park City,78.0,,,2015
 08.08,49,40,Stage 6 - Salt Lake City › Snowbird Ski and Summer Resort,177.7,,,2015
 07.08,46,33,Stage 5 - Salt Lake City › Salt Lake City,89.1,,,2015
 06.08,7,12,Stage 4 - Soldier Hollow › Heber Valley,205.2,2,4,2015
 05.08,33,15,Stage 3 - Antelope Island › Bountiful,176.5,,,2015
 04.08,11,15,Stage 2 - Tremonton › Ogden,161.8,,,2015
 03.08,25,26,Stage 1 - Logan › Logan,212.5,,,2015
-07.06,10,,The Parx Casino Philly Cycling Classic (1.2),173,,,2015
+07.06,10,,The Parx Casino Philly Cycling Classic (1.2),173.0,,,2015
 31.05,37,,Winston Salem Cycling Classic (1.2),180.2,,,2015
-25.05,DNF,,National Championships United States - Road Race (NC),165,,,2015
+25.05,DNF,,National Championships United States - Road Race (NC),165.0,,,2015
 10.05 » 17.05,,,Amgen Tour of California (2.HC),,,,2015
-17.05,DNF,,Stage 8 - Los Angeles › Los Angeles,105,,,2015
+17.05,DNF,,Stage 8 - Los Angeles › Los Angeles,105.0,,,2015
 16.05,93,49,Stage 7 - Ontario › Mt. Baldy,128.7,,,2015
 15.05,91,41,Stage 6 (ITT) - Big Bear Lake › Big Bear Lake,10.62,,,2015
-14.05,97,40,Stage 5 - Santa Barbara › Santa Clarita,154,,,2015
+14.05,97,40,Stage 5 - Santa Barbara › Santa Clarita,154.0,,,2015
 13.05,16,39,Stage 4 - Pismo Beach › Avila Beach,173.1,,,2015
 12.05,43,40,Stage 3 - San Jose › San Jose,169.8,,,2015
 11.05,33,23,Stage 2 - Nevada City › Lodi,193.7,,,2015
@@ -304,19 +301,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 ,55,,General classification,,,,2015
 03.05,52,,Stage 5 - Silver City › Pinos Altos,161.9,,,2015
 02.05,5,75,Stage 4 - Silver City › Silver City,69.5,,,2015
-01.05,84,75,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2015
+01.05,84,75,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2015
 30.04,2,74,Stage 2 - Fort Bayard › Fort Bayard,122.6,2,5,2015
 29.04,113,113,Stage 1 - Silver City › Mogollon,148.1,,,2015
 22.02 » 01.03,,,Vuelta Independencia Nacional Republica Dominicana (2.2),,,,2015
 ,8,,Points classification,,,,2015
 ,7,,General classification,,4,6,2015
-01.03,20,,Stage 8 - Santa Domingo › Santa Domingo,84,,,2015
+01.03,20,,Stage 8 - Santa Domingo › Santa Domingo,84.0,,,2015
 28.02,50,7,Stage 7 - Santiago › Santa Domingo,151.6,,,2015
-27.02,6,7,Stage 6 - Santiago › Santiago,104,,,2015
+27.02,6,7,Stage 6 - Santiago › Santiago,104.0,,,2015
 25.02,34,9,Stage 4 - Samana › San Francisco,135.8,,,2015
-24.02,4,6,Stage 3 - Santo Domingo › Samana,177,,,2015
-23.02,89,53,Stage 2 - Punta Cana › Santo Domingo,187,,,2015
-22.02,4,6,Stage 1 - Santo Domingo › Punta Cana,184,,,2015
+24.02,4,6,Stage 3 - Santo Domingo › Samana,177.0,,,2015
+23.02,89,53,Stage 2 - Punta Cana › Santo Domingo,187.0,,,2015
+22.02,4,6,Stage 1 - Santo Domingo › Punta Cana,184.0,,,2015
 13.09,12,,Bucks County Classic (1.2),160.5,,,2014
 02.09 » 07.09,,,Tour of Alberta (2.1),,,,2014
 ,48,,General classification,,,,2014
@@ -324,14 +321,14 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.09,13,66,Stage 4 - Edmonton › Strathcona County,163.5,,,2014
 05.09,101,69,Stage 3 - Wetaskiwin › Edmonton,157.9,,,2014
 04.09,78,50,Stage 2 - Innisfail › Red Deer,145.3,,,2014
-03.09,52,41,Stage 1 - Lethbridge › Lethbridge,143,,,2014
-02.09,43,43,Prologue - Calgary › Calgary,4,,,2014
+03.09,52,41,Stage 1 - Lethbridge › Lethbridge,143.0,,,2014
+02.09,43,43,Prologue - Calgary › Calgary,4.0,,,2014
 18.08 » 24.08,,,USA Pro Challenge (2.HC),,,,2014
-22.08,DNF,,Stage 5 - Woodland Park › Breckenridge,168,,,2014
-21.08,60,67,Stage 4 - Colorado Springs › Colorado Springs,113,,,2014
-20.08,100,79,Stage 3 - Gunnison › Monarch Mountain,155,,,2014
-19.08,78,75,Stage 2 - Aspen › Crested Butte,169,,,2014
-18.08,76,76,Stage 1 - Aspen › Aspen,98,,,2014
+22.08,DNF,,Stage 5 - Woodland Park › Breckenridge,168.0,,,2014
+21.08,60,67,Stage 4 - Colorado Springs › Colorado Springs,113.0,,,2014
+20.08,100,79,Stage 3 - Gunnison › Monarch Mountain,155.0,,,2014
+19.08,78,75,Stage 2 - Aspen › Crested Butte,169.0,,,2014
+18.08,76,76,Stage 1 - Aspen › Aspen,98.0,,,2014
 04.08 » 10.08,,,The Larry H.Miller Tour of Utah (2.1),,,,2014
 10.08,DNF,,Stage 7 - Park City › Park City,125.5,,,2014
 09.08,41,55,Stage 6 - Salt Lake City › Snowbird Ski and Summer Resort,172.6,,,2014
@@ -340,16 +337,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 06.08,81,62,Stage 3 - Lehi › Miller Motorsports Park,190.2,,,2014
 05.08,68,74,Stage 2 - Panguitch › Torrey,210.3,,,2014
 04.08,26,27,Stage 1 - Cedar City › Cedar City,182.7,,,2014
-01.06,44,,The Philadelphia Cycling Classic (1.1),193,,,2014
-26.05,2,,National Championships United States - Road Race (NC),165,10,30,2014
+01.06,44,,The Philadelphia Cycling Classic (1.1),193.0,,,2014
+26.05,2,,National Championships United States - Road Race (NC),165.0,10,30,2014
 30.04 » 04.05,,,Tour of the Gila (2.2),,,,2014
 ,29,,General classification,,,,2014
 04.05,37,,Stage 5 - Silver City › Pinos Altos,161.9,,,2014
 03.05,6,,Stage 4 - Silver City › Silver City,69.1,,,2014
-02.05,38,25,Stage 3 (ITT) - Tyrone › Tyrone,26,,,2014
+02.05,38,25,Stage 3 (ITT) - Tyrone › Tyrone,26.0,,,2014
 01.05,3,26,Stage 2 - Fort Bayard › Fort Bayard,122.6,1,2,2014
-30.04,29,29,Stage 1 - Silvercity › Mongollon,148,,,2014
-18.04,1,,Winston-Salem Cycling Classic (1.2),171,15,40,2014
+30.04,29,29,Stage 1 - Silvercity › Mongollon,148.0,,,2014
+18.04,1,,Winston-Salem Cycling Classic (1.2),171.0,15,40,2014
 04.03 » 09.03,,,Vuelta Mexico (2.2),,,,2014
 ,93,,General classification,,,,2014
 09.03,115,,Stage 6 - Mexico City › Mexico City,101.2,,,2014
@@ -360,35 +357,35 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.03,147,147,Stage 1 - Mexico City › Cuernavaca,81.6,,,2014
 20.02 » 27.02,,,Vuelta Independencia Nacional (2.2),,,,2014
 ,47,,General classification,,,,2014
-26.02,27,47,Stage 7 - San Cristóbal › San Juan Maguana,137,,,2014
-25.02,56,46,Stage 6a - La Vega › Santo Domingo,111,,,2014
-25.02,59,47,Stage 6b (ITT) - Santo Domingo › Mirador del Sur,10,,,2014
-24.02,52,46,Stage 5 - Moca › Constanza,112,,,2014
-23.02,62,38,Stage 4 (ITT) - Santiago › Santiago,39,,,2014
+26.02,27,47,Stage 7 - San Cristóbal › San Juan Maguana,137.0,,,2014
+25.02,56,46,Stage 6a - La Vega › Santo Domingo,111.0,,,2014
+25.02,59,47,Stage 6b (ITT) - Santo Domingo › Mirador del Sur,10.0,,,2014
+24.02,52,46,Stage 5 - Moca › Constanza,112.0,,,2014
+23.02,62,38,Stage 4 (ITT) - Santiago › Santiago,39.0,,,2014
 22.02,51,38,Stage 3 - Samaná › San Francisco de Macorís,135.8,,,2014
-21.02,37,38,Stage 2 - Santo Domingo › Samaná,170,,,2014
-20.02,35,36,Stage 1 - Santo Domingo › Santo Domingo,142,,,2014
+21.02,37,38,Stage 2 - Santo Domingo › Samaná,170.0,,,2014
+20.02,35,36,Stage 1 - Santo Domingo › Santo Domingo,142.0,,,2014
 03.09 » 08.09,,,Tour of Alberta (2.1),,,,2013
 ,11,,Youth classification,,,,2013
 ,35,,Points classification,,,,2013
 ,37,,General classification,,,,2013
 08.09,15,,Stage 5 - Okotoks › Calgary,129.4,,,2013
-07.09,41,45,Stage 4 - Black Diamond › Canmore,169,,,2013
+07.09,41,45,Stage 4 - Black Diamond › Canmore,169.0,,,2013
 06.09,61,42,Stage 3 - Strathmore › Drumheller,169.8,,,2013
 05.09,8,32,Stage 2 - Devon › Red Deer,174.8,1,2,2013
-04.09,45,31,Stage 1 - Strathcona › Camrose,158,,,2013
+04.09,45,31,Stage 1 - Strathcona › Camrose,158.0,,,2013
 03.09,35,35,Prologue - Edmonton › Edmonton,7.3,,,2013
 02.08 » 04.08,,,Tour of Elk Grove (2.1),,,,2013
 ,12,,General classification,,10,3,2013
-04.08,14,,Stage 3 - Elk Grove Village › Elk Grove Village,122,,,2013
-03.08,6,13,Stage 2 - Elk Grove Village › Elk Grove Village,155,3,2,2013
+04.08,14,,Stage 3 - Elk Grove Village › Elk Grove Village,122.0,,,2013
+03.08,6,13,Stage 2 - Elk Grove Village › Elk Grove Village,155.0,3,2,2013
 02.08,21,21,Prologue - Elk Grove Village › Elk Grove Village,7.3,,,2013
-02.06,21,,The Philadelphia Cycling Classic (1.2),193,,,2013
+02.06,21,,The Philadelphia Cycling Classic (1.2),193.0,,,2013
 01.05 » 05.05,,,Tour of the Gila (2.2),,,,2013
 ,45,,General classification,,,,2013
 05.05,43,,Stage 5 - Silver City › Silver City,161.9,,,2013
 04.05,4,64,Stage 4 - Silver City › Silver City,69.5,,,2013
-03.05,33,68,Stage 3 (ITT) - Silver City › Silver City,26,,,2013
+03.05,33,68,Stage 3 (ITT) - Silver City › Silver City,26.0,,,2013
 02.05,14,77,Stage 2 - Silver City › Silver City,122.6,,,2013
 01.05,79,79,Stage 1 - Silver City › Mogollon,148.1,,,2013
 02.05 » 06.05,,,Tour of the Gila (2.2),,,,2012
@@ -398,13 +395,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.05,70,43,Stage 3 (ITT) - Tyrone › Tyrone,26.6,,,2012
 03.05,17,37,Stage 2 - Fort Bayard › Fort Bayard,128.7,,,2012
 02.05,40,40,Stage 1 - Silver City › Mogollon,153.1,,,2012
-23.06,29,,National Championships United States U23 - ITT (NC),30,,,2011
-26.06,28,,National Championships United States U23 - Road Race (NC),162,,,2010
-24.06,28,,National Championships United States U23 - ITT (NC),35,,,2010
+23.06,29,,National Championships United States U23 - ITT (NC),30.0,,,2011
+26.06,28,,National Championships United States U23 - Road Race (NC),162.0,,,2010
+24.06,28,,National Championships United States U23 - ITT (NC),35.0,,,2010
 28.04 » 02.05,,,Tour of the Gila (2.2),,,,2010
 ,81,,General classification,,,,2010
 02.05,82,,Stage 5 - Silver City › Pinos Altos,171.2,,,2010
-01.05,96,,Stage 4 - Silver City › Silver City,60,,,2010
+01.05,96,,Stage 4 - Silver City › Silver City,60.0,,,2010
 30.04,111,,Stage 3 (ITT) - Tyrone › Tyrone,26.6,,,2010
 29.04,125,,Stage 2 - Fort Bayard › Fort Bayard,128.7,,,2010
-28.04,72,,Stage 1 - Silver City › Mogollon,151,,,2010
+28.04,72,,Stage 1 - Silver City › Mogollon,151.0,,,2010

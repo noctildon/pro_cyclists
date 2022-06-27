@@ -1,14 +1,47 @@
 date,result ranking,general classification,race name,distance,PCS point,UCI point,year
-24.04,DNF,,Rutland-Melton CiCLE Classic (1.2),180,,,2022
+26.06,15,,National Championships Spain - Road Race (NC) ,186.1,,1,2022
+06.06,2,,Paris - Troyes (1.2) ,180,10,30,2022
+02.06 » 05.06,,,Ronde de l'Oise (2.2) ,,,,2022
+,14,,Points classification ,,,,2022
+,27,,General classification ,,,,2022
+05.06,7,,Stage 4 - Compiègne › Beauvais ,176.3,,,2022
+04.06,27,28,Stage 3 - La Croix-Saint-Ouen › Ressons-sur-Matz ,176.7,,,2022
+03.06,9,26,Stage 2 - Le Plessis-Belleville › Ribécourt Dreslincourt ,205.7,,,2022
+02.06,34,37,Stage 1 - Labruyère › Liancourt ,142.8,,,2022
+29.04 » 01.05,,,Vuelta Asturias Julio Alvarez Mendo (2.1) ,,,,2022
+,4,,Mountains classification ,,,,2022
+,81,,General classification ,,,,2022
+01.05,59,,Stage 3 - Cangas del Narcea › Oviedo ,120.5,,,2022
+30.04,82,85,Stage 2 - Candás › Cangas del Narcea ,202,,,2022
+29.04,80,80,Stage 1 - Oviedo › Pola de Lena ,168.9,,,2022
+24.04,DNF,,Rutland-Melton CiCLE Classic (1.2) ,180,,,2022
+13.04 » 17.04,,,Tour du Loir et Cher (2.2) ,,,,2022
+,16,,Points classification ,,,,2022
+,13,,General classification ,,,,2022
+17.04,31,,Stage 5 - Blois › Blois ,97.5,,,2022
+16.04,7,10,Stage 4 - La Motte-Beuvron › La Motte-Beuvron ,205,,,2022
+15.04,12,8,Stage 3 - Cloyes-Les-Trois-Rivières › Vendôme ,213,,,2022
+14.04,12,17,Stage 2 - Le Controis-en-Sologne › Vallières-les-Grandes ,197.5,,,2022
+13.04,5,10,Stage 1 - Blois › Fontaines-en-Sologne ,147,,,2022
+20.03,52,,Cholet - Pays de la Loire (1.1) ,202,,,2022
+19.03,DNF,,Classic Loire Atlantique (1.1) ,182.8,,,2022
+13.03,10,,Classica da Arrabida - Cyclin'Portugal (1.2) ,161.8,,3,2022
+30.01,120,,Trofeo Playa de Palma - Palma (1.1) ,169.1,,,2022
+29.01,DNS,,Trofeo Pollença - Port d'Andratx (1.1) ,170.1,,,2022
+28.01,DNF,,Trofeo Serra de Tramuntana (1.1) ,158.9,,,2022
+27.01,75,,Trofeo Alcúdia - Port d'Alcúdia (1.1) ,173.2,,,2022
+26.01,DNF,,Trofeo Calvia (1.1) ,154.7,,,2022
+23.01,14,,Clàssica Comunitat Valenciana 1969 - Gran Premi València (1.2) ,175,,,2022
+24.04,DNF,,Rutland-Melton CiCLE Classic (1.2),180.0,,,2022
 13.04 » 17.04,,,Tour du Loir et Cher (2.2),,,,2022
 ,16,,Points classification,,,,2022
 ,13,,General classification,,,,2022
 17.04,31,,Stage 5 - Blois › Blois,97.5,,,2022
-16.04,7,10,Stage 4 - La Motte-Beuvron › La Motte-Beuvron,205,,,2022
-15.04,12,8,Stage 3 - Cloyes-Les-Trois-Rivières › Vendôme,213,,,2022
+16.04,7,10,Stage 4 - La Motte-Beuvron › La Motte-Beuvron,205.0,,,2022
+15.04,12,8,Stage 3 - Cloyes-Les-Trois-Rivières › Vendôme,213.0,,,2022
 14.04,12,17,Stage 2 - Le Controis-en-Sologne › Vallières-les-Grandes,197.5,,,2022
-13.04,5,10,Stage 1 - Blois › Fontaines-en-Sologne,147,,,2022
-20.03,52,,Cholet - Pays de la Loire (1.1),202,,,2022
+13.04,5,10,Stage 1 - Blois › Fontaines-en-Sologne,147.0,,,2022
+20.03,52,,Cholet - Pays de la Loire (1.1),202.0,,,2022
 19.03,DNF,,Classic Loire Atlantique (1.1),182.8,,,2022
 13.03,10,,Classica da Arrabida - Cyclin'Portugal (1.2),161.8,,3,2022
 30.01,120,,Trofeo Playa de Palma - Palma (1.1),169.1,,,2022
@@ -16,7 +49,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.01,DNF,,Trofeo Serra de Tramuntana (1.1),158.9,,,2022
 27.01,75,,Trofeo Alcúdia - Port d'Alcúdia (1.1),173.2,,,2022
 26.01,DNF,,Trofeo Calvia (1.1),154.7,,,2022
-23.01,14,,Clàssica Comunitat Valenciana 1969 - Gran Premi València (1.2),175,,,2022
+23.01,14,,Clàssica Comunitat Valenciana 1969 - Gran Premi València (1.2),175.0,,,2022
 01.08,35,,Circuito de Getxo - Memorial Hermanos Otxoa (1.1),193.5,,,2021
 29.07,60,,Vuelta a Castilla y Leon (1.1),181.2,,,2021
 25.07,97,,Prueba Villafranca - Ordiziako Klasika (1.1),165.7,,,2021
@@ -36,19 +69,19 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 04.09 » 07.09,,,Belgrade Banjaluka (2.1),,,,2020
 ,8,,General classification,,18,30,2020
 07.09,44,,Stage 4 - Derventa › Banjaluka,158.3,,,2020
-06.09,11,8,Stage 3 - Teslić › Prnjavor,122,,,2020
-05.09,17,8,Stage 2 - Bijeljina › Vlasenica,181,,,2020
-04.09,1,1,Stage 1 - Beograd › Bijeljina,134,20,14,2020
+06.09,11,8,Stage 3 - Teslić › Prnjavor,122.0,,,2020
+05.09,17,8,Stage 2 - Bijeljina › Vlasenica,181.0,,,2020
+04.09,1,1,Stage 1 - Beograd › Bijeljina,134.0,20,14,2020
 29.08 » 02.09,,,Tour de Hongrie (2.1),,,,2020
 02.09,DNF,,Stage 5 - Miskolc › Gyöngyös-Kékestető,187.8,,,2020
-01.09,66,70,Stage 4 - Sárospatak › Kazincbarcika,180,,,2020
+01.09,66,70,Stage 4 - Sárospatak › Kazincbarcika,180.0,,,2020
 31.08,12,74,Stage 3 - Karcag › Nyíregyháza,181.8,,,2020
 30.08,16,75,Stage 2 - Debrecen › Hajdúszoboszló,158.4,,,2020
 29.08,76,78,Stage 1 - Esztergom › Esztergom,117.5,,,2020
 23.08,DNF,,National Championships Spain - Road Race (NC),185.1,,,2020
-02.08,74,,Circuito de Getxo-Memorial Hermanos Otxoa (1.1),177,,,2020
+02.08,74,,Circuito de Getxo-Memorial Hermanos Otxoa (1.1),177.0,,,2020
 03.03,76,,Le Samyn (1.1),201.9,,,2020
-01.03,DNF,,Royal Bernard Drome Classic (1.Pro),203,,,2020
+01.03,DNF,,Royal Bernard Drome Classic (1.Pro),203.0,,,2020
 29.02,DNF,,Faun-Ardèche Classic (1.Pro),184.4,,,2020
 16.02,95,,Clasica de Almeria (1.Pro),187.6,,,2020
 02.02,19,,Trofeo Playa de Palma - Palma (1.1),159.6,2,3,2020
@@ -58,13 +91,13 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 15.09,DNF,,Coppa Bernocchi - GP BPM (1.1),198.2,,,2019
 14.09,DNF,,Coppa Agostoni - Giro delle Brianze (1.1),195.5,,,2019
 15.08 » 25.08,,,Tour de l'Avenir (2.Ncup),,,,2019
-20.08,DNF,,Stage 6 - Saint-Julien-Chapteuil › Privas,124,,,2019
+20.08,DNF,,Stage 6 - Saint-Julien-Chapteuil › Privas,124.0,,,2019
 19.08,109,124,Stage 5 - Espalion › Saint-Julien-Chapteuil ,158.9,,,2019
 18.08,20,127,Stage 4 - Mauriac › Espalion,158.2,,,2019
 17.08,126,130,Stage 3 - Montignac-Lascaux › Mauriac,162.3,,,2019
 16.08,18,101,Stage 2 (TTT) - Eymet › Bergerac,32.1,,,2019
 15.08,64,64,Stage 1 - Marmande › Marmande,128.8,,,2019
-10.08,DNF,,European Continental Championships U23 - Road Race (CC),138,,,2019
+10.08,DNF,,European Continental Championships U23 - Road Race (CC),138.0,,,2019
 25.07 » 28.07,,,Adriatica Ionica Race / Sulle Rotte della Serenissima (2.1),,,,2019
 ,29,,Youth classification,,,,2019
 ,17,,Points classification,,,,2019
@@ -72,7 +105,7 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 28.07,82,,Stage 4 - Cormòns › Trieste,103.5,,,2019
 27.07,89,101,Stage 3 - Padola › Cormòns/Monte Quarin,204.5,,,2019
 26.07,96,102,Stage 2 - Palmanova › Lago di Misurina/Tre Cime di Lavaredo,204.6,,,2019
-25.07,95,95,Stage 1 - Venezia (Favaro Veneto) › Grado,186,,,2019
+25.07,95,95,Stage 1 - Venezia (Favaro Veneto) › Grado,186.0,,,2019
 30.06,56,,National Championships Spain - Road Race (NC),194.9,,,2019
 28.06,18,,National Championships Spain - ITT (NC),39.4,,,2019
 07.06 » 09.06,,,Hammer Limburg (2.1),,,,2019
@@ -81,16 +114,16 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 08.06,14,,Stage 2 - Sittard-Geleen › Sittard-Geleen,99.3,,,2019
 07.06,5,,Stage 1 - Vaals › Drielandenpunt,69.1,1,,2019
 02.06,DNF,,Boucles de l'Aulne - Châteaulin (1.1),177.6,,,2019
-01.06,75,,Grand Prix de Plumelec-Morbihan (1.1),188,,,2019
+01.06,75,,Grand Prix de Plumelec-Morbihan (1.1),188.0,,,2019
 09.05 » 12.05,,,Rhône-Alpes Isère Tour (2.2),,,,2019
 11.05,DNF,,Stage 3 - Montanay › Saint-Maurice-l'Exil,172.4,,,2019
 10.05,107,107,Stage 2 - Saint Exupéry Airport › Saint-Pierre-de-Chandieu,150.2,,,2019
 09.05,110,110,Stage 1 - Charvieu-Chavagneux › Villefontaine ,146.6,,,2019
-04.05,8,,L'Etoile d'Or (1.Ncup),180,,10,2019
+04.05,8,,L'Etoile d'Or (1.Ncup),180.0,,10,2019
 25.04 » 27.04,,,Vuelta a Castilla y Leon (2.1),,,,2019
 27.04,DNF,,Stage 3 - León › Villafranca del Bierzo,151.8,,,2019
 26.04,68,84,Stage 2 - Fromista › Villada,170.3,,,2019
-25.04,85,85,Stage 1 - Belorado › Castrojeriz,181,,,2019
+25.04,85,85,Stage 1 - Belorado › Castrojeriz,181.0,,,2019
 16.04 » 21.04,,,Presidential Cycling Tour of Turkey (2.UWT),,,,2019
 ,91,,General classification,,5,,2019
 21.04,90,,Stage 6 - Sakarya › Istanbul,172.4,,,2019
@@ -103,12 +136,12 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 12.04,DNF,,Stage 4 - Sillé-le-Guillaume › Sillé-le-Guillaume,183.3,,,2019
 11.04,45,45,Stage 3 - Abbaye Royale de l’Épau  › Mont des Avaloirs,184.3,,,2019
 10.04,87,56,Stage 2 - Freigné › Belligné,172.1,,,2019
-09.04,14,17,Stage 1 - La Châtaigneraie › La Châtaigneraie,180,,,2019
-07.04,90,,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),186,,,2019
+09.04,14,17,Stage 1 - La Châtaigneraie › La Châtaigneraie,180.0,,,2019
+07.04,90,,La Roue Tourangelle Région Centre Val de Loire - Trophée Harmonie Mutuelle (1.1),186.0,,,2019
 05.04,DNF,,Route Adélie de Vitré (1.1),197.8,,,2019
 31.03,DNF,,Gent-Wevelgem/Kattekoers-Ieper (1.Ncup),173.8,,,2019
 10.03,71,,GP Industria & Artigianato (1.HC),199.2,,,2019
-05.03,62,,Le Samyn (1.1),200,,,2019
+05.03,62,,Le Samyn (1.1),200.0,,,2019
 20.02 » 24.02,,,Vuelta a Andalucia Ruta Ciclista Del Sol (2.HC),,,,2019
 ,92,,General classification,,,,2019
 24.02,110,,Stage 5 - Otura › Alhaurín de la Torre,163.9,,,2019
@@ -124,10 +157,10 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 31.01,40,,"Trofeo Ses Salines, Campos, Porreres, Felanitx (1.1)",176.9,,,2019
 23.06,19,,National Championships Spain U23 - Road Race (NC),161.5,,,2018
 31.05 » 03.06,,,Grand Prix Priessnitz spa (2.Ncup),,,,2018
-03.06,DNF,,Stage 3 - Jeseník › Jeseník,158,,,2018
+03.06,DNF,,Stage 3 - Jeseník › Jeseník,158.0,,,2018
 02.06,117,114,Stage 2 - Krnov › Dlouhé stráně,148.9,,,2018
-01.06,8,58,Stage 1 - Jeseník › Rýmařov,133,,,2018
-31.05,66,66,Prologue - Krnov › Krnov,2,,,2018
+01.06,8,58,Stage 1 - Jeseník › Rýmařov,133.0,,,2018
+31.05,66,66,Prologue - Krnov › Krnov,2.0,,,2018
 28.01,10,,Trofeo Palma (1.1),159.6,14,20,2018
 26.01,DNF,,Trofeo Serra de Tramuntana (1.1),140.1,,,2018
 25.01,6,,"Trofeo Campos, Porreres, Felanitx, Ses Salines (1.1)",177.7,24,40,2018
@@ -140,8 +173,8 @@ date,result ranking,general classification,race name,distance,PCS point,UCI poin
 26.01,13,,"Trofeo Porreres, Felanitx, Ses Salines, Campos (1.1)",161.8,8,5,2017
 23.06,8,,National Championships Spain U23 - ITT (NC),18.9,,,2016
 31.01,140,,Trofeo Playa de Palma - Palma (1.1),161.5,,,2016
-28.01,160,,Trofeo Felanitx - Ses Salines - Campos - Porreres (1.1),174,,,2016
-12.04,DNF,,Paris - Roubaix Juniors (1.Ncup),111,,,2015
+28.01,160,,Trofeo Felanitx - Ses Salines - Campos - Porreres (1.1),174.0,,,2016
+12.04,DNF,,Paris - Roubaix Juniors (1.Ncup),111.0,,,2015
 27.09,100,,World Championships MJ - Road Race (WC),127.4,,,2014
 23.09,55,,World Championships MJ - ITT (WC),29.5,,,2014
 07.09,24,,National Championships Spain MJ - Road Race (NC),116.5,,,2014
