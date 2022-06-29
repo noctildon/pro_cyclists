@@ -6,7 +6,7 @@ Right now this repo is only capable of fetching and collecting data from [procyc
 
 | File name         | Description |
 | ----------------- | ----------- |
-| riders/           | The race data of riders      |
+| riders/           | Race data of riders      |
 | dates.csv         | Dates of races      |
 | riders_info.csv   | List of riders' info (height, DOB, ranking, etc)       |
 | riders.csv        | All riders names and their link       |

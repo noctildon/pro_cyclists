@@ -1,18 +1,14 @@
-from turtle import down
-from matplotlib.pyplot import clim
 import numpy as np
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests
-import scipy as sp
 from helper import print_df
 import threading
 import os
 import sys
 from queue import Queue
 from termcolor import colored
-from datetime import datetime, date, timedelta
-
+from datetime import datetime, timedelta
 
 
 url_base = 'https://www.procyclingstats.com/rankings.php'
