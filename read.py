@@ -53,8 +53,7 @@ def hw_plot():
     plt.show()
 
 
-# plot geographical birth place
-def birth_place_plot():
+def find_birth_places():
     riders_info = data_cleaning()
 
     place_map = [] # list of tuples (address, lon, lat)
@@ -62,11 +61,13 @@ def birth_place_plot():
     for bp in riders_info['birth place'].dropna().unique():
         place = bp.strip()
         try:
-            x,y = get_lon_lat()
+            x,y = get_lon_lat(place)
+            print(f'Found lon {x} and lat {y} for {place}\n')
+            place_map.append((place, x, y))
         except:
-            print(f'cannot find lon and lat for {place}')
+            print(f'cannot find lon and lat for {place}\n')
             place_map_fail.append(place)
-        time.sleep(1)
+        time.sleep(1.5)
 
     print('\n\nDone searching....')
     place_map_df = pd.DataFrame(place_map, columns=['address', 'lon', 'lat'])
@@ -79,15 +80,16 @@ def birth_place_plot():
             f.write(f'{place}\n')
 
 
-    return
-
-    fig = plt.figure(figsize=(8, 8))
+# plot geographical birth place
+def birth_place_plot():
+    plt.figure(figsize=(8, 8))
     m = Basemap(projection='cyl', resolution=None, llcrnrlat=-90, urcrnrlat=90, llcrnrlon=-180, urcrnrlon=180,lat_0=0, lon_0=0)
-    # m = Basemap(projection='moll', resolution=None, lat_0=0, lon_0=0)
+    # m = Basemap(projection='moll', resolution=None, lat_0=0, lon_0=0) # for mollweide projection
     m.etopo(scale=0.5, alpha=0.5)
 
-    x, y = m(-122.3, 47.6)
-    plt.plot(x, y, 'or', markersize=5)
+    places = pd.read_csv('place_map.csv')
+    for x,y in zip(places['lon'].to_numpy(), places['lat'].to_numpy()):
+        m.plot(x, y, 'bo', markersize=5)
     plt.show()
 
 
