@@ -122,6 +122,29 @@ def birth_place_plot(sortby='UCI rank', numbers=100, ascending=True):
     plt.show()
 
 
+# Points per specialty
+def points():
+    riders_info = pd.read_csv('riders_info_cleaned.csv')
+    riders_info['total'] = riders_info['one day races'] + riders_info['GC'] + riders_info['TT'] + riders_info['sprint'] + riders_info['climber']
+
+    min_total = 50 # flexible
+    riders_info = riders_info[riders_info['total'] > min_total]
+
+    riders_info['1day%'] = riders_info['one day races'] / riders_info['total']
+    riders_info['GC%'] = riders_info['GC'] / riders_info['total']
+    riders_info['TT%'] = riders_info['TT'] / riders_info['total']
+    riders_info['sprint%'] = riders_info['sprint'] / riders_info['total']
+    riders_info['climber%'] = riders_info['climber'] / riders_info['total']
+
+    # sort by total points
+    riders_info = riders_info.sort_values(by='total', ascending=False)
+    print(riders_info.head()[['name', 'total', '1day%', 'GC%', 'TT%', 'sprint%', 'climber%']])
+
+    # hist of total point
+    riders_info.hist(column='total', bins=1000)
+    plt.show()
+
+
 # correlation
 def correlation():
     riders_info = data_cleaning()
@@ -146,4 +169,6 @@ if __name__ == "__main__":
 
     # hw_plot()
 
-    birth_place_plot()
+    # birth_place_plot()
+
+    points()
