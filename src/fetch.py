@@ -74,7 +74,7 @@ def get_riders_catalog(verbose=False):
 
     riders_df = pd.DataFrame(riders, columns=['Rider name', 'The link'])
     riders_df = riders_df.drop_duplicates()
-    riders_df.to_csv('riders.csv', index=False)
+    riders_df.to_csv('data/raw/riders.csv', index=False)
 
 
 def get_riders_catalog_concurrent(verbose=False):
@@ -103,27 +103,22 @@ def get_riders_catalog_concurrent(verbose=False):
 
     riders_df = pd.DataFrame(riders, columns=['Rider name', 'The link'])
     riders_df = riders_df.drop_duplicates()
-    riders_df.to_csv('riders.csv', index=False)
+    riders_df.to_csv('data/raw/riders.csv', index=False)
 
 
 # Rmove the duplicate riders in existing riders.csv
 def remove_duplicate_riders():
-    riders = pd.read_csv('riders.csv')
+    riders = pd.read_csv('data/raw/riders.csv')
     riders = riders.drop_duplicates()
-    riders.to_csv('riders.csv', index=False)
+    riders.to_csv('data/raw/riders.csv', index=False)
 
 
 # Update dates
 def update_dates():
     dates = get_dates()
     dates = pd.DataFrame(dates, columns=['date'])
-    dates_pre = pd.read_csv('dates.csv')
-
-    if dates.equals(dates_pre):
-        print('nothing changed. no need to update')
-    else:
-        dates.to_csv('dates.csv', index=False)
-        print('dates.csv updated')
+    dates.to_csv('data/raw/dates.csv', index=False)
+    print('data/raw/dates.csv saved')
 
 
 # Get race for a ride in a year (year_link)
@@ -191,7 +186,7 @@ def get_all_race(rider_link, this_year_only=False):
 
 
 def get_all_riders_races(verbose=False, this_year_only=False):
-    riders_df = pd.read_csv('riders.csv')
+    riders_df = pd.read_csv('data/raw/riders.csv')
 
     for i in range(len(riders_df)):
         link = riders_df.loc[i, "The link"]        # 'rider/tadej-pogacar'
@@ -203,29 +198,29 @@ def get_all_riders_races(verbose=False, this_year_only=False):
             print_df(races)
 
         if this_year_only:
-            races_old = pd.read_csv(f'riders/{name}.csv', dtype={'general classification':object, 'PCS point':object, 'UCI point':object})
+            races_old = pd.read_csv(f'data/raw/riders/{name}.csv', dtype={'general classification':object, 'PCS point':object, 'UCI point':object})
             races = pd.concat([races, races_old]).drop_duplicates().reset_index(drop=True)
 
-        races.to_csv(f'riders/{name}.csv', index=False)
+        races.to_csv(f'data/raw/riders/{name}.csv', index=False)
         print(colored(f'{textname}\'s races saved!!', 'green'))
         return
 
 
 def get_all_riders_races_concurrent(mode='old', this_year_only=False):
-    riders_df = pd.read_csv('riders.csv')
-    with open('./ghosts.txt') as f:
+    riders_df = pd.read_csv('data/raw/riders.csv')
+    with open('data/raw/ghosts.txt') as f:
         ghosts = [line.strip()[6:] + '.csv' for line in f.readlines()]
 
     def get_all_race_concurrent(link, name, textname):
         races = get_all_race(link, this_year_only=this_year_only)
         if this_year_only:
-            races_old = pd.read_csv(f'riders/{name}.csv', dtype={'general classification':object, 'PCS point':object, 'UCI point':object})
+            races_old = pd.read_csv(f'data/raw/riders/{name}.csv', dtype={'general classification':object, 'PCS point':object, 'UCI point':object})
             races = pd.concat([races, races_old]).drop_duplicates().reset_index(drop=True)
-        races.to_csv(f'riders/{name}.csv', index=False)
+        races.to_csv(f'data/raw/riders/{name}.csv', index=False)
         print(colored(f'{textname}\'s races saved!!', 'green'))
 
 
-    downloaded = os.listdir('riders') # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
+    downloaded = os.listdir('data/raw/riders') # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
     todownload = []
 
     # Rmove the ghost riders
@@ -344,13 +339,13 @@ def get_rider_info(link, verbose=False):
 # number = how many riders to download. -1 means all
 def get_all_riders_info(number=-1, renew=False, verbose=False):
     # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
-    all_riders_csv_list = os.listdir('riders')
+    all_riders_csv_list = os.listdir('data/raw/riders')
 
-    with open('./ghosts.txt') as f:
+    with open('data/raw/ghosts.txt') as f:
         ghosts = [line.strip() for line in f.readlines()]
         ghosts_set = set(ghosts)
 
-    downloaded_df = pd.read_csv('riders_info.csv')
+    downloaded_df = pd.read_csv('data/raw/riders_info.csv')
     downloaded_set = set(downloaded_df['link'].to_numpy())
     all_riders_set = set(['rider/'+rider[:-4] for rider in all_riders_csv_list])
     undownloaded = all_riders_set - downloaded_set - ghosts_set
@@ -366,7 +361,7 @@ def get_all_riders_info(number=-1, renew=False, verbose=False):
             break
         link = f'https://www.procyclingstats.com/{link}'
         new_rider_info_df = get_rider_info(link, verbose=verbose)
-        new_rider_info_df.to_csv('riders_info.csv', mode='a', index=False, header=False)
+        new_rider_info_df.to_csv('data/raw/riders_info.csv', mode='a', index=False, header=False)
         i += 1
 
 
@@ -376,8 +371,8 @@ if __name__ == "__main__":
 
     # get_riders_catalog_concurrent()
 
-    get_all_riders_races_concurrent()
+    # get_all_riders_races_concurrent()
 
     # get_all_riders_info(verbose=True)
 
-    # get_all_riders_races(this_year_only=True)
+    get_all_riders_races(this_year_only=True)

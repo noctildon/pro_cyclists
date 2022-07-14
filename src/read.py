@@ -10,12 +10,12 @@ from ast import literal_eval
 
 # rider = 'tadej-pogacar'
 def race(rider):
-    race_df = pd.read_csv(f'riders/{rider}.csv')
+    race_df = pd.read_csv(f'data/raw/riders/{rider}.csv')
     print(race_df.head())
 
 
 def data_cleaning(verbose=False):
-    riders_info = pd.read_csv('riders_info.csv')
+    riders_info = pd.read_csv('data/raw/riders_info.csv')
 
     # 1e6 = missing value for the rankings
     riders_info['PCS rank'] = riders_info['PCS rank'].fillna(1e6).astype(int)
@@ -35,12 +35,12 @@ def data_cleaning(verbose=False):
         print(riders_info.info())
         print(riders_info.head())
 
-    return riders_info
+    riders_info.to_csv('data/processed/riders_info_cleaned.csv', index=False)
 
 
 # weight/height plot
 def hw_plot():
-    riders_info = data_cleaning()
+    riders_info = pd.read_csv('data/processed/riders_info_cleaned.csv')
 
     # histogram of weight
     riders_info.hist(bins=50, column=['weight', 'height'])
@@ -56,7 +56,7 @@ def hw_plot():
 
 # Find long and lat for birth places
 def find_birth_places():
-    riders_info = data_cleaning()
+    riders_info = pd.read_csv('data/processed/riders_info_cleaned.csv')
 
     place_map = [] # list of tuples (address, lon, lat)
     place_map_fail = []
@@ -73,20 +73,21 @@ def find_birth_places():
 
     print('\n\nDone searching....')
     place_map_df = pd.DataFrame(place_map, columns=['address', 'lon', 'lat'])
-    place_map_df.to_csv('place_map.csv', index=False)
+    place_map_df.to_csv('data/processed/place_map.csv', index=False)
 
     print('\nThese are the failed places:')
     print(place_map_fail)
-    with open('place_map_fail.txt', 'w') as f:
+    with open('data/processed/place_map_fail.txt', 'w') as f:
         for place in place_map_fail:
             f.write(f'{place}\n')
 
 
 # Create new columns (lon, lat) for birth place
 def attach_birth_place_long_lat():
-    riders_info = data_cleaning()
+    riders_info = pd.read_csv('data/processed/riders_info_cleaned.csv')
 
-    places = pd.read_csv('place_map.csv')
+
+    places = pd.read_csv('data/processed/place_map.csv')
     def finding_lon_lat(place):
         for i in range(len(places)):
             if place == places.iloc[i]['address']:
@@ -94,14 +95,14 @@ def attach_birth_place_long_lat():
         return None, None
 
     riders_info['lonlat'] = riders_info['birth place'].apply(lambda x: finding_lon_lat(x))
-    riders_info.to_csv('riders_info_cleaned.csv', index=False)
+    riders_info.to_csv('data/processed/riders_info_cleaned.csv', index=False)
 
 
 # plot geographical birth place
 # sortby = 'UCI rank', 'weight', 'dob', etc
 # numbers = how many riders to plot
 def birth_place_plot(sortby='UCI rank', numbers=100, ascending=True):
-    riders_info = pd.read_csv('riders_info_cleaned.csv')
+    riders_info = pd.read_csv('data/processed/riders_info_cleaned.csv')
 
     plt.figure(figsize=(8, 8))
     m = Basemap(projection='cyl', resolution=None, llcrnrlat=-90, urcrnrlat=90, llcrnrlon=-180, urcrnrlon=180,lat_0=0, lon_0=0)
@@ -124,7 +125,7 @@ def birth_place_plot(sortby='UCI rank', numbers=100, ascending=True):
 
 # Points per specialty
 def points():
-    riders_info = pd.read_csv('riders_info_cleaned.csv')
+    riders_info = pd.read_csv('data/processed/riders_info_cleaned.csv')
     riders_info['total'] = riders_info['one day races'] + riders_info['GC'] + riders_info['TT'] + riders_info['sprint'] + riders_info['climber']
 
     min_total = 50 # flexible
@@ -147,7 +148,7 @@ def points():
 
 # correlation
 def correlation():
-    riders_info = data_cleaning()
+    riders_info = pd.read_csv('data/processed/riders_info_cleaned.csv')
 
     corr = riders_info.corr()
     print(corr)
@@ -159,16 +160,11 @@ def correlation():
 
 
 if __name__ == "__main__":
-    # rider = 'tadej-pogacar'
-    # race(rider)
-
     # data_cleaning()
+    # find_birth_places()
     # attach_birth_place_long_lat()
 
-    # correlation()
-
     # hw_plot()
-
     # birth_place_plot()
 
     points()

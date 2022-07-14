@@ -1,4 +1,4 @@
-from fetch import *
+# from src.fetch import *
 from termcolor import colored
 
 textname = 'john'
