@@ -365,7 +365,6 @@ def get_all_riders_info(number=-1, renew=False, verbose=False):
         i += 1
 
 
-
 if __name__ == "__main__":
     # update_dates() # the website update the latest date every day
 
