@@ -1,5 +1,7 @@
+from random import gauss
 import pandas as pd
 import numpy as np
+from scipy.optimize import curve_fit
 import matplotlib.pyplot as plt
 import seaborn as sns
 from mpl_toolkits.basemap import Basemap
@@ -41,6 +43,40 @@ def hw_plot():
     plt.show()
 
 
+def gaussian(x, mu, sigma):
+    return 1 / (sigma * np.sqrt(2 * np.pi)) * np.exp(-0.5 * ((x - mu) / sigma) ** 2)
+
+
+def BMI_plot(save=False):
+    riders_info = pd.read_csv('data/processed/riders_info_cleaned.csv')
+    riders_info['BMI'] = riders_info['weight'] / riders_info['height'] ** 2
+
+    # plot histogram of BMI by numpy
+    plt.figure(figsize=(8, 8))
+    plt.title('Histogram of BMI')
+    counts, bins, bars = plt.hist(riders_info['BMI'], bins=50)
+    bin_centers = (bins[1:] + bins[:-1]) / 2
+
+    popt, pcov = curve_fit(gaussian, bin_centers, counts, bounds=((0,0), (30,15)))
+    counts_fit = gaussian(bin_centers, *popt)
+
+    print(popt)
+
+    # plt.plot(bin_centers, counts_fit, 'r-')
+    # plt.show()
+
+
+    return
+
+    plt.xlabel('BMI')
+    plt.ylabel('Count')
+    plt.show()
+
+    if save:
+        plt.savefig('reports/figures/BMI_hist.png')
+    plt.show()
+
+
 # Plot geographical birth place
 # sortby = 'UCI rank', 'weight', 'dob', etc
 # numbers = how many riders to plot
@@ -66,28 +102,6 @@ def birth_place_plot(sortby='UCI rank', numbers=100, ascending=True):
     plt.show()
 
 
-# Points per specialty
-def points():
-    riders_info = pd.read_csv('data/processed/riders_info_cleaned.csv')
-    riders_info['total'] = riders_info['one day races'] + riders_info['GC'] + riders_info['TT'] + riders_info['sprint'] + riders_info['climber']
-
-    min_total = 50 # flexible
-    riders_info = riders_info[riders_info['total'] > min_total]
-
-    riders_info['1day%'] = riders_info['one day races'] / riders_info['total']
-    riders_info['GC%'] = riders_info['GC'] / riders_info['total']
-    riders_info['TT%'] = riders_info['TT'] / riders_info['total']
-    riders_info['sprint%'] = riders_info['sprint'] / riders_info['total']
-    riders_info['climber%'] = riders_info['climber'] / riders_info['total']
-
-    # sort by total points
-    riders_info = riders_info.sort_values(by='total', ascending=False)
-    print(riders_info.head()[['name', 'total', '1day%', 'GC%', 'TT%', 'sprint%', 'climber%']])
-
-    # hist of total point
-    riders_info.hist(column='total', bins=1000)
-    plt.show()
-
-
 if __name__ == "__main__":
-    points()
+    # birth_place_plot()
+    BMI_plot()
