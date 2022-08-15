@@ -9,14 +9,48 @@ from sklearn.decomposition import PCA
 from sklearn.cluster import MeanShift, DBSCAN, KMeans
 
 
+percetanges = ['1day%', 'GC%', 'TT%', 'sprint%', 'climber%']
+n_comp = 3
+
+# PCA on points per specialty
 def pca_analysis_on_points(save=False):
     riders_info = classify_points()
-    riders_points = riders_info[['1day%', 'GC%', 'TT%', 'sprint%', 'climber%']]
+    riders_points = riders_info[percetanges]
 
-    pca = PCA(n_components=3)
+    pca = PCA(n_components=n_comp)
     pca.fit(riders_points)
     print('Variance ratio', pca.explained_variance_ratio_) # first 3 accounts for 93%
 
+
+    # Corelation matrix
+    corr = riders_points.corr()
+    fig = px.imshow(corr, color_continuous_scale='RdBu')
+    fig.update_layout(title_text="Correlation matrix")
+    fig.show()
+    if save:
+        fig.write_html("reports/figures/riders_points_corr.html")
+
+
+    # Eigenvector bar plot
+    eigenvectors = np.abs(pca.components_)
+    print(eigenvectors)
+    ind = np.arange(len(percetanges))
+    width = 0.25
+    for i in range(n_comp):
+        print(i)
+        plt.bar(ind+i*width, eigenvectors[i], width, label=f'ev{i}')
+
+    plt.xticks(ind+width/2, percetanges)
+    plt.legend()
+    plt.xlabel('Point percentage')
+    plt.ylabel('Eigenvector components')
+    plt.tight_layout()
+    if save:
+        plt.savefig('reports/figures/riders_points_pca_eigenvectors.png')
+    plt.show()
+
+
+    # 3D clustering
     principalComponents = pca.fit_transform(riders_points)
     riders_points_pca = pd.DataFrame(data=principalComponents, columns=['pca1', 'pca2', 'pca3'])
 
@@ -28,7 +62,6 @@ def pca_analysis_on_points(save=False):
 
     riders_points_pca_labelled = pd.concat((riders_points_pca, pd.DataFrame(clustering.labels_, columns=['cluster'])), axis=1)
 
-    # 3d plot
     fig = px.scatter_3d(riders_points_pca_labelled, x='pca1', y='pca2', z='pca3', color='cluster')
     fig.update_layout(title_text="3D PCA plot of riders points (variance ratio: 93% for the first 3)")
     fig.show()
@@ -87,5 +120,5 @@ def classify_points(plot=False):
 
 
 if __name__ == "__main__":
-    # pca_analysis_on_points()
-    pca_analysis_on_figure()
+    pca_analysis_on_points(save=True)
+    # pca_analysis_on_figure()
