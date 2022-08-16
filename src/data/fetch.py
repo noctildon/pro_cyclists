@@ -376,16 +376,13 @@ def fetch_108th_Spain_championships():
         link = link['href']    # 'rider/ivan-gutierrez'
         name = link[6:]        # 'ivan-gutierrez'
 
-        print(textname, link)
+        downloadeds = ['david-de-la-cruz', 'delio-fernandez', 'francisco-mancebo', 'gustavo-cesar-veloso', 'imanol-erviti', 'javier-moreno', 'jose-herrada', 'jose-joaquin-rojas', 'jose-vicente-toribio', 'luis-angel-mate', 'luis-leon-sanchez', 'rafael-valls']
+        if name not in downloadeds:
+            continue
+
         races = get_all_race(link)
-        races_old = pd.read_csv(f'data/raw/riders/{name}.csv', dtype={'general classification':object, 'PCS point':object, 'UCI point':object})
-
-        races = pd.concat([races, races_old]).drop_duplicates().reset_index(drop=True)
-
-        races.to_csv(f'data/raw/riders/{name}.csv', index=False)
+        races.to_csv(f'data/raw/riders/{name}.csv', index=False, mode='w')
         print(colored(f'{textname}\'s races saved!!', 'green'))
-
-        time.sleep(0.5)
 
 
 if __name__ == "__main__":
