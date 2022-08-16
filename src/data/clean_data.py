@@ -1,3 +1,4 @@
+import os
 import time
 import pandas as pd
 import numpy as np
@@ -80,7 +81,70 @@ def attach_birth_place_long_lat():
     riders_info.to_csv('data/processed/riders_info_cleaned.csv', index=False)
 
 
+
+# date='00.04.1996', '26.08.2020', '00.06.2010'
+def fix_zero_date(row):
+    if len(row) == 0:
+        return
+    distance = row['distance']
+
+    date = row['date']
+    dd = int(date.split('.')[0])
+    mm = int(date.split('.')[1])
+    yy = int(date.split('.')[2])
+
+    if mm == 6 and yy == 2010 and distance == 226.4:
+        # https://www.procyclingstats.com/race/nc-spain/2010/result
+        return '27.06.2010'
+
+    if dd == 0 and mm == 0:
+        if yy in [1986, 1987, 1989, 1993, 1995]:
+            return
+        return date # manually handle this
+
+    if dd == 0:
+        return f'01.{mm}.{yy}'
+
+    return date
+
+
+def data_cleaning_single_rider(link):
+    rider_race = pd.read_csv(f'data/raw/riders/{link}.csv')
+    rider_race = rider_race[['date', 'result ranking', 'race name', 'distance', 'year']]
+
+    # drop the date range, like "16.06 » 19.06"
+    rider_race = rider_race[rider_race['date'].astype(str).map(len) <= 5]
+    rider_race = rider_race.dropna(subset=['date'])
+
+    # append the year
+    rider_race['date'] = rider_race['date'].astype(str) + '.' + rider_race['year'].astype(str)
+    rider_race = rider_race.drop(columns=['year'])
+
+    # fix zero date
+    rider_race['date'] = rider_race.apply(fix_zero_date, axis=1)
+
+    # convert to datetime
+    rider_race['date'] = pd.to_datetime(rider_race['date'], format='%d.%m.%Y')
+
+    # print(rider_race)
+
+
+def data_clean_all_riders():
+    riders = os.listdir('data/raw/riders') # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
+    np.random.shuffle(riders)
+
+    for idx, rider in enumerate(riders):
+        rider = rider[:-4] # remove .csv
+        print(idx)
+        print(rider)
+        data_cleaning_single_rider(rider)
+        print()
+
+
+
 if __name__ == "__main__":
-    data_cleaning()
-    find_birth_places()
-    attach_birth_place_long_lat()
+    # data_cleaning()
+    # find_birth_places()
+    # attach_birth_place_long_lat()
+
+    data_clean_all_riders()

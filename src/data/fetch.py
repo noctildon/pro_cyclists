@@ -2,6 +2,7 @@ import numpy as np
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests
+import time
 from helper import print_df
 import threading
 import os
@@ -365,6 +366,28 @@ def get_all_riders_info(number=-1, renew=False, verbose=False):
         i += 1
 
 
+def fetch_108th_Spain_championships():
+    res = requests.get(url='https://www.procyclingstats.com/race/nc-spain/2010/result')
+    soup = BeautifulSoup(res.text, 'html.parser')
+    table = soup.find('tbody').find_all('tr')
+    for row in table:
+        link = row.find('a')
+        textname = link.text   # 'GUTIÉRREZ José Iván'
+        link = link['href']    # 'rider/ivan-gutierrez'
+        name = link[6:]        # 'ivan-gutierrez'
+
+        print(textname, link)
+        races = get_all_race(link)
+        races_old = pd.read_csv(f'data/raw/riders/{name}.csv', dtype={'general classification':object, 'PCS point':object, 'UCI point':object})
+
+        races = pd.concat([races, races_old]).drop_duplicates().reset_index(drop=True)
+
+        races.to_csv(f'data/raw/riders/{name}.csv', index=False)
+        print(colored(f'{textname}\'s races saved!!', 'green'))
+
+        time.sleep(0.5)
+
+
 if __name__ == "__main__":
     # update_dates() # the website update the latest date every day
 
@@ -374,4 +397,6 @@ if __name__ == "__main__":
 
     # get_all_riders_info(verbose=True)
 
-    get_all_riders_races(this_year_only=True)
+    # get_all_riders_races(this_year_only=True)
+
+    fetch_108th_Spain_championships()
