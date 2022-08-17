@@ -1,0 +1,917 @@
+date,result ranking,race name,distance
+2022-08-15,17,Stage 10 (ITT) - Porto › Vila Nova de Gaia ,18.6
+2022-08-14,25,Stage 9 - Paredes › Mondim de Basto (Senhora da Graça) ,174.5
+2022-08-13,59,Stage 8 - Viana do Castelo › Fafe ,182.4
+2022-08-12,82,Stage 7 - Santo Tirso › Braga ,150.1
+2022-08-11,87,Stage 6 - Águeda › Maia ,159.9
+2022-08-10,59,Stage 5 - Mealhada › Miranda do Corvo (Observatório de vila nova) ,165.7
+2022-08-08,71,Stage 4 - Guarda › Viseu ,169.1
+2022-08-07,53,Stage 3 - Sertã › Alto da Torre ,159.0
+2022-08-06,75,Stage 2 - Badajoz › Castelo Branco ,181.5
+2022-08-05,78,Stage 1 - Vila Franca de Xira › Elvas ,193.7
+2022-08-04,12,Prologue - Lisboa › Lisboa ,5.4
+2022-07-03,DNF,Stage 3 - Foz do Arelho › Alto do Montejunto ,174.8
+2022-07-02,4,Stage 2 - Atouguia da Baleia › Torres Vedras ,143.2
+2022-07-01,28,Stage 1 - São Mamede da Ventosa › Sobral de Monte Agraço ,150.8
+2022-06-30,16,Prologue - Turcifal › Turcifal ,8.0
+2022-04-02,DNF,Gran Premio Miguel Indurain (1.Pro) ,190.0
+2022-03-20,42,Stage 5 - Castelo de Vide › Évora ,171.9
+2022-03-19,29,Stage 4 (ITT) - Castelo de Vide › Castelo de Vide ,8.4
+2022-03-18,69,Stage 3 - Elvas › Ponte de Sor ,176.7
+2022-03-17,74,Stage 2 - Beja › Portel ,187.7
+2022-03-16,71,Stage 1 - Vendas Novas › Sines ,176.7
+2022-03-13,36,Classica da Arrabida - Cyclin'Portugal (1.2) ,161.8
+2022-02-20,123,Stage 5 - Lagoa › Malhão (Loulé) ,173.0
+2022-02-19,128,Stage 4 (ITT) - Vila Real de Santo António › Tavira ,32.2
+2022-02-18,139,Stage 3 - Almodôvar › Faro ,211.4
+2022-02-17,152,Stage 2 - Albufeira › Fóia (Monchique) ,182.4
+2022-02-16,98,Stage 1 - Portimão  › Lagos ,199.1
+2021-08-15,24,Stage 10 (ITT) - Viseu  › Viseu  ,20.3
+2021-08-14,18,Stage 9 - Boticas › Mondim de Basto (Senhora da Graça) ,145.5
+2021-08-13,21,Stage 8 - Bragança › Montalegre (Serra do Larouco) ,160.7
+2021-08-12,8,Stage 7 - Felgueiras › Bragança ,193.2
+2021-08-11,29,Stage 6 - Viana do Castelo › Fafe  ,182.4
+2021-08-10,31,Stage 5 - Águeda › Santo Tirso (Nossa Senhora da Assunção) ,171.3
+2021-08-08,21,Stage 4 - Belmonte › Guarda ,181.6
+2021-08-07,16,Stage 3 - Sertã › Covilhã (Torre) ,170.3
+2021-08-06,53,Stage 2 - Ponte de Sor › Castelo Branco ,162.1
+2021-08-05,36,Stage 1 - Torres Vedras › Setúbal ,175.8
+2021-08-04,14,Prologue - Lisboa › Lisboa ,5.4
+2021-07-18,DNF,Stage 3 - Serra d'El-Rei › Alto do Montejunto ,185.0
+2021-07-17,94,Stage 2 - Arruda dos Vinhos   › Torres Vedras ,166.0
+2021-07-16,64,Stage 1 - Turcifal › Serra do Socorro  ,85.3
+2021-06-27,92,Stage 6 - Portalegre › Evora ,162.9
+2021-06-26,26,Stage 5 (ITT) - Castelo de Vide › Castelo de Vide ,8.4
+2021-06-26,24,Stage 4 - Monforte › Castelo de Vide ,85.0
+2021-06-25,100,Stage 3 - Alcacer do Sal › Mora ,171.7
+2021-06-24,60,Stage 2 - Almodovar › Sines ,195.5
+2021-06-23,65,Stage 1 - Reguengos de Monsaraz › Beja ,193.7
+2021-06-20,DNF,National Championships Spain - Road Race (NC) ,183.4
+2021-05-09,32,Stage 5 - Albufeira › Malhão ,170.1
+2021-05-08,64,Stage 4 (ITT) - Lagoa › Lagoa ,20.3
+2021-05-07,155,Stage 3 - Faro › Tavira  175k,203.1
+2021-05-06,60,Stage 2 - Sagres › Fóia ,182.8
+2021-05-05,26,Stage 1 - Lagos › Portimão ,189.5
+2021-05-02,5,Classica da Arrabida - Cyclin'Portugal (1.2) ,181.2
+2019-10-06,75,Stage 6 - Sveta Nedelja › Zagreb ,154.0
+2019-10-05,20,Stage 5 - Rabac › Platak ,136.0
+2019-10-04,84,Stage 4 - Starigrad › Gorski Kotar ,155.0
+2019-10-03,56,Stage 3 - Okrug › Makarska ,63.5
+2019-10-02,52,Stage 2 - Slunj › Zadar ,183.0
+2019-10-01,70,Stage 1 - Osijek › Lipik ,200.0
+2019-09-22,DNF,Trofeo Matteotti (1.1) ,195.0
+2019-09-21,DNF,Memorial Marco Pantani (1.1) ,194.7
+2019-09-19,DNF,Coppa Sabatini - Gran Premio città di Peccioli (1.1) ,195.9
+2019-09-18,21,Giro della Toscana - Memorial Alfredo Martini (1.1) ,204.4
+2019-09-15,39,Coppa Bernocchi - GP BPM (1.1) ,198.2
+2019-09-14,DNF,Coppa Agostoni - Giro delle Brianze (1.1) ,195.5
+2019-08-17,94,Stage 5 - Santo Domingo de Silos › Lagunas de Neila ,146.0
+2019-08-16,107,Stage 4 - Atapuerca › Ciudad Romana de Clunia ,174.0
+2019-08-15,51,Stage 3 - Sargentes de la Lora › Picón Blanco ,150.0
+2019-08-14,54,Stage 2 - Gumiel de Izan › Lerma ,155.0
+2019-08-13,34,Stage 1 - Burgos › Burgos ,162.0
+2019-07-31,33,Circuito de Getxo (1.1) ,192.0
+2019-07-25,16,Prueba Villafranca-Ordiziako Klasika (1.1) ,165.7
+2019-07-12,23,Stage 6 - Kitzbühel › Kitzbüheler Horn ,116.7
+2019-07-11,38,Stage 5 - Bruck › Kitzbühel ,161.9
+2019-07-10,26,Stage 4 - Radstadt › Fuscher Törl ,103.5
+2019-07-09,44,Stage 3 - Kirchschlag › Frohnleiten ,176.2
+2019-07-08,93,Stage 2 - Zwettl › Wiener Neustadt ,176.9
+2019-07-07,67,Stage 1 - Grieskirchen › Freistadt ,138.8
+2019-07-06,90,Prologue - Wels › Wels ,2.6
+2019-06-23,41,Stage 4 - Gers - Astarac Arros en Gascogne › Clermont-Pouyguillès ,154.8
+2019-06-22,26,Stage 3 - Arreau › Luchon - Hospice de France ,173.0
+2019-06-21,61,Stage 2 - Labruguière › Martres-Tolosane ,187.7
+2019-06-20,15,Stage 1 - Gignac - Vallée de l’Hérault › Saint-Geniez-d’Olt-et-d’Aubrac ,175.5
+2019-06-17,6,Mont Ventoux Dénivelé Challenge (1.1) ,171.0
+2019-06-10,DNF,Ronde van Limburg (1.1) ,201.1
+2019-06-09,54,Stage 4 - Mersch › Luxembourg Ville ,176.0
+2019-06-08,28,Stage 3 - Mondorf › Diekirch ,178.7
+2019-06-07,55,Stage 2 - Steinfort › Rosport ,168.6
+2019-06-06,57,Stage 1 - Luxembourg Ville › Bascharage ,191.3
+2019-06-05,99,Prologue - Luxembourg Ville › Luxembourg Ville ,2.1
+2019-05-26,13,Stage 3 - Parc des Oiseaux (Villars-les-Dombes) › Col du Grand Colombier ,118.9
+2019-05-25,15,Stage 2 - Bellignat › Col de la Faucille ,123.9
+2019-05-24,32,Stage 1 - Bourg-en-Bresse › Saint-Vulbas ,162.6
+2019-05-19,59,Stage 3 - Huesca › Zaragoza ,127.4
+2019-05-18,10,Stage 2 - Sadaba › Canfranc ,186.2
+2019-05-17,79,Stage 1 - Andorra › Calatayud ,186.2
+2019-05-12,36,Stage 3 - Madrid › Madrid ,99.9
+2019-05-11,18,Stage 2 - San Martin de Valdeiglesias › San Martin de Valdeiglesias ,163.0
+2019-05-10,68,Stage 1 - Aranjuez › Aranjuez ,161.0
+2019-04-27,61,Stage 3 - León › Villafranca del Bierzo ,151.8
+2019-04-26,75,Stage 2 - Fromista › Villada ,170.3
+2019-04-25,64,Stage 1 - Belorado › Castrojeriz ,181.0
+2019-04-21,74,Stage 6 - Sakarya › Istanbul ,172.4
+2019-04-20,26,Stage 5 - Bursa › Kartepe ,164.1
+2019-04-19,39,Stage 4 - Balıkesir  › Bursa ,194.3
+2019-04-18,73,Stage 3 - Çanakkale › Edremit ,122.6
+2019-04-17,58,Stage 2 - Tekirdağ › Eceabat ,183.3
+2019-04-16,68,Stage 1 - Istanbul › Tekirdağ ,156.7
+2019-04-06,51,Stage 4 - Giardini Naxos › Etna ,119.0
+2019-04-05,23,Stage 3 - Caltanissetta › Ragusa ,188.0
+2019-04-04,83,Stage 2 - Capo d'Orlando › Palermo ,236.0
+2019-04-03,83,Stage 1 - Catania › Milazzo ,165.0
+2019-03-03,DNF,Royal Bernard Drome Classic (1.1) ,207.8
+2019-03-02,86,Faun Environnement - Classic de l'Ardèche Rhône Crussol (1.1) ,197.5
+2019-02-21,98,Stage 6 - Al Mouj Muscat › Matrah Corniche ,135.5
+2019-02-20,83,Stage 5 - Samayil › Al Jabal Al Akhdar (Green Mountain) ,152.0
+2019-02-19,76,Stage 4 - Yiti (Al Sifah) › Oman Convention & Exhibition Center ,131.0
+2019-02-18,83,Stage 3 - Shati Al Qurum › Qurayyat ,192.5
+2019-02-17,54,Stage 2 - Royal Cavalry Oman › Al Bustan ,156.5
+2019-02-16,99,Stage 1 - Al Sawadi Beach › Suhar Corniche ,138.5
+2018-10-14,106,Stage 6 - Bursa › Istanbul ,166.7
+2018-10-13,80,Stage 5 - Selçuk › Manisa ,137.3
+2018-10-12,42,Stage 4 - Marmaris › Selçuk ,206.9
+2018-10-11,69,Stage 3 - Fethiye › Marmaris ,137.2
+2018-10-10,112,Stage 2 - Alanya › Antalya ,154.1
+2018-10-09,98,Stage 1 - Konya › Konya ,150.0
+2018-09-23,DNF,Tour du Gévaudan Occitanie (1.2) ,153.0
+2018-09-20,101,Coppa Sabatini - Gran Premio citta  di Peccioli (1.1) ,201.8
+2018-09-19,DNF,Giro della Toscana - Memorial Alfredo Martini (1.1) ,198.9
+2018-09-16,97,Coppa Bernocchi - GP BPM (1.1) ,194.7
+2018-09-15,DNF,Coppa Agostoni - Giro delle Brianze (1.1) ,199.9
+2018-08-11,33,Stage 5 - Salas de los Infantes › Lagunas de Neila ,141.0
+2018-08-10,61,Stage 4 - Monasterios san Pedro Cardeña › Clunia (Ciudad Romana) ,165.0
+2018-08-09,49,Stage 3 - Sedano › Espinosa de los Monteros (Picon Blanco) ,149.0
+2018-08-08,56,Stage 2 - Beloradoc › Catrojeriz ,163.0
+2018-08-07,32,Stage 1 - Burgos › Burgos (Castillo) ,157.0
+2018-07-31,DNF,Circuito de Getxo (1.1) ,185.0
+2018-07-25,43,Prueba Villafranca-Ordiziako Klasika (1.1) ,165.7
+2018-07-14,42,Stage 8 - Scheibbs › Wels ,163.2
+2018-07-13,18,Stage 7 - Waidhofen/Ybbs › Sonntagberg ,129.3
+2018-07-12,26,Stage 6 - Knittelfeld › Wenigzell ,167.4
+2018-07-11,5,Stage 5 - Matrei › Großglockner ,92.9
+2018-07-10,38,Stage 4 - Kitzbühel › Prägraten ,143.0
+2018-07-09,8,Stage 3 - Kufstein › Kitzbüheler Horn ,133.6
+2018-07-08,14,Stage 2 - Feldkirch › Fulpmes / Telfes ,181.5
+2018-07-07,22,Stage 1 - Feldkirch › Feldkirch ,152.8
+2018-06-17,42,Stage 4 - Mirepoix › Cazouls-lès-Béziers ,192.7
+2018-06-16,18,Stage 3 - Prat-Bonrepaux › Les Monts d'Olmes ,198.4
+2018-06-15,61,Stage 2 - St Gaudens › Masseube Val-de-Gers ,173.0
+2018-06-14,60,Stage 1 - Cap-Découverte › Ségala Carmaux ,168.0
+2018-05-20,15,Stage 3 - Lélex Monts-Jura › Col de la Faucille ,133.3
+2018-05-19,1,Stage 2 - Saint-Trivier-de Courtes  › Arbent ,150.9
+2018-05-18,74,Stage 1 - Saint-Vulbas › Montrevel-en-Bresse ,166.5
+2018-05-13,4,Stage 3 - Sabiñánigo › Cerler ,126.0
+2018-05-12,12,Stage 2 - Huesca/Uesca › Zaragoza ,194.0
+2018-05-11,25,Stage 1 - Teruel › Caspe ,180.0
+2018-04-22,41,Stage 3 - Segovia › Avila ,165.6
+2018-04-21,69,Stage 2 - Valladolid › Palencia ,178.3
+2018-04-20,29,Stage 1 - Alba de Tormes › Salamanca ,182.4
+2018-04-06,62,Stage 4 - Brûlon › Sablé ,183.9
+2018-04-05,42,Stage 3 - Abbaye Royale de l'Epau › Pré-en-Pail-Saint-Samson ,199.0
+2018-04-04,54,Stage 2 - Riaillé › Ancenis ,183.7
+2018-04-03,72,Stage 1 - Abbaye Royale de l'Epau › Baugé-en-Anjou ,193.6
+2018-03-31,DNF,Gran Premio Miguel Indurain (1.1) ,189.1
+2018-03-25,42,Stage 4 (ITT) - Fiorano Modenese › Montegibbio ,12.5
+2018-03-24,131,Stage 3 - Crevalcore › Crevalcore ,171.0
+2018-03-23,144,Stage 2 - Riccione › Sogliano al Rubicone ,130.0
+2018-03-22,107,Stage 1a - Gatteo › Gatteo ,97.8
+2018-03-22,15,Stage 1b (TTT) - Gatteo a Mare › Gatteo ,13.3
+2018-02-18,35,Stage 5 (ITT) - Barbate › Barbate ,14.2
+2018-02-17,46,Stage 4 - Sevilla › Alcalá de los Gazules ,191.2
+2018-02-16,35,Stage 3 - Mancha Real › Herrera ,165.1
+2018-02-15,15,Stage 2 - Otura › La Guardia de Jaén ,140.0
+2018-02-14,78,Stage 1 - Mijas › Granada ,197.6
+2018-01-27,75,Stage 4 - Sharjah › Sharjah ,99.1
+2018-01-26,3,Stage 3 - Dibba › Wadi Al Hilo ,116.7
+2018-01-25,43,Stage 2 - Al Batayeh › Al Malaiha ,151.6
+2018-01-24,8,Stage 1 (ITT) - Sharjah › Sharjah ,10.2
+2017-08-20,DNF,Stage 2 - Nimes › Gruissan ,203.4
+2017-08-19,9,Stage 1 (TTT) - Nîmes › Nîmes ,13.7
+2017-07-29,54,Clásica Ciclista San Sebastian (1.UWT) ,231.0
+2017-07-23,73,Stage 21 - Montgeron › Paris ,105.0
+2017-07-22,165,Stage 20 (ITT) - Marseille › Marseille ,22.5
+2017-07-21,137,Stage 19 - Embrun › Salon-de-Provence ,222.5
+2017-07-20,109,Stage 18 - Briancon › Izoard ,179.5
+2017-07-19,142,Stage 17 - La Mure › Serre-Chevalier ,183.0
+2017-07-18,118,Stage 16 - Le Puy-en-Velay › Romans-sur-Isère ,165.0
+2017-07-16,146,Stage 15 - Laissac-Sévérac l'Église › Le Puy-en-Velay ,189.5
+2017-07-15,146,Stage 14 - Blagnac › Rodez ,181.5
+2017-07-14,49,Stage 13 - Saint-Girons › Foix ,101.0
+2017-07-13,93,Stage 12 - Pau › Peyragudes ,214.5
+2017-07-12,158,Stage 11 - Eymet › Pau ,203.5
+2017-07-11,126,Stage 10 - Périgueux › Bergerac ,178.0
+2017-07-09,106,Stage 9 - Nantua › Chambéry ,181.5
+2017-07-08,124,Stage 8 - Dole › Station des Rousses ,187.5
+2017-07-07,142,Stage 7 - Troyes › Nuits-Saint-Georges ,213.5
+2017-07-06,173,Stage 6 - Vesoul › Troyes ,216.0
+2017-07-05,56,Stage 5 - Vittel › La Planche des Belles Filles ,160.5
+2017-07-04,173,Stage 4 - Mondorf-les-Bains › Vittel ,207.5
+2017-07-03,173,Stage 3 - Verviers › Longwy ,212.5
+2017-07-02,182,Stage 2 - Düsseldorf › Liège ,203.5
+2017-07-01,134,Stage 1 (ITT) - Düsseldorf › Düsseldorf ,14.0
+2017-06-25,DNF,National Championships Spain - Road Race (NC) ,207.3
+2017-06-18,72,Stage 9 (ITT) - Schaffhausen › Schaffhausen ,28.6
+2017-06-17,120,Stage 8 - Schaffhausen › Schaffhausen ,100.0
+2017-06-16,36,Stage 7 - Zernez › Sölden ,166.3
+2017-06-15,133,Stage 6 - Locarno › La Punt ,166.7
+2017-06-14,124,Stage 5 - Bex › Cevio ,222.0
+2017-06-13,68,Stage 4 - Bern › Villars-sur-Ollon ,143.2
+2017-06-12,136,Stage 3 - Menziken › Bern ,159.3
+2017-06-11,123,Stage 2 - Cham › Cham ,172.7
+2017-06-10,133,Stage 1 (ITT) - Cham › Cham ,6.0
+2017-06-08,49,GP du canton d'Argovie (1.HC) ,188.7
+2017-05-09,DSQ,Stage 4 - Cefalù › Etna ,181.0
+2017-05-07,173,Stage 3 - Tortolì › Cagliari ,148.0
+2017-05-06,86,Stage 2 - Olbia › Tortoli ,221.0
+2017-05-05,149,Stage 1 - Alghero › Olbia ,206.0
+2017-04-23,103,Stage 6 - Samobor › Zagreb ,147.0
+2017-04-22,37,Stage 5 - Porec › Ucka ,141.0
+2017-04-21,96,Stage 4 - Crikvenica › Umag ,171.0
+2017-04-20,90,Stage 3 - Imotski › Zadar ,237.0
+2017-04-19,57,Stage 2 - Trogir › Biokovo (sv. Jure) ,107.0
+2017-04-18,121,Stage 1 - Osijek › Koprivnica ,227.0
+2017-03-14,98,Stage 7 (ITT) - San Benedetto del Tronto › San Benedetto del Tronto ,10.05
+2017-03-13,96,Stage 6 - Ascoli Piceno › Civitanova Marche ,168.0
+2017-03-12,92,Stage 5 - Rieti › Fermo ,209.0
+2017-03-11,56,Stage 4 - Montalto di Castro › Terminillo ,171.0
+2017-03-10,77,Stage 3 - Monterotondo Marittimo › Montalto di Castro ,204.0
+2017-03-09,68,Stage 2 - Camaiore › Pomarance ,229.0
+2017-03-08,8,Stage 1 (TTT) - Lido di Camaiore › Lido di Camaiore ,22.7
+2017-03-05,21,GP Industria & Artigianato (1.HC) ,199.2
+2017-02-19,14,Stage 5 - Setenil de las Bodegas (Cádiz) › Coín (Málaga) ,151.5
+2017-02-18,50,Stage 4 - La Campana (Sevilla) › Sevilla ,179.3
+2017-02-17,17,Stage 3 (ITT) - Lucena › Córdoba ,12.0
+2017-02-16,12,"Stage 2 - Torredonjimeno › Alto Peña del Águila, Mancha Real (Jaén) ",177.9
+2017-02-15,13,Stage 1 - Rincón de la Victoria (Málaga) › Granada ,155.4
+2017-02-12,66,Clasica de Almeria (1.1) ,190.9
+2017-02-11,16,Vuelta Ciclista a la Region de Murcia 'Costa Calida' (1.1) ,182.7
+2016-10-01,28,Il Lombardia (1.UWT) ,240.0
+2016-09-28,38,Milano-Torino (1.HC) ,186.0
+2016-09-25,DNF,Gran Premio Bruno Beghelli (1.HC) ,196.3
+2016-09-24,DNF,Giro dell'Emilia (1.HC) ,213.0
+2016-09-22,86,Coppa Sabatini - Gran Premio citta di Peccioli (1.1) ,195.9
+2016-09-21,48,Stage 2 - Montecatini Terme › Pontedera ,185.3
+2016-09-20,42,Stage 1 - Arezzo › Montecatini Terme ,174.7
+2016-09-11,93,Stage 8 - London › London ,100.0
+2016-09-10,50,Stage 7b - Bristol › Bristol ,90.0
+2016-09-10,29,Stage 7a (ITT) - Bristol › Bristol ,15.0
+2016-09-09,33,"Stage 6 - Sidmouth › Haytor, Dartmoor ",150.0
+2016-09-08,11,Stage 5 - Aberdare › Bath ,194.5
+2016-09-07,59,Stage 4 - Denbigh › Builth Wells ,218.0
+2016-09-06,98,"Stage 3 - Congleton › Tatton Park, Knutsford ",179.4
+2016-09-05,66,Stage 2 - Carlisle › Kendal ,188.2
+2016-09-04,95,Stage 1 - Glasgow  › Castle Douglas ,161.6
+2016-08-28,52,Bretagne Classic - Ouest-France (1.UWT) ,247.0
+2016-08-26,97,Stage 5 - Thouars › Poitiers ,171.3
+2016-08-25,12,Stage 4 (ITT) - Saint-Sauveur › Châtellerault ,23.0
+2016-08-25,86,Stage 3 - Thuré › Châtellerault ,95.2
+2016-08-24,64,Stage 2 - La Rochelle › Niort ,179.8
+2016-08-23,29,Stage 1 -  Angoulême › Puilboreau ,189.6
+2016-08-21,131,Cyclassics Hamburg (1.UWT) ,217.7
+2016-08-06,25,Stage 5 - Caleruega › Lagunas de Neila ,163.0
+2016-08-05,65,Stage 4 - Aranda de Duero › Lerma ,145.0
+2016-08-04,59,Stage 3 - Sedano › Villarcayo ,198.0
+2016-08-03,2,Stage 2 (TTT) - Burgos › Burgos ,10.72
+2016-08-02,75,Stage 1 - Sasamón › Melgar de Fernamental ,158.0
+2016-07-31,36,Circuito de Getxo 'Memorial Ricardo Otxoa' (1.1) ,170.0
+2016-07-25,4,Prueba Villafranca-Ordiziako Klasika (1.1) ,165.7
+2016-06-25,DNF,National Championships Spain - Road Race (NC) ,194.4
+2016-06-18,DNF,Stage 4 - Saint-Gaudens › Val d'Azur Couraduque ,184.9
+2016-06-17,51,Stage 3 (ITT) - Albi › Albi ,13.4
+2016-06-17,97,Stage 2 - Saint-Pierre-de-Trivisy › Albi ,92.4
+2016-06-16,112,Stage 1 - Saint-Pons-de-Thomières › Bessieres ,196.0
+2016-05-13,DNF,Stage 7 - Sulmona › Foligno ,211.0
+2016-05-12,57,Stage 6 - Ponte › Roccaraso (Aremogna) ,157.0
+2016-05-11,144,Stage 5 - Praia a Mare › Benevento ,233.0
+2016-05-10,111,Stage 4 - Catanzaro › Praia a Mare ,200.0
+2016-05-08,148,Stage 3 - Nijmegen › Arnhem ,190.0
+2016-05-07,146,Stage 2 - Arnhem › Nijmegen  ,190.0
+2016-05-06,36,Stage 1 (ITT) - Apeldoorn  › Apeldoorn  ,9.8
+2016-05-02,20,Stage 3 - Bueño › Uría ,121.5
+2016-05-01,54,Stage 2 - Cangas de Narcea › Pola de Lena ,188.0
+2016-04-30,7,Stage 1 - Oviedo › Alto del Acebo ,152.5
+2016-04-10,DNF,Paris - Roubaix (1.UWT) ,257.5
+2016-04-08,35,Stage 4 - Abbaye de l/Epau › Arnage ,176.0
+2016-04-07,11,Stage 3 - Angers  › Pré-en-Pail  ,190.3
+2016-04-06,43,Stage 2a - Saint-Mars-la-Jaille › Angers  ,85.1
+2016-04-06,8,Stage 2b (ITT) - Angers  › Angers  ,6.8
+2016-04-05,28,Stage 1 - Château-du-Loir  › Château-du-Loir  ,182.8
+2016-04-03,77,Vuelta Ciclista a La Rioja (1.1) ,157.4
+2016-03-27,DNF,Stage 7 - Barcelona › Barcelona ,136.4
+2016-03-26,125,Stage 6 - Sant Joan Despi › Vilanova i la Geltru ,197.2
+2016-03-25,158,Stage 5 - Rialp › Valls ,187.2
+2016-03-24,78,Stage 4 - Bagà › Port Ainé ,172.2
+2016-03-23,46,Stage 3 - Girona › La Molina ,172.1
+2016-03-22,41,Stage 2 - Mataró › Olot ,178.7
+2016-03-21,48,Stage 1 - Calella › Calella ,175.8
+2016-02-21,48,Stage 5 - San Roque › Peñas Blancas ,171.0
+2016-02-20,9,Stage 4 (ITT) - Alhaurín de la Torre › Alhaurín de la Torre ,21.0
+2016-02-19,32,Stage 3 - Monachil › Padul ,157.9
+2016-02-18,54,Stage 2 - Palomares del Río › Córdoba ,186.3
+2016-02-17,60,Stage 1 - Almonaster la Real  › Sevilla ,165.2
+2016-02-14,DNF,Clasica de Almeria (1.1) ,21.0
+2016-02-07,88,Stage 5 - Valencia › Valencia ,105.7
+2016-02-06,10,Stage 4 - Orihuela › Xorret del Catí ,141.3
+2016-02-05,35,Stage 3 - Sagunto › Alzira ,173.5
+2016-02-04,15,Stage 2 - Castellon › Fredes ,163.3
+2016-02-03,11,Stage 1 (ITT) - Benicàssim › Oropesa del Mar ,16.25
+2016-01-31,DNF,Trofeo Playa de Palma - Palma (1.1) ,161.5
+2016-01-30,45,Trofeo Serra de Tramuntana (1.1) ,149.9
+2016-01-28,93,Trofeo Felanitx - Ses Salines - Campos - Porreres (1.1) ,174.0
+2015-10-11,61,Stage 4 - Yas Marina › Yas Marina ,110.0
+2015-10-10,16,Stage 3 - Al Ain › Jebel Hafeet ,140.0
+2015-10-09,60,Stage 2 - Abu Dhabi › Abu Dhabi ,130.0
+2015-10-08,45,Stage 1 - Qasr Al Sarab › Madinat Zayed ,159.5
+2015-10-04,63,Il Lombardia (1.UWT) ,245.0
+2015-10-02,DNF,Giro del Piemonte (1.HC) ,185.0
+2015-10-01,18,Milano-Torino (1.HC) ,186.0
+2015-09-13,125,Stage 21 - Alcalá de Henares › Madrid ,98.8
+2015-09-12,69,Stage 20 - San Lorenzo de El Escorial › Cercedilla ,175.8
+2015-09-11,114,Stage 19 - Medina del Campo › Ávila ,185.8
+2015-09-10,59,Stage 18 - Roa › Riaza ,204.0
+2015-09-09,33,Stage 17 (ITT) - Burgos › Burgos ,38.7
+2015-09-07,141,Stage 16 - Luarca › Ermita de Alba. Quiros ,185.0
+2015-09-06,68,Stage 15 - Comillas › Sotres. Cabrales ,175.8
+2015-09-05,31,Stage 14 - Vitoria › Alto Campoo. Fuente del Chivo ,215.0
+2015-09-04,61,Stage 13 - Calatayud › Tarazona ,178.0
+2015-09-03,109,Stage 12 - Escaldes-Engordany › Lleida ,173.0
+2015-09-02,59,Stage 11 - Andorra la Vella › Cortals d'Encamp ,138.0
+2015-08-31,109,Stage 10 - Valencia › Castellón   ,146.6
+2015-08-30,75,Stage 9 - Torrevieja › Cumbre del Sol. Benitachell ,168.3
+2015-08-29,72,Stage 8 - Puebla de Don Fadrique › Murcia ,182.5
+2015-08-28,77,Stage 7 - Jódar › La Alpujarra (Capileira) ,191.1
+2015-08-27,117,Stage 6 - Córdoba › Sierra de Cazorla ,200.3
+2015-08-26,187,Stage 5 - Rota › Alcalá de Guadaíra ,167.3
+2015-08-25,137,Stage 4 - Estepona › Vejer de la Frontera ,209.6
+2015-08-24,123,Stage 3 - Mijas › Málaga ,158.4
+2015-08-23,125,Stage 2 - Alhaurín de la Torre › Caminito del Rey ,158.7
+2015-08-22,9,Stage 1 (TTT) - Puerto Banús › Marbella ,7.4
+2015-08-08,56,Stage 5 - Comunera de Revenga › Lagunas de Neila ,170.0
+2015-08-07,27,Stage 4 - Belorado › Pineda de la Sierra (Valle del Sol) ,161.0
+2015-08-06,45,Stage 3 - Castrojeriz › Villadiego ,165.0
+2015-08-05,3,Stage 2 (TTT) - Burgos › Burgos ,13.14
+2015-08-04,40,Stage 1 - Santo Domingo de Silos › Romana de Clunia ,149.0
+2015-08-01,DNF,Clasica Ciclista San Sebastian (1.UWT) ,219.0
+2015-07-31,56,Circuito de Getxo (1.1) ,170.0
+2015-07-25,49,Prueba Villafranca-Ordiziako Klasika (1.1) ,170.0
+2015-06-14,DNS,Stage 2 - Risch-Rotkreuz › Risch-Rotkreuz ,161.1
+2015-06-13,151,Prologue - Risch-Rotkreuz › Risch-Rotkreuz ,5.1
+2015-05-17,91,Stage 5 - Haßfurt › Nürnberg ,197.8
+2015-05-16,15,Stage 4 (ITT) - Haßfurt › Haßfurt ,26.1
+2015-05-15,45,Stage 3 - Selb › Ebern ,205.9
+2015-05-14,63,Stage 2 - Waldsassen › Selb ,179.5
+2015-05-13,76,Stage 1 - Regensburg › Waldsassen ,221.3
+2015-05-10,13,Stage 2 - Madrid › Madrid ,84.0
+2015-05-09,6,Stage 1 - Colmenar Viejo › Colmenar Viejo ,200.0
+2015-05-03,18,Stage 2 - Soto de Ribera › Oviedo ,176.0
+2015-05-02,5,Stage 1 - Oviedo › Pola de Lena ,143.6
+2015-04-19,11,Stage 3 - Zamora › Alto de Lubián ,179.2
+2015-04-18,13,Stage 2 - Guarda › Fuentes de Oñoro ,208.0
+2015-04-17,8,Stage 1 - Ávila › Alba de Tormes ,147.4
+2015-04-12,DNF,Klasika Primavera de Amorebieta (1.1) ,171.5
+2015-04-05,49,Vuelta Ciclista a La Rioja (1.1) ,166.3
+2015-04-04,DNF,Gran Premio Miguel Indurain (1.1) ,192.7
+2015-03-17,99,Stage 7 (ITT) - San Benedetto del Tronto › San Benedetto del Tronto ,10.0
+2015-03-16,93,Stage 6 - Rieti › Porto Sant'Elpidio ,210.0
+2015-03-15,68,Stage 5 - Esanatoglia › Terminillo ,196.9
+2015-03-14,112,Stage 4 - Indicatore › Castelraimondo ,226.0
+2015-03-13,77,Stage 3 - Cascina › Arezzo ,203.0
+2015-03-12,123,Stage 2 - Camaiore › Cascina ,153.0
+2015-03-11,87,Prologue - Lido di Camaiore › Lido di Camaiore ,5.4
+2015-02-22,97,Stage 5 - Montilla › Alhaurín de la Torre ,170.9
+2015-02-21,21,Stage 4 - Maracena › Alto de Allanadas ,202.4
+2015-02-20,12,Stage 3 - Motril › Alto de Hazallanas ,159.8
+2015-02-19,38,Stage 2 - Utrera › Lucena ,194.7
+2015-02-18,66,Stage 1a - La Rábida › Hinojos ,118.3
+2015-02-18,1,Stage 1b (ITT) - Coria del Río › Coria del Río ,8.2
+2015-02-15,DNF,Clasica de Almeria (1.1) ,183.3
+2015-02-14,40,Vuelta Ciclista a Murcia (1.1) ,198.1
+2015-02-01,88,Trofeo Playa de Palma-Palma (1.1) ,168.2
+2015-01-31,36,Trofeo Serra de Tramuntana (1.1) ,165.7
+2015-01-30,41,Trofeo Andratx-Mirador d\'Es Colomer (1.1) ,165.7
+2014-09-14,44,Stage 21 (ITT) - Santiago de Compostela › Santiago de Compostela ,9.7
+2014-09-13,102,Stage 20 - Santa Estevo de Ribas do Sil › Puerto de Ancares ,185.7
+2014-09-12,143,Stage 19 - Salvaterra de Miño › Cangas de Morrazo ,180.5
+2014-09-11,100,Stage 18 - A Estrada › Monte Castrove en Meis ,157.0
+2014-09-10,97,Stage 17 - Ortigueira › A Coruña ,190.7
+2014-09-08,122,Stage 16 - San Martín del Rey Aurelio › Lagos de Somiedo (La Farrapona) ,160.5
+2014-09-07,109,Stage 15 - Oviedo › Lagos de Covadonga ,152.2
+2014-09-06,89,Stage 14 - Santander › La Camperona ,200.8
+2014-09-05,98,Stage 13 - Belorado › Obregón (Parque de Cabárceno) ,188.7
+2014-09-04,106,Stage 12 - Logroño › Logroño ,166.4
+2014-09-03,80,Stage 11 - Pamplona › Santuario de San Miguel de Aralar ,153.4
+2014-09-02,74,Stage 10 (ITT) - Real Monasterio de Santa María de Veruela › Borja ,36.7
+2014-08-31,4,Stage 9 - Carboneras de Guadazaón › Aramón Valdelinares ,185.0
+2014-08-30,182,Stage 8 - Baeza › Albacete ,207.0
+2014-08-29,121,Stage 7 - Alhendín › Alcaudete ,169.0
+2014-08-28,152,Stage 6 - Benalmádena › La Zubia (Cumbres Verdes) ,167.1
+2014-08-27,145,Stage 5 - Priego de Córdoba › Ronda ,180.0
+2014-08-26,62,Stage 4 - Mairena del Alcor (Sevilla) › Córdoba ,164.7
+2014-08-25,157,Stage 3 - Cádiz › Arcos de la Frontera ,197.8
+2014-08-24,172,Stage 2 - Algeciras › San Fernando ,174.4
+2014-08-23,1,Stage 1 (TTT) - Jerez de la Frontera › Jerez de la Frontera ,12.6
+2014-08-17,16,Stage 5 (ITT) - Aranda de Duero › Aranda de Duero ,12.5
+2014-08-16,26,Stage 4 - Medina de Pomar › Villarcayo ,142.0
+2014-08-15,29,Stage 3 - Comunero de Revenga  › Lagunas de Neila ,170.0
+2014-08-14,61,Stage 2 - Briviesca › Villadiego ,152.0
+2014-08-13,24,Stage 1 - Burgos › Burgos ,143.0
+2014-08-02,DNF,Clasica Ciclista San Sebastian (1.UWT) ,219.2
+2014-07-25,10,Prueba Villafranca-Ordiziako Klasika (1.1) ,170.0
+2014-07-13,60,Stage 8 - Podersdorf › Vienna ,122.8
+2014-07-12,21,Stage 7 (ITT) - Podersdorf at Neusiedler See › Podersdorf at Neusiedler See ,24.1
+2014-07-11,6,Stage 6 - St. Johann/Alpendorf › Villach-Dobratsch ,182.6
+2014-07-10,6,Stage 5 - Matrei/Osttirol › St. Johann/Alpendorf ,146.4
+2014-07-09,19,Stage 4 - Kitzbühel › Matrei/Osttirol ,171.9
+2014-07-08,4,Stage 3 - Bad Ischl › Kitzbüheler Horn ,206.0
+2014-07-07,62,Stage 2 - Waidhofen/Ybbs › Bad Ischl ,180.9
+2014-07-06,3,Stage 1 - Tulln › Sonntagberg ,182.0
+2014-06-29,19,National Championships Spain - Road Race (NC) ,200.8
+2014-06-22,47,Stage 9 - Martigny › Saas-Fee ,156.5
+2014-06-21,30,Stage 8 - Delémont › Verbier ,219.1
+2014-06-20,28,Stage 7 (ITT) - Worb › Worb ,24.7
+2014-06-19,59,Stage 6 - Buren a. Aare › Delémont ,183.5
+2014-06-18,81,Stage 5 - Ossingen › Buren a. Aare ,183.6
+2014-06-17,52,Stage 4 - Heiden › Ossingen ,160.4
+2014-06-16,28,Stage 3 - Sarnen › Heiden ,202.9
+2014-06-15,40,Stage 2 - Bellinzona › Sarnen ,181.8
+2014-06-14,51,Stage 1 (ITT) - Bellinzona › Bellinzona ,9.4
+2014-05-18,10,Stage 3 - Lubián › Bembibre ,164.6
+2014-05-17,6,Stage 2 - Zamora › Alto de Lubián ,179.2
+2014-05-16,26,Stage 1 - Ciudad Rodrigo › Zamora ,161.4
+2014-04-13,66,Klasika Primavera de Amorebieta (1.1) ,171.5
+2014-04-10,DNF,Stage 4 - Vitoria-Gasteiz › Eibar (Arrate) ,151.0
+2014-04-09,91,Stage 3 - Urdazubi › Vitoria-Gasteiz ,194.7
+2014-04-08,97,Stage 2 - Ordizia › Dantxarinea (Urdazabi) ,155.8
+2014-04-07,132,Stage 1 - Ordizia › Ordizia ,153.4
+2014-04-06,63,Vuelta Ciclista a La Rioja (1.1) ,164.7
+2014-04-05,DNF,Gran Premio Miguel Indurain (1.1) ,187.0
+2014-03-30,66,Stage 7 - Barcelona (Montjuïc) › Barcelona (Montjuïc) ,120.7
+2014-03-29,124,Stage 6 - El Vendrell › Vilanova i la Geltrú ,163.9
+2014-03-28,84,Stage 5 - Llanars–Vall de Camprodon › Valls ,222.2
+2014-03-27,52,Stage 4 - Alp › Vallter 2000-Setcases ,166.4
+2014-03-26,133,Stage 3 - Banyoles › La Molina (Alp) ,162.9
+2014-03-25,112,Stage 2 - Mataró › Girona ,171.2
+2014-03-24,130,Stage 1 - Calella › Calella ,165.7
+2014-03-02,DNF,Clasica de Almeria (1.1) ,178.0
+2014-03-01,35,Vuelta Ciclista a Murcia (1.1) ,190.1
+2014-02-23,98,Stage 4 - Ubrique › Fuengirola ,159.8
+2014-02-22,89,Stage 3 - Sanlúcar La Mayor › Sevilla ,182.7
+2014-02-21,119,Stage 2 - La Guardia de Jaén › Cabra ,197.1
+2014-02-20,29,Stage 1 - Vélez Málaga › Jaén ,186.8
+2014-02-19,8,Prologue - Almeria › Almeria ,7.3
+2014-02-11,42,Trofeo Serra de Tramuntana (1.1) ,152.9
+2014-02-09,148,Trofeo Palma (1.1) ,116.0
+2014-01-26,116,Stage 6 - Adelaide › Adelaide ,95.0
+2014-01-25,21,Stage 5 - McLaren Vale › Willunga ,151.5
+2014-01-24,99,Stage 4 - Unley › Victor Harbor ,148.5
+2014-01-23,37,Stage 3 - Norwood › Campbelltown ,145.0
+2014-01-22,9,Stage 2 - Prospect › Stirling ,150.0
+2014-01-21,68,Stage 1 - Nuriootpa › Angaston ,135.0
+2013-09-15,125,Stage 21 - Leganés › Madrid ,109.6
+2013-09-14,111,Stage 20 - Avilés › Angliru ,142.2
+2013-09-13,123,Stage 19 - San Vicente de la Barquera › Alto del Naranco ,181.0
+2013-09-12,104,Stage 18 - Burgos › Peña Cabarga ,186.5
+2013-09-11,23,Stage 17 - Calahorra › Burgos ,189.0
+2013-09-09,79,Stage 16 - Graus › Sallent de Gállego. Aramón Formigal ,146.8
+2013-09-08,94,Stage 15 - Andorra › Peyragudes ,224.9
+2013-09-07,87,Stage 14 - Bagà › Collada de la Gallina ,155.7
+2013-09-06,141,Stage 13 - Valls › Castelldefels ,169.0
+2013-09-05,174,Stage 12 - Maella › Tarragona ,164.2
+2013-09-04,40,Stage 11 (ITT) - Tarazona › Tarazona ,38.8
+2013-09-02,95,Stage 10 - Torredelcampo › Güéjar Sierra. Alto de Hazallanas ,178.0
+2013-09-01,18,Stage 9 - Antequera › Valdepeñas de Jaén ,163.7
+2013-08-31,46,Stage 8 - Jerez de la Frontera › Estepona. Alto de Peñas Blancas ,166.6
+2013-08-30,73,Stage 7 - Almendralejo › Mairena del Aljarafe ,205.9
+2013-08-29,89,Stage 6 - Guijuelo › Cáceres ,175.0
+2013-08-28,76,Stage 5 - Sober › Lago de Sanabria ,174.3
+2013-08-27,48,Stage 4 - Lalín › Fisterra ,189.0
+2013-08-26,32,Stage 3 - Vigo › Mirador de Lobeira / Vilagarcía de Arousa ,184.8
+2013-08-25,42,Stage 2 - Pontevedra › Baiona. Alto do Monte da Groba ,177.7
+2013-08-24,5,Stage 1 (TTT) - Vilanova de Arousa › Sanxenxo ,27.4
+2013-08-03,DNS,Stage 7 (ITT) - Wieliczka › Krakow ,37.0
+2013-08-02,34,Stage 6 - Bukovina Terma Hotel Spa › Bukowina Tatrzanska ,192.0
+2013-08-01,29,Stage 5 - Nowi Targ › Zakopane ,160.0
+2013-07-31,37,Stage 4 - Tarnow › Katowice ,231.0
+2013-07-30,83,Stage 3 - Krakow › Rzeszow ,226.0
+2013-07-28,23,Stage 2 - Marilleva Val di Sole › Passo Pordoi ,195.5
+2013-07-27,12,Stage 1 - Rovereto › Madonna di Campiglio ,183.5
+2013-06-23,11,National Championships Spain - Road Race (NC) ,208.9
+2013-06-16,86,Stage 4 - Saint-Gaudens › L'Isle Jourdrain ,149.2
+2013-06-15,64,Stage 3 - Izaourt › Bagnères-de-Luchon ,175.3
+2013-06-14,52,Stage 2 - Villecomtal-sur-Arros › Villecomtal-sur-Arros ,182.8
+2013-06-13,95,Stage 1 - Castres › Mirande ,209.0
+2013-05-12,1,Stage 2 - Bueño (Ribera de Arriba) › Alto del Naranco (Oviedo) ,157.0
+2013-05-11,7,Stage 1 - Oviedo › Pola de Lena ,156.8
+2013-05-04,1,Vuelta a la Comunidad de Madrid (1.1) ,167.6
+2013-04-14,23,Stage 3 - Aguilar de Campoo › Cervera de Pisuerga (Palencia) ,183.1
+2013-04-13,36,Stage 2 - Urueña › Palencia ,168.1
+2013-04-12,9,Stage 1 - Arevalo (Avila) › Valladolid ,194.8
+2013-04-07,12,Klasika Primavera de Amorebieta (1.1) ,171.6
+2013-04-05,DNF,Stage 5 - Eibar › Beasain ,166.1
+2013-04-04,85,Stage 4 - Trapagaran › Eibar/Arrate ,151.6
+2013-04-03,88,Stage 3 - Vitoria/Gasteiz › Trapagaran/La Lejana ,164.7
+2013-04-02,119,Stage 2 - Elgoibar › Vitoria/Gasteiz ,170.2
+2013-04-01,71,Stage 1 - Elgoibar › Elgoibar ,156.5
+2013-03-30,DNF,Gran Premio Miguel Indurain (1.1) ,179.3
+2013-03-10,18,Stage 7 (ITT) - Nice › Col d'Eze ,9.6
+2013-03-09,91,Stage 6 - Manosque › Nice ,220.0
+2013-03-08,96,Stage 5 - Châteauneuf-du-Pape › La Montagne de Lure ,176.0
+2013-03-07,112,Stage 4 - Brioude › Saint-Vallier ,199.5
+2013-03-06,39,Stage 3 - Châtel-Guyon › Brioude ,170.5
+2013-03-05,97,Stage 2 - Vimory › Cérilly ,200.5
+2013-03-04,144,Stage 1 - Saint-Germain-en-Laye › Nemours ,195.0
+2013-03-03,124,Prologue - Houilles › Houilles ,2.9
+2013-02-24,37,Clasica de Almeria (1.HC) ,182.3
+2013-02-20,13,Stage 3 - Lucena (Córdoba) › Rincón de la Victoria (Málaga) ,182.7
+2013-02-19,15,Stage 2 - Trebujena (Cádiz) › Montilla (Córdoba) ,190.7
+2013-02-18,17,Stage 1 - San Fernando › Ubrique ,163.9
+2013-02-17,27,Prologue - San Fernando › San Fernando ,6.0
+2013-01-27,25,Stage 6 - Adelaide › Adelaide ,90.0
+2013-01-26,3,Stage 5 - McLaren Vale › Old Willunga Hill ,151.5
+2013-01-25,48,Stage 4 - Modbury › Tanunda ,126.5
+2013-01-24,6,Stage 3 - Unley › Stirling ,139.0
+2013-01-23,2,Stage 2 - Mt Barker › Rostrevor ,116.5
+2013-01-22,30,Stage 1 - Prospect › Lobethal ,135.0
+2012-09-09,140,Stage 21 - Cercedilla › Madrid ,111.9
+2012-09-08,62,Stage 20 - La Faisanera Golf. Segovia 21 › Bola del Mundo ,169.5
+2012-09-07,161,Stage 19 - Peñafiel › La Lastrilla ,178.4
+2012-09-06,156,Stage 18 - Aguilar de Campoo › Valladolid ,186.4
+2012-09-05,36,Stage 17 - Santander › Fuente Dé ,187.3
+2012-09-03,62,Stage 16 - Gijón › Valgrande-Pajares (Cuitu Negru) ,185.0
+2012-09-02,105,Stage 15 - La Robla › Lagos de Covadonga ,186.7
+2012-09-01,45,Stage 14 - Palas de Rei › Puerto de Ancares ,152.0
+2012-08-31,97,Stage 13 - Santiago de Compostela › Ferrol ,172.7
+2012-08-30,163,Stage 12 - Vilagarcía de Arousa › Dumbría. Mirador de Ézaro ,184.6
+2012-08-29,140,Stage 11 (ITT) - Cambados › Pontevedra ,39.4
+2012-08-28,140,Stage 10 - Ponteareas › Sanxenxo ,166.4
+2012-08-26,71,Stage 9 - Andorra › Barcelona ,194.0
+2012-08-25,50,Stage 8 - Lleida › Andorra. Collada de la Gallina ,175.0
+2012-08-24,112,Stage 7 - Huesca › Alcañiz. MotorLand Aragón ,160.0
+2012-08-23,73,Stage 6 - Tarazona › Jaca (Fuerte del Rapitán) ,174.8
+2012-08-22,162,Stage 5 - Logroño › Logroño ,172.0
+2012-08-21,182,Stage 4 - Barakaldo › Estación de Valdezcaray ,155.4
+2012-08-20,92,Stage 3 - Faustino V › Eibar (Arrate) ,153.0
+2012-08-19,114,Stage 2 - Pamplona › Viana ,180.0
+2012-08-18,1,Stage 1 (TTT) - Pamplona › Pamplona ,16.2
+2012-08-14,66,Clasica Ciclista San Sebastian (WT) ,234.0
+2012-08-05,116,Stage 5 - Revenga › Lagunas de Neila ,170.0
+2012-08-05,6,Stage 5 - Revenga › Lagunas de Neila ,170.0
+2012-08-04,19,Stage 4 - Doña Santos › Clunia ,170.0
+2012-08-04,90,Stage 4 - Doña Santos › Clunia ,170.0
+2012-08-03,11,Stage 3 - Santo Domingo de Silos › Lerma ,159.0
+2012-08-03,27,Stage 3 - Santo Domingo de Silos › Lerma ,159.0
+2012-08-02,14,Stage 2 - Burgos › Burgos ,141.0
+2012-08-01,34,Stage 1 - Miranda de Ebro › Ojo Guareña ,135.0
+2012-07-31,77,Circuito de Getxo 'Memorial Ricardo Otxoa' (1.1) ,170.0
+2012-07-16,52,Stage 7 - Kraków › Kraków ,131.4
+2012-07-15,12,Stage 6 - Bukovina Terma › Bukowina Tatrzańska ,191.8
+2012-07-14,32,Stage 5 - Rabka › Zakopane ,163.1
+2012-07-13,102,Stage 4 - Będzin › Katowice ,124.7
+2012-07-12,51,Stage 3 - Kędzierzyn › Cieszyn ,201.7
+2012-07-11,60,Stage 2 - Wałbrzych › Opole ,239.4
+2012-07-10,27,Stage 1 - Karpacz › Jelenia Góra ,179.5
+2012-06-24,51,National Championships Spain - Road Race (NC) ,197.9
+2012-06-17,53,Stage 4 - Saint Gaudens › Saint Gaudens ,139.5
+2012-06-16,24,Stage 3 - Trie sur Baise › Arras en Lavedan ,204.6
+2012-06-15,52,Stage 2 - Castres › Saint Michel ,197.1
+2012-06-14,97,Stage 1 - Lacaune les Bains › Albi ,188.4
+2012-06-07,34,GP du canton d'Argovie / GP Gippingen (1.1) ,181.5
+2012-05-06,16,Stage 2 - Colmenar Viejo › Pto. de la Morcuera ,182.4
+2012-05-05,14,Stage 1 (ITT) - Madrid › Madrid ,7.8
+2012-04-29,31,Stage 3 - Lugones › Alto del Naranco ,167.9
+2012-04-28,44,Stage 2a - Teverga › Avilés ,92.2
+2012-04-28,23,Stage 2b (ITT) - Piedras Blancas › Piedras Blancas ,14.0
+2012-04-27,3,Stage 1 - Oviedo › Gijon ,162.2
+2012-04-15,2,Stage 3 - Segovia › Segovia ,173.5
+2012-04-14,7,Stage 2 - Avila	 › Avila	 ,158.7
+2012-04-13,42,Stage 1 - Salamanca › Salamanca ,159.2
+2012-04-08,47,Klasika Primavera de Amorebieta (1.1) ,171.6
+2012-04-01,22,Flèche d'Emeraude - Saint Malo (1.1) ,181.0
+2012-03-30,82,Route Adélie de Vitré (1.1) ,197.8
+2012-03-21,DNS,Stage 3 - La Vall d'en Bas › Port Ainé ,154.2
+2012-03-20,173,Stage 2 - Girona › Girona ,161.0
+2012-03-19,157,Stage 1 - Calella › Calella ,138.9
+2012-03-11,16,Stage 8 (ITT) - Nice › Col d'Eze ,9.6
+2012-03-10,84,Stage 7 - Sisteron › Nice ,220.0
+2012-03-09,53,Stage 6 - Suze-la-Rousse › Sisteron ,176.5
+2012-03-08,17,Stage 5 - Onet-le-Chateau › Mende ,178.0
+2012-03-07,90,Stage 4 - Brive la Gaillarde › Rodez ,183.0
+2012-03-06,91,Stage 3 - Vierzon › Lac de Vassivière ,194.0
+2012-03-05,78,Stage 2 - Mantes-la-Jolie › Orléans ,185.0
+2012-03-04,71,Prologue - Dampierre-en-Yvelines › Saint-Rémy-lès-Chevreuse ,9.4
+2012-02-26,24,Clasica de Almeria (1.HC) ,190.0
+2012-02-25,44,Gp Citté di Lugano (1.1) ,178.0
+2012-02-23,35,Stage 4 - Cruzcampo Jaen › La Guardia de Jaen ,145.6
+2012-02-22,36,Stage 3 - Montemayor › La Gabias ,157.5
+2012-02-21,24,Stage 2 - Malaga › Lucena ,144.7
+2012-02-20,54,Stage 1 - Zahara de los Atunes › Benalmadena ,194.6
+2012-02-19,36,Prologue - San Fernando › San Fernando ,6.0
+2012-02-06,139,Trofeo Migjorn (1.1) ,171.7
+2012-01-22,45,Stage 6 - Adelaide › Adelaide ,90.0
+2012-01-21,7,Stage 5 - McLaren › Old Willunga Hill ,151.5
+2012-01-20,12,Stage 4 - Norwood › Tanunda ,130.0
+2012-01-19,96,Stage 3 - Unley › Victor Harbor ,134.5
+2012-01-18,38,Stage 2 - Lobethal › Stirling ,148.0
+2012-01-17,95,Stage 1 - Prospect › Clare ,149.0
+2011-09-10,139,Stage 5 - Rovereto › Montecchio Maggiore ,170.0
+2011-09-09,36,Stage 4 - Noceto › San Valentino di Brentonica ,184.6
+2011-09-08,160,Stage 3 - Lonate Pozzolo › Salsomaggiore ,227.0
+2011-09-07,103,Stage 2 - Loano › Vigevano ,187.0
+2011-09-06,86,Stage 1 - Paesana › Laigueglia ,170.0
+2011-09-04,19,Giro della Romagna (1.1) ,196.74
+2011-09-01,65,Stage 4 - Gorle › Bergamo ,149.2
+2011-08-31,104,Stage 3 - Alzano Lombardo › Alzano Lombardo ,162.5
+2011-08-30,96,Stage 2 - Calcinato › Calcinato ,199.0
+2011-08-29,32,Stage 1 - Nembro › Castione della Presolana ,176.9
+2011-08-07,40,Stage 5 - Areniscas de los Pinares › Lagunas de Neila ,155.0
+2011-08-06,84,Stage 4 - Roa de Duero › Clúnia ,168.0
+2011-08-04,78,Stage 2 - Burgos › Castillo de Burgos ,144.0
+2011-08-03,56,Stage 1 - Villarcayo › Alto de San Juan del Monte ,168.0
+2011-07-30,102,Clasica Ciclista San Sebastian (WT) ,234.0
+2011-07-10,DNF,Stage 4 - Alto Navas del Rey › San Martín de Valdeiglesias ,140.4
+2011-07-09,91,Stage 3 - Colmenar del Arroyo › Alto de Fresnedillas ,129.0
+2011-07-08,78,Stage 2 - Aldea del Fresno › Santa María de la Alameda ,161.1
+2011-07-07,101,Stage 1 - Alto de Robledo de Chavela › Villa del Prado ,137.5
+2011-05-08,3,Stage 2 - Colmenar Viejo › Colmenar Viejo ,117.7
+2011-05-07,32,Stage 1 - Coslada › Coslada ,84.8
+2011-05-07,4,Prologue - Casa de Campo › Casa de Campo ,7.8
+2011-05-02,2,Stage 6 - Tartiere Auto › Alto del Naranco ,176.0
+2011-05-01,11,Stage 5 - Cafes Toscafa › Oviedo ,181.0
+2011-04-30,1,Stage 4 - Luarca › Santuario del Acebo ,195.0
+2011-04-29,8,Stage 3 (ITT) - Piedras Blancas › Piedras Blancas ,14.0
+2011-04-29,79,Stage 2 - Gijon › Aviles ,83.0
+2011-04-28,5,Stage 1 - Oviedo › Gijon ,162.0
+2011-04-24,22,Vuelta Ciclista A La Rioja (1.1) ,198.0
+2011-04-23,33,Gran Premio Llodio (1.1) ,172.5
+2011-04-10,9,Klasika Primavera de Amorebieta (1.1) ,171.6
+2011-04-09,107,Stage 6 (ITT) - Zalla › Zalla ,24.0
+2011-04-08,109,Stage 5 - Eibar › Zalla ,179.0
+2011-04-07,55,Stage 4 - Amurrio › Eibar (Arrate) ,177.0
+2011-04-06,53,Stage 3 - Villatuerta › Murgia ,177.0
+2011-04-05,32,Stage 2 - Zumarraga › Lekunberri ,167.0
+2011-04-04,26,Stage 1 - Zumarraga › Zumarraga ,149.5
+2011-04-02,7,Gran Premio Miguel Indurain (1.HC) ,179.3
+2011-03-27,59,Stage 7 - Parets del Vallès › Barcelona (Pla de Palau) ,124.5
+2011-03-26,88,Stage 6 - Tarragona › Mollet del Vallès ,189.5
+2011-03-25,77,Stage 5 - El Vendrell › Tarragona ,213.5
+2011-03-24,42,Stage 4 - La Seu d’Urgell › El Vendrell ,195.0
+2011-03-24,154,Stage 4 - La Seu d’Urgell › El Vendrell ,195.0
+2011-03-23,25,Stage 3 - La Vall d’en Bas (Sant Esteve d’en Bas) › Andorra (Vallnord) ,183.9
+2011-03-22,51,Stage 2 - Santa Coloma de Farners › Banyoles ,169.3
+2011-03-21,69,Stage 1 - Lloret de Mar › Lloret de Mar ,166.9
+2011-03-06,14,Stage 3 (ITT) - Murcia › Murcia ,12.4
+2011-03-05,14,Stage 2 - Estrella Levante › Alto de Espuña ,183.2
+2011-03-04,67,Stage 1 - San Pedro del Pinatar › Alhama de Murcia ,178.5
+2011-02-27,90,Clasica de Almeria (1.1) ,179.5
+2011-02-24,90,Stage 5 - CoÌrdoba › Antequera ,162.7
+2011-02-23,96,Stage 4 - La Guardia de Jaén › Córdoba ,174.0
+2011-02-22,55,Stage 3 - Otura › Jaén ,175.3
+2011-02-21,45,Stage 2 - Almuñecar › Adra ,161.3
+2011-02-20,16,Prologue - Benahavís › Benahavís ,6.8
+2010-09-19,130,Stage 21 - San Sebastián de los Reyes › Madrid ,85.0
+2010-09-18,26,Stage 20 - San Martín de Valdeiglesias › Bola del Mundo ,168.8
+2010-09-17,129,Stage 19 - Piedrahíta › Toledo ,200.0
+2010-09-16,145,Stage 18 - Valladolid › Salamanca ,148.9
+2010-09-15,113,Stage 17 (ITT) - Peñafiel › Peñafiel ,46.0
+2010-09-13,76,Stage 16 - Gijón › Alto de Cotobello ,181.4
+2010-09-12,43,Stage 15 - Solares › Lagos de Covadonga ,170.0
+2010-09-11,138,Stage 14 - Burgos › Peña Cabarga ,178.8
+2010-09-10,146,Stage 13 - Rincón de Soto › Burgos ,193.7
+2010-09-09,141,Stage 12 - Andorra la Vella › Lleida ,196.0
+2010-09-08,127,Stage 11 - Vilanova i la Geltrú › Andorra. Vallnord Sector Pal ,208.0
+2010-09-07,5,Stage 10 - Tarragona › Vilanova i la Geltrú ,173.7
+2010-09-05,95,Stage 9 - Calpe › Alcoi ,187.0
+2010-09-04,57,Stage 8 - Villena › Xorret del Catí ,188.8
+2010-09-03,94,Stage 7 - Murcia › Orihuela ,187.1
+2010-09-02,27,Stage 6 - Caravaca de Cruz › Murcia ,144.0
+2010-09-01,114,Stage 5 - Guadix › Lorca ,194.0
+2010-08-31,33,Stage 4 - Málaga › Valdepeñas de Jaén ,177.0
+2010-08-30,34,Stage 3 - Marbella › Málaga ,156.0
+2010-08-29,33,Stage 2 - Alcalá de Guadaíra › Marbella ,173.0
+2010-08-28,21,Stage 1 (TTT) - Sevilla › Sevilla ,13.0
+2010-08-08,15,Stage 5 - Areniscas de los Pinares › Lagunas de Neila ,155.0
+2010-08-07,100,Stage 4 - Vivar del Cid › Salas de los Infantes ,173.0
+2010-08-06,13,Stage 3 (TTT) - Queso de Sasamon › Melgar de Fernamental ,21.3
+2010-08-05,93,Stage 2 - Burgos › Mirande de Ebro ,165.0
+2010-08-04,28,Stage 1 - Villasana de Mena › Medina de Pomar ,143.0
+2010-07-31,13,Clasica Ciclista San Sebastian (PT) ,234.0
+2010-07-25,14,Prueba Villafranca-Ordiziako Klasika (1.1) ,165.7
+2010-06-27,51,National Championships Spain - Road Race (NC) ,226.4
+2010-06-25,10,National Championships Spain - ITT (NC) ,36.8
+2010-06-20,23,Stage 3 (ITT) - Loudenvielle › Peyragudes ,16.2
+2010-06-19,68,Stage 2 - Izaourt › Saint-Gaudens ,82.8
+2010-06-18,77,Stage 1 - Carmaux › Saint-Gaudens ,211.6
+2010-05-22,DNF,Stage 4 - Walygator (Parc) › Belleville ,176.0
+2010-05-21,100,Stage 3 - Raon l'Etape › Saint-Avold ,159.0
+2010-05-20,70,Stage 2 - Pagny sur Moselle › Chantraine ,170.0
+2010-05-19,41,Stage 1 - Thionville › Jarny ,162.0
+2010-05-02,31,Stage 6 - Fuentes Del Narcea › Oviedo ,198.9
+2010-05-01,9,Stage 5 - Cafés Toscaf › Alto del Acebo ,168.8
+2010-04-30,15,Stage 4 (ITT) - Piedras Blancas › Piedras Blancas ,14.2
+2010-04-30,2,Stage 3 - Gijón › Avilés ,88.3
+2010-04-29,10,Stage 2 - Llanes › Gijón ,139.1
+2010-04-28,71,Stage 1 - Oviedo › Llanes ,156.3
+2010-04-18,4,Stage 5 - Samos › Santiago de Compostela ,171.6
+2010-04-17,13,Stage 4 (ITT) - Ponferrada › Ponferrada ,15.1
+2010-04-16,8,Stage 3 - León › Alto del Morredero ,158.8
+2010-04-15,27,Stage 2 - Burgos › Carrión de los Condes(Palencia) ,209.9
+2010-04-14,42,Stage 1 - Belorado › Burgos ,157.7
+2010-04-11,5,Klasika Primavera de Amorebieta (1.1) ,171.6
+2010-04-06,DNS,Stage 2 - Zierbena › Viana ,217.0
+2010-04-05,54,Stage 1 - Zierbena › Zierbena ,152.0
+2010-04-03,26,Gran Premio Miguel Indurain (1.HC) ,179.3
+2010-03-28,128,"Stage 7 - Esport Parc - Centre d'Alt Rendiment, Sant Cugat › Circuit de Catalunya ",117.8
+2010-03-27,141,Stage 6 - El Vendrell › Barcelona (Avinguda de l'Estadi) ,161.9
+2010-03-26,69,Stage 5 - Ascó › Cabacés ,181.2
+2010-03-25,60,Stage 4 - Oliana › Ascó ,209.7
+2010-03-24,72,Stage 3 - La Vall d'En Bas › La Seu d'Urgell ,185.9
+2010-03-23,154,Stage 2 - Salt › Banyoles ,182.6
+2010-03-22,137,Prologue - Lloret de Mar › Lloret de Mar ,3.6
+2010-02-25,18,Stage 5 - Torrox Costa › Antequera ,161.4
+2010-02-24,34,Stage 4 (ITT) - Málaga › Málaga ,10.9
+2010-02-23,19,Stage 3 - Marbella › Benahaves ,162.5
+2010-02-22,17,Stage 2 - Otura › Cordoba ,182.2
+2010-02-21,7,Stage 1 - Jaen › Alto de las Allanadas ,159.2
+2010-02-11,DNF,Trofeo Magaluf - Palmanova (1.1) ,158.5
+2010-02-10,52,Deià Trophy (1.1) ,143.0
+2010-02-09,23,Trofeo Inca-inca (1.1) ,157.2
+2010-02-07,176,Trofeo Palma de Mallorca (1.1) ,116.0
+2010-01-24,89,Stage 7 - San Luis › San Luis ,167.1
+2010-01-23,23,Stage 6 - Quines › Merlo (Mirador del Sol) ,150.0
+2010-01-22,56,Stage 5 - San Luis › Carolina ,156.4
+2010-01-21,38,Stage 4 (ITT) - San Luis › San Luis ,19.8
+2010-01-20,72,Stage 3 - Fraga › Buena Esperanza ,199.7
+2010-01-19,8,Stage 2 - Potrero de los Funes › Mirador del Potrero ,174.4
+2010-01-18,71,Stage 1 - San Luis › Villa Mercedes ,168.4
+2009-05-19,91,Stage 2 - Girona › Roses ,163.1
+2009-05-18,135,Prologue - Lloret de Mar › Lloret de Mar ,3.6
+2009-05-03,24,Subida al Naranco (1.1) ,149.0
+2009-05-02,10,Stage 6 - Cangas del Narcea › Oviedo ,177.7
+2009-05-01,3,Stage 5 - Cafés Toscaf › Alto del A ,180.0
+2009-04-30,15,Stage 4 (ITT) - Castrillon › Castrillon ,14.2
+2009-04-30,57,Stage 3 - Gijón  › Avilés ,88.7
+2009-04-29,8,Stage 2 - Llanas › Gijon ,182.0
+2009-04-28,72,Stage 1 - Oviedo › Llanes ,156.7
+2009-04-26,14,Vuelta Ciclista A La Rioja (1.1) ,218.7
+2009-04-16,106,GP de Denain Porte du Hainaut (1.1) ,202.7
+2009-04-15,DNF,Scheldeprijs (1.HC) ,207.0
+2009-04-13,DNF,Albert Achterhes Pet Ronde van Drenthe (1.1) ,205.2
+2009-04-04,44,Gran Premio Miguel Indurain (1.HC) ,191.0
+2009-03-29,11,Gran Premio Llodio (1.1) ,175.5
+2009-03-27,63,Stage 5 - Benavente › Valladolid ,152.5
+2009-03-26,3,Stage 4 - Santa María Del Páramo › Galende-Laguna De Los Peces ,145.4
+2009-03-25,3,Stage 3 - SAHAGUN › PUERTO SAN ISIDRO ,156.9
+2009-03-24,44,Stage 2 (ITT) - Palencia › Palencia ,28.2
+2009-03-23,16,Stage 1 - Paredes de Navas › Baltanas ,176.3
+2009-02-17,81,Stage 3 - Vegas del Genil › Cordoba ,164.2
+2009-02-16,60,Stage 2 - La Guardia de Jaen › Humilladero ,169.2
+2009-02-15,24,Prologue - Jaen › Jaen ,7.3
+2009-02-10,44,Trofeo Pollença (1.1) ,182.6
+2009-02-09,151,Trofeo Cala: Cala Millor - Son Servera (1.1) ,176.5
+2008-09-21,117,Stage 21 - San Sebastián de los Reyes › Madrid ,102.2
+2008-09-20,57,Stage 20 (ITT) - La Granja de San Ildefonso › Alto de Navacerrada ,17.1
+2008-09-19,23,Stage 19 - Las Rozas › Segovia ,145.5
+2008-09-18,59,Stage 18 - Valladolid › Las Rozas ,167.4
+2008-09-17,70,Stage 17 - Zamora › Valladolid ,148.2
+2008-09-16,79,Stage 16 - Ponferrada › Zamora ,186.4
+2008-09-15,54,Stage 15 - Cudillero › Ponferrada ,202.0
+2008-09-14,23,Stage 14 - Oviedo › Fuentes de Invierno ,158.4
+2008-09-13,16,Stage 13 - San Vicente de la Barquera › Alto de l'Angliru ,209.5
+2008-09-11,59,Stage 12 - Burgos › Suances ,186.4
+2008-09-10,63,Stage 11 - Calahorra › Burgos ,178.0
+2008-09-09,67,Stage 10 - Sabiñánigo › Zaragoza ,151.3
+2008-09-08,26,Stage 9 - Vielha e Mijaran › Sabiñánigo ,200.8
+2008-09-07,29,Stage 8 - Andorra › Pla de Beret ,151.0
+2008-09-06,16,Stage 7 - Barbastro › Andorra (Naturlandia-La Rabassa) ,223.2
+2008-09-04,46,Stage 6 - Ciudad Real › Toledo ,150.1
+2008-09-03,110,Stage 5 (ITT) - Ciudad Real › Ciudad Real ,42.5
+2008-09-02,121,Stage 4 - Córdoba › Puertollano ,170.3
+2008-09-01,84,Stage 3 - Jaén › Córdoba ,168.3
+2008-08-31,70,Stage 2 - Granada › Jaén ,167.3
+2008-08-30,19,Stage 1 (TTT) - Granada › Granada ,7.7
+2008-08-24,6,Clásica a los Puertos (1.1) ,146.0
+2008-08-09,46,Stage 5 - Areniscas de los Pinares › Lagunas de Neila ,155.4
+2008-08-08,55,Stage 4 - Burgos › Aranda de Duero ,162.1
+2008-08-07,87,Stage 3 - Melgar de Fernamental › Burgos ,149.2
+2008-08-06,59,Stage 2 - Belorado › Miranda de Ebro ,185.9
+2008-08-05,16,Stage 1 - Medina de Pomar › Villarcayo ,147.7
+2008-07-20,80,Stage 3 - Madrid › Madrid ,109.0
+2008-07-19,68,Stage 2 - San Agustín del Guadalix › Colmenar Viejo ,152.7
+2008-07-18,51,Stage 1 (ITT) - Pinto › Pinto ,21.2
+2008-06-29,25,National Championships Spain - Road Race (NC) ,202.7
+2008-05-25,116,Stage 7 - Palleja › Barcelona ,106.0
+2008-05-24,156,Stage 6 - El Vendrell › Palleja ,163.9
+2008-05-23,65,Stage 5 - Asco › Asco ,163.5
+2008-05-22,39,Stage 4 - La Seu d'Urgell › Asco ,217.2
+2008-05-21,74,Stage 3 - Banyoles › La Seu d'Urgell ,191.9
+2008-05-20,132,Stage 2 - Riudellots de la Selva › Banyoles ,167.8
+2008-05-19,119,Prologue - Lloret de Mar › Lloret de Mar ,4.0
+2008-05-07,95,Stage 6 - Cangas Narcea - Oviedo ›  ,184.0
+2008-05-06,44,Stage 5 - Cafés Toscaf - Alto del A ›  ,180.0
+2008-05-05,75,Stage 4 - Llanes - Avilés ›  ,168.0
+2008-05-04,57,Stage 3 (ITT) - Nueva - Llanes ›  ,17.0
+2008-05-04,66,Stage 2 - Gijón - Llanes ›  ,96.0
+2008-05-03,46,Stage 1 ,158.2
+2008-05-01,9,Subida al Naranco (1.1) ,153.0
+2008-04-13,54,Klasika Primavera de Amorebieta (1.1) ,172.0
+2008-04-05,19,Gran Premio Miguel Indurain (1.HC) ,199.0
+2008-03-30,20,Gran Premio Llodio (1.1) ,141.0
+2008-03-28,57,Stage 5 -  Guardo - Riaño ›  ,158.0
+2008-03-27,33,Stage 4 - Carrión de los Condes - Montaña Palentina/C. Salce ›  ,161.0
+2008-03-26,24,Stage 3 - VALLADOLID - VILLA DEL LIBRO ›  ,160.0
+2008-03-25,57,Stage 2 - Segovia › Ávila ,141.7
+2008-03-24,97,Stage 1 (ITT) - Valsain › La Granja de San Ildefonso ,9.7
+2008-03-08,28,Stage 5 - Urbanización Veneziola (San Javier) › Murci ,135.0
+2008-03-07,46,Stage 4 (ITT) - Alhama de Murcia › Aledo ,23.0
+2008-03-06,21,Stage 3 - Puerto Lumbreras › San Pedro del Pinatar ,146.0
+2008-03-05,67,Stage 2 - Calasparra › Totana ,153.0
+2008-03-04,56,Stage 1 - San Pedro del Pinatar › Lorca ,197.0
+2008-03-02,96,Clasica de Almeria (1.1) ,187.9
+2008-02-21,43,Stage 5 - Antequera › Córdoba ,155.0
+2008-02-20,48,Stage 4 - La Guardia de Jaén › Écija ,174.0
+2008-02-19,4,Stage 3 - Otura › Jaén ,175.0
+2008-02-18,41,Stage 2 - Torrox Costa › La Zubia ,176.0
+2008-02-17,14,Stage 1 - Benahavis › Álora ,123.0
+2008-02-14,42,Trofeo Calvia (1.1) ,147.6
+2008-02-13,29,Trofeo Sóller (1.1) ,162.4
+2008-02-12,32,Trofeo Pollença (1.1) ,168.4
+2008-02-11,31,Trofeo Cala: Cala Millor - Son Servera (1.1) ,162.7
+2008-02-10,65,Trofeo Mallorca (1.1) ,100.0
+2007-08-26,7,Clasica a los Puertos (1.1) ,146.0
+2007-08-18,25,Stage 5 - Oña › Burgos ,158.0
+2007-08-16,68,Stage 3 - Burgos › Aranda de Duero ,158.0
+2007-08-15,11,Stage 2 - Areniscas de los Pinares › Lagunas de Neila ,149.0
+2007-08-14,24,Stage 1 - Miranda de Ebro › Miranda de Ebro ,150.0
+2007-08-05,12,Urkiola Igoera - Subida Urkiola (1.1) ,163.0
+2007-07-31,69,Circuito de Getxo 'Memorial Ricardo Otxoa' (1.1) ,183.5
+2007-07-25,8,GP Villafranca de Ordizia (1.1) ,165.3
+2007-07-22,48,Stage 5 - Madrid › Madrid ,97.2
+2007-07-21,1,Stage 4 - Colmenar Viejo › Colmenar Viejo ,136.0
+2007-07-20,4,Stage 3 - San Sebastián de los Reyes › San Sebastián de los Reyes ,127.5
+2007-07-19,21,Stage 2 (ITT) - Fuentedueña › Belmonte de Tajo ,21.0
+2007-07-18,3,Stage 1 - Valdelaguna › Valdelaguna ,148.3
+2007-07-01,20,National Championships Spain - Road Race (NC) ,189.4
+2007-06-19,52,Stage 7 - Potes › Santander ,152.0
+2007-06-18,5,Stage 6 - Torrelavega › Santo Toribio ,147.1
+2007-06-17,36,Stage 5a - Polanco › Torrelavega ,112.6
+2007-06-17,36,Stage 5b (ITT) - Polanco › Polanco ,17.0
+2007-06-16,63,Stage 4 - Agua de Solares › Fuente del Chivo ,156.0
+2007-06-15,19,Stage 3 - Santoña › Maliaño ,174.4
+2007-06-14,11,Stage 2 - Los Corrales de Buelna › Laredo ,167.0
+2007-06-13,32,Stage 1 - Santander › El Astillero ,155.0
+2007-06-03,23,Gran Premio Llodio (1.1) ,175.0
+2007-05-26,22,Clasica Internacional 'Txuma' (1.2) ,173.0
+2007-05-07,72,Stage 5 - Gijón › Oviedo ,180.2
+2007-05-06,13,Stage 4 - Cangas del Narcea › Gijón ,158.0
+2007-05-05,90,Stage 3 - Cafés Toscaf › Alto del Acebo ,180.2
+2007-05-04,64,Stage 2 - Llanes › Avilés ,168.0
+2007-05-03,61,Stage 1 - Oviedo › Llanes ,150.6
+2007-05-01,10,Subida al Naranco (1.1) ,165.9
+2007-04-29,43,Stage 5 - Arroyo de San Serván › Mérida ,156.0
+2007-04-28,4,Stage 4 - Miajadas › Miajadas ,158.2
+2007-04-27,40,Stage 3 - Badajoz › Badajoz ,169.0
+2007-04-26,3,Stage 2 - Fuente de Cantos › Fuente de Cantos ,164.1
+2007-04-25,2,Stage 1 - Llerena › Jerez de los Caballeros ,173.0
+2007-04-15,21,Klasika Primavera de Amorebieta (1.1) ,171.0
+2007-04-07,8,Gran Premio Miguel Indurain (1.HC) ,198.6
+2007-02-15,135,Trofeo Calvia (1.1) ,149.3
+2007-02-14,20,Trofeo Sóller (1.1) ,150.6
+2007-02-12,150,Trofeo Cala Millor-Cala Bona (1.1) ,159.4
+2007-02-11,150,Trofeo Mallorca (1.1) ,100.0
+2006-08-20,13,Clasica a los Puertos (1.1) ,146.0
+2006-07-25,45,GP Villafranca de Ordizia (1.1) ,165.0
+2006-06-20,DNF,Stage 5 - Llanes › Oviedo ,184.0
+2006-06-19,127,Stage 4 - Gijón › Llanes ,154.0
+2006-06-18,121,Stage 3 - Cangas Del Narcea › Gijón ,174.0
+2006-06-17,125,Stage 2 - Cafés Toscaf › Alto Del Acebo ,180.0
+2006-06-16,115,Stage 1 - Oviedo › Aviles ,171.0
+2006-06-14,76,Subida al Naranco (1.1) ,162.0
+2006-06-04,DNF,Stage 5 - ETB (Iurreta) › Arrate (Eibar) ,157.5
+2006-06-03,101,Stage 4a - Leintz Gatzaga › Agurain ,84.1
+2006-06-03,91,Stage 4b (ITT) - Agurain › Agurain ,21.2
+2006-06-02,116,Stage 3 - Ispaster › Gatzaga ,190.9
+2006-06-01,113,Stage 2 - Arrigorriaga › Ispaster ,174.0
+2006-05-31,115,Stage 1 - Eibar › Arrigorriaga ,165.5
+2006-05-28,33,Gran Premio Llodio (1.1) ,167.5
+2006-05-14,34,Stage 4 - Humanes › Humanes ,114.5
+2006-05-13,41,Stage 3 - San Sebastián de los Reyes › San Sebastián de los Reyes ,153.3
+2006-05-12,38,Stage 2 - Valdelaguna › Valdelaguna ,145.0
+2006-05-11,30,Stage 1 (ITT) - Madrid › Madrid ,8.5
+2006-04-23,42,Stage 3 - Logroño › Logroño ,148.5
+2006-04-22,64,Stage 2 - Lardero › Cruz De La Demanda ,164.0
+2006-04-21,28,Stage 1 - Calahorra › Calahorra ,162.0
+2006-04-09,64,Klasika Primavera (1.1) ,171.0
+2006-04-01,124,Gran Premio Miguel Indurain (1.1) ,191.0
+2006-03-23,40,Stage 4 - Navacerrada  › Navacerrada  ,148.0
+2006-02-26,DNF,Clasica de Almeria (1.1) ,173.1
+2006-02-09,69,Trofeo Magaluf - Palmanova (1.1) ,148.3
+2006-02-07,72,Trofeo Pollença (1.1) ,149.6
+2006-02-06,117,Trofeo Cala Millor - Cala Bona (1.1) ,159.4
+2006-02-05,107,Trofeo Mallorca (1.1) ,100.0
+2005-09-24,84,World Championships U23 - Road Race (WC) ,168.0
+2005-07-10,DNF,European Championships U23 - Road Race (CC) ,81.6
+2005-06-25,1,National Championships Spain U23 - Road Race (NC) ,158.0
+2005-06-21,66,Stage 7 - Potes › Santander ,152.0
+2005-06-20,31,Stage 6 - Torrelavega › Potes ,171.0
+2005-06-19,2,Stage 5a - Solares › Santander ,113.0
+2005-06-19,50,Stage 5b (ITT) - El Astillero › El Astillero ,14.8
+2005-06-18,101,Stage 4 - Los Corrales › Los Corrales ,174.8
+2005-06-17,8,Stage 3 - Lardo › Camargo ,147.3
+2005-06-16,122,Stage 2 - Renedo › Laredo ,171.5
+2005-06-15,23,Stage 1 - Santander › Torrelevega ,159.2
+2004-04-23,110,Stage 3 - Don Benito › Don Benito ,152.0
+2004-04-22,46,Stage 2 - Badajoz › Villafranca de los Barros ,136.0
+2004-04-21,90,Stage 1 - Campomajor › Badajoz ,167.0

@@ -1,0 +1,557 @@
+date,result ranking,race name,distance
+2022-03-20,38,Stage 5 - Castelo de Vide › Évora ,171.9
+2022-03-19,74,Stage 4 (ITT) - Castelo de Vide › Castelo de Vide ,8.4
+2022-03-18,23,Stage 3 - Elvas › Ponte de Sor ,176.7
+2022-03-17,36,Stage 2 - Beja › Portel ,187.7
+2022-03-16,32,Stage 1 - Vendas Novas › Sines ,176.7
+2022-03-13,72,Classica da Arrabida - Cyclin'Portugal (1.2) ,161.8
+2022-02-20,114,Stage 5 - Lagoa › Malhão (Loulé) ,173.0
+2022-02-19,98,Stage 4 (ITT) - Vila Real de Santo António › Tavira ,32.2
+2022-02-18,115,Stage 3 - Almodôvar › Faro  171k,211.4
+2022-02-17,119,Stage 2 - Albufeira › Fóia (Monchique) ,182.4
+2022-02-16,101,Stage 1 - Portimão  › Lagos ,199.1
+2022-03-20,38,Stage 5 - Castelo de Vide › Évora,171.9
+2022-03-19,74,Stage 4 (ITT) - Castelo de Vide › Castelo de Vide,8.4
+2022-03-18,23,Stage 3 - Elvas › Ponte de Sor,176.7
+2022-03-17,36,Stage 2 - Beja › Portel,187.7
+2022-03-16,32,Stage 1 - Vendas Novas › Sines,176.7
+2022-03-13,72,Classica da Arrabida - Cyclin'Portugal (1.2),161.8
+2022-02-20,114,Stage 5 - Lagoa › Malhão (Loulé),173.0
+2022-02-19,98,Stage 4 (ITT) - Vila Real de Santo António › Tavira,32.2
+2022-02-18,115,Stage 3 - Almodôvar › Faro,211.4
+2022-02-17,119,Stage 2 - Albufeira › Fóia (Monchique),182.4
+2022-02-16,101,Stage 1 - Portimão  › Lagos,199.1
+2021-08-15,21,Stage 10 (ITT) - Viseu  › Viseu ,20.3
+2021-08-14,73,Stage 9 - Boticas › Mondim de Basto (Senhora da Graça),145.5
+2021-08-13,59,Stage 8 - Bragança › Montalegre (Serra do Larouco),160.7
+2021-08-12,51,Stage 7 - Felgueiras › Bragança,193.2
+2021-08-11,62,Stage 6 - Viana do Castelo › Fafe ,182.4
+2021-08-10,90,Stage 5 - Águeda › Santo Tirso (Nossa Senhora da Assunção),171.3
+2021-08-08,39,Stage 4 - Belmonte › Guarda,181.6
+2021-08-07,63,Stage 3 - Sertã › Covilhã (Torre),170.3
+2021-08-06,99,Stage 2 - Ponte de Sor › Castelo Branco,162.1
+2021-08-05,62,Stage 1 - Torres Vedras › Setúbal,175.8
+2021-08-04,6,Prologue - Lisboa › Lisboa,5.4
+2021-06-20,DNS,National Championships Portugal - Road Race (NC),192.2
+2021-05-09,97,Stage 5 - Albufeira › Malhão,170.1
+2021-05-08,78,Stage 4 (ITT) - Lagoa › Lagoa,20.3
+2021-05-07,122,Stage 3 - Faro › Tavira,203.1
+2021-05-06,74,Stage 2 - Sagres › Fóia,182.8
+2021-05-05,20,Stage 1 - Lagos › Portimão,189.5
+2021-05-02,50,Classica da Arrabida - Cyclin'Portugal (1.2),181.2
+2020-10-05,10,Stage 8 (ITT) - Lisbon › Lisbon,17.7
+2020-10-04,59,Stage 7 - Loures › Setúbal,161.0
+2020-10-03,53,Stage 6 - Caldas da Rainha › Torres Vedras,155.0
+2020-10-02,81,Stage 5 - Oliveira do Hospital › Águeda,176.3
+2020-10-01,72,Stage 4 - Guarda › Torre (Covilhã),148.0
+2020-09-30,71,Stage 3 - Felgueiras › Viseu,171.9
+2020-09-29,46,"Stage 2 - Paredes › Mondim, Alto da Senhora da Graça",167.0
+2020-09-28,81,"Stage 1 - Montalegre › Viana do Castelo, Alto Santa Luzia",180.0
+2020-09-27,7,Prologue - Fafe › Fafe,7.0
+2020-09-20,59,Stage 2 - Turcifal › Carvoeira,145.2
+2020-09-19,42,Stage 1 - Torres Vedras › Torres Vedras,145.6
+2020-08-16,DNF,National Championships Portugal - Road Race (NC),165.6
+2020-08-14,19,National Championships Portugal - ITT (NC),18.1
+2020-02-23,86,Stage 5 (ITT) - Lagoa › Lagoa,20.3
+2020-02-22,66,Stage 4 - Albufeira › Malhão,169.7
+2020-02-21,27,Stage 3 - Faro › Tavira,201.9
+2020-02-20,134,Stage 2 - Sagres › Alto da Fóia,183.9
+2020-02-19,22,Stage 1 - Portimão › Lagos,195.6
+2019-08-30,56,Stage 5 - Aigre › Poitiers,167.4
+2019-08-29,39,Stage 4 (ITT) - Leigné-les-Bois › Pleumartin,23.0
+2019-08-29,28,Stage 3 - Châtellerault › Pleumartin,110.7
+2019-08-28,10,Stage 2 - Rochefort-sur-Mer › Aigre,168.1
+2019-08-27,8,Stage 1 - Niort › Rochefort-sur-Mer,188.9
+2019-08-25,43,Stage 5 - Roskilde › Frederiksberg,165.6
+2019-08-24,21,Stage 4 - Korsør › Asnæs Indelukke,175.2
+2019-08-23,31,Stage 3 - Holstebro › Vejle,199.7
+2019-08-22,16,Stage 2 (ITT) - Grindsted › Grindsted,17.0
+2019-08-21,15,Stage 1 - Silkeborg › Silkeborg,169.7
+2019-08-18,7,Fyen Rundt - Tour of Funen (1.2),202.9
+2019-08-11,7,Stage 10 (ITT) - Vila Nova de Gaia › Porto,19.5
+2019-08-10,41,Stage 9 - Fafe › Senhora da Graça,133.5
+2019-08-09,53,Stage 8 - Viana do Castelo › Santa Quitéria,158.0
+2019-08-08,75,Stage 7 - Bragança › Serra do Larouco,156.2
+2019-08-07,69,Stage 6 - Torre de Moncorvo › Bragança,189.2
+2019-08-05,87,Stage 5 - Oliveira do Hospital › Guarda,158.0
+2019-08-04,88,Stage 4 - Pampilhosa da Serra › Torre,145.0
+2019-08-03,6,Stage 3 - Santarém › Castelo Branco,194.1
+2019-08-02,83,Stage 2 - Marinha Grande › St.º António dos Cavaleiros,198.5
+2019-08-01,86,Stage 1 - Miranda do Corvo › Leiria,174.7
+2019-07-31,1,Prologue - Viseu › Viseu,6.0
+2019-07-25,43,Prueba Villafranca-Ordiziako Klasika (1.1),165.7
+2019-07-14,38,Stage 3 - Foz do Arelho › Alto do Montejunto,179.3
+2019-07-13,17,Stage 2 - Atouguia da Baleia › Torres Vedras,152.7
+2019-07-12,10,Stage 1 - Ventosa › Sobral de Monte Agraço,156.8
+2019-07-11,2,Prologue - Turcifal  › Turcifal ,8.0
+2019-05-19,78,Stage 3 - Huesca › Zaragoza,127.4
+2019-05-18,66,Stage 2 - Sadaba › Canfranc,186.2
+2019-05-17,54,Stage 1 - Andorra › Calatayud,186.2
+2019-05-12,80,Stage 3 - Madrid › Madrid,99.9
+2019-05-11,95,Stage 2 - San Martin de Valdeiglesias › San Martin de Valdeiglesias,163.0
+2019-05-10,27,Stage 1 - Aranjuez › Aranjuez,161.0
+2019-04-21,36,Stage 6 - Sakarya › Istanbul,172.4
+2019-04-20,56,Stage 5 - Bursa › Kartepe,164.1
+2019-04-19,36,Stage 4 - Balıkesir  › Bursa,194.3
+2019-04-18,19,Stage 3 - Çanakkale › Edremit,122.6
+2019-04-17,69,Stage 2 - Tekirdağ › Eceabat,183.3
+2019-04-16,27,Stage 1 - Istanbul › Tekirdağ,156.7
+2019-03-24,79,Stage 6 - Portalegre › Évora,152.0
+2019-03-23,19,Stage 5 (ITT) - Castelo de Vide › Castelo de Vide,8.4
+2019-03-23,72,Stage 4 - Ponte de Sor › Portalegre,74.3
+2019-03-22,54,Stage 3 - Santiago do Cacém › Mora,176.5
+2019-03-21,95,Stage 2 - Mértola › Odemira,182.8
+2019-03-20,12,Stage 1 - Montemor-o-Novo › Moura,208.1
+2019-03-17,DNF,Classica da Arrabida - Cyclin'Portugal (1.2),185.0
+2019-02-24,47,Stage 5 - Faro › Malhão,173.5
+2019-02-23,15,Stage 4 - Albufeira › Tavira,198.3
+2019-02-22,76,Stage 3 (ITT) - Lagoa › Lagoa,20.3
+2019-02-21,87,Stage 2 - Almodôvar › Fóia,187.4
+2019-02-20,113,Stage 1 - Portimão › Lagos,199.1
+2019-02-10,11,Stage 5 - Paterna › Valencia,88.5
+2019-02-09,76,Stage 4 - Vila-Real › Alcala-Alcocebre,188.0
+2019-02-08,90,Stage 3 - Quart de Poblet › Chera,191.0
+2019-02-07,26,Stage 2 - Alicante › Alicante,166.0
+2019-02-06,112,Stage 1 (ITT) - Orihuela › Orihuela,10.3
+2018-07-22,11,Stage 5 - Ferreira do Alentejo › Faro,142.8
+2018-07-21,77,Stage 4 - Montargil › Aljustrel,159.7
+2018-07-20,68,Stage 3 - Pedrógão Grande › Montargil,144.1
+2018-07-19,71,Stage 2 - Castro Daire › Pedrógão Grande,177.2
+2018-07-18,35,Stage 1 - Chaves › Castro Daire,140.7
+2018-05-06,97,Stage 3 - Madrid › Madrid,99.94
+2018-05-05,35,Stage 2 - Alcobendas › San Sebastián de los Reyes,134.5
+2018-05-04,47,Stage 1 - Manzanares El Real › Manzanares El Real,175.4
+2018-04-22,62,Stage 3 - Segovia › Avila,165.6
+2018-04-21,11,Stage 2 - Valladolid › Palencia,178.3
+2018-04-20,10,Stage 1 - Alba de Tormes › Salamanca,182.4
+2018-03-18,38,Stage 6 - Castelo de Vide › Évora,151.3
+2018-03-17,79,Stage 5 (ITT) - Castelo de Vide › Castelo de Vide,8.4
+2018-03-17,72,Stage 4 - Monforte › Portalegre,64.2
+2018-03-16,43,Stage 3 - Grândola › Arraiolos,149.3
+2018-03-15,9,Stage 2 - Beja › Sines,205.2
+2018-03-14,7,Stage 1 - Vendas Novas › Serpa,173.5
+2018-03-11,11,Classica da Arrabida - Cyclin'Portugal (1.2),169.6
+2018-02-18,136,Stage 5 - Faro › Malhão (Loulé),173.5
+2018-02-17,14,Stage 4 - Almodôvar › Tavira,199.2
+2018-02-16,144,Stage 3 (ITT) - Lagoa › Lagoa,20.3
+2018-02-15,160,Stage 2 - Sagres › Fóia (Monchique),187.9
+2018-02-14,20,Stage 1 - Albufeira › Lagos,192.6
+2017-08-15,37,Stage 10 (ITT) - Viseu › Viseu,20.1
+2017-08-14,62,Stage 9 - Lousã › Guarda,184.1
+2017-08-13,52,Stage 8 - Gondomar › Oliveira de Azeméis ,159.8
+2017-08-12,86,Stage 7 - Lousada › St. Tirso (Monte N. Sr.ª da Assunção)  ,161.9
+2017-08-10,48,Stage 6 - Braga › Fafe,182.7
+2017-08-09,69,Stage 5 - Boticas › Viana do Castelo ,179.6
+2017-08-08,74,Stage 4 - Macedo de Cavaleiros  › Mondim de Basto (Sr.ª da Graça) ,152.7
+2017-08-07,8,Stage 3 - F. C. Rodrigo  › Bragança,162.1
+2017-08-06,1,Stage 2 - Reguengos de Monsaraz  › Castelo Branco ,214.7
+2017-08-05,14,Stage 1 - Vila Franca de Xira  › Setúbal,203.0
+2017-08-04,27,Prologue - Lisboa › Lisboa,5.4
+2017-07-09,38,Stage 4 - Sao Martinho do Porto › Carvoeira,162.0
+2017-07-08,17,Stage 3a - Atouguia da Baleia › Vimeiro,78.0
+2017-07-08,46,Stage 3b - Torres Vedras › Torres Vedras,111.0
+2017-07-07,46,Stage 2 - Sobral Monte Agraco › Alto de Montejunto,155.0
+2017-07-06,2,Stage 1 - Ventosa › Arruda dos Vinhos,140.0
+2017-07-05,7,Prologue - Turcifal › Turcifal,8.0
+2017-05-07,86,Stage 3 - Madrid › Avenida de la Castellana,99.9
+2017-05-06,4,Stage 2 - Valdemoro › Valdemoro,148.5
+2017-05-05,64,Stage 1 - Las Rozas › Las Rozas,145.1
+2017-04-02,DNS,Vuelta Ciclista a La Rioja (1.1),150.5
+2017-04-01,DNF,Gran Premio Miguel Indurain (1.1),186.0
+2017-03-05,80,Classica da Arrabida - Cylin'Portugal (1.2),186.6
+2017-02-26,7,Stage 5 - Ferreira do Alentejo › Évora,168.9
+2017-02-25,84,Stage 4 - Odemira › Alcácer do Sal,175.8
+2017-02-24,44,Stage 3 - Mourão › Mértola,208.8
+2017-02-23,25,Stage 2 - Monforte › Portel,171.3
+2017-02-22,102,Stage 1 - Portalegre › Castelo de Vide,158.0
+2017-02-05,20,Stage 5 - Valencia › Valencia,49.5
+2017-02-04,129,Stage 4 - Segorbe › Llucena ,180.0
+2017-02-03,6,Stage 3 - Canals › Riba-Roja de Túria,161.0
+2017-02-02,52,Stage 2 - Alicante › Denia,180.6
+2017-02-01,173,Stage 1 (TTT) - Orihuela › Orihuela,37.9
+2016-08-07,45,Stage 10 (ITT) - Villa Franca de Xira › Lisboa,32.0
+2016-08-06,39,Stage 9 - Alcacer do Sal › Setúbal,187.5
+2016-08-05,2,Stage 8 - Nazaré › Arruda dos Vinhos,208.5
+2016-08-04,2,Stage 7 - Figueira de Castelo Rodrigo › Castelo Branco,182.0
+2016-08-03,30,Stage 6 - Belmonte › Guarda,173.7
+2016-08-01,68,Stage 5 - Lamego ›  Viseu,153.2
+2016-07-31,70,Stage 4 - Bragança › Senhora da Graça,191.9
+2016-07-30,65,Stage 3 - Montalegre › Macedo de Cavaleiros,158.9
+2016-07-29,45,Stage 2 - Viana › Fafe,160.0
+2016-07-28,4,Stage 1 - Ovar › Braga,167.4
+2016-07-27,44,Prologue - Oliveira de Azeméis › Oliveira de Azeméis,3.6
+2016-07-10,41,Stage 3 - Atouguia de Baleia › Carvoeira,147.0
+2016-07-09,5,Stage 2 - Palhagueiras › Torres Vedras,154.3
+2016-07-08,44,Stage 1 - Ventosa › Alto de Montejunto,179.0
+2016-07-07,18,Prologue - Turcifal › Turcifal,8.0
+2016-06-26,DNF,National Championships Portugal - Road Race (NC),177.1
+2016-05-15,DNF,Stage 3 - Guarda › Penhas da Saúde,194.1
+2016-05-14,17,Stage 2 - Sabugal › Fundão ,198.6
+2016-05-13,76,Stage 1 - Pinhel › Vilar Formoso,145.0
+2016-04-17,71,Stage 3 - Salamanca › Alto de Candelario,151.4
+2016-04-16,19,Stage 2 - Bragança › Fermoselhe,170.6
+2016-04-15,31,Stage 1 - Alcanices › Bragança,166.3
+2016-04-03,3,Vuelta Ciclista a La Rioja (1.1),157.4
+2016-04-02,DNF,Gran Premio Miguel Indurain (1.1),192.0
+2016-03-20,3,Stage 5 - Santiago do Cacém › Évora,172.3
+2016-03-19,21,Stage 4 - Aljustrel › Grândola,184.7
+2016-03-18,14,Stage 3 - Portel › Beja,186.6
+2016-03-17,10,Stage 2 - Monforte › Montemor-o-novo,206.2
+2016-03-16,21,Stage 1 - Portalegre › Castelo de Vide,158.0
+2016-03-13,6,Stage 2 - Lagoa › Lagoa,186.6
+2016-03-12,4,Stage 1 - Vila Nova de Cacela › Vila Nova de Cacela,154.0
+2016-02-21,98,Stage 5 - Almodôvar › Alto do Malhão,169.0
+2016-02-20,9,Stage 4 - S. Brás de Alportel › Tavira,194.0
+2016-02-19,145,Stage 3 (ITT) - Sagres › Sagres,18.0
+2016-02-18,108,Stage 2 - Lagoa › Alto da Fóia,198.6
+2016-02-17,78,Stage 1 - Lagos › Albufeira,163.6
+2015-08-30,6,Stage 5 - Teresópolis › Rio de Janeiro,145.0
+2015-08-29,46,Stage 4 - Valença › Teresópolis,153.0
+2015-08-28,55,Stage 3 - Valença › Rio das Flores,166.0
+2015-08-27,16,Stage 2 - Angra dos Reis › Valença,175.0
+2015-08-26,7,Stage 1 - Rio de Janeiro › Angra dos Reis,158.0
+2015-08-09,9,Stage 10 - Vila Franca de Xira › Lisboa,132.5
+2015-08-08,70,Stage 9 (ITT) - Praia de Pedrógão › Leiria,34.2
+2015-08-07,2,Stage 8 - Guarda › Castelo Branco,180.2
+2015-08-06,53,Stage 7 - Condeixa-a-Nova › Seia (Torre),171.3
+2015-08-04,47,Stage 6 - Ovar (Furadouro) › Oliveira de Azeméis,154.1
+2015-08-03,80,Stage 5 - Braga › Viana do Castelo (Sta. Luzia),169.4
+2015-08-02,56,Stage 4 - Alvarenga › Mondim de Basto (Sra. da Graça),159.4
+2015-08-01,39,Stage 3 - Boticas › Fafe,172.2
+2015-07-31,67,Stage 2 - Macedo de Cavaleiros › Montalegre (Serra do Larouco),175.6
+2015-07-30,2,Stage 1 - Pinhel › Bragança,196.8
+2015-07-29,12,Prologue - Viseu › Viseu,6.0
+2015-07-12,54,Stage 3 - Sao Martinho do Porto › Carvoeira,172.4
+2015-07-11,58,Stage 2 - Ameal › Torres Vedras,143.0
+2015-07-10,102,Stage 1 - Arneiros › Alto de Montejunto,155.5
+2015-07-09,8,Prologue - Turcifal › Turcifal,8.0
+2015-05-10,4,Stage 2 - Madrid › Madrid,84.0
+2015-05-09,27,Stage 1 - Colmenar Viejo › Colmenar Viejo,200.0
+2015-04-19,66,Stage 3 - Zamora › Alto de Lubián,179.2
+2015-04-18,9,Stage 2 - Guarda › Fuentes de Oñoro,208.0
+2015-04-17,20,Stage 1 - Ávila › Alba de Tormes,147.4
+2015-03-29,2,Stage 5 - Alcácer do Sal › Reguengos de Monsaraz,175.1
+2015-03-28,13,Stage 4 - Aljustrel › Vila Nova de St. André,143.7
+2015-03-27,4,Stage 3 - Portel › Mertola,189.6
+2015-03-26,2,Stage 2 - Castelo de Vide › Mora,152.5
+2015-03-25,30,Stage 1 - Portalegre › Castelo de Vide,143.0
+2015-03-22,9,Stage 2 - Odemira › Odemira,187.6
+2015-03-21,27,Stage 1 - Sines › Vila do Bispo,218.0
+2015-03-08,54,Stage 2 - Alcoutim › Alcoutim,163.6
+2015-03-07,9,Stage 1 - Tavira › Vila Nova de Cacela,155.6
+2015-03-01,6,Clássica Internacional Loulé Capital Europeia do Desporto (1.2),158.5
+2015-02-22,16,Stage 5 - Almodôvar › Vilamoura,184.3
+2015-02-21,80,Stage 4 - Tavira › Malhão,215.7
+2015-02-20,120,Stage 3 (ITT) - Vila do Bispo › Cabo de São Vicente,19.0
+2015-02-19,164,Stage 2 - Lagoa › Monchique,197.2
+2015-02-18,137,Stage 1 - Lagos › Albufeira,166.7
+2014-08-31,6,Stage 6 - Rio das Ostras › Rio de Janeiro,180.7
+2014-08-30,40,Stage 5 - Teresópolis › Rio das Ostras,196.3
+2014-08-29,55,Stage 4 - Três Rios › Teresópolis,120.3
+2014-08-28,10,Stage 3 - Volta Redonda › Três Rios,173.7
+2014-08-27,55,Stage 2 - Angra dos Reis › Volta Redonda,163.3
+2014-08-26,46,Stage 1 - Rio de Janairo › Angra dos Reis,162.8
+2014-08-10,23,Stage 10 - Burinhosa (Pataias) › Lisboa,167.1
+2014-08-09,45,Stage 9 (ITT) - Oleiros › Sertã,28.9
+2014-08-08,2,Stage 8 - Sabugal › Castelo Branco,194.0
+2014-08-07,51,Stage 7 - Belmonte › Torre,172.5
+2014-08-05,6,Stage 6 - Oliveira do Bairro › Viseu,155.0
+2014-08-04,64,Stage 5 - Alvarenga › Santo Tirso,161.3
+2014-08-03,77,Stage 4 - Boticas › Mondim de Basto,192.5
+2014-08-02,69,Stage 3 - Viana do Castelo › Montalegre,180.0
+2014-08-01,49,Stage 2 - Gondomar › Braga,171.8
+2014-07-31,8,Stage 1 - Lousada › Maia,183.5
+2014-07-30,44,Prologue - Fafe › Fafe,6.8
+2014-03-30,1,Stage 5 - Alcácer do Sal › Évora,172.9
+2014-03-29,68,Stage 4 - Odemira › Santiago do Cacém,159.2
+2014-03-28,83,Stage 3 - Redondo › Mértola,205.0
+2014-03-27,87,Stage 2 - Sousel › Montemor-o-Novo,192.7
+2014-03-26,56,Stage 1 - Castelo de Vide › Marvão,167.0
+2014-02-23,15,Stage 5 - Tavira › Vilamoura,155.8
+2014-02-22,66,Stage 4 - Almodôvar › Alto do Malhão,164.5
+2014-02-21,116,Stage 3 (ITT) - Vila do Bispo › Sagres,13.6
+2014-02-20,87,Stage 2 - Lagoa › Monchique,196.0
+2014-02-19,14,Stage 1 - Faro › Albufeira,160.0
+2014-02-16,5,Stage 8 - Sao Paulo › Sao Paolo,66.5
+2014-02-15,55,Stage 7 - Águas de Lindóia › Monte Verde,97.9
+2014-02-14,36,Stage 6 - Lindoia › Atibaia,159.1
+2014-02-13,53,Stage 5 - Brotas › Aguas de Lindoia,191.6
+2014-02-12,84,Stage 4 (ITT) - Brotas › Brotas,25.8
+2014-02-11,40,Stage 3 - Botucatu › Brotas,146.1
+2014-02-10,48,Stage 2 - Sorocaba › Botucatu,144.3
+2014-02-09,17,Stage 1 - Barueri › Sorocaba,102.9
+2013-09-01,26,Stage 5 - Rio das Ostras › Rio de Janeiro,180.7
+2013-08-31,9,Stage 4 - Teresópolis › Rio das Ostras,196.3
+2013-08-30,29,Stage 3 - Três Rios › Teresópolis,120.3
+2013-08-29,5,Stage 2 - Volta Redonda › Três Rios,167.2
+2013-08-28,7,Stage 1 - Rio de Janeiro › Angra dos Reis,162.8
+2013-08-08,115,Stage 1 - Bombarral › Aveiro,203.3
+2013-08-07,11,Prologue - Lisboa › Lisboa,5.0
+2013-07-21,52,Stage 3 - Manique do Intendente › Alto da Carvoeira,177.0
+2013-07-20,3,Stage 2 - Atouguia da Baleia › Torres Vedras,153.3
+2013-07-19,5,Stage 1 - Silveira › Vimeiro,160.8
+2013-06-23,9,National Championships Portugal - Road Race (NC),158.6
+2013-05-12,DNF,Stage 2 - Bueño (Ribera de Arriba) › Alto del Naranco (Oviedo),157.0
+2013-05-11,91,Stage 1 - Oviedo › Pola de Lena,156.8
+2013-03-24,64,Stage 5 - V Nª de Santo André › Santiago do Cacém,135.4
+2013-03-23,4,Stage 4 - Ourique › Odemira,153.3
+2013-03-22,117,Stage 3 - Vidigueira › Mértola,174.6
+2013-03-21,28,Stage 2 - Sousel › Portel,172.1
+2013-03-20,61,Stage 1 - Castelo de Vide › Marvão,167.0
+2013-02-17,116,Stage 4 (ITT) - Castro Marim › Tavira,34.8
+2013-02-16,62,Stage 3 - Portimao › Alto do Malhão,193.0
+2013-02-15,11,Stage 2 - Lagoa › Lagoa,195.0
+2013-02-14,10,Stage 1 - Faro › Albufeira,198.8
+2012-11-08,22,Stage 8 - Changshu › Changshu,136.0
+2012-11-07,20,Stage 7 - Wujiang › Wujiang,114.1
+2012-11-06,10,Stage 6 - Huzhou › Huzhou,106.0
+2012-11-05,9,Stage 5 - Yixing  › Yixing,110.6
+2012-11-04,7,Stage 4 - Liyang › Liyang,155.2
+2012-11-03,10,Stage 3 - Wujin › Wujin,114.8
+2012-11-02,6,Stage 2 - Zhangjiagang Shuangshan › Zhangjiagang Shuangshan,129.0
+2012-11-01,14,Stage 1 - Binhu › Binhu,142.0
+2012-08-26,3,Stage 10 - Sintra › Lisboa,149.5
+2012-08-25,103,Stage 9 (ITT) - Pedrogão ›  Leiria,32.6
+2012-08-24,87,Stage 8 - Guarda › Seia (Torre),154.9
+2012-08-23,6,Stage 7 - Gouveia › Sabugal,185.3
+2012-08-21,26,Stage 6 - Aveiro › Viseu,184.1
+2012-08-20,113,Stage 5 - Armamar › Oliveira de Azeméis,176.6
+2012-08-19,106,Stage 4 - Viana do Castelo › Mondim de Basto,151.9
+2012-08-18,117,Stage 3 - Vila Nova da Cerveira › Fafe,176.1
+2012-08-17,12,Stage 2 - Oliveira do Bairro › Trofa,190.7
+2012-08-16,130,Stage 1 - Termas Monfortinho › Oliveira do Hospital,200.8
+2012-08-15,7,Prologue - Castelo Branco › Castelo Branco,2.2
+2012-07-14,OTL,Stage 2 - Torres Vedras › Torres Vedras,100.0
+2012-07-13,49,Stage 1 - Manique do Intendente  › Vimeiro,184.0
+2012-07-12,35,Prologue - Torres Vedras › Torres Vedras,8.0
+2012-06-24,7,National Championships Portugal - Road Race (NC),158.6
+2012-04-29,100,Stage 3 - Lugones › Alto del Naranco,167.9
+2012-04-28,110,Stage 2a - Teverga › Avilés,92.2
+2012-04-28,81,Stage 2b (ITT) - Piedras Blancas › Piedras Blancas,14.0
+2012-04-27,103,Stage 1 - Oviedo › Gijon,162.2
+2012-03-25,4,Stage 4 - Mértola  › Grândola,141.0
+2012-03-24,4,Stage 3 - Odemira  › Ourique,168.6
+2012-03-23,4,Stage 2 - Portel  › Santiago do Cacém,191.3
+2012-03-22,2,Stage 1 - Castelo de Vide › Redondo,165.8
+2012-02-19,114,Stage 5 (ITT) - Lagoa › Portim,25.8
+2012-02-18,11,Stage 4 - Vilamoura › Tavira,186.3
+2012-02-17,129,Stage 3 - Castro Marim › Alto do Malh?o (Loul,194.6
+2012-02-16,21,Stage 2 - Faro › Lagoa,187.5
+2012-02-15,59,Stage 1 - Dunas Douradas (Loul › Albufeira,151.0
+2012-01-29,35,Stage 7 - San Luis › San Luis,167.0
+2012-01-28,17,Stage 6 - Lujan  › Quines,201.0
+2012-01-27,89,"Stage 5 -  La Toma  › Mirador del Sol, Merlo ",160.6
+2012-01-26,117,Stage 4 (ITT) - San Luis › San Luis,19.5
+2012-01-25,105,Stage 3 - Estancia Grande  › Mirador de Potrero,168.2
+2012-01-24,18,Stage 2 - Fraga  › Juana Koslay,145.3
+2012-01-23,8,Stage 1 - San Luis  › Villa Mercedes,189.3
+2011-09-18,68,Stage 9 - Pirdop › Teteven,145.0
+2011-09-17,58,Stage 8 - Tryavna › Pirdop,170.0
+2011-09-16,2,Stage 7 - Kzanlak › Tryavna,95.0
+2011-09-15,3,Stage 6 - Karnobat › Kazanlak,146.0
+2011-09-14,7,Stage 5 - Dobrich › Nesebar,152.0
+2011-09-13,6,Stage 4 - Shumen › Dobrich,135.0
+2011-09-12,38,Stage 3 - Veliko Tarnovo › Shumen,142.0
+2011-09-12,39,Stage 2 - Troyan › Veliko Tarnovo,101.0
+2011-09-11,35,Stage 1 - Sofia › Troyan,180.0
+2011-08-15,3,Stage 12 - Sintra  › Lisboa,152.6
+2011-08-14,73,Stage 11 - Covilhã › Sertã,182.3
+2011-08-13,78,Stage 10 - Seia › Torre,182.8
+2011-08-12,41,Stage 9 (ITT) - Sabugal › Guarda,35.3
+2011-08-11,5,Stage 8 - Aveiro › Castelo Branco,215.9
+2011-08-09,8,Stage 6 - Oliveira do Hospital › Viseu,150.3
+2011-08-08,57,Stage 5 - Lamego › Gouveia,182.3
+2011-08-07,63,Stage 4 - Viana do Castelo › Senhora da Graça,151.0
+2011-08-06,50,Stage 3 - Oliveira de Azeméis › Monte Nuestra Señora de la Asunción,184.4
+2011-08-05,106,Stage 2 - Trofa › Oliveira do Bairro,187.7
+2011-08-04,9,Prologue - Fafe › Fafe,2.2
+2011-07-10,DNF,Stage 4 - Torres Vedras › Torres Vedras,100.0
+2011-07-09,22,Stage 3 - Atouguia da Baleia › Vimeiro,153.0
+2011-07-08,57,Stage 2 - Manique do Intendente › Carvoeira,179.0
+2011-07-07,56,Stage 1 - Ramalhal › Sobral de Monte Agraço,161.0
+2011-06-26,9,National Championships Portugal - Road Race (NC),158.6
+2011-06-12,14,Stage 4 - Montemor-o-Novo › Redondo,169.7
+2011-06-11,5,Stage 3 - Aljustrel › Reguengos de Monsaraz,155.9
+2011-06-10,3,Stage 2 - Vila Viçosa › Mértola,176.6
+2011-06-09,5,Stage 1 - Mora › Campo Maior,169.9
+2011-04-24,85,Vuelta Ciclista A La Rioja (1.1),198.0
+2011-04-23,67,Gran Premio Llodio (1.1),172.5
+2011-03-27,2,Stage 3 - Sines › Grândola,157.7
+2011-03-26,4,Stage 2 - Santiago do Cacém › Ourique,154.4
+2011-03-25,67,Stage 1 - Quinta do Conde › Setúbal,152.3
+2011-02-20,114,Stage 5 (ITT) - Lagoa › Portimão,17.2
+2011-02-19,17,Stage 4 - Albufeira › Tavira,167.3
+2011-02-18,126,Stage 3 - Tavira › Malhão,179.2
+2011-02-17,43,Stage 2 - Lagoa › Lagos,186.5
+2011-02-16,86,Stage 1 - Estádio Algarve › Albufeira,157.5
+2010-10-03,DNF,World Championships - Road Race (WC),262.7
+2010-08-15,72,Stage 11 - Sintra › Lisboa,152.6
+2010-08-14,81,Stage 10 (ITT) - Pedrógão – › Leiria,32.6
+2010-08-13,39,Stage 9 - Oliveira do Hospital › Oliveira do Bairro,169.9
+2010-08-12,103,Stage 8 - Idanha-a-Nova › Torre,168.0
+2010-08-11,119,Stage 7 - Moimenta da Beira › Castelo Branco,221.1
+2010-08-10,96,Stage 6 - Fafe › Lamego,172.4
+2010-08-08,91,Stage 5 - Barcelos › Senhora da Graça,175.8
+2010-08-07,84,Stage 4 - Santo Tirso › Viana do Castelo,173.7
+2010-08-06,92,Stage 3 - Aveiro › Sr.ª Assunção (Santo Tirso),152.3
+2010-08-05,129,Stage 2 - Gouveia › Oliveira de Azeméis,188.0
+2010-08-04,18,Prologue - Viseu › Viseu,5.5
+2010-07-11,61,Stage 5 - Torres Vedras › Torres Vedras,104.0
+2010-07-10,82,Stage 4 - Mafra › Vimeiro,170.0
+2010-07-09,102,Stage 3 - Sobral de Monte Agraço › Carvoeira,148.2
+2010-07-08,71,Stage 2 - Samora Correia › Manique do Intendente,166.0
+2010-07-07,40,Prologue - Lisboa › Lisboa,5.3
+2010-06-13,95,Stage 4 - Redondo › Évora,162.0
+2010-06-12,48,Stage 3 (ITT) - Reguengos Monsaraz › Monsaraz,18.4
+2010-06-11,80,Stage 2 - Viana do Alentejo › Estremoz,180.2
+2010-06-10,65,Stage 1 - Vidigueira › Aljustrel,178.0
+2010-05-30,73,Stage 3 - Langon › Villenave d’Ornon,169.8
+2010-05-29,74,Stage 2 - Saint-Pierre d'Aurillac › Cenon,180.9
+2010-05-28,3,Stage 1 - Bassens › Braud-St-Louis,183.2
+2010-04-11,DNF,Klasika Primavera de Amorebieta (1.1),171.6
+2010-02-21,93,Stage 5 (ITT) - Lagoa › Portimão,17.2
+2010-02-20,9,Stage 4 - Cacela › Tavira,169.0
+2010-02-19,122,Stage 3 - Castro Marim › Alto do Malhão,173.7
+2010-02-18,141,Stage 2 - Sagres › Lagos,207.5
+2010-02-17,161,Stage 1 - Estádio do Algarve › Albufeira,157.5
+2010-02-10,OTL,Deià Trophy (1.1),143.0
+2009-08-16,31,Stage 11 (ITT) - Viseu › Viseu,30.8
+2009-08-15,58,Stage 10 - Oliveira do Bairro › Seia,154.6
+2009-08-14,52,Stage 9 - Gondomar › Aveiro,166.1
+2009-08-13,51,Stage 8 - Póvoa de Varzim › São João da Madeira,161.8
+2009-08-12,50,Stage 7 - Barcelos › Santo Tirso,174.6
+2009-08-11,48,Stage 6 - Felgueiras › Fafe,184.6
+2009-08-09,78,Stage 5 - Trancoso › Mondim de Basto (Senhora da Graça),158.1
+2009-08-08,105,Stage 4 - Fundão › Gouveia,164.3
+2009-08-07,80,Stage 3 - Idanha-a-Nova › Guarda,175.0
+2009-08-06,47,Stage 2 - Caldas das Rainha › Castelo Branco,228.7
+2009-08-05,10,Prologue - Lisbon › Lisbon,2.4
+2009-07-12,9,Stage 5 - Torres Vedras › Torres Vedras,98.4
+2009-07-11,47,Stage 4 - Manique do Intendente › Vimieiro,181.4
+2009-07-10,59,Stage 3 - Sobral de Monte Agraço › Torres Vedras,151.6
+2009-07-09,4,Stage 2 - Silveira › Benavente,176.3
+2009-07-08,13,Prologue - Silveira › A dos Cunhados,9.0
+2009-06-01,84,Stage 4 - Villenave d'Ornon › Villenave d'Ornon,159.8
+2009-05-31,67,Stage 3 - Bellebat › Ladaux,156.6
+2009-05-30,46,Stage 2 - Cenon › Cenon,175.3
+2009-05-29,6,Stage 1 - Lanton › Salles,169.1
+2009-04-26,3,Stage 5 - Merida › Merida,149.9
+2009-04-25,2,Stage 4 - Miajadas › Miajadas,158.2
+2009-04-24,5,Stage 3 - Zafra › Zafra,173.2
+2009-04-23,7,Stage 2 - Almendralejo › Almendralejo,156.9
+2009-04-22,18,Stage 1 - Moraleja › Montanchez,155.1
+2009-04-12,41,Klasika Primavera de Amorebieta (1.1),171.6
+2009-04-05,74,Stage 5 - Vendas Novas › Vendas Novas - Évora,169.4
+2009-04-04,10,Stage 4 - Alter do Chão › Alter do Chão - Nisa,164.7
+2009-04-03,29,Stage 3 (ITT) - Beja › Beja,19.0
+2009-04-02,89,Stage 2 - Ferreira do Alentejo › Montemor-o-Novo,209.9
+2009-04-01,5,Stage 1 - Vila Nova de Milfontes › Odemira,159.0
+2009-02-22,7,Stage 5 - Vila do Bispo › Portimao,168.8
+2009-02-21,49,Stage 4 (ITT) - Castro Marim › Tavira,33.7
+2009-02-20,63,Stage 3 - Vila Real de Santo António  › Alto do Malhao,175.0
+2009-02-19,56,Stage 2 - Lagoa › Lagos,183.5
+2009-02-18,29,Stage 1 - Albufeira › Olhao,173.6
+2009-01-25,16,Stage 7 - San Luis › San Luis,167.1
+2009-01-24,52,Stage 6 - Potrero De Los Funes › Potrero De Los Funes,121.0
+2009-01-23,76,Stage 5 - San Francisco Del Mote De Oro › Merlo,204.8
+2009-01-22,43,Stage 4 - San Luis › La Carolina,159.0
+2009-01-21,69,Stage 3 (ITT) - San Luis › San Luis,19.8
+2009-01-20,122,Stage 2 - San Luis/La Toma › Mirador Del Potrero,174.4
+2009-01-19,113,Stage 1 - San Luis › Villa Mercedes,168.4
+2008-09-14,DNF,Stage 7 - Svilengrad › Plovdiv,141.0
+2008-09-13,26,Stage 6a - Kazanlak › Stara Zagora,95.0
+2008-09-13,5,Stage 6b - Stara Zagora › Svilengrad,111.0
+2008-09-12,5,Stage 5 - Aitos › Kazanlak,176.0
+2008-09-11,5,Stage 4 - Varna › Bourgas,133.0
+2008-09-10,3,Stage 3 - Razgrad › Varna,132.0
+2008-09-09,14,Stage 2 - Gabrovo › Razgrad,154.0
+2008-09-08,4,Stage 1 - Troyan › Gabrovo,112.0
+2008-07-12,36,Stage 4 - Praia da Areia Branca › Vimeiro,153.6
+2008-07-11,57,Stage 3 - Sobral de Monteagraço › Alto de Montejunto,158.0
+2008-07-10,12,Stage 2 - Manique do Intendente › Benavente,172.2
+2008-07-09,49,Stage 1 - A dos Cunhados › Carvoeira,155.0
+2008-06-22,52,Stage 4 - Saint-Berthevin › Laval,167.0
+2008-06-21,66,Stage 3 - Voutré › Evron,172.0
+2008-06-20,61,Stage 2 - Saint-Berthevin › Ernée,184.0
+2008-06-19,115,Prologue - Laval › Laval,4.0
+2008-04-27,55,Stage 5 - Moraleja  › Moraleja ,144.0
+2008-04-26,91,Stage 4 - Casar de Cáceres › Casar de Cáceres,174.0
+2008-04-25,12,Stage 3 - Guareña  › Guareña ,182.0
+2008-04-24,5,Stage 2 - Badajoz  › Badajoz ,158.0
+2008-04-23,19,Stage 1 (ITT) - Mérida  › Mérida ,22.4
+2008-02-24,19,Stage 5 - Vila do Bispo › Portimão,193.5
+2008-02-23,60,Stage 4 (ITT) - Castro Marin › Tavira,34.0
+2008-02-22,23,Stage 3 - Vila Real de Santo António  › Loulé,207.7
+2008-02-21,17,Stage 2 - Lagoa › Lagos,189.5
+2008-02-20,23,Stage 1 - Albufeira › Faro,164.4
+2008-01-25,147,Stage 3 (ITT) - San Luis › San Luis,19.8
+2008-01-24,127,Stage 2 - La Toma › Merlo,168.7
+2008-01-23,112,Stage 1 - San Luis › Villa Mercedes,168.4
+2008-01-22,120,Prologue - San Luis › San Luis,3.5
+2007-09-15,66,Stage 7 - Dumfries › Glasgow,156.5
+2007-09-14,54,Stage 6 - Liverpool › Kendal,170.1
+2007-09-13,28,Stage 5 - Rother Valley Country Park › Bradford,163.3
+2007-09-12,73,Stage 4 - Worcester › Wolverhampton,152.2
+2007-09-11,39,Stage 3 - Yeovilton › Taunton,169.2
+2007-09-10,34,Stage 2 - Reading › Southampton,138.9
+2007-09-09,35,Prologue - Crystal Palace Part › Crystal Palace Part,2.5
+2007-07-12,25,Stage 1 - Torres Vedras  › A dos Cunhados,165.0
+2007-06-24,8,Stage 3 - Loiron › Laval,166.0
+2007-06-23,2,Stage 2 - Montsurs › Renazé,180.0
+2007-06-22,12,Stage 1 - Laval › Bonchamp,184.0
+2007-06-21,21,Prologue - Laval › Laval,4.5
+2007-06-17,33,Stage 4 - Viseu › Agueda,156.9
+2007-06-16,66,Stage 3 - Aveiro › Torre (Serre Estrela),153.2
+2007-06-15,19,Stage 2 - Povoa de Varzim › Oliveira do Barro,196.0
+2007-06-14,4,Stage 1 - Santo Tirso › Povoa de Varzim,197.6
+2007-04-29,11,Stage 5 - Arroyo de San Serván › Mérida,156.0
+2007-04-28,85,Stage 4 - Miajadas › Miajadas,158.2
+2007-04-27,2,Stage 3 - Badajoz › Badajoz,169.0
+2007-04-26,4,Stage 2 - Fuente de Cantos › Fuente de Cantos,164.1
+2007-04-25,57,Stage 1 - Llerena › Jerez de los Caballeros,173.0
+2007-04-15,98,Stage 5 - Evora › Evora,186.3
+2007-04-14,100,Stage 4 - Redondo › Portalegre,186.1
+2007-04-13,6,Stage 3a - Moura › Serpa,73.5
+2007-04-13,85,Stage 3b (ITT) - Salvada › Beja,12.5
+2007-04-12,10,Stage 2 - Zambujeira › Alcacer Do Sal,153.5
+2007-04-11,108,Stage 1 - Santiago Do Cacem › Odemira,150.8
+2007-03-27,12,Stage 2,211.0
+2007-02-22,17,Stage 2 - Castro Marim › Tavira,177.0
+2007-02-21,13,Stage 1 - Albufeira › Faro,191.3
+2007-01-28,37,Stage 5 - San Luis › San Luis,130.5
+2007-01-27,18,Stage 4 - La Toma › Merlo,173.0
+2007-01-26,42,Stage 3 (ITT) - La Punta › Mirador del Potrero,11.0
+2007-01-25,13,Stage 2 - San Luis › Quines,170.0
+2007-01-24,31,Stage 1 - San Luis › Villa Mercedes,170.0
+2007-01-23,112,Prologue - San Luis › San Luis,3.7
+2006-09-14,5,Stage 7 - Kazanlak › Svilengrad,166.0
+2006-09-11,5,Stage 4b - Shumen › Varna,94.0
+2006-05-28,69,Stage 5 - Vidigueira › Beja,163.1
+2006-05-27,27,Stage 4 - Arraiolos › Redondo,194.7
+2006-05-26,94,Stage 3 - Alter Do Chao › Portalegre,142.9
+2006-05-25,34,Stage 2 - Mora › Mora,157.9
+2006-05-24,30,Stage 1 - Vendas Novas › Vendas Novas,175.0
+2006-05-07,4,Stage 5 - Don Benito › Don Benito,142.8
+2006-05-06,10,Stage 4a - Merida › Merida,100.0
+2006-05-06,51,Stage 4b (ITT) - La Zarza › La Zarza,4.1
+2006-05-05,7,Stage 3 - Almendralejo › Almendralejo,129.6
+2006-05-04,50,Stage 2 - Plasencia › Caceres,167.8
+2006-05-03,23,Stage 1 - Castelo Braco › Plasencia,169.2
+2006-03-26,36,Stage 6 - Bagnoles de l'Orne › Caen,142.0
+2006-03-25,22,Stage 5 - St Hilaire du Harcouet › Bagnoles de l'Orne,174.0
+2006-03-24,40,Stage 4 - Flers › Domfront,74.0
+2006-03-24,4,Stage 4 - Domfront › St Hilaire du Harcouet,84.0
+2006-03-23,94,Stage 3 - Elbeuf › Flers,201.0
+2006-03-22,16,Stage 2 - Aubevoye › Elbeuf,74.0
+2006-03-22,53,Stage 2 - Forges les Eaux › Aubevoye,81.0
+2006-03-21,29,Stage 1 - Mondeville › Forges les Eaux,211.0
+2006-03-20,81,Prologue - Colombelles ITT › ,5.8
+2006-03-19,42,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux (1.2),192.0
+2006-03-12,64,Stage 4 - Colega › Santarém,166.0
+2006-03-11,100,Stage 3 (ITT) - Alpiarça › Alpiarça,18.0
+2006-03-10,100,Stage 2 - Cartaxo › Abrantes,169.5
+2006-03-09,73,Stage 1 - Fatima › Torres Novas,209.0
+2006-02-12,7,Stage 4,172.0
+2006-02-11,24,Stage 3,192.0
+2006-02-10,12,Stage 2,189.0
+2006-02-09,112,Stage 1,158.0

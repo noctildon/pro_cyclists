@@ -1,0 +1,850 @@
+date,result ranking,race name,distance
+2022-06-12,12,Stage 8 - Saint-Alban-Leysse › Plateau de Salaison  126k,138.8
+2022-06-11,33,Stage 7 - Saint-Chaffrey › Vaujany ,134.8
+2022-06-10,45,Stage 6 - Rives › Gap ,196.5
+2022-06-09,62,Stage 5 - Thizy-les-Bourgs › Chaintré ,162.3
+2022-06-08,59,Stage 4 (ITT) - Montbrison › La Bâtie d’Urfé ,31.9
+2022-06-07,31,Stage 3 - Saint-Paulien › Chastreix-Sancy ,169.0
+2022-06-06,59,Stage 2 - Saint-Péray › Brives-Charensac ,169.8
+2022-06-05,83,Stage 1 - La Voulte-sur-Rhône › Beauchastel ,191.8
+2022-04-24,DNF,Liège-Bastogne-Liège (1.UWT) ,257.2
+2022-04-06,DNS,Stage 3 - Llodio › Amurrio ,181.7
+2022-04-05,142,Stage 2 - Leitza › Viana ,207.92
+2022-04-04,101,Stage 1 (ITT) - Hondarribia › Hondarribia ,7.51
+2022-03-27,64,Stage 7 - Barcelona › Barcelona ,138.6
+2022-03-26,110,Stage 6 - Salou › Cambrils ,168.6
+2022-03-25,63,Stage 5 - La Pobla de Segur › Vilanova i la Geltrú ,206.3
+2022-03-24,13,Stage 4 - La Seu d'Urgell › Boí Taüll ,166.7
+2022-03-23,17,Stage 3 - Perpignan › La Molina ,161.1
+2022-03-22,41,Stage 2 - L'Escala › Perpignan ,202.4
+2022-03-21,63,Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols ,171.2
+2022-02-26,20,Stage 7 - Al Ain › Jebel Hafeet ,148.0
+2022-02-25,97,Stage 6 - Expo 2020 Dubai › Expo 2020 Dubai  ,180.0
+2022-02-24,107,Stage 5 - Ras al Khaimah Corniche › Al Marjan Island  ,182.0
+2022-02-23,44,Stage 4 - Fujairah Fort › Jebel Jais ,181.0
+2022-02-22,76,Stage 3 (ITT) - Ajman › Ajman ,9.0
+2022-02-21,70,Stage 2 - Hudayriyat Island › Abu Dhabi Breakwater ,176.0
+2022-02-20,75,Stage 1 - Madinat Zayed › Madinat Zayed ,184.0
+2022-02-13,22,National Championships New Zealand  - Road Race (NC) ,90.0
+2022-02-11,7,National championships New Zealand  - ITT (NC) ,42.5
+2022-01-09,22,Stage 5 - Wellington › Wellington ,
+2022-01-08,3,Stage 4 - Masterton › Te Wharau Hill ,137.2
+2022-01-07,24,Stage 3 - Masterton › Martinborough ,127.3
+2022-01-06,8,Stage 2 - Masterton › Masterton ,158.1
+2022-01-05,3,Stage 1 (TTT) - Masterton › Masterton ,10.0
+2022-04-24,DNF,Liège-Bastogne-Liège (1.UWT),257.2
+2022-04-06,DNS,Stage 3 - Llodio › Amurrio,181.7
+2022-04-05,142,Stage 2 - Leitza › Viana,207.92
+2022-04-04,101,Stage 1 (ITT) - Hondarribia › Hondarribia,7.51
+2022-03-27,64,Stage 7 - Barcelona › Barcelona,138.6
+2022-03-26,110,Stage 6 - Salou › Cambrils,168.6
+2022-03-25,63,Stage 5 - La Pobla de Segur › Vilanova i la Geltrú,206.3
+2022-03-24,13,Stage 4 - La Seu d'Urgell › Boí Taüll,166.7
+2022-03-23,17,Stage 3 - Perpignan › La Molina,161.1
+2022-03-22,41,Stage 2 - L'Escala › Perpignan,202.4
+2022-03-21,63,Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols,171.2
+2022-02-26,20,Stage 7 - Al Ain › Jebel Hafeet,148.0
+2022-02-25,97,Stage 6 - Expo 2020 Dubai › Expo 2020 Dubai ,180.0
+2022-02-24,107,Stage 5 - Ras al Khaimah Corniche › Al Marjan Island ,182.0
+2022-02-23,44,Stage 4 - Fujairah Fort › Jebel Jais,181.0
+2022-02-22,76,Stage 3 (ITT) - Ajman › Ajman,9.0
+2022-02-21,70,Stage 2 - Hudayriyat Island › Abu Dhabi Breakwater,176.0
+2022-02-20,75,Stage 1 - Madinat Zayed › Madinat Zayed,184.0
+2022-02-13,22,National Championships New Zealand  - Road Race (NC),90.0
+2022-02-11,7,National championships New Zealand  - ITT (NC),42.5
+2022-01-09,22,Stage 5 - Wellington › Wellington,
+2022-01-08,3,Stage 4 - Masterton › Te Wharau Hill,137.2
+2022-01-07,24,Stage 3 - Masterton › Martinborough,127.3
+2022-01-06,8,Stage 2 - Masterton › Masterton,158.1
+2022-01-05,3,Stage 1 (TTT) - Masterton › Masterton,10.0
+2021-10-09,85,Il Lombardia (1.UWT),239.0
+2021-10-06,39,Milano - Torino (1.Pro),190.0
+2021-10-02,DNF,Giro dell'Emilia (1.Pro),195.3
+2021-09-12,91,Stage 8 - Stonehaven › Aberdeen,173.0
+2021-09-11,75,Stage 7 - Hawick › Edinburgh,194.8
+2021-09-10,54,Stage 6 - Carlisle  › Gateshead,198.0
+2021-09-09,50,Stage 5 - Alderley Park › Warrington,152.2
+2021-09-08,29,"Stage 4 - Aberaeron › Great Orme, Llandudno",210.0
+2021-09-07,3,Stage 3 (TTT) - Carmarthenshire (Llandeilo) › Carmarthenshire (National Botanic Garden of Wales),18.2
+2021-09-06,47,Stage 2 - Sherford › Exeter,183.9
+2021-09-05,51,Stage 1 - Penzance › Bodmin,180.8
+2021-08-22,26,Stage 4 - Hinna Park › Stavanger,156.5
+2021-08-21,32,Stage 3 - Jørpeland › Jørpeland,159.9
+2021-08-20,19,Stage 2 - Sirdal (Tjørhomfjellet) › Sirdal (Fidjeland),185.3
+2021-08-19,11,Stage 1 - Egersund › Sokndal (Kroheia),150.8
+2021-08-15,83,Stage 7 - Zabrze › Kraków,144.9
+2021-08-14,37,Stage 6 (ITT) - Katowice › Katowice,19.1
+2021-08-13,68,Stage 5 - Chochołów › Bielsko-Biała,172.8
+2021-08-12,31,Stage 4 - Tarnów › Bukovina Resort,159.9
+2021-08-11,73,Stage 3 - Sanok › Rzeszów,226.4
+2021-08-10,25,Stage 2 - Zamość › Przemyśl,200.8
+2021-08-09,46,Stage 1 - Lublin › Chełm,216.4
+2021-07-28,25,Olympic Games - ITT (Olympics),44.2
+2021-07-24,26,Olympic Games Road Race (Olympics),234.0
+2021-05-30,43,Stage 21 (ITT) - Senago › Milan,30.3
+2021-05-29,15,Stage 20 - Verbania › Valle Spluga-Alpe Motta,164.0
+2021-05-28,12,Stage 19 - Abbiategrasso › Alpe di Mera (Valsesia),166.0
+2021-05-27,74,Stage 18 - Rovereto › Stradella,231.0
+2021-05-26,10,Stage 17 - Canazei › Sega di Ala,193.0
+2021-05-24,14,Stage 16 - Sacile › Cortina d'Ampezzo,153.0
+2021-05-23,92,Stage 15 - Grado › Gorizia,147.0
+2021-05-22,7,Stage 14 - Cittadella › Monte Zoncolan,205.0
+2021-05-21,67,Stage 13 - Ravenna › Verona,198.0
+2021-05-20,3,Stage 12 - Siena › Bagno di Romagna,212.0
+2021-05-19,49,Stage 11 - Perugia › Montalcino,162.0
+2021-05-17,46,Stage 10 - L'Aquila › Foligno,139.0
+2021-05-16,36,Stage 9 - Castel di Sangro › Campo Felice (Rocca di Cambio),158.0
+2021-05-15,28,Stage 8 - Foggia › Guardia Sanframondi,170.0
+2021-05-14,59,Stage 7 - Notaresco › Termoli,181.0
+2021-05-13,42,Stage 6 - Grotte di Frasassi › Ascoli Piceno (San Giacomo),160.0
+2021-05-12,38,Stage 5 - Modena › Cattolica,177.0
+2021-05-11,38,Stage 4 - Piacenza › Sestola,187.0
+2021-05-10,54,Stage 3 - Biella › Canale,190.0
+2021-05-09,103,Stage 2 - Stupinigi  › Novara,179.0
+2021-05-08,52,Stage 1 (ITT) - Turin › Turin,8.6
+2021-03-25,DNS,Stage 4 - Ripoll › Port Ainé,166.5
+2021-03-24,88,Stage 3 - Canal Olimpic de Catalunya › Vallter 2000,203.1
+2021-03-23,38,Stage 2 (ITT) - Banyoles › Banyoles,18.5
+2021-03-22,75,Stage 1 - Calella › Calella,178.4
+2021-03-14,88,Stage 8 - Le Plan-du-Var › Levens,92.7
+2021-03-13,26,Stage 7 - Le Broc › Valdeblore La Colmiane,119.2
+2021-03-12,35,Stage 6 - Brignoles › Biot,202.4
+2021-03-11,93,Stage 5 - Vienne › Bollène,200.2
+2021-03-10,39,Stage 4 - Chalon-sur-Saône › Chiroubles,187.6
+2021-03-09,59,Stage 3 (ITT) - Gien › Gien,14.4
+2021-03-08,80,Stage 2 - Oinville-sur-Montcient › Amilly,188.0
+2021-03-07,56,Stage 1 - Saint-Cyr-L'École › Saint-Cyr-L'École,165.8
+2021-02-14,1,National championships New Zealand  - Road Race (NC),174.4
+2021-02-12,2,National championships New Zealand  - ITT (NC),44.2
+2021-01-23,8,Gravel and Tar Classic (1.2),164.0
+2020-11-08,40,Stage 18 - Hipódromo de la Zarzuela › Madrid,139.6
+2020-11-07,28,Stage 17 - Sequeros › Alto de la Covatilla,178.2
+2020-11-06,31,Stage 16 - Salamanca › Ciudad Rodrigo,162.0
+2020-11-05,90,Stage 15 - Mos › Puebla de Sanabria,230.8
+2020-11-04,30,Stage 14 - Lugo › Ourense,204.7
+2020-11-03,37,Stage 13 (ITT) - Muros › Mirador de Ézaro,33.7
+2020-11-01,12,Stage 12 - Pola de Laviana › Alto de l'Angliru,109.4
+2020-10-31,19,Stage 11 - Villaviciosa › Alto de la Farrapona,170.0
+2020-10-30,26,Stage 10 - Castro Urdiales › Suances,185.0
+2020-10-29,34,Stage 9 - Castrillo del Val › Aguilar de Campoo,157.7
+2020-10-28,13,Stage 8 - Logroño › Alto de Moncalvillo,164.0
+2020-10-27,14,Stage 7 - Vitoria-Gasteiz › Villanueva de Valdegovia,159.7
+2020-10-25,37,Stage 6 - Biescas › Aramón Formigal,146.4
+2020-10-24,7,Stage 5 - Huesca › Sabiñanigo,184.4
+2020-10-23,42,Stage 4 - Garray › Ejea de los Caballeros,191.7
+2020-10-22,19,Stage 3 - Lodosa › La Laguna Negra de Vinuesa,166.1
+2020-10-21,10,Stage 2 - Pamplona › Lekunberri,151.6
+2020-10-20,9,Stage 1 - Irún › Arrate,173.0
+2020-09-27,DNF,World Championships - Road Race (WC),258.2
+2020-09-20,145,Stage 21 - Mantes-la-Jolie › Paris,122.0
+2020-09-19,144,Stage 20 (ITT) - Lure › La Planche des Belles Filles,36.2
+2020-09-18,42,Stage 19 - Bourg-en-Bresse › Champagnole,166.5
+2020-09-17,70,Stage 18 - Méribel › La Roche-sur-Foron,175.0
+2020-09-16,27,Stage 17 - Grenoble › Méribel - Col de la Loze,170.0
+2020-09-15,64,Stage 16 - La Tour-du-Pin › Villard-de-Lans,164.0
+2020-09-13,30,Stage 15 - Lyon › Grand Colombier,174.5
+2020-09-12,88,Stage 14 - Clermont-Ferrand › Lyon,194.0
+2020-09-11,73,Stage 13 - Châtel-Guyon › Pas de Peyrol (Le Puy Mary),191.5
+2020-09-10,72,Stage 12 - Chauvigny › Sarran,218.0
+2020-09-09,149,Stage 11 - Châtelaillon-Plage › Poitiers,166.5
+2020-09-08,76,Stage 10 - île d'Oléron (Le Château-d'Oléron) › Île de Ré (Saint-Martin-de-Ré),168.5
+2020-09-06,34,Stage 9 - Pau › Laruns,153.0
+2020-09-05,49,Stage 8 - Cazères › Loudenvielle,141.0
+2020-09-04,36,Stage 7 - Millau › Lavaur,168.0
+2020-09-03,50,Stage 6 - Le Teil › Mont Aigoual,191.0
+2020-09-02,143,Stage 5 - Gap › Privas,183.0
+2020-09-01,51,Stage 4 - Sisteron › Orcières-Merlette,160.5
+2020-08-31,74,Stage 3 - Nice › Sisteron,198.0
+2020-08-30,41,Stage 2 - Nice › Nice,185.0
+2020-08-29,166,Stage 1 - Nice › Nice,156.0
+2020-08-15,2,Il Lombardia (1.UWT),231.0
+2020-08-12,1,Gran Piemonte (1.Pro),187.0
+2020-08-09,7,Stage 3 - Saint-Vulbas › Grand Colombier,144.5
+2020-08-08,12,Stage 2 - Lagnieu › Lélex Monts-Jura ,140.5
+2020-08-07,34,Stage 1 - Montréal-la-Cluse  › Ceyzeriat ,139.5
+2020-08-01,17,Stage 5 - Covarrubias › Lagunas de Neila,158.0
+2020-07-31,17,Stage 4 - Gumiel de Izán › Roa de Duero,163.0
+2020-07-30,2,Stage 3 - Sargentes de la Lora › Picón Blanco,150.0
+2020-07-29,29,Stage 2 - Castrojeriz › Villadiego,168.0
+2020-07-28,13,Stage 1 - Catedral de Burgos › Mirador del Castillo,157.0
+2020-02-16,2,National Championships New Zealand - Road Race (NC),174.0
+2020-02-14,2,National Championships New Zealand - ITT (NC),39.0
+2020-01-26,24,Stage 6 - McLaren Vale › Willunga Hill,151.5
+2020-01-25,37,Stage 5 - Glenelg › Victor Harbor,149.1
+2020-01-24,27,Stage 4 - Norwood › Murray Bridge,152.8
+2020-01-23,9,Stage 3 - Unley › Paracombe,131.0
+2020-01-22,10,Stage 2 - Woodside › Stirling,135.8
+2020-01-21,21,Stage 1 - Tanunda › Tanunda,150.0
+2019-10-12,35,Il Lombardia (1.UWT),243.0
+2019-10-08,58,Tre Valli Varesine (1.HC),197.8
+2019-10-06,60,Gran Premio Bruno Beghelli (1.HC),199.3
+2019-10-05,20,Giro dell'Emilia (1.HC),207.4
+2019-09-15,71,Stage 21 - Fuenlabrada › Madrid,106.6
+2019-09-14,51,Stage 20 - Arenas de San Pedro › Plataforma de Gredos,190.4
+2019-09-13,150,Stage 19 - Ávila › Toledo,165.2
+2019-09-12,90,Stage 18 - Colmenar Viejo › Becerril de la Sierra ,178.2
+2019-09-11,110,Stage 17 - Aranda de Duero › Guadalajara ,219.6
+2019-09-09,66,Stage 16 - Pravia › Alto de La Cubilla. Lena,144.4
+2019-09-08,132,Stage 15 - Tineo › Santuario del Acebo,154.4
+2019-09-07,87,Stage 14 - San Vicente de la Barquer › Oviedo ,188.0
+2019-09-06,23,Stage 13 - Bilbao › Los Machucos. Monumento Vaca Pasiega,166.4
+2019-09-05,36,Stage 12 - Circuito de Navarra › Bilbao,171.4
+2019-09-04,20,Stage 11 - Saint-Palais › Urdax-Dantxarinea,180.0
+2019-09-03,28,Stage 10 (ITT) - Jurançon › Pau,36.2
+2019-09-01,21,Stage 9 - Andorra la Vella › Cortals d’Encamp ,94.4
+2019-08-31,28,Stage 8 - Valls › Igualada,166.9
+2019-08-30,9,Stage 7 - Onda › Mas de la Costa,183.2
+2019-08-29,20,Stage 6 - Mora de Rubielos › Ares del Maestrat ,198.9
+2019-08-28,21,Stage 5 - L’Eliana › Observatorio Astrofísico de Javalambre ,170.7
+2019-08-27,35,Stage 4 - Cullera › El Puig,175.5
+2019-08-26,94,Stage 3 - Ibi. Ciudad del Juguete › Alicante,188.0
+2019-08-25,14,Stage 2 - Benidorm › Calpe,199.6
+2019-08-24,18,Stage 1 (TTT) - Salinas de Torrevieja › Torrevieja ,13.4
+2019-07-28,151,Stage 21 - Rambouillet › Paris,128.0
+2019-07-27,116,Stage 20 - Albertville › Val Thorens,59.5
+2019-07-26,DF,Stage 19 - Saint-Jean-de-Maurienne › Tignes,127.0
+2019-07-25,27,Stage 18 - Embrun › Valloire,208.0
+2019-07-24,96,Stage 17 - Pont du Gard › Gap,200.0
+2019-07-23,118,Stage 16 - Nîmes › Nîmes,177.0
+2019-07-21,34,Stage 15 - Limoux › Foix,185.0
+2019-07-20,11,Stage 14 - Tarbes › Col du Tourmalet,111.0
+2019-07-19,159,Stage 13 (ITT) - Pau › Pau,27.2
+2019-07-18,87,Stage 12 - Toulouse › Bagnères-de-Bigorre,209.5
+2019-07-17,67,Stage 11 - Albi › Toulouse,167.0
+2019-07-15,132,Stage 10 - Saint-Flour › Albi,217.5
+2019-07-14,65,Stage 9 - Saint-Étienne › Brioude,170.5
+2019-07-13,30,Stage 8 - Mâcon › Saint-Étienne,200.0
+2019-07-12,65,Stage 7 - Belfort › Chalon-sur-Saône,230.0
+2019-07-11,17,Stage 6 - Mulhouse › La Planche des Belles Filles,160.5
+2019-07-10,57,Stage 5 - Saint-Dié-des-Vosges › Colmar,175.5
+2019-07-09,67,Stage 4 - Reims › Nancy,213.5
+2019-07-08,52,Stage 3 - Binche › Épernay,215.0
+2019-07-07,1,Stage 2 (TTT) - Brussels › Brussels,27.6
+2019-07-06,172,Stage 1 - Brussels › Brussels,194.5
+2019-05-18,23,Stage 7 - Santa Clarita › Pasadena,141.0
+2019-05-17,3,Stage 6 - Ontario › Mount Baldy,127.5
+2019-05-16,25,Stage 5 - Pismo Beach › Ventura,218.5
+2019-05-15,17,Stage 4 -  Raceway Laguna Seca › Morro Bay,212.5
+2019-05-14,20,Stage 3 - Stockton › Morgan Hill,207.0
+2019-05-13,10,Stage 2 - Rancho Cordova › South Lake Tahoe,194.5
+2019-05-12,23,Stage 1 - Sacramento › Sacramento,143.0
+2019-04-13,65,Stage 6 - Eibar › Eibar,118.2
+2019-04-12,19,Stage 5 - Arrigorriaga › Arrate,149.8
+2019-04-11,42,Stage 4 - Vitoria-Gasteiz › Arrigorriaga,163.6
+2019-04-10,13,Stage 3 - Sarriguren › Estibaliz,191.4
+2019-04-09,21,Stage 2 - Zumarraga › Gorraiz,149.5
+2019-04-08,36,Stage 1 (ITT) - Zumarraga › Zumarraga,11.3
+2019-03-17,14,Stage 8 - Nice › Nice,110.0
+2019-03-16,19,Stage 7 - Nice › Col de Turini,181.5
+2019-03-15,35,Stage 6 - Peynier › Brignoles,176.5
+2019-03-14,40,Stage 5 (ITT) - Barbentane › Barbentane,25.5
+2019-03-13,33,Stage 4 - Vichy › Pélussin,212.0
+2019-03-12,49,Stage 3 - Cepoy › Moulins/Yzeure,200.0
+2019-03-11,38,Stage 2 - Les Bréviaires › Bellegarde,163.5
+2019-03-10,42,Stage 1 - Saint-Germain-en-Laye › Saint-Germain-en-Laye,138.5
+2019-01-27,25,Cadel Evans Great Ocean Road Race (1.UWT),164.0
+2019-01-20,16,Stage 6 - McLaren Vale › Willunga Hill,151.5
+2019-01-19,18,Stage 5 - Glenelg › Strathalbyn,149.5
+2019-01-18,6,Stage 4 - Unley › Campbelltown,129.2
+2019-01-17,16,Stage 3 - Lobethal › Uraidla ,146.2
+2019-01-16,17,Stage 2 - Norwood › Angaston,122.1
+2019-01-15,28,Stage 1 - North Adelaide › Port Adelaide,129.1
+2019-01-06,7,National Championships New Zealand - Road Race (NC),159.0
+2019-01-04,4,National Championships New Zealand - ITT (NC),40.0
+2018-10-13,10,Il Lombardia (1.UWT),241.0
+2018-10-09,14,Tre Valli Varesine (1.HC),212.0
+2018-09-30,18,World Championships - Road Race (WC),258.0
+2018-09-16,150,Stage 21 - Alcorcón › Madrid  ,112.3
+2018-09-15,102,Stage 20 - Andorra. Escaldes-Engordany › Andorra. Collada de la Gallina,97.3
+2018-09-14,76,Stage 19 - Lleida  › Andorra. Naturlandia  ,154.4
+2018-09-13,88,Stage 18 - Ejea de los Caballeros › Lleida  ,186.1
+2018-09-12,80,Stage 17 - Getxo › Balcón de Bizkaia  ,157.0
+2018-09-11,164,Stage 16 (ITT) - Santillana del Mar › Torrelavega  ,32.0
+2018-09-09,44,Stage 15 - Ribera de Arriba › Lagos de Covadonga  ,178.2
+2018-09-08,37,Stage 14 - Cistierna › Les Praeres. Nava  ,171.0
+2018-09-07,43,Stage 13 - Candás. Carreño › Valle de Sabero. La Camperona  ,174.8
+2018-09-06,29,Stage 12 - Mondoñedo › Faro de Estaca de Bares. Mañón  ,181.1
+2018-09-05,20,Stage 11 - Mombuey › Ribeira Sacra. Luintra  ,207.8
+2018-09-04,57,Stage 10 - Salamanca. VIII Centenario Universidad de Salamanc › Fermoselle. Bermillo de Sayago ,177.0
+2018-09-02,10,Stage 9 - Talavera de la Reina › La Covatilla  ,200.8
+2018-09-01,16,Stage 8 - Linares › Almadén  ,195.1
+2018-08-31,20,Stage 7 - Puerto Lumbreras › Pozo Alcón  ,185.7
+2018-08-30,43,Stage 6 - Huércal-Overa › San Javier. Mar Menor  ,155.7
+2018-08-29,68,Stage 5 - Granada  › Roquetas de Mar  ,188.7
+2018-08-28,23,Stage 4 - Vélez-Málaga › Alfacar. Sierra de la Alfaguara  ,161.4
+2018-08-27,32,Stage 3 - Mijas › Alhaurín de la Torre  ,178.2
+2018-08-26,5,Stage 2 - Marbella › Caminito del Rey  ,163.5
+2018-08-25,71,Stage 1 (ITT) - Málaga › Málaga,8.0
+2018-08-10,5,Stage 7 - Bukowina Tatrzańska › Bukowina Tatrzańska,136.0
+2018-08-09,7,Stage 6 - Zakopane › Bukowina Tatrzańska,129.0
+2018-08-08,13,Stage 5 - Wieliczka › Bielsko-Biala,152.0
+2018-08-07,3,Stage 4 - Jaworzno › Szczyrk,179.0
+2018-08-06,106,Stage 3 - Stadion Slaski › Zabrze,139.0
+2018-08-05,47,Stage 2 - Tarnowskie Gory › Katowice,144.4
+2018-08-04,86,Stage 1 - Krakow › Krakow,134.0
+2018-05-27,134,Stage 21 - Roma › Roma,115.0
+2018-05-26,14,Stage 20 - Susa › Cervinia,214.0
+2018-05-25,12,Stage 19 - Venaria Reale › Bardonecchia (Jafferau),184.0
+2018-05-24,22,Stage 18 - Abbiategrasso › Prato Nevoso,196.0
+2018-05-23,38,Stage 17 - Riva del Garda › Iseo,155.0
+2018-05-22,56,Stage 16 (ITT) - Trento › Rovereto ,34.2
+2018-05-20,14,Stage 15 - Tolmezzo › Sappada,176.0
+2018-05-19,12,Stage 14 - San Vito al Tagliamento › Monte Zoncolan,186.0
+2018-05-18,35,Stage 13 - Ferrara › Nervesa della Battaglia,180.0
+2018-05-17,28,Stage 12 - Osimo › Imola,214.0
+2018-05-16,12,Stage 11 - Assisi › Osimo,156.0
+2018-05-15,20,Stage 10 - Penne › Gualdo Tadino,244.0
+2018-05-13,7,Stage 9 - Pesco Sannita › Gran Sasso d'Italia,225.0
+2018-05-12,15,Stage 8 - Praia a Mare › Montevergine di Mercogliano,209.0
+2018-05-11,30,Stage 7 - Pizzo › Praia a Mare,159.0
+2018-05-10,4,Stage 6 - Caltanissetta › Etna,164.0
+2018-05-09,13,Stage 5 - Agrigento › Santa Ninfa (Valle del Belice),153.0
+2018-05-08,14,Stage 4 - Catania › Caltagirone,202.0
+2018-05-06,25,Stage 3 - Be'er Sheva › Eilat,229.0
+2018-05-05,37,Stage 2 - Haifa › Tel Aviv,167.0
+2018-05-04,43,Stage 1 (ITT) - Jerusalem › Jerusalem,9.7
+2018-04-20,2,Stage 5 - Rattenberg › Innsbruck,164.2
+2018-04-19,2,Stage 4 - Chiusa/Klausen › Lienz,134.3
+2018-04-18,4,Stage 3 - Ora/Auer › Merano/Meran,138.3
+2018-04-17,17,Stage 2 - Lavarone › Fiemme/Alpe di Pampeago,145.5
+2018-04-16,7,Stage 1 - Arco › Folgaria,134.6
+2018-03-25,10,Stage 7 - Barcelona › Barcelona,154.8
+2018-03-24,36,Stage 6 - Pobla de Segur › Torrefarrera,117.0
+2018-03-23,30,Stage 5 - Llívia › Vielha Val d'Aran,212.9
+2018-03-22,8,Stage 4 - Llanars › La Molina,170.8
+2018-03-21,36,Stage 3 - Sant Cugat › Camprodón,153.2
+2018-03-20,23,Stage 2 - Mataró › Valls,175.6
+2018-03-19,71,Stage 1 - Calella › Calella,152.3
+2018-03-13,58,Stage 7 (ITT) - San Benedetto del Tronto › San Benedetto del Tronto,10.05
+2018-03-12,26,Stage 6 - Numana › Fano,153.0
+2018-03-11,12,Stage 5 - Castelraimondo › Filottrano,178.0
+2018-03-10,3,Stage 4 - Foligno › Sarnano Sassotetto,219.0
+2018-03-09,13,Stage 3 - Follonica › Trevi,234.0
+2018-03-08,68,Stage 2 - Camaiore › Follonica,167.0
+2018-03-07,13,Stage 1 (TTT) - Lido di Camaiore › Lido di Camaiore,21.5
+2018-03-03,40,Strade Bianche (1.UWT),184.0
+2018-01-28,28,Cadel Evans Great Ocean Road Race (1.UWT),164.0
+2018-01-21,20,Stage 6 - Adelaide › Adelaide,90.0
+2018-01-20,16,Stage 5 - McLaren Vale › Willunga Hill,151.5
+2018-01-19,15,Stage 4 - Norwood › Uraidla,128.2
+2018-01-18,27,Stage 3 - Glenelg › Victor Harbor,120.5
+2018-01-17,33,Stage 2 - Unley › Stirling,148.6
+2018-01-16,22,Stage 1 - Port Adelaide › Lyndoch,145.0
+2018-01-07,4,National Championships New Zealand - Road Race (NC),171.0
+2017-08-31,DNS,Stage 12 - Motril › Antequera Los Dólmenes ,160.1
+2017-08-30,173,Stage 11 - Lorca › Observatorio Astronómico de Calar Alto ,187.5
+2017-08-29,142,Stage 10 - Caravaca Jubilar › ElPozo Alimentación (Alhama de Murcia),164.8
+2017-08-27,156,Stage 9 - Orihuela  › Cumbre del Sol (Alto de Puig Llorença),174.0
+2017-08-26,147,Stage 8 - Hellín › Xorret de Catí  ,199.5
+2017-08-25,166,Stage 7 - Llíria › Cuenca ,207.0
+2017-08-24,168,Stage 6 - Vila-Real › Sagunt,204.4
+2017-08-23,122,Stage 5 - Benicàssim  › Alcossebre ,157.7
+2017-08-22,166,Stage 4 - Escaldes-Engordany › Tarragona ,198.2
+2017-08-21,113,Stage 3 - Prades Conflent Canigó › Andorra la Vella,158.5
+2017-08-20,82,Stage 2 - Nimes › Gruissan,203.4
+2017-08-19,15,Stage 1 (TTT) - Nîmes › Nîmes,13.7
+2017-07-29,32,Clásica Ciclista San Sebastian (1.UWT),231.0
+2017-07-18,DNF,Stage 16 - Le Puy-en-Velay › Romans-sur-Isère,165.0
+2017-07-16,32,Stage 15 - Laissac-Sévérac l'Église › Le Puy-en-Velay,189.5
+2017-07-15,25,Stage 14 - Blagnac › Rodez,181.5
+2017-07-14,22,Stage 13 - Saint-Girons › Foix,101.0
+2017-07-13,8,Stage 12 - Pau › Peyragudes,214.5
+2017-07-12,39,Stage 11 - Eymet › Pau,203.5
+2017-07-11,39,Stage 10 - Périgueux › Bergerac,178.0
+2017-07-09,7,Stage 9 - Nantua › Chambéry,181.5
+2017-07-08,19,Stage 8 - Dole › Station des Rousses,187.5
+2017-07-07,83,Stage 7 - Troyes › Nuits-Saint-Georges,213.5
+2017-07-06,48,Stage 6 - Vesoul › Troyes,216.0
+2017-07-05,14,Stage 5 - Vittel › La Planche des Belles Filles,160.5
+2017-07-04,99,Stage 4 - Mondorf-les-Bains › Vittel,207.5
+2017-07-03,44,Stage 3 - Verviers › Longwy,212.5
+2017-07-02,90,Stage 2 - Düsseldorf › Liège,203.5
+2017-07-01,162,Stage 1 (ITT) - Düsseldorf › Düsseldorf,14.0
+2017-05-20,24,Stage 7 - Mountain High › Pasadena,125.0
+2017-05-19,4,Stage 6 (ITT) - Big Bear Lake › Big Bear Lake,24.0
+2017-05-18,3,Stage 5 - Ontario › Mt. Baldy,125.5
+2017-05-17,32,Stage 4 - Santa Barbara › Santa Clarita,159.5
+2017-05-16,16,Stage 3 - Pismo Beach › Morro Bay,186.5
+2017-05-15,2,Stage 2 - Modesto › San Jose,143.0
+2017-05-14,20,Stage 1 - Sacramento › Sacramento,167.5
+2017-04-08,10,Stage 6 (ITT) - Eibar › Eibar,27.7
+2017-04-07,16,Stage 5 - Bilbao › Arrate,139.8
+2017-04-06,15,Stage 4 - Donostia › Bilbao,174.1
+2017-04-05,15,Stage 3 - Gasteiz › Donostia,160.5
+2017-04-04,45,Stage 2 - Pamplona  › Eltziego,173.4
+2017-04-03,14,Stage 1 - Pamplona  › Eguesibar-Sarriguren,153.3
+2017-03-26,9,Stage 7 - Barcelona › Barcelona,138.7
+2017-03-25,22,Stage 6 - Tortosa › Reus,189.7
+2017-03-24,18,Stage 5 - Valls › Lo Port (Tortosa),182.0
+2017-03-23,38,Stage 4 - La Seu d'Urgell › Igualada,134.0
+2017-03-22,11,Stage 3 - Mataró › La Molina,188.3
+2017-03-21,7,Stage 2 (TTT) - Banyoles › Banyoles,41.3
+2017-03-20,55,Stage 1 - Calella › Calella,178.9
+2017-02-26,24,Stage 4 - Yas Marina › Yas Marina,143.0
+2017-02-25,8,Stage 3 - Hazza Bin Zayed Stadium › Jebel Hafeet,186.0
+2017-02-24,43,Stage 2 -  Al Maryah Island › Big Flag,153.0
+2017-02-23,31,Stage 1 - Baynounah Educational Complex › Madinat Zayed,189.0
+2016-09-11,29,Stage 21 - Las Rozas  › Madrid,104.1
+2016-09-10,23,Stage 20 - Benidorm › Alto de Aitana. Escuadrón Ejército del Aire,193.2
+2016-09-09,25,Stage 19 (ITT) - Xàbia › Calp,37.0
+2016-09-08,25,Stage 18 - Requena › Gandía,200.6
+2016-09-07,38,Stage 17 - Castellón › Llucena. Camins del Penygolosa,177.5
+2016-09-05,39,Stage 16 - Alcañiz  › Peñíscola,156.4
+2016-09-04,27,Stage 15 - Sabiñánigo › Sallent de Gállego. Aramón Formigal,118.5
+2016-09-03,4,Stage 14 - Urdax-Dantxarinea  › Aubisque,196.0
+2016-09-02,77,Stage 13 - Bilbao › Urdax-Dantxarinea,213.4
+2016-09-01,19,Stage 12 - Los Corrales de Buelna › Bilbao,193.2
+2016-08-31,24,Stage 11 - Colunga. Museo Jurásico › Peña Cabarga,168.6
+2016-08-29,23,Stage 10 - Lugones › Lagos de Covadonga,188.7
+2016-08-28,28,Stage 9 - Cistierna  › Oviedo. Alto del Naranco,164.5
+2016-08-27,26,Stage 8 - Villalpando › La Camperona. Valle de Sabero,181.5
+2016-08-26,49,Stage 7 - Maceda › Puebla de Sanabria ,158.5
+2016-08-25,33,Stage 6 - Monforte de Lemos › Luintra. Ribera Sacra ,163.2
+2016-08-24,104,Stage 5 - Viveiro › Lugo,171.3
+2016-08-23,49,Stage 4 - Betanzos  › San Andrés de Teixido (Mirador Vixía de Herbeira),163.5
+2016-08-22,52,Stage 3 - Marín  › Dumbría. Mirador de Ézaro,176.4
+2016-08-21,109,Stage 2 - Ourense  › Baiona,160.8
+2016-08-20,6,Stage 1 (TTT) - Balneario Laias › Parque Náutico de Castrelo de Miño,27.8
+2016-08-06,33,Olympic Games Road Race (Olympics),237.5
+2016-07-30,15,Clasica Ciclista San Sebastian (1.UWT),220.2
+2016-07-24,156,Stage 21 - Chantilly › Paris,113.0
+2016-07-23,69,Stage 20 - Megève › Morzine,146.5
+2016-07-22,55,Stage 19 - Albertville › Saint-Gervais Mont Blanc,146.0
+2016-07-21,96,Stage 18 (ITT) - Sallanches › Megève,17.0
+2016-07-20,117,Stage 17 - Berne › Finhaut-Emosson,184.5
+2016-07-18,155,Stage 16 - Moirans-en-Montagne › Berne,209.0
+2016-07-17,40,Stage 15 - Bourg-en-Bresse › Culoz,159.0
+2016-07-16,173,Stage 14 - Montélimar › Villars-les-Dombes Parc des Oiseaux,208.5
+2016-07-15,172,Stage 13 (ITT) - Bourg-Saint-Andeol › Le Caverne de Pont d'Arc,37.5
+2016-07-14,122,Stage 12 - Montpellier › Chalet-Reynard (Mont Ventoux),178.0
+2016-07-13,172,Stage 11 - Carcassonne › Montpellier,162.5
+2016-07-12,180,Stage 10 - Escaldes-Engordany › Revel,197.0
+2016-07-10,7,Stage 9 - Vielha val d'Aran › Andorra Arcalis,184.0
+2016-07-09,29,Stage 8 - Pau › Bagnères-de-Luchon,184.0
+2016-07-08,45,Stage 7 - l'Isle-Jourdain › Lac de Payolle,162.5
+2016-07-07,188,Stage 6 - Arpajon-sur-Cère › Montauban,190.5
+2016-07-06,79,Stage 5 - Limoges › Le Lioran,216.0
+2016-07-05,143,Stage 4 - Saumur  › Limoges,237.5
+2016-07-04,168,Stage 3 - Granville › Angers,223.5
+2016-07-03,163,Stage 2 - Saint-Lô › Cherbourg,183.0
+2016-07-02,144,Stage 1 - Mont-Saint-Michel › Utah Beach Sainte-Marie-du-Mont,188.0
+2016-06-12,19,Stage 7 - Le Pont › Superdévoluy,151.0
+2016-06-11,11,Stage 6 - La Rochette › Méribel,141.0
+2016-06-10,26,Stage 5 - La Ravoire › Vaujany,140.0
+2016-06-09,55,Stage 4 - Tain l'Hermitage › Belley,176.0
+2016-06-08,35,Stage 3 - Boën-sur-Lignon › Tournon,187.5
+2016-06-07,34,Stage 2 - Crêches-sur-Saône › Chalmazal-Jeansagnière,168.0
+2016-06-06,36,Stage 1 - Cluses › Saint-Vulbas,186.0
+2016-06-05,60,Prologue - Les Gets › Les Gets,4.0
+2016-05-22,30,Stage 8 - Sacramento › Sacramento,138.0
+2016-05-21,29,Stage 7 - Santa Rosa › Santa Rosa,175.5
+2016-05-20,38,Stage 6 (ITT) - Folsom › Folsom,20.3
+2016-05-19,14,Stage 5 - Lodi › South Lake Tahoe,212.0
+2016-05-18,18,Stage 4 - Morro Bay › Monterey County,217.0
+2016-05-17,3,Stage 3 - Thousand Oaks › Santa Barbara County,167.5
+2016-05-16,45,Stage 2 - South Pasadena › Santa Clarita,148.5
+2016-05-15,39,Stage 1 - San Diego › San Diego,175.0
+2016-04-07,DNF,Stage 4 - Lesaka › Orio,165.0
+2016-04-06,126,Stage 3 - Vitoria-Gasteiz › Lesaka,193.5
+2016-04-05,151,Stage 2 - Markina-Xemein › Amurrio-Baranbio (Garrastatxu),174.2
+2016-04-04,76,Stage 1 - Etxebarria › Markina-Xemein,144.0
+2016-03-13,42,Stage 7 - Nice › Nice,141.0
+2016-03-12,37,Stage 6 - Nice › La Madone d'Utelle,177.0
+2016-03-11,101,Stage 5 - Saint-Paul-Trois-Châteaux › Salon-de-Provence,198.0
+2016-03-10,146,Stage 4 - Juliénas › Romans-sur-Isère,193.5
+2016-03-08,57,Stage 2 - Contres  › Commentry,214.0
+2016-03-07,70,Stage 1 - Condé-sur-Vesgre  › Vendôme,195.0
+2016-03-06,82,Prologue - Conflans-Sainte-Honorine › Conflans-Sainte-Honorine,6.1
+2016-02-21,53,Stage 6 - The Wave Muscat  › Matrah Corniche ,130.5
+2016-02-20,26,Stage 5 - Yiti (Al Sifah)  › Ministry of Tourism ,119.5
+2016-02-19,7,Stage 4 - Knowledge Oasis Muscat  › Jabal Al Akhdhar (Green Mountain),177.0
+2016-02-18,106,Stage 3 - Al Sawadi Beach  › Naseem Park,176.5
+2016-02-17,26,Stage 2 - Omantel Head Office  › Quriyat,162.0
+2016-02-16,30,Stage 1 - Oman Exhibition Center  › Al Bustan,145.5
+2016-01-31,86,Cadel Evans Great Ocean Road Race (1.HC),174.0
+2016-01-24,74,Stage 6 - Adelaide › Adelaide,90.0
+2016-01-23,17,Stage 5 - McLaren Vale › Willunga Hill,151.5
+2016-01-22,47,Stage 4 - Norwood › Victor Harbor,138.0
+2016-01-21,30,Stage 3 - Glenelg › Campbelltown,139.0
+2016-01-20,25,Stage 2 - Unley › Stirling,132.0
+2016-01-19,83,Stage 1 - Prospect  › Lyndoch,130.8
+2016-01-10,12,National Championships New Zealand - Road Race (NC),180.0
+2015-10-04,35,Il Lombardia (1.UWT),245.0
+2015-10-02,DNF,Giro del Piemonte (1.HC),185.0
+2015-10-01,19,Milano-Torino (1.HC),186.0
+2015-09-13,142,Stage 21 - Alcalá de Henares › Madrid,98.8
+2015-09-12,15,Stage 20 - San Lorenzo de El Escorial › Cercedilla,175.8
+2015-09-11,152,Stage 19 - Medina del Campo › Ávila,185.8
+2015-09-10,157,Stage 18 - Roa › Riaza,204.0
+2015-09-09,73,Stage 17 (ITT) - Burgos › Burgos,38.7
+2015-09-07,4,Stage 16 - Luarca › Ermita de Alba. Quiros,185.0
+2015-09-06,61,Stage 15 - Comillas › Sotres. Cabrales,175.8
+2015-09-05,145,Stage 14 - Vitoria › Alto Campoo. Fuente del Chivo,215.0
+2015-09-04,110,Stage 13 - Calatayud › Tarazona,178.0
+2015-09-03,85,Stage 12 - Escaldes-Engordany › Lleida,173.0
+2015-09-02,47,Stage 11 - Andorra la Vella › Cortals d'Encamp,138.0
+2015-08-31,54,Stage 10 - Valencia › Castellón  ,146.6
+2015-08-30,21,Stage 9 - Torrevieja › Cumbre del Sol. Benitachell,168.3
+2015-08-29,70,Stage 8 - Puebla de Don Fadrique › Murcia,182.5
+2015-08-28,35,Stage 7 - Jódar › La Alpujarra (Capileira),191.1
+2015-08-27,38,Stage 6 - Córdoba › Sierra de Cazorla,200.3
+2015-08-26,47,Stage 5 - Rota › Alcalá de Guadaíra,167.3
+2015-08-25,36,Stage 4 - Estepona › Vejer de la Frontera,209.6
+2015-08-24,161,Stage 3 - Mijas › Málaga,158.4
+2015-08-23,27,Stage 2 - Alhaurín de la Torre › Caminito del Rey,158.7
+2015-08-22,4,Stage 1 (TTT) - Puerto Banús › Marbella,7.4
+2015-08-08,43,Stage 7 (ITT) - Krakow › Krakow,25.0
+2015-08-07,29,Stage 6 - Bukovina Terma Hotel Spa › Bukowina Tatrza?ska,174.0
+2015-08-06,25,Stage 5 - Nowy Sacz  › Zakopane,223.0
+2015-08-05,46,Stage 4 - Jaworzno  › Nowy Sacz,220.0
+2015-08-04,81,Stage 3 - Zawiercie  › Katowice,166.0
+2015-08-03,124,Stage 2 - Czestochowa › Dabrowa Górnicza,146.0
+2015-08-02,90,Stage 1 - Warszawa › Warszawa,122.0
+2015-06-14,127,Stage 8 - Saint-Gervais-les-Bains › Modane Valfréjus,156.5
+2015-06-13,83,Stage 7 - Montmélian › Saint-Gervais Mont Blanc (Le Bettex),155.0
+2015-06-12,29,Stage 6 - Saint-Bonnet-en-Champsaur › Villard-de-Lans - Vercors,183.0
+2015-06-11,40,Stage 5 - Digne-les-Bains › Pra-Loup,161.0
+2015-06-10,25,Stage 4 - Anneyron › Sisteron,228.0
+2015-06-09,10,Stage 3 (TTT) - Roanne  › Montagny,24.5
+2015-06-08,28,Stage 2 - Le Bourget-du-Lac › Parc des Oiseaux Villars-les-Dombes,173.0
+2015-06-07,24,Stage 1 - Ugine › Albertville,132.0
+2015-05-31,23,Stage 4 - Sankt Vith › Sankt Vith,199.2
+2015-05-30,76,Stage 3 - Lacs de l'Eau d'Heure › Lacs de l'Eau d'Heure,158.5
+2015-05-29,61,Stage 2 - Knokke-Heist › Herzele,201.1
+2015-05-28,80,Stage 1 - Lochristi › Knokke-Heist,178.5
+2015-05-27,46,Prologue - Bornem › Bornem,6.85
+2015-04-11,77,Stage 6 (ITT) - Aia › Aia,18.3
+2015-04-10,44,Stage 5 - Eibar › Aia,155.5
+2015-04-09,126,Stage 4 - Zumarraga › Arrate (Eibar),162.2
+2015-04-08,52,Stage 3 - Vitoria-Gasteiz › Zumarraga,170.7
+2015-04-07,78,Stage 2 - Bilbao › Vitoria-Gasteiz,175.4
+2015-04-06,78,Stage 1 - Bilbao › Bilbao,162.7
+2015-03-27,DNF,Stage 5 - Alp › Valls,195.4
+2015-03-26,138,Stage 4 - Tona › La Molina,188.4
+2015-03-25,52,Stage 3 - Girona › Girona,156.6
+2015-03-24,50,Stage 2 - Mataró › Olot,191.8
+2015-03-23,68,Stage 1 - Calella › Calella,185.2
+2015-03-15,85,Stage 7 (ITT) - Nice › Col d'Eze,9.6
+2015-03-14,58,Stage 6 - Vence › Nice,181.5
+2015-03-13,87,Stage 5 - Saint-Etienne › Rasteau,192.0
+2015-03-12,57,Stage 4 - Varennes-sur-Allier › Croix de Chaubouret,204.0
+2015-03-11,55,Stage 3 - Saint-Amand-Montrond › Saint-Pourcain-sur-Sioule,179.0
+2015-03-10,106,Stage 2 - Zoo Parc de Beauval › Saint-Amand-Montrond,172.0
+2015-03-09,53,Stage 1 - Saint-Rémy-lès-Chevreuse › Contres,192.0
+2015-03-08,141,Prologue - Maurepas › Maurepas,6.7
+2015-03-01,41,La Drome Classic (1.1),201.0
+2015-02-28,DNF,Classic Sud Ardèche - Souvenir Francis Delpech (1.1),198.0
+2015-01-25,26,Stage 6 - Adelaide › Adelaide,90.0
+2015-01-24,13,Stage 5 - McLaren Vale › Willunga Hill,151.5
+2015-01-23,89,Stage 4 - Glenelg › Mt Barker,144.5
+2015-01-22,15,Stage 3 - Norwood › Paracombe,143.2
+2015-01-21,25,Stage 2 - Unley › Stirling,150.5
+2015-01-20,37,Stage 1 - Tanunda › Campbelltown,132.6
+2015-01-11,5,National Championships New Zealand - Road Race (NC),183.7
+2014-09-28,95,World Championships - Road Race (WC),254.8
+2014-09-14,45,Stage 21 (ITT) - Santiago de Compostela › Santiago de Compostela,9.7
+2014-09-13,68,Stage 20 - Santa Estevo de Ribas do Sil › Puerto de Ancares,185.7
+2014-09-12,123,Stage 19 - Salvaterra de Miño › Cangas de Morrazo,180.5
+2014-09-11,67,Stage 18 - A Estrada › Monte Castrove en Meis,157.0
+2014-09-10,140,Stage 17 - Ortigueira › A Coruña,190.7
+2014-09-08,114,Stage 16 - San Martín del Rey Aurelio › Lagos de Somiedo (La Farrapona),160.5
+2014-09-07,79,Stage 15 - Oviedo › Lagos de Covadonga,152.2
+2014-09-06,151,Stage 14 - Santander › La Camperona,200.8
+2014-09-05,111,Stage 13 - Belorado › Obregón (Parque de Cabárceno),188.7
+2014-09-04,104,Stage 12 - Logroño › Logroño,166.4
+2014-09-03,112,Stage 11 - Pamplona › Santuario de San Miguel de Aralar,153.4
+2014-09-02,187,Stage 10 (ITT) - Real Monasterio de Santa María de Veruela › Borja,36.7
+2014-08-31,101,Stage 9 - Carboneras de Guadazaón › Aramón Valdelinares,185.0
+2014-08-30,188,Stage 8 - Baeza › Albacete,207.0
+2014-08-29,142,Stage 7 - Alhendín › Alcaudete,169.0
+2014-08-28,29,Stage 6 - Benalmádena › La Zubia (Cumbres Verdes),167.1
+2014-08-27,92,Stage 5 - Priego de Córdoba › Ronda,180.0
+2014-08-26,16,Stage 4 - Mairena del Alcor (Sevilla) › Córdoba,164.7
+2014-08-25,33,Stage 3 - Cádiz › Arcos de la Frontera,197.8
+2014-08-24,31,Stage 2 - Algeciras › San Fernando,174.4
+2014-08-23,2,Stage 1 (TTT) - Jerez de la Frontera › Jerez de la Frontera,12.6
+2014-08-10,8,Stage 7 - Park City › Park City,125.5
+2014-08-09,14,Stage 6 - Salt Lake City › Snowbird Ski and Summer Resort,172.6
+2014-08-08,24,"Stage 5 - Evanston, WY › Kamas",163.1
+2014-08-07,7,Stage 4 - Ogden › Powder Mountain,168.5
+2014-08-06,24,Stage 3 - Lehi › Miller Motorsports Park,190.2
+2014-08-05,16,Stage 2 - Panguitch › Torrey,210.3
+2014-08-04,25,Stage 1 - Cedar City › Cedar City,182.7
+2014-07-13,121,Stage 8 - Podersdorf › Vienna,122.8
+2014-07-12,61,Stage 7 (ITT) - Podersdorf at Neusiedler See › Podersdorf at Neusiedler See,24.1
+2014-07-11,26,Stage 6 - St. Johann/Alpendorf › Villach-Dobratsch,182.6
+2014-07-10,30,Stage 5 - Matrei/Osttirol › St. Johann/Alpendorf,146.4
+2014-07-09,125,Stage 4 - Kitzbühel › Matrei/Osttirol,171.9
+2014-07-08,89,Stage 3 - Bad Ischl › Kitzbüheler Horn,206.0
+2014-07-07,85,Stage 2 - Waidhofen/Ybbs › Bad Ischl,180.9
+2014-07-06,113,Stage 1 - Tulln › Sonntagberg,182.0
+2014-06-15,101,Stage 8 - Megève › Courchevel Le Praz,130.5
+2014-06-14,62,Stage 7 - Ville-la-Grand › Finaut-Émosson,160.0
+2014-06-13,136,Stage 6 - Grenoble › Poisy,178.5
+2014-06-12,58,Stage 5 - Sisteron › La Mure,184.0
+2014-06-11,40,Stage 4 - Montélimar › Gap,169.5
+2014-06-10,62,Stage 3 - Ambert › Le Teil,194.0
+2014-06-09,21,Stage 2 - Tarare › Pays d'Olliergues-Col du Béal,156.0
+2014-06-08,104,Stage 1 (ITT) - Lyon › Lyon,10.4
+2014-05-18,81,Stage 8 - Thousand Oaks › Thousand Oaks,122.4
+2014-05-17,42,Stage 7 - Santa Clarita › Pasadena,142.8
+2014-05-16,9,Stage 6 - Santa Clarita › Mountain High,151.8
+2014-05-15,41,Stage 5 - Pismo Beach › Santa Barbara,172.9
+2014-05-14,55,Stage 4 - Monterey › Cambria,165.1
+2014-05-13,14,Stage 3 - San Jose › Mount Diablo,174.6
+2014-05-12,58,Stage 2 (ITT) - Folsom › Folsom,20.1
+2014-05-11,22,Stage 1 - Sacramento › Sacramento,193.1
+2014-04-25,16,Stage 4 - Val Daone › Monte Bondone,175.0
+2014-04-24,14,Stage 3 - Mori › Roncone,184.4
+2014-04-23,19,Stage 2 - Limone sul Garda › San Giacomo di Brentonico,164.5
+2014-04-22,5,Stage 1 (TTT) - Riva del Garda › Arco,13.4
+2014-03-30,47,Stage 7 - Barcelona (Montjuïc) › Barcelona (Montjuïc),120.7
+2014-03-29,52,Stage 6 - El Vendrell › Vilanova i la Geltrú,163.9
+2014-03-28,61,Stage 5 - Llanars–Vall de Camprodon › Valls,222.2
+2014-03-27,38,Stage 4 - Alp › Vallter 2000-Setcases,166.4
+2014-03-26,38,Stage 3 - Banyoles › La Molina (Alp),162.9
+2014-03-25,81,Stage 2 - Mataró › Girona,171.2
+2014-03-24,50,Stage 1 - Calella › Calella,165.7
+2014-03-16,9,Stage 8 - Nice › Nice,128.0
+2014-03-15,38,Stage 7 - Mougins › Biot,195.5
+2014-03-14,31,Stage 6 - Saint-Saturnin Les-Avignon › Fayence,221.5
+2014-03-13,55,Stage 5 - Crêches-sur-Saône › Rive-de-Gier,152.5
+2014-03-12,22,Stage 4 - Nevers › Belleville,201.5
+2014-03-11,125,Stage 3 - Toucy › Circuit de Nevers Magny-Cours,180.0
+2014-03-10,41,Stage 2 - Rambouillet › Saint-Georges-sur-Baulche,205.0
+2014-03-09,115,Stage 1 - Mantes-La-Jolie › Mantes-La-Jolie,162.5
+2014-02-08,37,Stage 3 - Mitchelton Winery › Nagambie,157.0
+2014-02-07,36,Stage 2 - Ballarat › Bendigo,165.0
+2014-02-06,24,Stage 1 - Geelong › Ballarat,125.0
+2014-02-05,42,Prologue - Melbourne › Melbourne Southbank,2.5
+2014-01-26,102,Stage 6 - Adelaide › Adelaide,95.0
+2014-01-25,77,Stage 5 - McLaren Vale › Willunga,151.5
+2014-01-24,126,Stage 4 - Unley › Victor Harbor,148.5
+2014-01-23,22,Stage 3 - Norwood › Campbelltown,145.0
+2014-01-22,103,Stage 2 - Prospect › Stirling,150.0
+2014-01-21,21,Stage 1 - Nuriootpa › Angaston,135.0
+2014-01-12,9,National Championships New Zealand - Road Race (NC),183.7
+2013-10-20,DNF,Japan Cup Cycle Road Race (1.HC),151.3
+2013-10-15,63,Stage 5 - Tian an men Square › Bird’s Nest Piazza,117.0
+2013-10-14,21,Stage 4 - Yanqing › Mentougou Miaofeng Mountain,150.5
+2013-10-13,37,Stage 3 - Yanqing › Qiandiajian,176.0
+2013-10-12,58,Stage 2 - Huairou Studio City › Yanqing,201.5
+2013-10-11,33,Stage 1 - Shunyi › Huairou Studio City,190.5
+2013-10-06,DNF,Il Lombardia (WT),242.0
+2013-10-02,93,Milano-Torino (1.HC),193.5
+2013-09-29,DNF,World Championships - Road Race (WC),272.2
+2013-09-15,41,Grand Prix Cycliste de Montréal (WT),205.7
+2013-09-13,110,Grand Prix Cycliste de Québec (WT),201.6
+2013-08-25,19,Stage 7 - Denver › Denver,117.4
+2013-08-24,30,Stage 6 - Loveland › Fort Collins,185.4
+2013-08-23,18,Stage 5 (ITT) - Vail › Vail,16.1
+2013-08-22,12,Stage 4 - Steamboat Springs › Beaver Creek,165.6
+2013-08-21,98,Stage 3 - Breckenridge › Steamboat Springs,170.8
+2013-08-20,10,Stage 2 - Aspen › Breckenridge,202.9
+2013-08-19,21,Stage 1 - Aspen › Aspen,102.7
+2013-08-11,16,Stage 6 - Park City › Park City,125.8
+2013-08-10,4,Stage 5 - Snowbasin Resort › Snowbird Ski and Summer Resort,182.0
+2013-08-09,14,Stage 4 - Salt Lake City › Salt Lake City,54.7
+2013-08-08,4,Stage 3 - Richfield › Payson,191.5
+2013-08-07,46,Stage 2 - Panguitch › Torrey,210.0
+2013-08-06,66,Stage 1 - Brian Head › Cedar City,180.0
+2013-07-07,62,Stage 8 - Podersdorf am Neusiedler See › Wien/Burgtheater,122.8
+2013-07-06,50,Stage 7 (ITT) - Podersdorf am Neusiedler See › Podersdorf am Neusiedler See,24.1
+2013-07-05,73,Stage 6 - Maria Taferl › Poysdorf,182.0
+2013-07-04,20,Stage 5 - St. Johann/Alpendorf › Sonntagberg/NÖ,228.3
+2013-07-03,27,Stage 4 - Matrei/Osttirol › St. Johann/Alpendorf,146.0
+2013-07-02,48,Stage 3 - Heiligenblut › Matrei/Osttirol,119.7
+2013-07-01,16,Stage 2 - Innsbruck › Kitzbüheler Horn,157.4
+2013-06-30,24,Stage 1 - Innsbruck › Kühtai,134.9
+2013-05-26,144,Stage 21 - Riese Pio X › Brescia,197.0
+2013-05-25,124,Stage 20 - Silandro/Schlanders › Tre Cime de Lavaredo,210.0
+2013-05-23,107,Stage 18 (ITT) - Mori › Polsa,20.6
+2013-05-22,104,Stage 17 - Caravaggio › Vicenza,214.0
+2013-05-21,139,Stage 16 - Valloire › Ivrea,238.0
+2013-05-19,53,Stage 15 - Cesana Torinese › Les Granges du Galibier,149.0
+2013-05-18,148,Stage 14 - Cervere › Bardonecchia (Jafferau),181.0
+2013-05-17,160,Stage 13 - Busseto › Cherasco,254.0
+2013-05-16,97,Stage 12 - Longarone › Treviso,134.0
+2013-05-15,64,Stage 11 - Tarvisio (Cave del Predil) › Vajont,182.0
+2013-05-14,87,Stage 10 - Cordenons › Altopiano del Montasio,167.0
+2013-05-12,129,Stage 9 - San Sepoicro › Firenze,170.0
+2013-05-11,186,Stage 8 (ITT) - Gabicce Mare › Saltara,54.8
+2013-05-10,155,Stage 7 - San Salvo › Pescara,177.0
+2013-05-09,131,Stage 6 - Mola di Bari › Margherita di Savoia,169.0
+2013-05-08,150,Stage 5 - Cosenza › Matera,203.0
+2013-05-07,93,Stage 4 - Policastro Bussentino › Serra San Bruno,246.0
+2013-05-06,135,Stage 3 - Sorrento › Marina di Ascea,222.0
+2013-05-05,15,Stage 2 (TTT) - Ischia › Forio,17.4
+2013-05-04,115,Stage 1 - Naples › Naples,130.0
+2013-04-28,115,Stage 5 (ITT) - Genève › Genève,18.6
+2013-04-27,71,Stage 4 - Marly › Les Diablerets,182.0
+2013-04-26,64,Stage 3 - Payerne › Payerne,181.0
+2013-04-25,51,Stage 2 - Prilly/Ouest lausannois › Granges (So),190.3
+2013-04-24,81,Stage 1 - Saint-Maurice › Renens/Ouest lausannois,176.4
+2013-04-23,57,Prologue - Le Châble › Bruson,7.45
+2013-03-24,22,Stage 7 - El Vendrell › Barcelona,122.2
+2013-03-23,100,Stage 6 - Almacelles › Valls,178.7
+2013-03-22,57,Stage 5 - Rialp (Pallars Sobirà) › Lleida,156.5
+2013-03-21,31,Stage 4 - Llanars (Vall de Camprodon) › Port-Ainé (Pallars Sobirà - Rialp),217.7
+2013-03-20,20,Stage 3 - Vidreres › Vallter 2000 (Setcases),180.1
+2013-03-19,36,Stage 2 - Girona › Banyoles,160.7
+2013-03-18,37,Stage 1 - Calella › Calella,159.3
+2013-03-14,24,GP Nobili Rubinetterie-Coppa Papà Carlo-Coppa Città di Stresa (1.1),187.5
+2013-01-27,58,Stage 6 - Adelaide › Adelaide,90.0
+2013-01-26,19,Stage 5 - McLaren Vale › Old Willunga Hill,151.5
+2013-01-25,62,Stage 4 - Modbury › Tanunda,126.5
+2013-01-24,15,Stage 3 - Unley › Stirling,139.0
+2013-01-23,10,Stage 2 - Mt Barker › Rostrevor,116.5
+2013-01-22,49,Stage 1 - Prospect › Lobethal,135.0
+2013-01-13,2,National Championships New Zealand - Road Race (NC),183.7
+2012-10-13,62,Stage 5 - Chang Ping › Ping Gu,182.5
+2012-10-12,81,Stage 4 - Yanqing › Chang Ping,165.5
+2012-10-11,124,Stage 3 - Men Tou Gou › Badaling Great Wall,162.5
+2012-10-10,56,Stage 2 - Bird’s Nest › Men Tou Gou,126.0
+2012-10-09,71,Stage 1 - Tian An Men Square › Bird’s Nest Olympic Stadium,117.0
+2012-09-29,53,Il Lombardia (WT),251.0
+2012-09-26,35,Milano-Torino (1.HC),193.5
+2012-09-09,111,Grand Prix Cycliste de Montréal (WT),205.7
+2012-09-07,DNF,Grand Prix Cycliste de Quebec (WT),201.6
+2012-08-26,61,Stage 7 (ITT) - Denver › Denver,15.3
+2012-08-25,36,Stage 6 - Golden › Boulder,165.5
+2012-08-24,45,Stage 5 - Breckenridge › Colorado Springs,189.7
+2012-08-23,46,Stage 4 - Aspen › Beaver Creek,156.5
+2012-08-22,13,Stage 3 - Gunnison › Aspen,210.1
+2012-08-21,26,Stage 2 - Montrose › Crested Butte,159.3
+2012-08-20,40,Stage 1 - Durango › Telluride,202.0
+2012-08-12,15,Stage 6 - Park City › Park City,123.5
+2012-08-11,14,Stage 5 - Park City  › Snowbird Sky and Summer Resort,162.8
+2012-08-10,44,Stage 4 - Utah County  › Salt Lake City,219.8
+2012-08-09,24,Stage 3 - Ogden  › University of Utah Research Park (Salt Lake City),137.0
+2012-08-08,3,Stage 2 (TTT) - Miller Motorsports Park  › Miller Motorsports Park ,21.7
+2012-08-07,19,Stage 1 - Ogden › Ogden,211.0
+2012-07-08,59,Stage 8 - Podersdorf am Neusiedler See › Wien,122.8
+2012-07-07,75,Stage 7 (ITT) - Podersdorf am Neusiedler See › Podersdorf am Neusiedler See,24.1
+2012-07-06,131,Stage 6 - Waidhofen/Ybbs › Melk,185.2
+2012-07-05,103,Stage 5 - St. Johann/Alpendorf › Sonntagberg,228.3
+2012-07-04,125,Stage 4 - Lienz › St. Johann/Alpendorf,141.3
+2012-07-03,129,Stage 3 - Kitzbühel › Lienz,141.8
+2012-07-02,38,Stage 2 - Innsbruck › Kitzbüheler Horn,157.4
+2012-07-01,60,Stage 1 - Innsbruck › Innsbruck,153.0
+2012-05-20,72,Stage 8 - Los Angeles › Los Angeles,68.5
+2012-05-19,78,Stage 7 - Ontario › Mt. Baldy,126.0
+2012-05-18,31,Stage 6 - Palmdale › Big Bear Lake,186.3
+2012-05-17,48,Stage 5 (ITT) - Bakersfield › Bakerfield,29.7
+2012-05-16,44,Stage 4 - Sonora › Clovis,209.6
+2012-05-15,44,Stage 3 - Jose › Livermore,185.5
+2012-05-14,30,Stage 2 - Francisco › Santa Cruz,188.5
+2012-05-13,60,Stage 1 - Santa Rosa › Santa Rosa,186.5
+2012-04-29,72,Stage 5 (ITT) - Crans-Montana › Crans-Montana,16.5
+2012-04-28,35,Stage 4 - Bulle › Sion,184.0
+2012-04-27,53,Stage 3 - La Neuveville › Charmey,157.6
+2012-04-26,79,Stage 2 - Montbéliard › Moutier,149.1
+2012-04-25,68,Stage 1 - Morges › La Chaux-de-Fonds,184.5
+2012-04-24,139,Prologue - Lausanne › Lausanne,3.34
+2012-04-15,31,Stage 3 - Segovia › Segovia,173.5
+2012-04-14,66,Stage 2 - Avila	 › Avila	,158.7
+2012-04-13,73,Stage 1 - Salamanca › Salamanca,159.2
+2012-04-06,73,Stage 5 - Abbaye de l’Epau › Sablé-sur-Sarthe,166.6
+2012-04-05,58,Stage 4 - Angers › Pré-en-Pail,181.1
+2012-04-04,42,Stage 3 (ITT) - Angers › Angers,6.8
+2012-04-04,40,Stage 2 - Riaillé › Angers,96.0
+2012-04-03,78,Stage 1 - Saint-Gilles-Croix-de-Vie  › Riaillé,192.8
+2012-03-27,DNF,Stage 1 - Middelkerke › Oudenaarde,201.6
+2012-03-25,104,Stage 3 - Porto-Vecchio › Col de l'Ospedale,179.0
+2012-03-25,50,Stage 2 (ITT) - Porto-Vecchio › Porto-Vecchio,6.5
+2012-03-24,76,Stage 1 - Porto-Vecchio › Porto-Vecchio,89.5
+2011-09-23,134,World Championships U23 - Road Race (WC),168.0
+2011-09-18,DNF,Grand Prix d'Isbergues - Pas de Calais (1.1),204.0
+2011-09-16,DNF,Kampioenschap van Vlaanderen (1.1),196.8
+2011-09-14,DNF,Grand Prix de Wallonie (1.1),203.1
+2011-09-11,65,GP de Fourmies - La Voix du Nord (1.HC),200.0
+2011-08-28,70,Stage 6 - Golden › Denver,118.8
+2011-08-27,66,Stage 5 - Steamboat Springs › Breckenridge,169.0
+2011-08-26,117,Stage 4 - Avon › Steamboat Springs,133.0
+2011-08-25,53,Stage 3 (ITT) - Vail › Vail,16.0
+2011-08-24,69,Stage 2 - Gunnison › Aspen,211.0
+2011-08-23,41,Stage 1 - Salida › Crested Butte,160.0
+2011-08-22,63,Prologue - Colorado Springs › Colorado Springs,8.34
+2011-08-14,39,Stage 5 - Kimball Junction › Snowbird,160.8
+2011-08-13,98,Stage 4 - Salt Lake City › Salt Lake City,129.0
+2011-08-12,28,Stage 3 (ITT) - Miller Motorsports Park › Miller Motorsports Park,15.6
+2011-08-11,57,Stage 2 - Lehi › Provo,159.6
+2011-08-10,29,Stage 1 - Ogden › Ogden,182.9
+2011-08-09,72,Prologue - Park City › Park City,2.0
+2011-06-13,63,Stage 5 - Belvaux › Esch/Alzette,151.5
+2011-06-12,21,Stage 4 - Troisvierges › Bourscheid,149.5
+2011-06-11,71,Stage 3 - Mamer › Roeser,174.5
+2011-06-10,43,Stage 2 - Schifflange › Rumelange,161.9
+2011-06-09,30,Prologue - Kayl › Kayl,6.6
+2011-05-22,3,Stage 3 - Auterive › Saint-Giron,168.6
+2011-05-21,2,Stage 2 - Bordes sur Arize › Superbagnères Luchon,144.5
+2011-05-20,33,Stage 1 - Saint-Girons › Tournefeuille,150.6
+2011-05-01,11,Stage 5 - Silver City › Pinos Altos,170.1
+2011-04-30,18,Stage 4 - Silver City › Silver City,69.5
+2011-04-29,18,Stage 3 (ITT) - Tyrone › Tyrone,26.6
+2011-04-28,26,Stage 2 - Fort Bayard › Fort Bayard,128.7
+2011-04-27,5,Stage 1 - Silver City › Mogollon,151.3
+2011-01-30,14,Stage 5 - Wellington City › Wellington City,45.0
+2011-01-29,20,Stage 4 - Upperhut › Upperhut,120.0
+2011-01-28,24,Stage 3 - Masterton › Masterton,164.0
+2011-01-27,5,Stage 2 - Masterton › Admiral Hill,125.3
+2011-01-26,2,Stage 1 - Upperhut › Martinborough,121.0
+2011-01-09,4,National Championships New Zealand - Road Race U23 (NC),182.0
+2010-11-06,52,Stage 9 - Winton › Invercargill,64.4
+2010-11-06,45,Stage 8 - Te Anau › Lumsden,79.0
+2010-11-05,7,Stage 7 - Winton › Te Anau,163.6
+2010-11-04,2,Stage 6 - Lumsden › Crown Range,133.9
+2010-11-03,10,Stage 5 - Tuatapere › Winton,101.7
+2010-11-03,53,Stage 4 - Invercargill › Tuatapere,88.4
+2010-11-02,30,Stage 3 - Invercargill › Gore,165.0
+2010-11-01,99,Stage 2 - Invercargill › Bluff (Bluff Hill),81.6
+2010-11-01,49,Stage 1 (ITT) - Invercargill › Invercargill,8.4
+2010-10-01,27,World Championships U23 - Road Race (WC),159.0
+2010-08-01,20,Stage 6 - Ribeauville › Ballon d'Alsace,146.3
+2010-07-31,87,Stage 5 - Bioscope › Carspac,153.9
+2010-07-30,84,Stage 4 - Illzach › Huningue,178.9
+2010-07-29,48,Stage 3 - Strasbourg › Bischoffsheim,152.8
+2010-07-28,47,Stage 2 - Colmar › Cernay,154.0
+2010-06-20,DNS,Stage 4 - Chambéry › La Tousserie,141.2
+2010-06-19,43,Stage 3 - La Thuile › La Giettaz,120.0
+2010-06-19,6,Stage 2 - Aosta › La Thuile,80.4
+2010-06-18,78,Stage 1 - Saint-Julien-en-Genevois › Archamps,145.2
+2010-05-23,4,Stage 4 - Muret › Saint-Girons,163.8
+2010-05-22,5,Stage 3 - Montgaillard › Ax,149.1
+2010-05-21,40,Stage 2 - Saverdun › Mazères,175.5
+2010-05-20,73,Stage 1 - Toulouse › St Gaudens,176.0
+2010-05-16,73,Stage 4 - Saint-Maurice-l'Exil › Charvieu-Chavagneux,150.9
+2010-05-15,56,Stage 3 - Domessin › Saint-Maurice-l'Exil,152.5
+2010-05-14,7,Stage 2 - Charvieu-Chavagneux › Saint-Genix-sur-Guiers,159.5
+2010-05-13,26,Stage 1 - Villefontaine › Maubec,135.3
+2010-04-17,67,Zlm Tour (1.Ncup),179.0
+2010-04-14,44,La Côte Picarde (1.Ncup),176.0
+2010-04-10,79,Tour Des Flandres Espoirs (1.Ncup),170.0
+2010-03-14,47,Paris-Troyes (1.2),172.2
+2010-01-30,49,Stage 4 - Masterton › Masterton,128.0
+2010-01-29,37,Stage 3 - Masterton › Masterton,164.0
+2010-01-28,9,Stage 2 - Masterton › Admiral Hill,125.0
+2010-01-27,33,Stage 1 - Upper Hutt › Martinborough,121.0
+2009-11-07,43,Stage 9 - Winton › Invercargill,64.4
+2009-11-07,66,Stage 8 - Te Anau › Lumsden,79.0
+2009-11-06,86,Stage 7 - Winton › Te Anau,163.6
+2009-11-05,6,Stage 6 - Lumsden › Crown Range,133.9
+2009-11-04,48,Stage 5 - Tuatapere › Winton,101.7
+2009-11-04,71,Stage 4 - Invercargill › Tuatapere,88.4
+2009-11-03,78,Stage 3 - Invercargill › Gore,165.0
+2009-11-02,9,Stage 2 - Invercargill › Bluff,81.6
+2009-11-02,5,Stage 1 (TTT) - Invercargill › Invercargill,8.3
+2009-01-25,24,Stage 7 - Wellington › Wellington,45.0
+2009-01-25,17,Stage 6 (ITT) - Miramar Peninsular › Wellington,11.6
+2009-01-24,27,Stage 5 - Masterton › Masterton,45.0
+2009-01-24,28,Stage 4 - Masterton › Masterton,121.5
+2009-01-23,8,Stage 3 - Masterton › Admiral Hill,120.0
+2009-01-22,17,Stage 2 - Featherson › Masterton,133.0
+2008-11-08,53,Stage 8 - Winton › Invercargill,64.4
+2008-11-08,67,Stage 7 - Te Anau › Lumsden,79.0
+2008-11-07,16,Stage 6 - Winton › Te Anau,163.6
+2008-11-06,8,Stage 5 - Lumsden › Crown Range,133.8
+2008-11-05,21,Stage 4 - Invercargill › Tuatapere,88.4
+2008-11-04,50,Stage 3 - Invercargill › Gore,165.0
+2008-11-03,18,Stage 2 (ITT) - Queens Park › Bluff Hill,81.63
+2008-11-03,19,Prologue - Invercargill › ,8.42

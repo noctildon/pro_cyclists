@@ -1,0 +1,546 @@
+date,result ranking,race name,distance
+2022-05-29,DNF,Stage 3 - Taiji › Taiji ,104.3
+2022-05-28,6,Stage 2 - Kushiyacho › Kushiyacho ,104.5
+2022-05-27,32,Stage 1 - Shingu › Shingu ,114.0
+2022-05-22,26,Stage 4 - Tokyo › Tokyo ,112.0
+2022-05-21,33,Stage 3 - Sagamihara › Sagamihara ,107.7
+2022-05-20,3,Stage 2 - Fuji International Speedway › Mount Fuji ,78.8
+2022-05-19,4,Stage 1 - Iida › Iida ,119.5
+2021-10-10,8,Oita Urban Classic (1.2),150.6
+2021-05-30,31,Stage 3 - Tokyo › Tokyo,112.0
+2021-05-29,21,Stage 2 - Sagamihara › Sagamihara,108.5
+2021-05-28,2,Stage 1 - Fuji International Speedway › Mount Fuji,78.8
+2020-02-09,18,Stage 5 - Melbourne › Melbourne,89.1
+2020-02-08,10,Stage 4 - Mansfield › Mount Buller,106.6
+2020-02-07,20,Stage 3 - Bright › Wangaratta,178.1
+2020-02-06,9,Stage 2 - Beechworth › Falls Creek,117.6
+2020-02-05,54,Stage 1 - Nagambie › Shepparton,120.7
+2020-01-19,34,Stage 5 - Masterton › Masterton,120.0
+2020-01-18,4,Stage 4 - Masterton › Admiral Hill,178.9
+2020-01-17,45,Stage 3 - Masterton › Martinborough,126.3
+2020-01-16,64,Stage 2 - Masterton › Masterton,121.0
+2020-01-15,19,Stage 1 - Masterton › Masterton,121.6
+2019-10-19,32,Stage 5 - Kuala Lipis › Setiawangsa,151.4
+2019-10-18,2,Stage 4 - Sungai Koyan › Cameron Highlands,89.5
+2019-10-17,42,Stage 3 - Kuantan › Karak,172.7
+2019-10-16,61,Stage 2 - Kuala Terengganu › Chukai,157.4
+2019-10-15,39,Stage 1 - Dungun › Kuala Terengganu,180.6
+2019-09-28,1,Stage 4 - Purwohardo › Ijen,129.9
+2019-09-27,32,Stage 3 - Banyuwangi › Banyuwangi,109.3
+2019-09-26,19,Stage 2 - Tegaldlimo › Banyuwangi,148.2
+2019-09-25,31,Stage 1 - Genteng › Banyuwangi,133.2
+2019-09-22,42,Stage 4 - Siak › Siak,102.8
+2019-09-20,33,Stage 2 - Siak › Siak,84.8
+2019-09-19,12,Stage 1 - Siak › Siak,59.1
+2019-09-08,55,Stage 3 - Kitami › Tohma,179.9
+2019-09-07,44,Stage 2 - Obihiro › Kitami,171.8
+2019-09-06,19,Stage 1 - Asahikawa › Shintoku,181.6
+2019-08-23,8,Stage 5 - Gilimanuk › Gianyar,136.8
+2019-08-22,2,Stage 4 - Jember › Banyuwangi,147.3
+2019-08-21,35,Stage 3 - Kota Batu › Jember,193.0
+2019-08-20,3,Stage 2 - Madiun › Kota Batu,157.8
+2019-08-19,16,Stage 1 - Yogyakarta › Madiun,182.7
+2019-06-16,39,Stage 5 - Seoul › Seoul,65.0
+2019-06-15,11,Stage 4 - Samcheok › Goseong,127.0
+2019-06-14,25,Stage 3 - Danyang › Samcheok,178.3
+2019-06-13,17,Stage 2 - Cheonan › Danyang,161.6
+2019-06-12,28,Stage 1 - Gunsan › Gunsan,63.0
+2019-06-02,5,Stage 3 - Taiji  › Taiji ,104.3
+2019-06-01,1,Stage 2 - Kumano › Kumano,109.3
+2019-05-31,36,Stage 1 - Akagigawa Seiryu › Akagigawa Seiryu,100.4
+2019-05-30,49,Prologue - Shingū  › Shingū ,0.7
+2019-05-25,DNF,Stage 7 - Izu › Izu,122.0
+2019-05-24,34,Stage 6 - Fuji › Fuji,36.0
+2019-05-23,48,Stage 5 - Minamishinshu › Minamishinshu,123.6
+2019-05-22,60,Stage 4 - Mino › Mino,139.4
+2019-05-21,53,Stage 3 - Inabe › Inabe,127.0
+2019-05-20,70,Stage 2 - Kyoto › Kyoto,105.0
+2019-05-19,48,Prologue - Sakai › Sakai,2.6
+2019-04-06,38,Stage 6 - Lampang › Chiang Mai,116.0
+2019-04-05,37,Stage 5 - Phayao › Lampang,164.3
+2019-04-04,3,Stage 4 - Nan › Phayao,145.5
+2019-04-03,8,Stage 3 - Nan › Nan,199.7
+2019-04-02,68,Stage 2 - Uttaradit › Nan,182.5
+2019-04-01,32,Stage 1 - Phitsanuloke › Uttaradit,166.8
+2019-03-21,53,Stage 5 - Pingtung › Pingtung,192.8
+2019-03-20,11,Stage 4 - Nantou › Xianshan Visitor Center,166.6
+2019-03-19,31,Stage 3 - Hsinchu › Shigang,156.5
+2019-03-18,7,Stage 2 - Taoyuan › Jiaobanshan Park,118.9
+2019-03-17,58,Stage 1 - Taipei › Taipei,83.2
+2019-01-27,18,Stage 5 - Cambridge › Cambridge,136.0
+2019-01-26,5,Stage 4 - Cambridge › Maungakawa Hill,143.8
+2019-01-25,25,Stage 3 - Te Awamutu  › Te Awamutu ,152.0
+2019-01-24,48,Stage 2 - Cambridge › Lake Karapiro,129.0
+2019-01-23,69,Stage 1 - Cambridge › Cambridge,132.0
+2018-11-11,16,Tour de Okinawa (1.2),210.0
+2018-10-21,18,Japan Cup Cycle Road Race (1.HC),144.2
+2018-10-14,7,Oita Urban Classic (1.2),150.0
+2018-09-29,3,Stage 4 - Sarongan › Paltuding Ijen,127.2
+2018-09-28,4,Stage 3 - Genteng › Banyuwangi,139.4
+2018-09-27,24,Stage 2 - Kalibaru › Banyuwangi,179.3
+2018-09-26,4,Stage 1 - Banyuwangi › Rowo Bayu,153.1
+2018-09-21,38,Stage 4 - Siak › Siak,92.06
+2018-09-20,43,Stage 3 - Siak › Siak,161.48
+2018-09-19,51,Stage 2 - Siak › Siak,115.45
+2018-09-18,58,Stage 1 - Siak › Siak,154.18
+2018-06-03,2,Stage 3 - Taiji Hanto › Taiji Hanto,104.3
+2018-06-02,49,Stage 2 - Kumano › Kumano,110.0
+2018-05-31,66,Prologue - Shingu › Shingu,0.7
+2018-05-27,31,Stage 8 - Tokyo › Tokyo,112.7
+2018-05-26,18,Stage 7 - Izu › Izu,122.0
+2018-05-25,10,Stage 6 - Fuji Speedway › Mount Fuji,32.9
+2018-05-24,1,Stage 5 - Minami Shinshu › Minami Shinshu,123.6
+2018-05-23,32,Stage 4 - Mino › Mino,139.4
+2018-05-22,6,Stage 3 - Inabe › Inabe,127.0
+2018-05-21,10,Stage 2 - Kyoto › Kyoto,105.0
+2018-05-20,52,Prologue - Sakai › Sakai,2.6
+2018-05-06,41,Stage 3 - Kandy › Negombo,122.0
+2018-05-05,16,Stage 2 - Mahiyanganaya › Kandy,85.1
+2018-05-04,42,Stage 1 - Passikudah › Mahiyanganaya,124.0
+2018-04-06,67,Stage 6 - Roi Et  › Khon Kaen,110.7
+2018-04-05,49,Stage 5 - Nakhon Ratchasima  › Roi Et ,229.0
+2018-04-04,54,Stage 4 - Khao Yai › Nakhon Ratchasima,183.4
+2018-04-03,3,Stage 3 - Aranyarathet › Khao Yai,177.7
+2018-04-02,49,Stage 2 - Chanthaburi › Aranyarathet,173.0
+2018-04-01,25,Stage 1 - Pattaya › Chanthaburi,207.1
+2018-03-25,15,Stage 8 - Rembau › Kuala Lumpur,141.1
+2018-03-24,22,Stage 7 - Nilai › Muar,222.4
+2018-03-23,28,Stage 6 - Tapah › Tanjung Malim ,108.5
+2018-03-22,5,Stage 5 - Bentong › Cameron Highlands,169.4
+2018-03-21,40,Stage 4 - Dungun › Pekan,183.8
+2018-03-20,41,Stage 3 - Kota Bharu › Kuala Terengganu,166.0
+2018-03-19,43,Stage 2 - Gerik › Kota Bharu,208.3
+2018-03-18,48,Stage 1 - Kangar › Kulim,147.9
+2018-01-27,19,Stage 4 - Sharjah › Sharjah,99.1
+2018-01-26,2,Stage 3 - Dibba › Wadi Al Hilo,116.7
+2018-01-25,64,Stage 2 - Al Batayeh › Al Malaiha,151.6
+2018-01-24,31,Stage 1 (ITT) - Sharjah › Sharjah,10.2
+2017-10-22,5,Japan Cup Cycle Road Race (1.HC),103.0
+2017-10-13,37,Stage 6 - Tabriz › Tabriz,114.0
+2017-10-12,28,Stage 5 - Sarein › Tabriz,191.7
+2017-10-11,2,Stage 4 - Tabriz › Sarein,196.2
+2017-10-10,19,Stage 3 - Aras Free Zone › Tabriz,155.1
+2017-10-09,18,Stage 2 - Urmia › Aras Free Zone,209.4
+2017-10-08,46,Stage 1 - Tabriz › Urmia,144.1
+2017-09-28,DNS,Stage 2 - Glenmore › Banyuwangi,180.9
+2017-09-27,10,Stage 1 - Wongsorejo › Banyuwangi,137.7
+2017-09-22,7,Stage 5 - Amanhuse › Ambon,82.9
+2017-09-21,30,Stage 4 - Masohi › Waipirit,141.5
+2017-09-20,3,Stage 3 - Bula › Wahai,153.8
+2017-09-19,26,Stage 2 - Wahai › Bula,70.3
+2017-09-18,5,Stage 1 - Piru › Masohi,179.7
+2017-09-10,4,Stage 3 - Hakodate › Mount Hakodate,75.9
+2017-09-09,27,Stage 2 - Hokuto › Kikonai,182.3
+2017-09-08,10,Stage 1 - Hakodate › Hokuto,156.7
+2017-07-19,1,Stage 6 - Ruteng › Labuan Bajo,121.5
+2017-07-18,7,Stage 5 - Borong › Ruteng,55.5
+2017-07-17,4,Stage 4 - Mbay › Borong,170.9
+2017-07-16,4,Stage 3 - Ende › Mbay,83.3
+2017-07-15,4,Stage 2 - Maumere › Ende,142.8
+2017-07-14,42,Stage 1 - Larantuka › Maumere,136.3
+2017-06-18,30,Stage 5 - Seoul › Seoul,65.0
+2017-06-17,17,Stage 4 - Yeongju › Chungju,156.0
+2017-06-16,40,Stage 3 - Muju › Yeongju,167.8
+2017-06-15,7,Stage 2 - Gunsan › Muju,156.8
+2017-06-14,50,Stage 1 - Yeosu › Gunsan,216.9
+2017-06-04,15,Stage 3 - Taiji Hanto › Taiji Hanto,100.0
+2017-06-03,1,Stage 2 - Kumano › Kumano,109.3
+2017-06-02,41,Stage 1 - Akagigawa › Akagigawa,114.1
+2017-06-01,54,Prologue - Shingu › Shingu,0.7
+2017-05-28,33,Stage 8 - Tokyo › Tokyo,112.7
+2017-05-27,13,Stage 7 - Izu › Izu,122.0
+2017-05-26,12,Stage 6 - Fujisan › Mt.Fuji,11.3
+2017-05-25,15,Stage 5 - Minami › Shinshu,123.6
+2017-05-24,41,Stage 4 - Mino › Mino,139.4
+2017-05-23,7,Stage 3 - Inabe › Inabe,127.0
+2017-05-22,15,Stage 2 - Kyoto › Kyoto,105.0
+2017-05-21,48,Prologue - Sakai › Sakai,2.65
+2017-04-16,32,Stage 4 - Mataram › Mataram,112.0
+2017-04-15,5,Stage 3 - Pantai Kuta › Sembalun,133.9
+2017-04-14,5,Stage 2 - Bangsal › Senaru,113.0
+2017-04-13,6,Stage 1 - Mataram › Pantai Kuta,126.3
+2017-04-02,13,Stage 3 - Yaita › Utsunomiya,99.6
+2017-04-01,22,Stage 2 - Motegi › Nasu,102.0
+2017-03-31,10,Stage 1 - Nikko › Ashikaga,106.1
+2017-02-21,13,Stage 4 - Daet › Lucena,207.35
+2017-02-20,6,Stage 3 - Naga › Daet,177.35
+2017-02-19,15,Stage 2 - Sorsogon › Naga,177.35
+2017-02-18,6,Stage 1 - Legazpi › Sorsogon,164.5
+2016-10-23,12,Japan Cup Cycle Road Race (1.HC),144.2
+2016-09-03,21,Stage 4 - Kutchan  › Sapporo,219.0
+2016-09-02,9,Stage 3 - Kutchan  › Kutchan ,180.0
+2016-09-01,11,Stage 2 - Sapporo › Kutchan ,111.0
+2016-09-01,59,Prologue - Sapporo › Sapporo,1.0
+2016-08-07,12,Stage 9 - Abymes › Basse-Terre,123.0
+2016-08-06,5,Stage 8a - Gosier › Abymes,105.0
+2016-08-06,15,Stage 8b (ITT) - Abymes › Abymes,20.0
+2016-08-05,25,Stage 7 - Saint-Francois › Gosier,154.0
+2016-08-04,23,Stage 6 - Bouillante › Saint-Francois,146.6
+2016-08-02,4,Stage 4 - Saint Rose ›  Petit-Bourg,148.4
+2016-08-01,90,Stage 3 - Vieux Habitants › Saint Rose,156.0
+2016-07-31,4,Stage 2a - Petit Canal › Vieux Habitants,100.0
+2016-07-31,4,Stage 2b (ITT) - Basse-Terre › Saint Claude,6.0
+2016-07-30,46,Stage 1 - Pointe a Pitre › Petit Canal,163.0
+2016-07-29,42,Prologue - Pointe a Pitre › Pointe a Pitre,2.2
+2016-07-10,8,Stage 3 - Atouguia de Baleia › Carvoeira,147.0
+2016-07-09,19,Stage 2 - Palhagueiras › Torres Vedras,154.3
+2016-07-08,12,Stage 1 - Ventosa › Alto de Montejunto,179.0
+2016-07-07,66,Prologue - Turcifal › Turcifal,8.0
+2016-06-19,5,Stage 3 - Taiji Hanto › Taiji Hanto,100.0
+2016-06-18,6,Stage 2 - Kumano › Kumano,109.3
+2016-06-17,23,Stage 1 - Satsuki › Satsuki,114.1
+2016-06-16,55,Prologue - Shingu City › Shingu City,0.7
+2016-06-05,37,Stage 8 - Tokyo › Tokyo,112.7
+2016-06-04,5,Stage 7 - Izu  › Izu ,122.0
+2016-06-03,14,Stage 6 - Fujisan › Fujisan,11.4
+2016-06-02,25,Stage 5 - Minami Shinshu › Minami Shinshu,123.6
+2016-06-01,10,Stage 4 - Inabe › Inabe,130.7
+2016-05-31,27,Stage 3 - Mino › Mino,139.4
+2016-05-30,18,Stage 2 - Kyoto › Kyoto,105.0
+2016-05-29,48,Prologue - Sakai › Sakai,2.65
+2016-05-08,42,Stage 5 - Baku › Baku,158.0
+2016-05-07,9,Stage 4 - Gabala › Pirqulu,115.3
+2016-05-06,19,Stage 3 - Gabala › Gabala,177.2
+2016-05-05,52,Stage 2 - Baku › Ismayilli,186.5
+2016-05-04,85,Stage 1 - Baku › Sumayit,154.0
+2016-05-01,11,Stage 7 - Le Hinglé › Dinan ,149.0
+2016-04-30,23,Stage 6 - Fouesnant › Fouesnant,156.0
+2016-04-29,50,Stage 5 - Plestin-les-Grèves › Treffléan,192.7
+2016-04-28,20,Stage 4 - Plancoet › Lannion,163.5
+2016-04-27,31,Stage 3 - Louisfert › Janzé,148.0
+2016-04-26,76,Stage 2 - Belz › Louisfert,204.0
+2016-04-25,34,Stage 1 - Quiberon › Landévant,158.0
+2016-04-16,22,Tour du Finistère (1.1),192.9
+2016-04-01,30,Route Adélie de Vitré (1.1),197.8
+2016-03-13,114,Stage 3 - Pazin › Umag,146.0
+2016-03-12,57,Stage 2 - Vrsar › Motovun,157.0
+2016-03-11,10,Stage 1 - Porec › Labin,158.0
+2016-03-10,194,Prologue - Umag › Umag,1.6
+2016-03-05,DNF,Porec Trophy - Trofej Porec (1.2),156.5
+2016-03-02,133,Trofej Umag - Umag Trophy (1.2),154.0
+2016-02-21,34,Stage 4 - Legazpi City › Legazpi City,160.0
+2016-02-20,40,Stage 3 - Daet › Legazpi City,185.0
+2016-02-19,24,Stage 2 - Lucena › Daet,208.0
+2015-10-18,DNF,Japan Cup Cycle Road Race (1.HC),144.2
+2015-10-08,DNS,Stage 6 - Bukittinggi › Tanah Datar,116.0
+2015-10-07,22,Stage 5 - Harau › Ngalau Indah,164.0
+2015-10-06,2,Stage 4 - Solok Selatan › Sawahlunto,163.5
+2015-10-05,56,Stage 3 - Sijunjung › Dharmasraya,184.5
+2015-10-04,10,Stage 2 - Padang Pariaman › Solok Kabupaten,140.0
+2015-09-13,57,Stage 3 - Takasu › Sapporo,195.8
+2015-09-12,22,Stage 2 - Biei › Biei,158.8
+2015-09-11,33,Stage 1 - Asahikawa › Asahikawa,182.7
+2015-08-08,DNS,Stage 8a - Moule › Tronçon,97.1
+2015-08-07,39,Stage 7 - Pointe Noire › Moule,151.0
+2015-08-06,1,Stage 6 - Goyave  › Pointe Noire,146.0
+2015-08-05,15,Stage 5 - Vieux-Habitants › Goyave,148.7
+2015-08-04,12,Stage 4 - Anse Bertrand › Vieux Habitants,142.6
+2015-08-03,36,Stage 3 - Gourbeyre › Anse-Bertrand,154.0
+2015-08-02,5,Stage 2a - Sainte-Anne › Gourbeyre,100.0
+2015-08-02,3,Stage 2b (ITT) - Gourbeyre › Saint-Claude,9.5
+2015-08-01,3,Stage 1 - Pointe-à-Pitre › Sainte-Anne,157.6
+2015-06-14,60,Stage 8 - Seoul › Seoul,65.0
+2015-06-13,47,Stage 7 - Gunsan › Daejun,145.8
+2015-06-12,46,Stage 6 - Gangjin › Gunsan,193.7
+2015-06-11,61,Stage 5 - Yeosu › Gangjin,175.0
+2015-06-10,62,Stage 4 - Muju › Yeosu,207.0
+2015-06-09,65,Stage 3 - Muju › Muju,99.0
+2015-06-08,48,Stage 2 - Gumi › Muju,174.4
+2015-06-07,61,Stage 1 - Busan › Gumi,189.1
+2015-05-31,18,Stage 3 - Taiji › Taiji,100.0
+2015-05-30,11,Stage 2 - Kumano › Kumano,109.3
+2015-05-29,22,Stage 1 - Akagigawa › Akagigawa,114.1
+2015-05-28,65,Prologue - Shingu City › Shingu City,0.7
+2015-05-24,71,Stage 7 - Tokyo › Tokyo,112.7
+2015-05-23,3,Stage 6 - Izu › Izu,122.0
+2015-05-22,9,Stage 5 - Oyama › Mt.Fuji,11.4
+2015-05-21,3,Stage 4 - Minami › Shinshu,123.6
+2015-05-20,35,Stage 3 - Mino › Mino,139.4
+2015-05-19,4,Stage 2 - Inabe › Inabe,130.7
+2015-05-17,57,Prologue - Sakai › Sakai,2.65
+2015-05-03,DNF,Grand Prix de la Somme « Conseil Général 80» (1.1),189.4
+2015-05-01,16,Stage 7 - Liffré › Liffré,146.3
+2015-04-30,40,Stage 6 - Perros-Guirec › Le Quillio,149.0
+2015-04-29,26,Stage 5 - Pontivy › Perros-Guirec,169.3
+2015-04-28,17,Stage 4 - Plogoff - Pointe du Raz › Pontivy,189.9
+2015-04-27,15,Stage 3 - Baud › Cleden-Cap Sizun,192.9
+2015-04-26,21,Stage 2 - Sainte-Reine-de-Bretagne › Melgrand,172.3
+2015-04-25,61,Stage 1 - Pontchâteau › Crossac,146.9
+2015-04-06,66,Stage 6 - Nong Khai › Udon Thani,209.0
+2015-04-05,30,Stage 5 - Ban Paeng › Nong Khai,205.0
+2015-04-04,77,Stage 4 - Mukdahan › Nakhon Phanom,102.0
+2015-04-03,103,Stage 3 - Roi Et › Mukdahan,163.0
+2015-04-02,75,Stage 2 - Buri Ram › Roi Et,151.0
+2015-04-01,62,Stage 1 - Nakhon Ratchasima › Buri Ram,177.0
+2015-03-15,96,Stage 3 - Pazin › Umag,156.0
+2015-03-14,12,Stage 2 - Vrsar › Motovun,157.0
+2015-03-13,19,Stage 1 - Porec › Labin,158.0
+2015-03-12,180,Prologue - Umag › Umag,1.9
+2015-03-07,75,Porec Trophy - Trofej Porec (1.2),143.0
+2015-03-04,116,Trofej Umag - Umag Trophy (1.2),157.5
+2015-02-04,3,Stage 4 - Lingayen › Baguio,101.7
+2015-02-03,19,Stage 3 - Iba › Lingayen,150.1
+2015-02-02,27,Stage 2 - Balanga › Iba,154.7
+2015-02-01,3,Stage 1 - Balanga › Balanga,126.0
+2014-10-19,13,Japan Cup Cycle Road Race (1.HC),151.3
+2014-09-15,49,Stage 3 - Obihiro › Otofune,166.0
+2014-09-14,44,Stage 2 - Makubetsu › Makubetsu,178.9
+2014-09-13,19,Stage 1 - Chitose › Shintoku,194.0
+2014-08-24,53,Châteauroux Classic de l'Indre Trophée Fenioux (1.1),203.8
+2014-08-10,12,Stage 9 - Lamentin › Basse Terre,121.0
+2014-08-09,34,Stage 8a - Bouillante › Lamentin,95.0
+2014-08-09,19,Stage 8b (ITT) - Lamentin › Lamentin,17.0
+2014-08-08,21,Stage 7 - Capesterre › Bouillante,145.0
+2014-08-07,24,Stage 6 - Abymes › Abymes,160.0
+2014-08-06,22,Stage 5 - Vieux Habitants › Capesterre,149.0
+2014-08-05,1,Stage 4 - Morne à l'Eau › Vieux Habitants,142.6
+2014-08-04,35,Stage 3 - Basse Terre › Morne à l'Eau,152.0
+2014-08-03,17,Stage 2a - Deshaies › Baillif,105.5
+2014-08-03,4,Stage 2b (ITT) - Basse Terre › Saint Claude,6.3
+2014-08-02,32,Stage 1 - Pointe à Pitre › Deshaies,162.5
+2014-07-13,9,Stage 3 - São Martinho do Porto › Carvoeira,164.0
+2014-07-12,40,Stage 2 - Atouguia de Beleia › Torres Vedras,147.5
+2014-07-11,34,Stage 1 - Manique do Intendente › Sobral de Monte Agraço,170.3
+2014-07-10,96,Prologue - Torres Vedras › Torres Vedras,7.5
+2014-06-01,14,Stage 3 - Taiji Hanto › Taiji Hanto,100.0
+2014-05-31,8,Stage 2 - Kumano Sangaru › Kumano Sangaru,109.7
+2014-05-30,20,Stage 1 - Shingu › Shingu,111.3
+2014-05-29,100,Prologue - Shingu › Shingu,0.7
+2014-05-25,21,Stage 6 - Tokyo › Tokyo,112.7
+2014-05-24,18,Stage 5 - Izu › Izu,146.4
+2014-05-23,14,Stage 4 - Fuji › Fuji,11.4
+2014-05-21,2,Stage 3 - Minamishinshu › Minamishinshu,148.0
+2014-05-20,27,Stage 2 - Mino › Mino,160.7
+2014-05-18,69,Prologue - Sakai › Sakai,2.65
+2014-05-04,101,Grand Prix de la Somme « Conseil Général 80» (1.1),192.1
+2014-04-27,DNF,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux (1.1),200.0
+2014-04-06,49,Stage 6 - Phayao › Chiang Rai,140.0
+2014-04-05,49,Stage 5 - Phayao Lake › Phayao Lake,134.0
+2014-04-04,3,Stage 4 - Lampang › Phayao,162.0
+2014-04-03,31,Stage 3 - Sukhothai › Lampang,194.0
+2014-04-02,62,Stage 2 - Uthai Thani › Sukhothai,234.0
+2014-04-01,49,Stage 1 - Suphan Buri › Uthai Thani,192.0
+2014-03-28,5,Circuit International d\'Alger (1.2),106.2
+2014-03-27,8,Stage 4 - Constantine   › Oum El Bouaghi ,137.3
+2014-03-26,6,Stage 3 - Mila  › Constantine,101.5
+2014-03-25,1,Stage 2 - Constantine  › Constantine ,124.2
+2014-03-24,10,Stage 1 - Constantine  › Sétif,132.0
+2014-03-22,38,Criterium International de Setif (1.2),96.0
+2014-03-21,15,Stage 3 - Sétif  › Sétif ,110.5
+2014-03-20,2,Stage 2 - Sétif  › Sétif ,117.6
+2014-03-19,6,Stage 1 - Sétif  › Bougaa,129.0
+2014-03-16,51,Paris-Troyes (1.2),174.2
+2014-03-09,78,Grand Prix de la Ville de Lillers Souvenir Bruno Comini (1.2),169.2
+2013-10-20,DNF,Japan Cup Cycle Road Race (1.HC),151.3
+2013-09-16,13,Stage 3 - Kutchan › Otaru,113.9
+2013-09-15,1,Stage 2 - Kutchan › Kutchan,129.2
+2013-09-14,7,Stage 1 - Kutchan › Kutchan,176.8
+2013-08-11,DNF,Stage 9 - Abymes › Basse-Terre,126.0
+2013-08-10,92,Stage 8a - Capesterre › Les Abymes,100.6
+2013-08-10,59,Stage 8b (ITT) - Les Abymes › Les Abymes,20.0
+2013-08-09,61,Stage 7 - Vieux-Habitants  › Capesterre,149.0
+2013-08-08,14,Stage 6 - Petit-Bourg  › Vieux-Habitants,143.0
+2013-08-07,26,Stage 5 - Sainte-Rose › Petit-Bourg,145.4
+2013-08-06,8,Stage 4 - Gosier  › Sainte-Rose,139.1
+2013-08-05,64,Stage 3 - Gourbeyre  › Gosier,145.7
+2013-08-04,48,Stage 2a - Saint-François › Baillif,100.0
+2013-08-04,11,Stage 2b (ITT) - Trois-Rivières › Gourbeyre,7.5
+2013-08-03,47,Stage 1 - Pointe-à-Pitre › Saint-François,163.0
+2013-07-28,14,Stage 6 - Ribeauvillé › Cernay,139.6
+2013-07-27,43,Stage 5 - Sélestat › Le Markstein,176.4
+2013-07-26,55,Stage 4 - Dannemarie › Colmar,164.6
+2013-07-25,41,Stage 3 - Strasbourg › Bischoffsheim,153.8
+2013-07-24,67,Stage 2 - Mulhouse › Huningue,157.6
+2013-07-23,97,Stage 1 - Ungersheim › Sausheim,118.8
+2013-06-23,69,National Championships France - Road Race (NC),246.6
+2013-06-02,11,Stage 3 - Taiji Hanto › Taiji Hanto,100.0
+2013-06-01,6,Stage 2 - Kumano Sangaku › Kumano Sangaku,109.3
+2013-05-31,19,Stage 1 - Agagigawa Seiryu › Agagigawa Seiryu,114.1
+2013-05-30,71,Prologue - Shingu › Shingu,0.7
+2013-05-26,40,Stage 6 - Tokyo › Tokyo,112.7
+2013-05-25,7,Stage 5 - Izu › Izu,146.4
+2013-05-24,7,Stage 4 - Mount Fuji › Mount Fuji,11.4
+2013-05-22,6,Stage 3 - Minami-Shinshu › Minami-Shinshu,148.0
+2013-05-21,14,Stage 2 - Mino › Mino,160.7
+2013-05-19,55,Prologue - Sakai › Sakai,2.65
+2013-05-12,DNS,Stage 4 - Charvieu-Chavagneux › Charvieu-Chavagneux,158.6
+2013-05-11,28,Stage 3 - Saint-Maurice l'Exil › Toussieu,178.6
+2013-05-10,11,Stage 2 - Villefontaine › Saint-Maurice l'Exil,158.7
+2013-05-09,6,Stage 1 - Les Eparres-Bourgoin › Jallieu,150.7
+2013-05-05,31,Stage 5 - Baku › Baku,144.0
+2013-05-04,31,Stage 4 - Qubala › Pirqulu,116.0
+2013-05-03,42,Stage 3 - Qabala › Qubala,165.0
+2013-05-02,41,Stage 2 - Baku › Ismayilli,183.0
+2013-05-01,60,Stage 1 - Baku › Baku,157.0
+2013-04-14,33,Stage 5 - Blois › Blois,97.5
+2013-04-13,46,Stage 4 - Ange › Ange,190.0
+2013-04-12,46,Stage 3 - Vendôme › Billy,212.0
+2013-04-11,53,Stage 2 - Villebarou › Saint-Gervais-la-Forêt,189.0
+2013-04-10,134,Stage 1 - Blois › Nouan-le-Fuzelier,173.0
+2013-03-31,37,Val d'Ille Classic - Souvenir Julien Ditlecadet (1.1),190.5
+2013-03-16,DNF,Classic Loire Atlantique (1.1),184.8
+2013-03-10,57,Paris-Troyes (1.2),174.2
+2013-03-03,32,Grand Prix de la Ville de Lillers Souvenir Bruno Comini (1.2),174.2
+2012-09-14,38,Grand Prix de la Somme « Conseil Général 80 » (1.1),202.9
+2012-08-19,69,Chateauroux Classic de l'Indre Trophee Fenioux (1.1),201.2
+2012-08-11,DNF,Stage 3 - Poullaouen  › Poullaouen ,186.0
+2012-08-10,78,Stage 2 - Pont-Scorff  › Cléguer ,166.0
+2012-08-09,37,Stage 1 -  Guingamp › Ploumagoar,179.0
+2012-07-29,38,Stage 6 - Ribeauvillé › Le Ballon d’Alsace,156.7
+2012-07-28,99,Stage 5 (ITT) - Cernay › Cernay,17.7
+2012-07-27,5,Stage 4 - Bollwiller › Markstein,84.6
+2012-07-26,76,Stage 3 - Beaucourt › Colmar,160.3
+2012-07-25,119,Stage 2 - Strasbourg › Bischoffsheim,153.8
+2012-07-24,38,Stage 1 - Huningue › Huningue,146.3
+2012-07-22,25,Grand Prix de la ville de Pérenchies (1.2),162.2
+2012-06-15,DNF,Stage 1 - Renault Saint-Berthevin › Lassay-les-Chateaux,187.0
+2012-06-14,117,Prologue - Laval › Laval,4.5
+2012-06-03,24,Stage 3 - Taiji › Taiji,100.0
+2012-06-02,3,Stage 2 - Kumano › Kumano,119.2
+2012-06-01,23,Stage 1 - Kumanogawa › Kumanogawa,114.0
+2012-05-31,67,Prologue - Shingu › Shingu,0.7
+2012-05-27,33,Stage 6 - Tokyo › Tokyo,112.7
+2012-05-27,12,Stage 5 - Izu › Izu,146.4
+2012-05-25,5,Stage 4 - Mount Fuji › Mount Fuji,11.4
+2012-05-23,3,Stage 3 - Minami-Shinshu › Minami-Shinshu,158.0
+2012-05-22,18,Stage 2 - Mino › Mino,155.5
+2012-05-20,59,Prologue - Sakai › Sakai,2.65
+2012-05-13,16,Stage 4 - Charvieu-Chavagneux › Charvieu-Chavagneux,154.0
+2012-05-12,14,Stage 3 - Saint-Maurice l'Exil › Saint-Maurice l'Exil,166.0
+2012-05-11,29,Stage 2 - Vaulx-Milieu › Montanay,181.0
+2012-05-10,44,Stage 1 - Domarin › Ruy,141.0
+2012-05-06,23,Circuit de Wallonie (1.2),176.4
+2012-04-15,51,Stage 5 - Blois › Blois,97.0
+2012-04-14,34,Stage 4 - Ange › Ange,191.0
+2012-04-13,23,Stage 3 - Château-Renault › Vend?me,201.5
+2012-04-12,35,Stage 2 - Villebarou › Chailles,210.0
+2012-04-11,75,Stage 1 - Nouan-le-Fuzelier › Blois,185.0
+2012-03-30,DNF,Stage 8 - Ouarzazate  › Marrakech,190.0
+2012-03-29,46,Stage 7 - Tinghir  › Ouarzazate,170.0
+2012-03-28,82,Stage 6 - Er Rachidia  › Tinghir,137.0
+2012-03-27,48,Stage 5 - Midelt  › Er Rachidia,126.0
+2012-03-26,14,Stage 4 - Khenifra  › Midelt,144.0
+2012-03-25,56,Stage 3 - Fes  › Khenifra,152.0
+2012-03-23,26,Stage 1 - Tanger  › Tetouan,130.0
+2012-03-17,48,Classic Loire Atlantique (1.1),184.8
+2012-03-11,51,Paris-Troyes (1.2),174.2
+2012-02-26,DNF,Les Boucles du Sud Ardèche - Souvenir F. Delpech (1.1),199.7
+2012-02-19,46,Stage 6 - Al Khawd › Matrah Corniche,130.0
+2012-02-18,8,Stage 5 - Royal Opera House › Jabal Al Akhdar (Green Mountain),158.0
+2012-02-17,33,Stage 4 - Bidbid › Al Wadi al Kabir,142.0
+2012-02-16,51,Stage 3 - Al Awabi › Bank Muscat,144.0
+2012-02-15,11,Stage 2 - Sur › Wadi Dayqah Dam,140.5
+2012-02-14,43,Stage 1 - Al Alam Palace › Wadi Al Huwqayn,159.0
+2012-02-10,71,Stage 6 - Sealine Beach Resort › Doha Corniche,120.0
+2012-02-09,89,Stage 5 - Camel Race Track › Al Khor Corniche,160.0
+2012-02-09,97,Stage 5 - Camel Race Track › Al Khor Corniche,160.0
+2012-02-08,85,Stage 4 - Al Thakhira › Madinat Al Shamal,144.0
+2012-02-07,86,Stage 3 - Dukhan › Al Gharafa Stadium,146.5
+2012-02-06,15,Stage 2 (TTT) - Lusail › Lusail,11.3
+2012-02-05,86,Stage 1 - Barzan Towers › Doha Golf Club,142.5
+2011-09-24,DNF,Stage 1 - La Grand-Combe › Langogne,149.0
+2011-08-14,DNF,Stage 4 - Guerlesquin › Guerlesquin,179.0
+2011-08-13,8,Stage 3 - Poullaouen › Poullaouen,170.0
+2011-08-12,12,Stage 2 - Pont Scor › Cléguer,166.0
+2011-08-11,41,Stage 1 - Plouec du Trieux › Pontrieux,171.0
+2011-07-31,70,Stage 5 - Ribeauvillé › Ballon d'Alsace,156.4
+2011-07-30,56,Stage 4 - Illzach › Mulhouse,169.9
+2011-07-29,71,Stage 3 - Colmar › Carspach,146.0
+2011-07-28,34,Stage 2 - Strasbourg › Bischoffsheim,153.8
+2011-07-27,75,Stage 1 - Bâle › Huningue,142.7
+2011-06-19,29,Stage 7 - Lepenski Vir › Belgrade,168.0
+2011-06-18,21,Stage 6 - Sokobanja › Kladovo,189.5
+2011-06-17,32,Stage 5 - Nis › Sokobanja,84.5
+2011-06-16,38,Stage 4 - Uzice › Nis,233.0
+2011-06-15,8,Stage 3 - Pale (BIH) › Bajina Basta Tara,172.0
+2011-06-14,8,Stage 2 - Ruma Vrdnik › Pale (BIH),166.5
+2011-06-13,23,Stage 1 - Ruma › Ruma,110.0
+2011-05-14,DNF,Stage 3 - Chaponnay › Saint-Maurice l'Exil,150.0
+2011-05-13,21,Stage 2 - Charvieu-Chavagneux › Toussieu,159.0
+2011-05-12,21,Stage 1 - Vaulx-Milieu › Saint-Savin,156.0
+2011-05-07,4,Stage 4 - Arta Terme › Osoppo,153.6
+2011-05-06,5,Stage 3 - Fagagna › Tarvisio,153.6
+2011-05-05,34,Stage 2 - Azzana Decimo › Pordenone,166.8
+2011-05-04,102,Stage 1 - Udine › Motta di Livenza,157.3
+2011-04-10,23,Stage 4 - Bogny-sur-Meuse › Bogny-sur-Meuse,74.0
+2011-04-10,27,Stage 3 - Charleville-Mézières › La Croisette,67.0
+2011-04-09,20,Stage 2 - Givet-Vireux › Wallerand,158.0
+2011-04-08,70,Stage 1 - Vouziers › Vouziers,164.0
+2010-09-26,44,Stage 2 - Marvejols › Mende (Montée Jalabert),134.0
+2010-09-25,41,Stage 1 - Quézac Ispagnac › L'Esperou,162.0
+2010-08-15,76,Stage 4 - Guerlesquin › Guerlesquin,175.0
+2010-08-14,53,Stage 3 - Pont Scorff › Cléguer,185.0
+2010-08-13,96,Stage 2 - Poullaouen › Poullaouen,180.0
+2010-08-12,65,Stage 1 - Plouec du Trieux › Pontrieux,170.0
+2010-06-19,57,Stage 6 - Milici › Ruma,155.0
+2010-06-18,59,Stage 5 - ZLATIBOR › PALE (BiH),173.5
+2010-06-17,15,Stage 4 - VRNJAČKA BANJA › ZLATIBOR,148.0
+2010-06-16,28,Stage 3 - VRANJE › VRNJAČKA BANJA,233.0
+2010-06-15,12,Stage 2 - ZAJEČAR › VRANJSKA BANJA,173.0
+2010-06-14,58,Stage 1 - BELGRADE › ZAJEČAR,190.5
+2010-05-13,DNF,Stage 1 - Villefontaine › Maubec,135.3
+2010-01-23,25,Emirates Cup (1.2),120.0
+2010-01-22,24,Vice President Cup (1.2),126.0
+2009-08-25,34,Stage 1b - Châtel › Châtel,113.2
+2009-08-25,19,Stage 1a (TTT) - Abondance › Pont-Saint-Martin,11.5
+2009-08-02,51,La Poly Normande (1.1),157.0
+2009-05-08,70,Stage 3 - Tolmezzo › Pordenone,157.4
+2009-05-07,72,Stage 2 - Forgaria nel Friuli › Piano d'Arta,138.9
+2009-05-06,6,Stage 1 - Udine › Ronchi dei Legionari,151.4
+2009-04-17,65,Stage 2 - Charvieu-Chavagneux › Toussieu,159.0
+2009-04-16,41,Stage 1 - Satolas et Bonce › Nivolas-Vermelle,124.0
+2009-04-12,41,Stage 4 - Charleville › Charleville,87.9
+2009-04-12,59,Stage 3 - Tournes › Tournes,75.9
+2009-04-11,20,Stage 2 - Les Mazures › Les Mazures,166.7
+2009-04-10,18,Stage 1 - Faissault › Attigny,169.4
+2009-03-15,76,Giro del Mendrisiotto (1.2),151.2
+2009-03-01,40,Stage 3 - Le Thor › Pertuis,161.2
+2009-02-28,56,Stage 2 - Valréas › Valréas,178.2
+2009-02-27,37,Stage 1 - Cavaillon › Bédoin,164.7
+2008-09-19,DNF,Grand Prix de la Somme « Conseil Général 80 » (1.1),197.0
+2008-09-17,115,Grand Prix de Wallonie (1.1),203.2
+2008-08-31,33,Stage 6 - Ville-la-Grand › Ville-la-Grand,84.4
+2008-08-30,60,Stage 5 - Sallanches › Ville-la-Grand,146.5
+2008-08-29,29,Stage 4 - Pont St. Martin › Morgex,150.0
+2008-08-28,65,Stage 3 - Valtournenche › Forte di Bard,142.0
+2008-08-27,27,Stage 2 - Arvier › Breuil Cervinia,137.8
+2008-08-26,62,Stage 1 - Pollein › Cogne,116.4
+2008-08-02,46,Stage 4 - Le Bioscope Ungersheim › Rixheim,151.4
+2008-08-01,136,Stage 3 - Mulhouse  › Huningue,156.3
+2008-07-31,84,Stage 2 - Guebwiller › Cernay,141.7
+2008-07-30,78,Stage 1 - Strasbourg › Bischoffsheim,152.6
+2008-06-19,DNF,Stage 4 - Zlatibor › Kopaonik,183.0
+2008-06-18,59,Stage 3 - Pale › Zlatibor,175.0
+2008-06-17,30,Stage 2 - Banja Koviljaca › Pale,165.0
+2008-06-16,53,Stage 1 - Beograd › Loznica,133.5
+2008-06-01,41,Stage 4 - Villenave › Villenave,156.0
+2008-05-31,13,Stage 3 - Cenon › Cenon,179.4
+2008-05-30,11,Stage 2 - Saint-Gervais › Braud,179.1
+2008-05-29,22,Stage 1 - Bordeaux › Bruges,166.6
+2008-03-02,89,Stage 3 - Pertuis › Pertuis,168.6
+2008-03-01,48,Stage 2 - Rognes › Rognes,165.1
+2008-02-29,72,Stage 1 - Rasteau › Villelaure,170.3
+2007-08-09,9,Stage 3 - Bagneres › Bareges,187.0
+2007-08-08,13,Stage 2 - Tarbes › Lannemezan,169.0
+2007-08-07,3,Stage 1 - Huesca › Oloron,164.0
+2007-08-06,36,Prologue - Zaragoza › Zaragoza,4.2
+2007-05-27,43,Stage 4 - Tarascon/Ariège › Saint Girons,150.0
+2007-05-26,49,Stage 3 (ITT) - Saverdun › Saverdun,24.4
+2007-05-25,25,Stage 2 - Arbas › Guzet Neige,170.0
+2007-04-29,38,Paris - Mantes-en-Yvelines (1.2),162.5
+2007-04-21,73,Stage 4 - Villebarou › Chailles,182.0
+2006-05-21,DNF,Stage 5 - Le Mas-d'Azil › Saint-Girons,152.6
+2006-05-20,60,Stage 4 (ITT) - Boussan › Boussan,22.3
+2006-05-20,44,Stage 3 - Castillon › Aurignac,91.3
+2006-05-19,16,Stage 2 - Carla Bayle › Guzet Neige,148.5
+2006-05-18,33,Stage 1 - Saint-Girons › Pamiers,137.0
+2006-04-23,33,Paris - Mantes-en-Yvelines (1.2),162.5
+2006-03-19,13,La Roue Tourangelle Région Centre - Classic Loire Touraine Vignobles & Chateaux (1.2),192.0
+2005-04-24,63,Paris - Mantes-en-Yvelines (1.2),162.5
+2005-04-16,37,Stage 4 - La-Chaussée-Saint-Victor › Salbris,163.0
+2005-04-15,86,Stage 3 - Vendome › Villebarou,178.0
+2005-04-14,54,Stage 2 - Mer › Lamotte Beuvron,165.5
+2005-04-13,68,Stage 1 - Blois › Meusnes,178.0
+2005-03-13,27,Bordeaux - Saintes (1.2),174.7
+2005-02-20,28,Stage 2 - Saint Jean De Luz › Col d'Ibardin,73.0
+2005-02-19,22,Stage 1 - Urrugne › Urrugne,167.0

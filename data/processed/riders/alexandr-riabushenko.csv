@@ -1,0 +1,410 @@
+date,result ranking,race name,distance
+2022-06-14,38,Mont Ventoux Dénivelé Challenge (1.1) ,154.0
+2022-06-12,77,Stage 8 - Saint-Alban-Leysse › Plateau de Salaison ,138.8
+2022-06-11,122,Stage 7 - Saint-Chaffrey › Vaujany ,134.8
+2022-06-10,19,Stage 6 - Rives › Gap ,196.5
+2022-06-09,19,Stage 5 - Thizy-les-Bourgs › Chaintré ,162.3
+2022-06-08,68,Stage 4 (ITT) - Montbrison › La Bâtie d’Urfé ,31.9
+2022-06-07,77,Stage 3 - Saint-Paulien › Chastreix-Sancy ,169.0
+2022-06-06,10,Stage 2 - Saint-Péray › Brives-Charensac ,169.8
+2022-06-05,26,Stage 1 - La Voulte-sur-Rhône › Beauchastel ,191.8
+2022-05-01,94,Stage 5 (ITT) - Aigle › Villars ,15.84
+2022-04-30,115,Stage 4 - Aigle › Zinal (Val d'Anniviers) ,180.1
+2022-04-29,121,Stage 3 - Valbroye › Valbroye ,165.1
+2022-04-28,111,Stage 2 - Échallens › Échallens ,168.2
+2022-04-27,100,Stage 1 - La Grande Beroche › Romont ,178.0
+2022-04-26,113,Prologue - Lausanne › Lausanne ,5.12
+2022-04-24,DNF,Liège-Bastogne-Liège (1.UWT) ,257.2
+2022-04-17,DNF,Paris-Roubaix (1.UWT) ,257.2
+2022-04-10,56,Amstel Gold Race (1.UWT) ,254.1
+2022-04-08,DNF,Stage 5 - Zamudio › Mallabia ,163.76
+2022-04-07,82,Stage 4 - Vitoria-Gasteiz › Zamudio ,185.6
+2022-04-06,111,Stage 3 - Llodio › Amurrio ,181.7
+2022-04-05,16,Stage 2 - Leitza › Viana ,207.92
+2022-04-04,118,Stage 1 (ITT) - Hondarribia › Hondarribia ,7.51
+2022-04-02,26,Gran Premio Miguel Indurain (1.Pro) ,190.0
+2022-03-27,94,Stage 7 - Barcelona › Barcelona ,138.6
+2022-03-26,73,Stage 6 - Salou › Cambrils ,168.6
+2022-03-25,17,Stage 5 - La Pobla de Segur › Vilanova i la Geltrú ,206.3
+2022-03-24,124,Stage 4 - La Seu d'Urgell › Boí Taüll ,166.7
+2022-03-23,141,Stage 3 - Perpignan › La Molina ,161.1
+2022-03-22,62,Stage 2 - L'Escala › Perpignan ,202.4
+2022-03-21,33,Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols ,171.2
+2022-03-02,DNF,Trofeo Laigueglia (1.Pro) ,202.0
+2022-02-27,110,Drôme Classic (1.Pro) ,191.5
+2022-02-26,DNF,Faun-Ardèche Classic (1.Pro) ,168.5
+2022-02-06,50,Stage 5 - Paterna › Valencia ,92.0
+2022-02-05,13,Stage 4 - Orihuela › Torrevieja  ,193.1
+2022-02-04,85,Stage 3 - Alicante › Antenas del Maigmó ,155.1
+2022-02-03,106,Stage 2 - Bétera › Torrent ,171.5
+2022-02-02,61,Stage 1 - Les Alqueries › Torralba del Pinar ,166.7
+2022-04-28,111,Stage 2 - Échallens › Échallens,168.2
+2022-04-27,100,Stage 1 - La Grande Beroche › Romont,178.0
+2022-04-26,113,Prologue - Lausanne › Lausanne,5.12
+2022-04-24,DNF,Liège-Bastogne-Liège (1.UWT),257.2
+2022-04-17,DNF,Paris-Roubaix (1.UWT),257.2
+2022-04-10,56,Amstel Gold Race (1.UWT),254.1
+2022-04-08,DNF,Stage 5 - Zamudio › Mallabia,163.76
+2022-04-07,82,Stage 4 - Vitoria-Gasteiz › Zamudio,185.6
+2022-04-06,111,Stage 3 - Llodio › Amurrio,181.7
+2022-04-05,16,Stage 2 - Leitza › Viana,207.92
+2022-04-04,118,Stage 1 (ITT) - Hondarribia › Hondarribia,7.51
+2022-04-02,26,Gran Premio Miguel Indurain (1.Pro),190.0
+2022-03-27,94,Stage 7 - Barcelona › Barcelona,138.6
+2022-03-26,73,Stage 6 - Salou › Cambrils,168.6
+2022-03-25,17,Stage 5 - La Pobla de Segur › Vilanova i la Geltrú,206.3
+2022-03-24,124,Stage 4 - La Seu d'Urgell › Boí Taüll,166.7
+2022-03-23,141,Stage 3 - Perpignan › La Molina,161.1
+2022-03-22,62,Stage 2 - L'Escala › Perpignan,202.4
+2022-03-21,33,Stage 1 - Sant Feliu de Guíxols › Sant Feliu de Guíxols,171.2
+2022-03-02,DNF,Trofeo Laigueglia (1.Pro),202.0
+2022-02-27,110,Drôme Classic (1.Pro),191.5
+2022-02-26,DNF,Faun-Ardèche Classic (1.Pro),168.5
+2022-02-06,50,Stage 5 - Paterna › Valencia,92.0
+2022-02-05,13,Stage 4 - Orihuela › Torrevieja ,193.1
+2022-02-04,85,Stage 3 - Alicante › Antenas del Maigmó,155.1
+2022-02-03,106,Stage 2 - Bétera › Torrent,171.5
+2022-02-02,61,Stage 1 - Les Alqueries › Torralba del Pinar,166.7
+2021-10-17,DNF,Veneto Classic (1.1),206.5
+2021-10-13,101,Giro del Veneto (1.1),168.8
+2021-10-11,DNF,Coppa Agostoni - Giro delle Brianze (1.1),180.0
+2021-10-07,55,Gran Piemonte (1.Pro),168.0
+2021-10-06,DNF,Milano - Torino (1.Pro),190.0
+2021-10-04,41,Coppa Bernocchi - GP BPM (1.Pro),197.15
+2021-09-26,DNF,World Championships - Road Race (WC),268.3
+2021-09-19,19,Trofeo Matteotti (1.1),195.0
+2021-09-18,DNF,Memorial Marco Pantani (1.1),190.7
+2021-09-16,DNF,Coppa Sabatini - Gran Premio città di Peccioli (1.Pro),210.8
+2021-09-15,DNF,Giro della Toscana - Memorial Alfredo Martini (1.1),191.6
+2021-09-12,DNF,European Continental Championships - Road Race (CC),179.2
+2021-08-29,DNF,Bretagne Classic - Ouest-France (1.UWT),251.0
+2021-08-22,96,Stage 4 - Hinna Park › Stavanger,156.5
+2021-08-21,72,Stage 3 - Jørpeland › Jørpeland,159.9
+2021-08-20,56,Stage 2 - Sirdal (Tjørhomfjellet) › Sirdal (Fidjeland),185.3
+2021-08-19,49,Stage 1 - Egersund › Sokndal (Kroheia),150.8
+2021-08-01,DNF,Circuito de Getxo - Memorial Hermanos Otxoa (1.1),193.5
+2021-07-31,DNF,Donostia San Sebastian Klasikoa (1.UWT),223.5
+2021-07-29,11,Vuelta a Castilla y Leon (1.1),181.2
+2021-07-24,66,Olympic Games Road Race (Olympics),234.0
+2021-07-18,31,Stage 5 - Cagliari › Cagliari,170.2
+2021-07-17,2,Stage 4 - Cagliari › Cagliari,168.0
+2021-07-16,41,Stage 3 - Oristano › Cagliari,180.9
+2021-07-15,18,Stage 2 - Sassari › Oristano,185.5
+2021-07-14,21,Stage 1 - Alghero › Sassari,155.8
+2021-06-27,DNF,Axion SWISS Bank Gran Premio Città di Lugano (1.1),179.2
+2021-06-24,61,Giro dell'Appennino (1.1),192.1
+2021-04-23,115,Stage 5 - Valle del Chiese/Idroland › Riva del Garda,120.9
+2021-04-22,94,Stage 4 - Naturns › Pieve di Bono,168.6
+2021-04-21,39,Stage 3 - Imst › Naturns,162.0
+2021-04-20,119,Stage 2 - Innsbruck › Feichten im Kaunertal,121.5
+2021-04-19,3,Stage 1 - Brixen › Innsbruck,140.6
+2021-04-14,50,De Brabantse Pijl - La Flèche Brabançonne (1.Pro),201.7
+2021-03-19,DNF,Bredene Koksijde Classic (1.Pro),199.9
+2021-03-17,80,Danilith Nokere Koerse ME (1.Pro),195.0
+2021-03-06,DNF,Strade Bianche (1.UWT),184.0
+2021-02-28,98,Royal Bernard Drome Classic (1.Pro),179.2
+2021-02-27,109,Faun-Ardèche Classic (1.Pro),171.3
+2021-02-21,DNF,Stage 3 - Blausasc › Blausasc,136.0
+2021-02-20,133,Stage 2 - Fayence › Fayence,168.9
+2021-02-19,138,Stage 1 - Biot › Gourdon,186.8
+2021-01-31,80,Grand Prix Cycliste la Marseillaise (1.1),171.6
+2020-11-08,124,Stage 18 - Hipódromo de la Zarzuela › Madrid,139.6
+2020-11-07,125,Stage 17 - Sequeros › Alto de la Covatilla,178.2
+2020-11-06,130,Stage 16 - Salamanca › Ciudad Rodrigo,162.0
+2020-11-05,75,Stage 15 - Mos › Puebla de Sanabria,230.8
+2020-11-04,69,Stage 14 - Lugo › Ourense,204.7
+2020-11-03,81,Stage 13 (ITT) - Muros › Mirador de Ézaro,33.7
+2020-11-01,114,Stage 12 - Pola de Laviana › Alto de l'Angliru,109.4
+2020-10-31,70,Stage 11 - Villaviciosa › Alto de la Farrapona,170.0
+2020-10-30,43,Stage 10 - Castro Urdiales › Suances,185.0
+2020-10-29,133,Stage 9 - Castrillo del Val › Aguilar de Campoo,157.7
+2020-10-28,116,Stage 8 - Logroño › Alto de Moncalvillo,164.0
+2020-10-27,18,Stage 7 - Vitoria-Gasteiz › Villanueva de Valdegovia,159.7
+2020-10-25,148,Stage 6 - Biescas › Aramón Formigal,146.4
+2020-10-24,48,Stage 5 - Huesca › Sabiñanigo,184.4
+2020-10-23,121,Stage 4 - Garray › Ejea de los Caballeros,191.7
+2020-10-22,140,Stage 3 - Lodosa › La Laguna Negra de Vinuesa,166.1
+2020-10-21,129,Stage 2 - Pamplona › Lekunberri,151.6
+2020-10-20,123,Stage 1 - Irún › Arrate,173.0
+2020-10-07,53,De Brabantse Pijl - La Flèche Brabançonne (1.Pro),197.2
+2020-10-03,42,Stage 5 - Ottignies-Louvain-la-Neuve › Geraardsbergen,183.6
+2020-10-02,87,Stage 4 (ITT) - Riemst › Riemst,8.14
+2020-10-01,93,Stage 3 - Aalter › Aalter,157.0
+2020-09-29,76,Stage 1 - Blankenberge › Ardooie,132.1
+2020-09-27,DNF,World Championships - Road Race (WC),258.2
+2020-09-19,52,Giro dell'Appennino (1.1),191.5
+2020-09-17,3,Coppa Sabatini - Gran Premio città di Peccioli (1.Pro),210.1
+2020-09-16,49,Giro della Toscana - Memorial Alfredo Martini (1.1),182.9
+2020-09-14,78,Stage 8 (ITT) - San Benedetto del Tronto › San Benedetto del Tronto,10.1
+2020-09-13,102,Stage 7 - Pieve Torina › Loreto,181.0
+2020-09-12,153,Stage 6 - Castelfidardo › Senigallia,171.0
+2020-09-11,123,Stage 5 - Norcia › Sassotetto,202.0
+2020-09-10,127,Stage 4 - Terni › Cascia,194.0
+2020-09-09,89,Stage 3 - Follonica › Saturnia,217.0
+2020-09-08,140,Stage 2 - Camaiore › Follonica,201.0
+2020-09-07,131,Stage 1 - Lido di Camaiore › Lido di Camaiore,133.0
+2020-08-30,3,Memorial Marco Pantani (1.1),199.8
+2020-08-26,13,European Continental Championships - Road Race (CC),177.45
+2020-08-18,DNF,Giro dell'Emilia (1.Pro),199.7
+2020-08-15,DNF,Il Lombardia (1.UWT),231.0
+2020-08-09,DNF,Stage 3 - Saint-Vulbas › Grand Colombier,144.5
+2020-08-08,71,Stage 2 - Lagnieu › Lélex Monts-Jura ,140.5
+2020-08-07,83,Stage 1 - Montréal-la-Cluse  › Ceyzeriat ,139.5
+2020-08-03,42,Gran Trittico Lombardo (1.Pro),199.7
+2020-08-01,DNF,Strade Bianche (1.UWT),184.0
+2020-07-26,2,National Championships Belarus - Road Race (NC),174.0
+2020-01-21,DNF,Stage 1 - Tanunda › Tanunda,150.0
+2019-10-22,32,Stage 6 - Guilin › Guilin,168.3
+2019-10-21,46,Stage 5 - Liuzhou › Guilin,212.2
+2019-10-20,25,Stage 4 - Nanning › Nongla Scenic Area,161.4
+2019-10-19,2,Stage 3 - Nanning › Nanning,143.0
+2019-10-18,29,Stage 2 - Beihai  › Qinzhou,152.3
+2019-10-17,52,Stage 1 - Beihai  › Beihai ,135.6
+2019-10-10,OTL,Gran Piemonte (1.HC),183.0
+2019-10-09,31,Milano-Torino (1.HC),179.0
+2019-10-08,DNF,Tre Valli Varesine (1.HC),197.8
+2019-10-05,DNF,Giro dell'Emilia (1.HC),207.4
+2019-09-29,DNF,World Championships - Road Race (WC),260.7
+2019-09-21,34,Stage 4 - Hlohovec › Senica,142.1
+2019-09-20,2,Stage 3 - Ružomberok › Hlohovec,200.6
+2019-09-19,7,Stage 2 - Bardejov › Ružomberok,226.6
+2019-09-18,24,Stage 1a - Bardejov › Bardejov,138.2
+2019-09-18,30,Stage 1b (ITT) - Bardejov › Bardejov,7.4
+2019-09-15,44,Coppa Bernocchi - GP BPM (1.1),198.2
+2019-09-14,1,Coppa Agostoni - Giro delle Brianze (1.1),195.5
+2019-09-01,23,Stage 4 - Eisenach › Erfurt,159.5
+2019-08-31,62,Stage 3 - Göttingen › Eisenach,189.0
+2019-08-30,24,Stage 2 - Marburg › Göttingen,202.0
+2019-08-29,46,Stage 1 - Hannover › Halberstadt,167.0
+2019-08-17,53,Stage 5 - Santo Domingo de Silos › Lagunas de Neila,146.0
+2019-08-16,2,Stage 4 - Atapuerca › Ciudad Romana de Clunia,174.0
+2019-08-15,47,Stage 3 - Sargentes de la Lora › Picón Blanco,150.0
+2019-08-14,47,Stage 2 - Gumiel de Izan › Lerma,155.0
+2019-08-13,10,Stage 1 - Burgos › Burgos,162.0
+2019-08-03,71,Clásica Ciclista San Sebastián (1.UWT),227.3
+2019-07-28,38,Stage 4 - Cormòns › Trieste,103.5
+2019-07-27,33,Stage 3 - Padola › Cormòns/Monte Quarin,204.5
+2019-07-26,48,Stage 2 - Palmanova › Lago di Misurina/Tre Cime di Lavaredo,204.6
+2019-07-25,58,Stage 1 - Venezia (Favaro Veneto) › Grado,186.0
+2019-06-23,4,European Games - Road Race (JR),180.0
+2019-06-16,11,National Championships Belarus - Road Race (NC),183.5
+2019-06-13,90,GP du canton d'Argovie (1.HC),185.9
+2019-06-09,2,Gran Premio Città di Lugano (1.1),179.2
+2019-06-02,87,Stage 6 - Gran › Hønefoss,175.1
+2019-06-01,43,Stage 5 - Skien › Drammen,159.7
+2019-05-31,61,Stage 4 - Arendal › Sandefjord,224.4
+2019-05-30,49,Stage 3 - Lyngdal › Kristiansand,179.7
+2019-05-29,47,Stage 2 - Kvinesdal › Mandal,174.0
+2019-05-28,13,Stage 1 - Stavanger › Egersund,168.2
+2019-05-26,12,Stage 3 - Stavanger  › Stavanger ,48.9
+2019-05-25,9,Stage 2 - Stavanger  › Stavanger ,87.3
+2019-05-24,8,Stage 1 - Stavanger  › Stavanger ,85.6
+2019-05-05,97,Stage 5 (ITT) - Genève › Genève,16.85
+2019-05-04,73,Stage 4 - Lucens › Torgon,107.6
+2019-05-03,100,Stage 3 - Romont › Romont,160.0
+2019-05-02,129,Stage 2 - Le Locle › Morges,174.4
+2019-05-01,133,Stage 1 - Neuchâtel › La Chaux-de-Fonds,168.4
+2019-04-30,125,Prologue - Neuchâtel › Neuchâtel,3.87
+2019-04-19,DNS,Stage 4 - Balıkesir  › Bursa,194.3
+2019-04-18,83,Stage 3 - Çanakkale › Edremit,122.6
+2019-04-17,21,Stage 2 - Tekirdağ › Eceabat,183.3
+2019-04-16,45,Stage 1 - Istanbul › Tekirdağ,156.7
+2019-04-06,77,Gran Premio Miguel Indurain (1.1),192.9
+2019-03-31,49,Stage 7 - Barcelona › Barcelona,143.1
+2019-03-30,53,Stage 6 - Valls › Vila-seca,169.1
+2019-03-29,91,Stage 5 - Puigcerdà › Sant Cugat del Vallès,188.1
+2019-03-28,112,Stage 4 - Llanars (Vall de Camprodon) › La Molina (Alp),150.3
+2019-03-27,127,Stage 3 - Sant Feliu de Guixols › Vallter 2000 (Setcases),179.0
+2019-03-26,59,Stage 2 - Mataró › Sant Feliu de Guixols,166.7
+2019-03-25,167,Stage 1 - Calella › Calella,163.7
+2019-03-22,128,Bredene Koksijde Classic (1.HC),199.5
+2019-03-20,24,Danilith Nokere Koerse ME (1.HC),195.6
+2019-03-10,16,GP Industria & Artigianato (1.HC),199.2
+2019-02-09,DNS,Stage 4 - Vila-Real › Alcala-Alcocebre,188.0
+2019-02-08,158,Stage 3 - Quart de Poblet › Chera,191.0
+2019-02-07,152,Stage 2 - Alicante › Alicante,166.0
+2019-02-06,75,Stage 1 (ITT) - Orihuela › Orihuela,10.3
+2019-02-03,117,Trofeo Palma (1.1),159.6
+2019-02-02,DNF,Trofeo de Tramuntana: Soller - Deia (1.1),179.3
+2019-02-01,70,Trofeo Andratx - Lloseta (1.1),172.2
+2018-10-21,71,Stage 6 - Guilin › Guilin,169.0
+2018-10-20,20,Stage 5 - Liuzhou › Guilin,212.2
+2018-10-19,42,Stage 4 - Nanning › Mashan Nongla Scenic Spot,152.2
+2018-10-18,94,Stage 3 - Nanning › Nanning,125.4
+2018-10-17,59,Stage 2 - Beihai › Qinzhou,145.2
+2018-10-16,29,Stage 1 - Beihai › Beihai,107.4
+2018-10-09,85,Tre Valli Varesine (1.HC),212.0
+2018-10-07,16,Gran Premio Bruno Beghelli (1.HC),196.3
+2018-10-06,DNF,Giro dell'Emilia (1.HC),207.4
+2018-09-30,DNF,World Championships - Road Race (WC),258.0
+2018-09-20,64,Coppa Sabatini - Gran Premio citta  di Peccioli (1.1),201.8
+2018-09-19,20,Giro della Toscana - Memorial Alfredo Martini (1.1),198.9
+2018-09-09,48,Grand Prix Cycliste de Montréal (1.UWT),195.2
+2018-09-07,86,Grand Prix Cycliste de Québec (1.UWT),201.6
+2018-08-19,DNF,Stage 7 - Lacs de l'Eau d'Heure › Geraardsbergen,215.6
+2018-08-18,74,Stage 6 - Riemst › Sittard-Geleen,182.2
+2018-08-17,44,Stage 5 - Sint-Pieters-Leeuw › Lanaken,204.4
+2018-08-16,84,Stage 4 - Blankenberge › Ardooie,165.5
+2018-08-15,111,Stage 3 - Aalter › Antwerpen,174.9
+2018-08-14,126,Stage 2 (ITT) - Venray › Venray,12.7
+2018-08-13,92,Stage 1 - Heerenveen › Bolsward ,177.3
+2018-08-12,51,European Continental Championships - Road Race (CC),230.4
+2018-08-04,42,Clasica Ciclista San Sebastian (1.UWT),228.7
+2018-08-01,74,Stage 5 - Huy › Waremme,187.5
+2018-07-31,85,Stage 4 - Malmedy › Herstal,161.4
+2018-07-30,31,Stage 3 - Chimay › La Roche-En-Ardenne,169.2
+2018-07-29,14,Stage 2 - Villers-La-Ville › Namur,167.2
+2018-07-28,26,Stage 1 - La Louvière › Les Bons Villers,193.4
+2018-07-01,6,National Championships Belarus - Road Race (NC),
+2018-06-17,48,Stage 5 (ITT) - Trebnje › Novo Mesto,21.5
+2018-06-16,47,Stage 4 - Ljubljana › Kamnik,155.2
+2018-06-15,55,Stage 3 - Slovenske Konjice › Celje,175.7
+2018-06-14,30,Stage 2 - Maribor › Rogaska Slatina,152.7
+2018-06-13,39,Stage 1 - Lendava › Murska Sobota,159.0
+2018-06-03,DNF,Gran Premio Citta di Lugano (1.1),185.6
+2018-05-01,24,Eschborn-Frankfurt (1.UWT),212.5
+2018-04-22,122,Liège - Bastogne - Liège (1.UWT),258.5
+2018-04-18,92,La Flèche Wallonne (1.UWT),198.5
+2018-04-15,80,Amstel Gold Race (1.UWT),263.0
+2018-04-07,94,Stage 6 - Eibar › Arrate,122.2
+2018-04-06,96,Stage 5 - Vitoria › Eibar,164.7
+2018-04-05,99,Stage 4 (ITT) - Lodosa › Lodosa,19.4
+2018-04-04,2,Stage 3 - Bermeo › Valdegovía,184.8
+2018-04-03,76,Stage 2 - Zarautz › Bermeo,166.7
+2018-04-02,103,Stage 1 - Zarautz › Zarautz,162.1
+2018-03-13,95,Stage 7 (ITT) - San Benedetto del Tronto › San Benedetto del Tronto,10.05
+2018-03-12,81,Stage 6 - Numana › Fano,153.0
+2018-03-11,80,Stage 5 - Castelraimondo › Filottrano,178.0
+2018-03-10,82,Stage 4 - Foligno › Sarnano Sassotetto,219.0
+2018-03-09,126,Stage 3 - Follonica › Trevi,234.0
+2018-03-08,73,Stage 2 - Camaiore › Follonica,167.0
+2018-03-07,9,Stage 1 (TTT) - Lido di Camaiore › Lido di Camaiore,21.5
+2018-03-03,OTL,Strade Bianche (1.UWT),184.0
+2018-02-25,DNF,Kuurne-Bruxelles-Kuurne (1.HC),200.1
+2018-02-24,DNF,Omloop Het Nieuwsblad ME (1.UWT),196.2
+2018-01-28,58,Stage 7 - San Juan › San Juan,141.3
+2018-01-27,40,Stage 6 - San Juan › San Juan,152.6
+2018-01-26,77,Stage 5 - San Martín › Alto de Colorado,169.5
+2018-01-24,100,Stage 4 - San José Jachal › Villa San Agustín,182.8
+2018-01-23,106,Stage 3 (ITT) - San Juan › San Juan,14.4
+2018-01-22,82,Stage 2 - Peri Lago Punta Negra › Peri Lago Punta Negra,149.9
+2018-01-21,8,Stage 1 - San Juan › Pocito,148.9
+2017-10-01,1,Piccolo Giro di Lombardia (1.2U),163.1
+2017-09-28,68,Coppa Sabatini - Gran Premio citta di Peccioli (1.1),195.9
+2017-09-27,57,Stage 2 - Lajatico › Volterra,165.1
+2017-09-26,44,Stage 1 - Pontedera › Pontedera,181.8
+2017-09-22,16,World Championships U23 - Road Race (WC),191.0
+2017-09-14,41,Coppa Bernocchi (1.1),194.0
+2017-08-27,38,Stage 9 - Bourg-Saint-Maurice › Albiez-Montrond,107.4
+2017-08-26,31,Stage 8 - Albertville › Sainte-Foy-Tarentais,120.5
+2017-08-25,51,Stage 7 - Saint-Gervais Mont-Blanc › Hauteluce-Les Saisies,118.4
+2017-08-23,60,Stage 6 - Montrichard › Saint-Amand-Montrond ,139.1
+2017-08-22,40,Stage 5 - Montreuil-Bellay   › Amboise,157.1
+2017-08-21,72,Stage 4 - Derval › Saumur,166.6
+2017-08-20,49,Stage 3 - Missilla › Châteaubriant ,125.7
+2017-08-19,4,Stage 2 - Inzinzac-Lochrist › Bignan,132.4
+2017-08-18,9,Stage 1 - Loudéac › Loudéac,134.0
+2017-08-16,37,GP Capodarco - Comunità di Capodarco (1.2U),180.0
+2017-08-13,10,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran premio Pasta Zara (1.2U),169.8
+2017-08-05,24,European Continental Championships U23 - Road Race (CC),160.8
+2017-07-16,36,Stage 4 - Aoste › Valgrisenche,103.7
+2017-07-15,13,Stage 3 - Valtournenche › Breuil Cervinia,170.1
+2017-07-14,64,Stage 2 - Villeneuve › Introd (Les Combes),138.4
+2017-07-13,77,Stage 1 - Quassolo › Quincinetto (Scalaro),172.6
+2017-07-12,38,Prologue - Saint Gervais Mont Blanc › Saint Nicolas de Veroce,8.0
+2017-06-25,3,National Championships Belarus - Road Race (NC),182.0
+2017-06-15,18,Stage 7 - Campo Imperatore Cima Pantin › Francavilla al Mare,148.9
+2017-06-14,30,Stage 6 - Castalincontrada › Francavilla al Mare,133.2
+2017-06-13,42,Stage 5a - Osima › Senigallia,87.2
+2017-06-13,39,Stage 5b (ITT) - Campocavallo di Osima › Campocavallo di Osima,14.0
+2017-06-12,3,Stage 4 - Gabicce Mare › Gabicce Mare,155.5
+2017-06-11,29,Stage 3 - Forli › Barnara di Romagna,140.5
+2017-06-10,1,Stage 2 - San Valentino di Castellarano › Castellarano,145.8
+2017-06-09,18,Stage 1 - Imola › Imola,131.7
+2017-06-04,22,Coppa della Pace - Trofeo F.lli Anelli (1.2),170.0
+2017-06-02,2,Trofeo Alcide Degasperi (1.2),156.4
+2017-04-29,2,Stage 2 - Foiano della Chiana › Buonconvento,147.5
+2017-04-28,1,Stage 1b - Cinigiano › Civitella Marittima,125.0
+2017-04-28,6,Stage 1a (TTT) - Cinigiano  › Cinigiano ,14.6
+2017-04-25,3,Gran Premio della Liberazione (1.2U),138.0
+2017-04-18,22,G.P. Palio del Recioto (1.2U),143.0
+2017-04-17,1,Giro del Belvedere (1.2U),166.6
+2017-04-08,3,Trofeo Edil C (1.2U),149.1
+2017-04-02,3,Trofeo Piva (1.2U),179.8
+2016-10-13,43,World Championships U23 - Road Race (WC),166.0
+2016-10-02,15,Piccolo Giro di Lombardia (1.2U),163.1
+2016-09-27,7,Ruota d'Oro - GP Festa del Perdono (1.2U),167.0
+2016-09-17,1,UEC Road European Championships U23 - Road Race (CC),150.7
+2016-08-17,DNF,Trofeo Beato Bernardo - Coppa Citta' di Offida (1.2U),152.0
+2016-08-16,3,GP Capodarco - Comunità di Capodarco (1.2U),180.0
+2016-08-14,4,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran Premio Pasta Zara (1.2U),177.2
+2016-07-17,6,Stage 5 - Valtournenche › Breuil Cervinia,107.3
+2016-07-16,28,Stage 4 - Pontey / Fénis › Clavalité,166.9
+2016-07-15,10,Stage 3 - Quincinetto › Piani di Tavagnasco,159.1
+2016-07-14,34,Stage 2 - Morillon › Saint-Gervais Mont-Blanc,138.4
+2016-07-13,4,Stage 1 (TTT) - Pont-Saint-Martin › Montjovet,19.94
+2016-06-26,4,National Championships Belarus - Road Race (NC),180.0
+2016-04-25,14,Gran Premio della Liberazione (1.2U),138.0
+2016-04-03,DNF,Trofeo Piva (1.2U),179.8
+2016-03-29,DNF,G.P. Palio del Recioto - 34th Memorial cav. Sante Carradori (1.2U),143.2
+2015-09-29,49,Ruota d'Oro - GP Festa del Perdono (1.2U),167.0
+2015-08-16,DNF,GP Capodarco - Comunità di Capodarco (1.2U),156.0
+2015-08-09,58,UEC Road European Championships U23 - Road Race (CC),161.2
+2015-07-15,OTL,Stage 1 - Morillon › Morillon,151.3
+2015-07-14,32,Prologue - Morillon › Morillon,5.4
+2015-07-05,DNF,Minsk Cup (1.2),176.0
+2015-07-04,18,Grand Prix Minsk (1.2),120.0
+2015-06-28,6,National Championships Belarus - Road Race (NC),190.0
+2015-06-28,2,National Championships Belarus U23 - Road Race (NC),
+2015-06-26,9,National Championships Belarus - ITT (NC),36.3
+2015-06-21,12,Stage 4 - Vrsac › Belgrade,145.0
+2015-06-20,9,Stage 3 - Vrsac › Vrsac,138.0
+2015-06-19,5,Stage 2 - Pozarevac › Pozarevac,140.0
+2015-06-18,36,Stage 1 - Zajecar › Zajecar,140.8
+2015-06-14,25,Grand Prix Sarajevo (1.2),150.0
+2015-06-07,42,Coppa della Pace - Trofeo F.lli Anelli (1.2),170.0
+2015-05-17,DNF,Gran Premio Industrie del Marmo (1.2),158.7
+2015-05-10,DNF,Tr. Città di San Vendemiano - 55° GP Industria & Commercio (1.2U),171.8
+2015-05-03,109,Circuito del Porto - Trofeo Arvedi (1.2),180.0
+2015-04-25,10,Gran Premio della Liberazione (1.2U),138.0
+2015-04-11,28,Trofeo Edil C (1.2),149.1
+2015-04-06,25,Giro Belvedere di Villa di Cordignano (1.2U),154.0
+2014-09-26,86,World Championships U23 - Road Race (WC),182.0
+2014-08-16,41,GP Capodarco - Comunità di Capodarco (1.2),180.0
+2014-08-10,DNF,Gran Premio Sportivi di Poggiana - Trofeo Bonin Costruzioni - Gran Premio Pasta Zara (1.2U),178.4
+2014-07-20,19,Stage 4 (ITT) - Morrilon › Morrilon,5.4
+2014-07-19,50,Stage 3 - Châtel › Morrilon (Les Esserts),164.7
+2014-07-18,42,Stage 2 - Martigny › Salvan,120.6
+2014-07-17,16,Stage 1 - Valtournenche › Breuil Cervinia,170.6
+2014-07-16,57,Prologue - Arvier › Valgrisenche,5.1
+2014-07-13,23,European Championships U23 - Road Race (CC),172.8
+2014-07-11,33,European Championships U23 - ITT (CC),26.9
+2014-06-29,10,National Championships Belarus - Road Race (NC),
+2014-06-27,3,National Championships Belarus U23 - ITT (NC),
+2014-06-01,7,Tr. Città di San Vendemiano - GP Industria e Commercio (1.2U),176.0
+2014-05-09,16,Stage 4 - Moskow › Moskow,124.0
+2014-05-08,29,Stage 3 - Moskow › Moskow,163.2
+2014-05-07,20,Stage 2 - Moskow › Moskow,165.0
+2014-05-06,27,Stage 1 - Moskow › Moskow,160.0
+2014-05-05,63,Prologue - Moskow › Moskow,3.95
+2014-05-03,30,Grand Prix of Moscow (1.2),165.0
+2014-05-02,26,Memorial of Oleg Dyachenko (1.2),163.2
+2014-05-01,9,Mayor Cup (1.2),160.0
+2013-09-28,16,World Championships MJ - Road Race (WC),140.0
+2013-09-24,57,World Championships MJ - ITT (WC),22.05
+2013-09-22,1,Stage 3 - Tramutola › Viggiano,117.0
+2013-09-21,47,Stage 2 - Tito Scalo › Tito,80.0
+2013-09-20,21,Stage 1 - Marina di Nova Siri › Matera,109.0
+2013-09-15,2,Trofeo Buffoni (1.1),136.0
+2013-08-04,23,Stage 3 - Buléon  › Locminé,98.6
+2013-08-04,11,Stage 2 (ITT) - Réguiny › Naizin,7.0
+2013-08-03,2,Stage 1 - Elven  › Gourhel,106.0
+2013-07-20,7,European Championships MJ - Road Race (CC),126.0
+2013-07-18,34,European Championships MJ - ITT (CC),22.5
+2012-09-23,118,World Championships MJ - Road Race (WC),128.8
+2012-09-17,46,World Championships MJ - ITT (WC),26.6
+2012-08-11,DNF,European Championships MJ - Road Race (CC),129.0
+2012-07-29,2,Stage 4 - Lask › Lask,111.0
+2012-07-28,20,Stage 3 - Lódz › Lódz,99.0
+2012-07-27,61,Stage 2 - Buczek › Buczek,106.2
+2012-07-26,38,Stage 1 - Sedziejowice › Sedziejowice,106.5

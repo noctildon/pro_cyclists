@@ -1,0 +1,684 @@
+date,result ranking,race name,distance
+2007-10-20,50,Giro di Lombardia (1.PT) ,242.0
+2007-10-14,87,Gran Premio Bruno Beghelli (1.1) ,198.0
+2007-10-13,DNF,Giro dell'Emilia (1.HC) ,205.0
+2007-10-11,59,Coppa Sabatini (1.1) ,198.0
+2007-10-09,40,Monte Paschi Eroica (1.1) ,180.0
+2007-09-16,83,Stage 6 - Saint Louis › Saint louis ,119.0
+2007-09-15,73,Stage 5 - Jefferson city › Saint Charles ,204.0
+2007-09-14,79,Stage 4 - Lebanon › Columbia ,214.0
+2007-09-13,76,Stage 3 (ITT) - Brason › Branson ,29.0
+2007-09-12,75,Stage 2 - Clinton › Springfield ,202.0
+2007-09-11,91,Stage 1 - Kansas city › Kansas city ,137.0
+2007-09-02,95,GP Ouest France - Plouay (1.PT) ,210.0
+2007-08-30,41,GP Industria Artigianato e Commercio Carnaghese (1.1) ,180.4
+2007-08-29,DNF,GP Nobili Rubinetterie (1.1) ,184.8
+2007-08-19,DNF,Vattenfall Cyclassics (WT) ,229.1
+2007-08-16,108,Stage 9 - Einbeck › Hannover ,143.1
+2007-08-15,119,Stage 8 (ITT) - Fürth › Fürth ,33.1
+2007-08-14,149,Stage 7 - Kufstein › Regensburg ,192.2
+2007-08-13,155,Stage 6 - Längenfeld › Kufstein ,175.0
+2007-08-12,91,Stage 5 - Sonthofen › Sölden ,157.6
+2007-08-11,145,Stage 4 - Singen › Sonthofen ,183.8
+2007-08-10,117,Stage 3 - Pforzheim › Offenburg ,181.8
+2007-08-09,178,Stage 2 (TTT) - Bretten › Bretten ,42.2
+2007-08-08,164,Stage 1 - Saarbrücken › Saarbrücken ,183.7
+2007-06-17,41,Stage 7 - Valloire › Annecy ,129.0
+2007-06-16,62,Stage 6 - Gap › Valloire ,198.0
+2007-06-15,59,Stage 5 - Nyons › Digne-les-Bains ,195.0
+2007-06-14,56,Stage 4 - Hauterives › Le Mont-Ventoux ,197.0
+2007-06-13,66,Stage 3 (ITT) - Anneyron › Anneyron ,40.7
+2007-06-12,71,Stage 2 - Saint-Paul-en-Jarez › Saint-Etienne ,157.0
+2007-06-11,131,Stage 1 - Grenoble › Roanne ,219.0
+2007-06-10,132,Prologue - Grenoble › Grenoble ,4.2
+2007-05-27,155,Stage 7 - Lloret de Mar › Barcelona ,119.3
+2007-05-26,87,Stage 6 - Lli­via › Lloret de Mar ,177.1
+2007-05-25,85,Stage 5 (ITT) - Sornas › Vallnord-Arcalís ,17.1
+2007-05-24,89,Stage 4 - Tàrrega › Vallnord-Arinsal ,201.1
+2007-05-23,119,Stage 3 - Perafort › Tàrrega ,182.1
+2007-05-22,127,Stage 2 - Salou › Perafort ,170.0
+2007-05-21,20,Stage 1 (TTT) - Salou › Salou ,15.0
+2007-05-12,60,Stage 1 - Alcobendas › Puerto de Navacerrada ,170.0
+2007-05-06,72,Stage 6 (ITT) - Lausanne › Lausanne ,20.4
+2007-05-05,61,Stage 5 - Charmey › Morgins ,155.9
+2007-05-04,86,Stage 4 - Moudon › Charmey ,162.6
+2007-05-03,84,Stage 3 - La Chaux-de-Fonds › Lucens ,166.9
+2007-05-02,75,Stage 2 - Fribourg › La Chaux-de-Fonds ,157.8
+2007-05-01,77,Prologue - Fribourg › Fribourg ,3.5
+2007-04-22,68,Stage 7 - Atlanta › Atlanta ,123.9
+2007-04-21,72,Stage 6 - Lake Lanier Islands › Stone Mountain Park ,182.9
+2007-04-20,61,Stage 5 - Dalton › Brasstown Bald ,172.1
+2007-04-19,50,Stage 4 (ITT) - Chickamauga › Lookout Mountain ,30.4
+2007-04-18,70,Stage 3 - Rome › Chattanooga ,190.2
+2007-04-17,48,Stage 2 - Thomaston › Rome ,217.2
+2007-04-16,70,Stage 1 - Peachtree City › Macon ,153.0
+2007-03-20,123,Stage 7 - Civitella del Tronto › San Benedetto del Tronto ,177.0
+2007-03-19,78,Stage 6 - San Benedetto del Tronto › San Giacomo Monti della Laga ,164.0
+2007-03-18,128,Stage 5 (ITT) - Civitanova Marche › Civitanova Marche ,21.0
+2007-03-17,134,Stage 4 - Pievebovigliana › Offagna ,161.0
+2007-03-16,131,Stage 3 - Marsciano › Macerata ,213.0
+2007-03-15,123,Stage 2 - Civitavecchia › Marsciano ,202.0
+2007-03-14,136,Stage 1 - Civitavecchia › Civitavecchia ,175.0
+2007-03-10,72,Milano-Torino (1.HC) ,199.0
+2007-03-04,69,GP Lugano (1.1) ,172.0
+2007-03-03,DNF,GP Chiasso (1.1) ,172.9
+2007-01-28,59,Stage 5 - San Luis › San Luis ,130.5
+2007-01-27,63,Stage 4 - La Toma › Merlo ,173.0
+2007-01-26,71,Stage 3 (ITT) - La Punta › Mirador del Potrero ,11.0
+2007-01-25,61,Stage 2 - San Luis › Quines ,170.0
+2007-01-24,56,Stage 1 - San Luis › Villa Mercedes ,170.0
+2007-01-23,60,Prologue - San Luis › San Luis ,3.7
+2007-10-20,50,Giro di Lombardia (1.PT) ,242.0
+2007-10-14,87,Gran Premio Bruno Beghelli (1.1) ,198.0
+2007-10-13,DNF,Giro dell'Emilia (1.HC) ,205.0
+2007-10-11,59,Coppa Sabatini (1.1) ,198.0
+2007-10-09,40,Monte Paschi Eroica (1.1) ,180.0
+2007-09-16,83,Stage 6 - Saint Louis › Saint louis ,119.0
+2007-09-15,73,Stage 5 - Jefferson city › Saint Charles ,204.0
+2007-09-14,79,Stage 4 - Lebanon › Columbia ,214.0
+2007-09-13,76,Stage 3 (ITT) - Brason › Branson ,29.0
+2007-09-12,75,Stage 2 - Clinton › Springfield ,202.0
+2007-09-11,91,Stage 1 - Kansas city › Kansas city ,137.0
+2007-09-02,95,GP Ouest France - Plouay (1.PT) ,210.0
+2007-08-30,41,GP Industria Artigianato e Commercio Carnaghese (1.1) ,180.4
+2007-08-29,DNF,GP Nobili Rubinetterie (1.1) ,184.8
+2007-08-19,DNF,Vattenfall Cyclassics (WT) ,229.1
+2007-08-16,108,Stage 9 - Einbeck › Hannover ,143.1
+2007-08-15,119,Stage 8 (ITT) - Fürth › Fürth ,33.1
+2007-08-14,149,Stage 7 - Kufstein › Regensburg ,192.2
+2007-08-13,155,Stage 6 - Längenfeld › Kufstein ,175.0
+2007-08-12,91,Stage 5 - Sonthofen › Sölden ,157.6
+2007-08-11,145,Stage 4 - Singen › Sonthofen ,183.8
+2007-08-10,117,Stage 3 - Pforzheim › Offenburg ,181.8
+2007-08-09,178,Stage 2 (TTT) - Bretten › Bretten ,42.2
+2007-08-08,164,Stage 1 - Saarbrücken › Saarbrücken ,183.7
+2007-06-17,41,Stage 7 - Valloire › Annecy ,129.0
+2007-06-16,62,Stage 6 - Gap › Valloire ,198.0
+2007-06-15,59,Stage 5 - Nyons › Digne-les-Bains ,195.0
+2007-06-14,56,Stage 4 - Hauterives › Le Mont-Ventoux ,197.0
+2007-06-13,66,Stage 3 (ITT) - Anneyron › Anneyron ,40.7
+2007-06-12,71,Stage 2 - Saint-Paul-en-Jarez › Saint-Etienne ,157.0
+2007-06-11,131,Stage 1 - Grenoble › Roanne ,219.0
+2007-06-10,132,Prologue - Grenoble › Grenoble ,4.2
+2007-05-27,155,Stage 7 - Lloret de Mar › Barcelona ,119.3
+2007-05-26,87,Stage 6 - Lli­via › Lloret de Mar ,177.1
+2007-05-25,85,Stage 5 (ITT) - Sornas › Vallnord-Arcalís ,17.1
+2007-05-24,89,Stage 4 - Tàrrega › Vallnord-Arinsal ,201.1
+2007-05-23,119,Stage 3 - Perafort › Tàrrega ,182.1
+2007-05-22,127,Stage 2 - Salou › Perafort ,170.0
+2007-05-21,20,Stage 1 (TTT) - Salou › Salou ,15.0
+2007-05-12,60,Stage 1 - Alcobendas › Puerto de Navacerrada ,170.0
+2007-05-06,72,Stage 6 (ITT) - Lausanne › Lausanne ,20.4
+2007-05-05,61,Stage 5 - Charmey › Morgins ,155.9
+2007-05-04,86,Stage 4 - Moudon › Charmey ,162.6
+2007-05-03,84,Stage 3 - La Chaux-de-Fonds › Lucens ,166.9
+2007-05-02,75,Stage 2 - Fribourg › La Chaux-de-Fonds ,157.8
+2007-05-01,77,Prologue - Fribourg › Fribourg ,3.5
+2007-04-22,68,Stage 7 - Atlanta › Atlanta ,123.9
+2007-04-21,72,Stage 6 - Lake Lanier Islands › Stone Mountain Park ,182.9
+2007-04-20,61,Stage 5 - Dalton › Brasstown Bald ,172.1
+2007-04-19,50,Stage 4 (ITT) - Chickamauga › Lookout Mountain ,30.4
+2007-04-18,70,Stage 3 - Rome › Chattanooga ,190.2
+2007-04-17,48,Stage 2 - Thomaston › Rome ,217.2
+2007-04-16,70,Stage 1 - Peachtree City › Macon ,153.0
+2007-03-20,123,Stage 7 - Civitella del Tronto › San Benedetto del Tronto ,177.0
+2007-03-19,78,Stage 6 - San Benedetto del Tronto › San Giacomo Monti della Laga ,164.0
+2007-03-18,128,Stage 5 (ITT) - Civitanova Marche › Civitanova Marche ,21.0
+2007-03-17,134,Stage 4 - Pievebovigliana › Offagna ,161.0
+2007-03-16,131,Stage 3 - Marsciano › Macerata ,213.0
+2007-03-15,123,Stage 2 - Civitavecchia › Marsciano ,202.0
+2007-03-14,136,Stage 1 - Civitavecchia › Civitavecchia ,175.0
+2007-03-10,72,Milano-Torino (1.HC) ,199.0
+2007-03-04,69,GP Lugano (1.1) ,172.0
+2007-03-03,DNF,GP Chiasso (1.1) ,172.9
+2007-01-28,59,Stage 5 - San Luis › San Luis ,130.5
+2007-01-27,63,Stage 4 - La Toma › Merlo ,173.0
+2007-01-26,71,Stage 3 (ITT) - La Punta › Mirador del Potrero ,11.0
+2007-01-25,61,Stage 2 - San Luis › Quines ,170.0
+2007-01-24,56,Stage 1 - San Luis › Villa Mercedes ,170.0
+2007-01-23,60,Prologue - San Luis › San Luis ,3.7
+2006-10-22,13,Japan Cup Cycle Road Race (1.1) ,151.3
+2006-10-14,75,Giro di Lombardia (1.PT) ,245.0
+2006-10-12,56,Giro del Piemonte (1.HC) ,176.0
+2006-10-07,36,Giro dell'Emilia (1.HC) ,196.6
+2006-10-05,45,Coppa Sabatini (1.1) ,197.7
+2006-10-01,59,Züri Metzgete (1.PT2) ,241.0
+2006-09-10,70,Stage 7 - Jelenia Góra › Karpacz ,126.0
+2006-09-09,88,Stage 6 - Szczawno Zdrój › Karpacz ,162.4
+2006-09-08,76,Stage 5 - Legnica › Jelenia Góra ,192.0
+2006-09-07,83,Stage 4 - Bydgoszcz › Poznan ,182.0
+2006-09-06,136,Stage 3 - Gdansk › Torun ,225.5
+2006-09-05,102,Stage 2 - Ostróda › Elblag ,119.6
+2006-09-04,129,Stage 1 - Pultusk › Olsztyn ,214.0
+2006-08-31,36,Trofeo Melinda (1.1) ,194.0
+2006-08-27,59,GP Ouest France - Plouay (PT) ,226.0
+2006-08-09,96,Stage 8 - Bad Krozingen  › Karlsruhe ,172.1
+2006-08-08,80,Stage 7 (ITT) - Bad Säckingen  › Bad Säckingen  ,38.2
+2006-08-07,26,Stage 6 - Seefeld › St. Anton am Arlberg ,196.6
+2006-08-06,35,Stage 5 - Bad Tölz  › Seefeld ,163.0
+2006-08-05,57,Stage 4 - Heidenheim › Bad Tölz  ,203.0
+2006-08-04,73,Stage 3 - Witzenhausen › Schweinfurt ,203.3
+2006-08-03,82,Stage 2 - Minden › Goslar  ,181.5
+2006-08-02,50,Stage 1 - Düsseldorf › Bielefeld ,198.2
+2006-08-01,51,Prologue - Düsseldorf › Düsseldorf ,5.5
+2006-07-30,DNF,Vattenfall Cyclassics (WT) ,243.2
+2006-06-11,86,Stage 7 - Saint-Jean-de-Maurienne › Grenoble ,131.0
+2006-06-10,79,Stage 6 - Briançon › La Toussuire ,169.0
+2006-06-09,79,Stage 5 - Sisteron › Briançon ,155.0
+2006-06-08,150,Stage 4 - Tain-l'Hermitage › Mont Ventoux ,186.0
+2006-06-07,132,Stage 3 (ITT) - Bourg-de-Péage › Bourg-de-Péage ,43.0
+2006-06-06,136,Stage 2 - Bourgoin-Jallieu › Saint-Galmier ,203.0
+2006-06-05,145,Stage 1 - Annecy › Bourgoin-Jallieu ,207.0
+2006-06-04,152,Prologue - Annecy › Annecy ,4.1
+2006-05-28,77,Stage 20 - Museo Del Ghisallo › Milano ,140.0
+2006-05-27,35,Stage 19 - Trento › Aprica ,211.0
+2006-05-26,55,Stage 18 - Pordenone › Passo San Pellegrino ,224.0
+2006-05-25,73,Stage 17 - Sillian › Gemona del Friuli ,210.0
+2006-05-24,54,Stage 16 - Termeno/Tramin › Passo Furcia ,121.0
+2006-05-23,62,Stage 15 - Rovato › Trento Monte Bondone ,173.0
+2006-05-22,76,Stage 14 - Mergozzo › Brescia ,189.0
+2006-05-21,51,Stage 13 - Aosta › Domodossola ,223.0
+2006-05-20,31,Stage 12 - Alessandria › La Thuile ,218.0
+2006-05-19,43,Stage 11 - Livorno › Sestri Levante ,171.0
+2006-05-18,49,Stage 10 (ITT) - Pontedera › Pontedera ,50.0
+2006-05-16,68,Stage 9 - Termoli › Peschici ,187.0
+2006-05-15,65,Stage 8 - Francavilla Al Mare › Termoli ,127.0
+2006-05-14,59,Stage 7 - Civitanova Marche › Maielletta Passo Lanciano ,171.0
+2006-05-13,46,Stage 6 - Cesena › Saltara ,236.0
+2006-05-12,170,Stage 5 - Busseto › Forli ,227.0
+2006-05-11,172,Stage 4 (TTT) - Piacenza › Cremona ,35.0
+2006-05-09,128,Stage 3 - Wanze › Hotton ,193.0
+2006-05-08,67,Stage 2 - Perwez › Namur ,202.0
+2006-05-07,141,Stage 1 - Mons › Charleroi Marcinelle ,197.0
+2006-05-06,124,Prologue - Seraing › Seraing ,6.2
+2006-04-30,106,Stage 6 (ITT) - Lausanne › Lausanne ,20.4
+2006-04-28,113,Stage 5 - Sion › Sion ,127.7
+2006-04-28,84,Stage 4 - Bienne › Leysin ,164.6
+2006-04-27,120,Stage 3 - Porrentruy › Porrentruy ,171.2
+2006-04-26,127,Stage 2 - Payerne › Payerne ,169.0
+2006-04-25,157,Prologue - Genève › Genève ,3.4
+2006-04-21,86,Stage 4 - Tione › Arco ,172.0
+2006-04-20,92,Stage 3 - Romeno › Tione ,168.0
+2006-04-19,47,Stage 2 - Castello Tesino › Clès ,174.0
+2006-04-18,72,Stage 1 - Arco › Castello Tesino ,162.0
+2006-03-24,DNF,Stage 4 - Carpi › Finale Emilia ,184.4
+2006-03-23,125,Stage 3 - Scandiano › Fiorano Modenese ,165.6
+2006-03-22,75,Stage 2 - Cervia › Faenza ,199.3
+2006-03-21,154,Stage 1a - Riccione  › Riccione ,95.2
+2006-03-18,68,Milano-Sanremo (PT) ,294.0
+2006-03-14,80,Stage 7 - Campli › San Benedetto del Tronto ,166.0
+2006-03-13,48,Stage 6 - San Benedetto del Tronto › Torricella Sicur ,182.0
+2006-03-12,26,Stage 5 (ITT) - Servigliano › Servigliano ,20.0
+2006-03-11,74,Stage 4 - Paglieta › Civitanova Marche ,219.0
+2006-03-10,43,Stage 3 - Avezzano › Paglieta ,183.0
+2006-03-09,63,Stage 2 - Tivoli › Frascati ,171.0
+2006-03-08,56,Stage 1 - Tivoli › Tivoli ,167.0
+2006-02-26,DNF,GP Lugano (1.1) ,174.3
+2006-02-25,65,GP Chiasso (1.1) ,172.9
+2005-10-15,37,Giro di Lombardia (1.PT) ,246.0
+2005-10-13,DNF,Giro del Piemonte (1.HC) ,176.0
+2005-10-02,DNF,Züri Metzgete (1.PT2) ,241.0
+2005-09-16,97,Stage 5 - Wroclaw › Szklarska Poreba ,212.0
+2005-09-15,123,Stage 4 - Inowroclaw › Leszno ,213.4
+2005-09-14,127,Stage 3 - Ostróda › Bydgoszcz ,212.0
+2005-09-13,147,Stage 2 - Tczew › Olsztyn ,226.5
+2005-09-12,131,Stage 1 - Gdansk › Elblag ,149.6
+2005-08-28,51,GP Ouest France - Plouay (PT) ,226.0
+2005-08-23,78,Stage 9 - Bad Kreuznach › Bonn ,170.0
+2005-08-22,35,Stage 8 (ITT) - Ludwigshafen › Weinheim ,30.0
+2005-08-21,23,Stage 7 - Singen  › Feldberg  ,173.0
+2005-08-20,8,Stage 6 - Friedrichshafen › Singen  ,175.0
+2005-08-19,49,Stage 5 - Sölden › Friedrichshafen ,215.0
+2005-08-18,22,Stage 4 - Kufstein › Sölden ,175.0
+2005-08-17,90,Stage 3 - Bodenmais › Kufstein ,232.0
+2005-08-16,14,Stage 2 - Pegnitz › Bodenmais ,180.0
+2005-08-15,35,Stage 1 - Altenburg › Plauen ,170.0
+2005-08-02,61,Stage 1 - Contres › Saint-Amand-Montrond ,168.8
+2005-07-29,22,Stage 5 - Wanze › Namur ,151.0
+2005-07-28,1,Stage 4 - Chaudfontaine › Houffalize ,198.0
+2005-07-27,27,Stage 3 - Perwez › Amay ,155.0
+2005-07-26,46,Stage 2 - Lessines › Nivelles ,220.0
+2005-07-25,34,Stage 1 - Bruxelles (Atomium) › Soignies ,172.0
+2005-07-10,1,Stage 5 - Torres Vedras  › Torres Vedras  ,99.0
+2005-05-29,133,Stage 20 - Albese con Cassano › Milano ,119.0
+2005-05-28,58,Stage 19 - Savigliano › Sestriere ,190.0
+2005-05-27,108,Stage 18 (ITT) - Chieri › Torino ,34.0
+2005-05-26,100,Stage 17 - Varazze › Limone Piemonte (Colle di Tenda) ,194.0
+2005-05-25,95,Stage 16 - Lissone › Varazze ,210.0
+2005-05-23,129,Stage 15 - Villa di Tirano › Lissone ,154.0
+2005-05-22,33,Stage 14 - Egna › Livigno ,210.0
+2005-05-21,44,Stage 13 - Mezzocorona › Ortisei ,218.0
+2005-05-19,80,Stage 12 - Alleghe › Rovereto ,178.0
+2005-05-18,54,Stage 11 - Marostica › Zoldo Alto ,150.0
+2005-05-17,73,Stage 10 - Ravenna › Rossano Veneto ,212.0
+2005-05-16,105,Stage 9 - Firenze › Ravenna ,139.0
+2005-05-15,57,Stage 8 (ITT) - Lamporecchio › Firenze ,45.0
+2005-05-14,47,Stage 7 - Grosseto › Pistoia ,211.0
+2005-05-13,78,Stage 6 - Viterbo › Marina di Grosseto ,153.0
+2005-05-12,46,Stage 5 - Celano › L'Aquila ,223.0
+2005-05-11,65,Stage 4 - Giffoni Valle Piana › Frosinone ,220.0
+2005-05-10,39,Stage 3 - Diamante › Giffoni Valle Piana ,210.0
+2005-05-09,96,Stage 2 - Catanzaro Lido › Santa Maria del Cedro ,182.0
+2005-05-08,63,Stage 1 - Calabria › Tropea ,208.0
+2005-05-07,128,Prologue - Reggio Calabria › Reggio Calabria ,1.15
+2005-04-17,85,Stage 5 - Borja › Illueca ,139.0
+2005-04-16,74,Stage 4 (ITT) - Herrara de los Navarros › Virgen de la Sierra de Herrera ITT ,11.2
+2005-04-15,58,Stage 3 - Sabinanigo › Zaragoza ,173.0
+2005-04-14,75,Stage 2 - Alcaniz › Sabinanigo ,206.5
+2005-04-13,37,Stage 1 - Alcala de la Selva › Valderrobles ,167.7
+2005-04-07,82,Stage 3 - Angers › Sablé-sur-Sarthe ,195.4
+2005-04-06,87,Stage 2a - Varades › Angers ,92.0
+2005-04-06,85,Stage 2b (ITT) - Angers › Angers ITT ,8.8
+2005-04-05,76,Stage 1 - Saint-Hilaire-de-Riez › Varades ,197.2
+2005-03-29,91,Paris-Camembert (1.1) ,208.0
+2005-03-28,DNF,Rund um Köln (1.1) ,203.0
+2005-02-16,114,Stage 1 - Albufeira › Albufeira ,140.0
+2004-10-16,DNF,Giro di Lombardia (CDM) ,246.0
+2004-10-14,108,Giro del Piemonte (1.1) ,186.0
+2004-10-13,98,Milano-Torino (1.1) ,199.0
+2004-09-26,70,Stage 21 (ITT) - Madrid › Madrid  ,28.2
+2004-09-25,85,Stage 20 - Alcobendas › Puerto de Navacerrada  ,178.0
+2004-09-24,96,Stage 19 - Ávila › Collado Villalba ,142.0
+2004-09-23,120,Stage 18 - Béjar › Ávila ,196.0
+2004-09-22,108,Stage 17 - Plasencia › La Covatilla  ,170.0
+2004-09-21,120,Stage 16 - Olivenza › Cáceres ,190.0
+2004-09-19,85,Stage 15 (ITT) - Granada › Sierra Nevada  ,29.6
+2004-09-18,81,Stage 14 - Málaga › Granada  ,167.0
+2004-09-17,105,Stage 13 - El Ejido › Málaga ,172.0
+2004-09-16,144,Stage 12 - Almería › Observatorio de Calar Alto  ,145.0
+2004-09-14,137,Stage 11 - San Vicente del Raspeig › Caravaca de la Cruz ,165.0
+2004-09-13,75,Stage 10 - Alcoy › Xorret de Catí  ,174.5
+2004-09-12,74,Stage 9 - Játiva › Alto de Aitana ,170.0
+2004-09-11,54,Stage 8 (ITT) - Almusafes › Almusafes ,40.1
+2004-09-10,82,Stage 7 - Castellón de la Plana › Valencia ,165.0
+2004-09-09,40,Stage 6 - Benicarló › Castellón de la Plana ,157.0
+2004-09-08,43,Stage 5 - Zaragoza › Morella ,186.5
+2004-09-07,164,Stage 4 - Soria › Zaragoza ,167.0
+2004-09-06,48,Stage 3 - Burgos  ›  Soria ,157.0
+2004-09-05,52,Stage 2 - León  ›  Burgos ,207.0
+2004-09-04,13,Stage 1 (TTT) - León  › León ,28.0
+2004-08-29,3,GP Ouest France - Plouay (1.HC) ,198.0
+2004-08-22,55,Züri Metzgete (CDM) ,241.0
+2004-08-07,54,Clasica Ciclista San Sebastian (CDM) ,227.0
+2004-08-01,2,La Poly Normande (1.3) ,157.0
+2004-07-30,79,Stage 5 - Bruxelles › Charleroi ,153.0
+2004-07-29,83,Stage 4 - Jodoigne › Bruxelles ,145.2
+2004-07-28,37,Stage 3 - Andenne › Nivelles ,212.5
+2004-07-27,33,Stage 2 - Amay › Arlon ,190.1
+2004-07-26,4,Stage 1 - Aubel › Bassenge ,157.4
+2004-05-21,DNF,Stage 3 - Ganges › Aigues-Mortes ,162.0
+2004-05-20,103,Stage 2 - Port Leucate › Narbonne ,188.0
+2004-05-19,97,Stage 1 - Maury › Port-Vendres ,167.0
+2004-05-16,90,Stage 3b - Soissons › Chauny ,87.5
+2004-05-16,62,Stage 3a - Lacroix-Saint-Ouen › Soissons ,92.5
+2004-05-15,122,Stage 2 - Crécy-en-Ponthieu › Compiègne ,184.0
+2004-05-14,126,Stage 1 - Hirson › Doullens ,189.5
+2004-05-08,DNF,Stage 1 - Alcobendas › Puerto de Navacerrada ,170.0
+2004-03-26,89,Stage 5 - Solsona › Parets del Vallès ,168.0
+2004-03-25,109,Stage 4 - Palau Solita i Plegamans › El Port del Comte ,179.5
+2004-03-24,108,Stage 3 - Castello d'Empuries › Motcada ,159.5
+2004-03-23,118,Stage 2 - Lloret de Mar › Empuriabrava ,160.8
+2004-03-22,120,Stage 1 - Lloret de Mar › Lloret de Mar ,165.5
+2004-03-20,47,Milano-Sanremo (CDM) ,294.0
+2004-03-16,120,Stage 7 - San Benedetto del Tronto › San Benedetto del Tronto ,162.0
+2004-03-15,61,Stage 6 - Monte San Pietrangeli › Torre San Patrizio ,185.0
+2004-03-14,75,Stage 5 - Paglieta › Torricella Sicura ,215.0
+2004-03-13,53,Stage 4 - Isernia › Paglieta ,179.0
+2004-03-12,78,Stage 3 - Maddaloni › Isernia ,168.0
+2004-03-11,141,Stage 2 - Latina › Maddaloni ,164.0
+2004-03-10,121,Stage 1 - Sabaudia › Sabaudia ,172.0
+2004-02-26,105,Stage 3 - Calp › Port de Sagunt ,197.0
+2004-02-25,113,Stage 2 - Jávea › Calp ,148.5
+2004-02-24,117,Stage 1 - Jávea › Jávea ,149.2
+2003-10-26,3,Japan Cup Cycle Road Race (1.3) ,151.3
+2003-10-18,9,Giro di Lombardia (CDM) ,249.0
+2003-10-16,44,Giro del Piemonte (1.1) ,189.0
+2003-10-15,27,Milano-Torino (1.1) ,198.0
+2003-10-03,DNF,Luk-Cup Bühl (1.3) ,192.0
+2003-09-26,112,Stage 21 - Madrid  ›  Madrid ,145.8
+2003-09-25,34,Stage 20 (ITT) - San Lorenzo de El Escorial  ›  Alto de Abantos ,11.2
+2003-09-24,37,Stage 19 - Alcobendas  ›  Collado Villalba  ,164.0
+2003-09-23,60,Stage 18 - Las Rozas  ›  Las Rozas ,143.8
+2003-09-22,41,Stage 17 - Granada ›  Córdoba ,188.4
+2003-09-21,41,Stage 16 - Jaén ›  Sierra Nevada ,162.0
+2003-09-20,47,Stage 15 - Valdepeñas  › La Pandera ,172.1
+2003-09-19,85,Stage 14 - Albacete › Valdepeñas ,167.4
+2003-09-18,54,Stage 13 (ITT) - Albacete  ›  Albacete ,53.3
+2003-09-17,52,Stage 12 - Cuenca › Albacete ,168.8
+2003-09-16,45,Stage 11 - Utiel  ›  Cuenca ,162.0
+2003-09-15,66,Stage 10 - Andorra › Sabadell ,194.0
+2003-09-14,27,Stage 9 - Viella › Port d'Envalira  ,174.8
+2003-09-13,33,Stage 8 - Cauterets › Pla de Beret  ,166.0
+2003-09-12,23,Stage 7 - Huesca › Cauterets ,190.0
+2003-09-11,17,Stage 6 (ITT) - Zaragoza  ›  Zaragoza ,43.8
+2003-09-10,24,Stage 5 - Soria › Zaragoza ,166.7
+2003-09-09,96,Stage 4 - Santander  ›  Burgos ,151.0
+2003-09-08,71,Stage 3 - Cangas de Onís › Santander ,154.3
+2003-09-07,81,Stage 2 - Gijón  ›  Cangas de Onís ,148.0
+2003-09-06,7,Stage 1 (TTT) - Gijón  ›  Gijón ,30.0
+2003-08-17,49,Züri Metzgete (CDM) ,236.6
+2003-08-15,66,Stage 4 - Bellegarde › Culoz ,123.0
+2003-08-14,31,Stage 3 - Saint-Genis-Pouilly › Lelex ,155.0
+2003-08-13,57,Stage 2 - Bourg en Bresse › Ceyzeria ,166.0
+2003-08-12,73,Stage 1 - Lagnieu › Saint-Vulbas ,153.0
+2003-07-27,129,Stage 20 - Ville d'Avray › Paris ,152.0
+2003-07-26,86,Stage 19 (ITT) - Pornic › Nantes ,49.0
+2003-07-25,124,Stage 18 - Bordeaux › Saint-Maixent-l'Ecole ,202.5
+2003-07-24,137,Stage 17 - Dax › Bordeaux ,181.0
+2003-07-23,52,Stage 16 - Pau › Bayonne ,197.5
+2003-07-21,133,Stage 15 - Bagnères-de-Bigorre › Luz-Ardiden ,159.5
+2003-07-20,69,Stage 14 - Saint-Girons › Loudenvielle-Le-Louron ,191.5
+2003-07-19,78,Stage 13 - Toulouse › Ax-3 Domaines ,197.5
+2003-07-18,100,Stage 12 (ITT) - Gaillac › Cap Découverte ,47.0
+2003-07-17,150,Stage 11 - Narbonne › Toulouse ,153.5
+2003-07-15,150,Stage 10 - Gap › Marseille ,219.5
+2003-07-14,63,Stage 9 - Bourg d'Oisans › Gap ,184.5
+2003-07-13,51,Stage 8 - Sallanches › L'Alpe d'Huez ,219.0
+2003-07-12,12,Stage 7 - Lyon › Morzine ,230.5
+2003-07-11,106,Stage 6 - Nevers › Lyon ,230.0
+2003-07-10,164,Stage 5 - Troyes › Nevers ,196.5
+2003-07-08,151,Stage 3 - Charleville-Mézières › Saint-Dizier ,167.5
+2003-07-07,103,Stage 2 - La Ferté-sous-Jouarre › Sedan ,204.5
+2003-07-06,132,Stage 1 - Saint-Denis-Montgeron › Meaux ,168.0
+2003-07-05,107,Prologue - Paris › Paris ,6.5
+2003-06-22,32,Stage 7 - Sant Joan Despi › Barcelona (La Pedrera) ,128.0
+2003-06-21,21,Stage 6 (ITT) - Molins De Rei › Vallvidrera (Barcelona) ,13.1
+2003-06-20,29,Stage 5 - Llivia › Manresa ,166.3
+2003-06-19,21,Stage 4 - Andorra La Vella › Llivia ,157.4
+2003-06-18,6,Stage 3 - La Pobla De Mafumet › Andorra (Cortals D'encamp) ,216.6
+2003-06-17,23,Stage 2 - Mora D'ebre › El Morell ,183.6
+2003-06-16,14,Stage 1 (TTT) - Salou  › Vilaseca ,22.9
+2003-06-08,17,Stage 5 - ETB (Iurreta) › Arrate (Eibar) ,147.9
+2003-06-07,16,Stage 4a - Murgia › Deba-Itziar ,87.4
+2003-06-07,20,Stage 4b (ITT) - Deba › Deba ,16.5
+2003-06-06,27,Stage 3 - Aizarnazabal › Santuario Virgen de Oro ,187.6
+2003-06-05,23,Stage 2 - Ispaster › Aizarnazabal ,167.2
+2003-06-04,32,Stage 1 - Eibar › Ispaster ,146.5
+2003-05-11,90,Stage 2 - Collado Villalba › Puerto Navacerrada ,63.0
+2003-05-11,OTL,Stage 2 - Collado Villalba › Puerto Navacerrada ,63.0
+2003-05-10,98,Stage 1 - Alcobendas › Collado Villalba ,148.2
+2003-05-04,74,Stage 5 (ITT) - Lausanne › Lausanne ,20.4
+2003-05-03,76,Stage 4 - Monthey › Châtel-St-Denis ,146.5
+2003-05-02,67,Stage 3 - Moudon › Loèche-les-Bains ,171.3
+2003-05-01,88,Stage 2 - Val-de-Travers › Lucens ,178.2
+2003-04-30,70,Stage 1 - Genève › Val-de-Travers ,181.9
+2003-04-29,112,Prologue - Genève › Genève ,3.4
+2003-04-27,DNF,Liège - Bastogne - Liège (CDM) ,258.0
+2003-04-20,DNF,Amstel Gold Race (CDM) ,250.7
+2003-04-20,45,Tour de Vendée (1.3) ,201.4
+2003-03-22,140,Milano-Sanremo (CDM) ,297.0
+2003-03-22,60,Paris-Camembert (1.2) ,200.0
+2003-03-19,102,Stage 7 - San Benedetto Del Tronto › San Benedetto Del Tronto ,162.0
+2003-03-18,108,Stage 6 - Teramo › Torricella ,179.0
+2003-03-17,120,Stage 5 - Monte San Giusto › Rapagnano ,181.0
+2003-03-15,122,Stage 3 - Tarquinia › Foligno ,175.0
+2003-03-14,82,Stage 2 - Sabaudia › Tarquinia ,213.0
+2003-03-13,148,Stage 1 - Sabaudia › Sabaudia ,178.0
+2003-03-01,111,Stage 5 - Valencia › Valencia ,165.0
+2003-02-28,74,Stage 4 - Sagunto › Alto del Campello ,158.2
+2003-02-27,114,Stage 3 - Onda › Sagunto ,157.6
+2003-02-26,71,Stage 2 - Xorret de Cati › Villajoyosa ,159.7
+2003-02-25,26,Stage 1 (ITT) - San Vicente del Raspeig › San Vicente del Raspeig ,9.7
+2002-10-19,DNF,Giro di Lombardia (CDM) ,251.0
+2002-10-17,56,Giro del Piemonte (1.1) ,193.0
+2002-10-16,88,Milano-Torino (1.1) ,199.0
+2002-10-06,DNF,Paris - Tours (CDM) ,257.0
+2002-09-28,29,Stage 21 (ITT) - Warner Bros Park › Madrid ,41.2
+2002-09-27,75,Stage 20 - Ávila › Warner Bros Park ,141.2
+2002-09-26,26,Stage 19 - Béjar › Ávila ,177.8
+2002-09-25,22,Stage 18 - Salamanca › Estación de La Covatilla ,193.7
+2002-09-24,25,Stage 17 - Benavente › Salamanca ,145.6
+2002-09-23,21,Stage 16 - Avilés › León ,154.7
+2002-09-22,27,Stage 15 - Gijón › Alto l'Angliru  ,176.7
+2002-09-21,54,Stage 14 - Santander › Gijón ,190.2
+2002-09-19,62,Stage 12 - Segovia › Burgos ,210.5
+2002-09-18,17,Stage 11 - Alcobendas › Collado Villalba ,166.1
+2002-09-16,12,Stage 10 (ITT) - Córdoba › Córdoba ,36.5
+2002-09-15,27,Stage 9 - Córdoba › Córdoba ,130.2
+2002-09-14,26,Stage 8 - Málaga › Ubrique ,173.5
+2002-09-13,75,Stage 7 - Jaén › Málaga ,196.8
+2002-09-12,36,Stage 6 - Granada › Sierra de la Pandera ,153.1
+2002-09-11,1,Stage 5 - El Ejido  ›  Sierra Nevada  ,198.0
+2002-09-10,104,Stage 4 - Águilas › Roquetas de Mar ,149.5
+2002-09-09,53,Stage 3 - San Vicente del Raspeig › Murcia ,134.2
+2002-09-08,47,Stage 2 - Valencia › Alcoy ,144.7
+2002-08-28,2,Stage 2 - Saintes › Montbron ,182.0
+2002-08-27,18,Stage 1 - Saint-Maixent-l'Ecole › Saintes ,184.0
+2002-08-23,12,Stage 4 - Rochechouart › Limoges ,176.8
+2002-08-22,15,Stage 3 - Saint Pantaléon de Larche › Rochechouart ,193.0
+2002-08-21,16,Stage 2 - Guéret › Lissac sur Couze ,191.0
+2002-08-20,2,Stage 1 - Limoges › Guéret ,156.6
+2002-06-25,18,Stage 4 - Luzenac ›  Ax-3 Domaines ,189.5
+2002-06-24,40,Stage 3 (ITT) - Aston › Plateau de Beille ,18.1
+2002-06-23,67,Stage 2 - Castelsarassin › Saint-Gaudens ,180.8
+2002-06-22,49,Stage 1 - Castres › Castelsarrasin ,180.8
+2002-06-16,48,Stage 7 - Morzine-Avoriaz › Genève ,150.0
+2002-06-15,64,Stage 6 - Albertville › Morzine-Avoriaz ,146.0
+2002-06-14,10,Stage 5 - Digne › Grenoble ,204.0
+2002-06-13,57,Stage 4 - Isle-sur-Sorgue › Digne ,209.0
+2002-06-12,48,Stage 3 (ITT) - Montélimar › Pierrelatte ,41.0
+2002-06-11,46,Stage 2 - Tournon › Le Mont Ventoux ,174.0
+2002-06-10,101,Stage 1 - Châtillon-sur-Chalaronne › Saint-Etienne ,173.0
+2002-06-09,87,Prologue - Lyon › Lyon ,3.6
+2002-06-03,47,Stage 5 - Wiltz › Diekirch ,166.0
+2002-06-02,74,Stage 4 (ITT) - Bettembourg › Bettembourg ,9.8
+2002-06-01,62,Stage 3 - Dudelange › Luxembourg ,102.0
+2002-05-31,83,Stage 2 - Wasserbillig › Beckerich ,205.0
+2002-05-30,112,Stage 1 - Echternach › Dippach ,182.0
+2002-05-05,41,Stage 5 (ITT) - Lausanne › Lausanne ,18.3
+2002-05-04,33,Stage 4 - Sierre › Leysin ,86.0
+2002-05-03,52,Stage 3 - Pringy › La Gruyère-Sierre ,180.3
+2002-05-02,29,Stage 2 - Bellelay-Charmey › La Gruyère ,172.8
+2002-05-01,34,Stage 1 - Genève-Malleray › Bévilard ,187.0
+2002-04-30,70,Prologue - Genève › Genève ,3.2
+2002-04-28,DNF,Amstel Gold Race (CDM) ,254.4
+2002-04-21,101,Liège - Bastogne - Liège (CDM) ,258.0
+2002-04-17,34,La Flèche Wallonne (1.HC) ,198.0
+2002-04-09,DNF,Stage 2 - Zalla › Vitoria ,183.0
+2002-04-08,135,Stage 1 - Zalla › Zalla ,139.0
+2002-03-31,45,Stage 3 (ITT) - Charleville Mezieres ITT ›  ,8.5
+2002-03-31,6,Stage 2 - Les Mazures › Montherme ,98.5
+2002-03-30,66,Stage 1 - Charleville Mezieres › Charleville Mezieres ,192.0
+2002-03-23,59,Milano-Sanremo (CDM) ,287.0
+2002-03-20,61,Stage 7 - San Benedetto › San Benedetto ,162.0
+2002-03-19,20,Stage 6 - Rapagnano › Montegranaro ,208.0
+2002-03-18,12,Stage 5 - Rieti › Torricella Sicura ,150.0
+2002-03-17,6,Stage 4 (ITT) - Rieti › Rieti ,12.7
+2002-03-16,21,Stage 3 - Anagni › Rocca di Cambio ,180.0
+2002-03-15,65,Stage 2 - Sorrento › Frosinone ,212.0
+2002-03-14,62,Stage 1 - Massa Lubrense › Sorrento ,124.0
+2002-03-02,48,Stage 5 (ITT) - Valencia › Valencia ,20.3
+2002-03-01,78,Stage 4 - Tavernes › Vallada ,148.0
+2002-02-28,54,Stage 3 - Castellón › Segorbe   ,157.9
+2002-02-27,97,Stage 2 - Calpe  › Castellón ,216.0
+2002-02-26,74,Stage 1 - Calpe  › Calpe  ,126.0
+2002-02-23,16,Tour du Haut Var (1.2) ,180.0
+2001-10-21,DNF,Giro di Lombardia (CDM) ,256.0
+2001-09-30,81,Stage 21 (ITT) - Madrid › Madrid ,38.0
+2001-09-29,133,Stage 20 - Guadalajara  › Alto de Abantos ,176.3
+2001-09-28,111,Stage 19 - Cuenca  › Guadalajara ,168.0
+2001-09-27,141,Stage 18 - Albacete  › Cuenca ,154.2
+2001-09-26,97,Stage 17 - Murcia  › Albacete ,159.5
+2001-09-25,127,Stage 16 - Alcoy  › Murcia ,153.3
+2001-09-23,112,Stage 15 - Valencia  › Alto de Aitana ,207.2
+2001-09-22,137,Stage 14 - Tarragona  › Vinaròs ,170.5
+2001-09-21,127,Stage 13 - Andorra  › Universal Studios Port Aventura ,206.0
+2001-09-20,82,Stage 12 (ITT) - Ordino  › Estación de Esquí de Ordino (Andorra)  ,17.1
+2001-09-19,95,Stage 11 - Alp  › Estación de Pal (Andorra)  ,154.2
+2001-09-18,62,Stage 10 - Sabadell  › La Molina ,168.4
+2001-09-16,70,Stage 9 - Logroño  › Zaragoza ,179.2
+2001-09-15,46,Stage 8 - Reinosa  › Alto de la Cruz de la Demanda (Ezcaray)  ,195.0
+2001-09-14,64,Stage 7 (ITT) - Torrelavega  › Torrelavega ,44.2
+2001-09-13,88,Stage 6 - Cangas de Onís  › Torrelavega ,180.6
+2001-09-12,83,Stage 5 - Gijón  › Lagos de Covadonga ,160.8
+2001-09-11,155,Stage 4 - León  › Gijón ,175.0
+2001-09-10,57,Stage 3 - Valladolid  › León ,140.5
+2001-09-09,107,Stage 2 - Salamanca  › Valladolid ,147.2
+2001-09-08,46,Stage 1 (ITT) - Salamanca  › Salamanca ,12.3
+2001-09-01,16,Giro del Veneto (1.1) ,196.6
+2001-08-11,138,Clasica Ciclista San Sebastian (CDM) ,227.0
+2001-07-29,100,Stage 20 - Corbeil-Essones › Paris ,160.5
+2001-07-28,94,Stage 19 - Orleans › Evry ,149.5
+2001-07-27,87,Stage 18 (ITT) - Montlucon › Saint-Amand-Montrond ,61.0
+2001-07-26,100,Stage 17 - Brive-la-Gaillarde › Montlucon ,194.0
+2001-07-25,63,Stage 16 - Castelsarrasin › Sarran ,227.5
+2001-07-24,106,Stage 15 - Pau › Lavaur ,232.5
+2001-07-22,55,Stage 14 - Tarbes › Luz Ardiden ,141.5
+2001-07-21,48,Stage 13 - Foix › Saint-Lary-Soulan (Pla d'Adet) ,194.0
+2001-07-20,80,Stage 12 - Perpignan › Ax-les-Thermes ,166.0
+2001-07-18,84,Stage 11 (ITT) - Grenoble › Chamrousse ,32.0
+2001-07-17,30,Stage 10 - Aix-Les-Bains › L'Alpe d'Huez ,209.0
+2001-07-16,59,Stage 9 - Pontarlier › Aix-Les-Bains ,185.0
+2001-07-15,78,Stage 8 - Colmar › Pontarlier ,222.5
+2001-07-14,30,Stage 7 - Strasbourg › Colmar ,162.0
+2001-07-13,80,Stage 6 - Commercy › Strasbourg ,211.5
+2001-07-12,8,Stage 5 (TTT) - Verdun › Bar-le-Duc ,67.0
+2001-07-11,86,Stage 4 - Huy › Verdun ,215.0
+2001-07-10,26,Stage 3 - Antwerpen › Seraing ,198.5
+2001-07-09,64,Stage 2 - Calais › Antwerpen ,220.5
+2001-07-08,61,Stage 1 - Saint-Omer › Boulogne-sur-Mer ,194.5
+2001-07-07,84,Prologue - Dunkirk › Dunkirk ,8.2
+2001-06-26,13,Stage 4 - Saint-Gaudens › Plateau de Beille ,181.0
+2001-06-25,50,Stage 3 - Saint-Salvy › Saint-Gaudens ,206.0
+2001-06-24,99,Stage 2a - Carcassonne › Castres ,118.0
+2001-06-24,53,Stage 2b (ITT) - Castres › Castres ,17.0
+2001-06-23,49,Stage 1 - Carcassonne › Carcassonee ,168.0
+2001-06-17,22,Stage 7 - Vizille › Chambéry ,125.0
+2001-06-16,13,Stage 6 - Pontcharra › Briançon ,193.0
+2001-06-15,26,Stage 5 - Romans-sur-Isère › Grenoble ,151.0
+2001-06-14,40,Stage 4 (ITT) - Beaumes-de-Venise › Valréas ,43.0
+2001-06-13,39,Stage 3 - Guilherand-Granges › Carpentras ,184.0
+2001-06-12,50,Stage 2 - Bron › Firminy ,170.0
+2001-06-11,61,Stage 1 - Morzine-Avoriaz › Bron ,227.0
+2001-06-10,103,Prologue - Morzine-Avoriaz › Morzine-Avoriaz ,4.0
+2001-06-09,16,Classique des Alpes () ,175.0
+2001-06-04,9,Stage 5 - Iurreta › Arrate ,148.2
+2001-05-24,18,Grand Prix de Wallonie (1.2) ,196.0
+2001-05-13,72,Stage 5 - Saxon › Genève ,178.0
+2001-05-12,34,Stage 4 - Saint-Aubin › Nendaz ,171.5
+2001-05-11,39,Stage 3 (ITT) - Payerne › Payerne ,25.45
+2001-05-10,47,Stage 2 - Tramelan › Vevey ,171.7
+2001-05-09,15,Stage 1 - Pfaffnau › Tramelan ,165.7
+2001-05-08,75,Prologue - Pfaffnau › Pfaffnau ,6.9
+2001-05-06,67,GP du canton d'Argovie / GP Gippingen (1.1) ,196.0
+2001-04-28,DNF,Amstel Gold Race (CDM) ,257.0
+2001-04-22,39,Liège - Bastogne - Liège (CDM) ,258.0
+2001-04-18,54,La Flèche Wallonne () ,198.0
+2001-04-13,57,Grand Prix Pino Cerami (1.3) ,181.1
+2001-03-21,127,Stage 8 - San Benedetto del Tronto › San Benedetto del Tronto ,161.0
+2001-03-20,104,Stage 7 - Fermo › Ortezzano ,223.0
+2001-03-19,76,Stage 6 - Torre San Patrizio › Monte San Pietrangeli ,136.0
+2001-03-17,140,Stage 4 - Isernia › Celano ,170.0
+2001-03-16,118,Stage 3 - Benevento › Santuario di Castelpetroso ,156.0
+2001-03-15,134,Stage 2 - Sorrente › Benevento ,163.0
+2001-03-14,91,Stage 1 - Sorrente › Sorrente ,132.0
+2001-02-24,42,Stage 4 - Savona  › Savona  ,159.5
+2001-02-21,112,Stage 1 - Alassio › Alassio ,155.6
+2001-02-20,DNF,Trofeo Laigueglia (1.3) ,172.6
+2001-02-15,41,Stage 5 - Loulé › Loulé ,174.8
+2001-02-14,51,Stage 4 - Portimão › Portimão ,169.9
+2001-02-13,113,Stage 3 - Faro › Fóia ,170.5
+2001-02-12,104,Stage 2 - Castro Marim › Albufeira ,168.3
+2001-02-11,130,Stage 1 - Tavira › Tavira ,171.7
+2000-09-03,29,Giro di Romagna (1.2) ,191.4
+2000-08-20,DNF,Züri Metzgete (CDM) ,248.4
+2000-08-17,13,Coppa Agostoni (1.2) ,197.0
+2000-08-12,107,Clasica Ciclista San Sebastian (CDM) ,232.0
+2000-07-30,18,Luk-Cup Bühl (1.3) ,194.0
+2000-07-23,91,Stage 21 - Paris › Paris ,138.0
+2000-07-22,73,Stage 20 - Belfort › Troyes ,254.5
+2000-07-21,10,Stage 19 (ITT) - Fribourg-En-Brisgau › Mulhouse ,58.5
+2000-07-20,64,Stage 18 - Lausanne › Fribourg-En-Brisgau ,246.5
+2000-07-19,51,Stage 17 - Evian-Les-Bains › Lausanne ,155.0
+2000-07-18,7,Stage 16 - Courchevel › Morzine ,196.0
+2000-07-16,35,Stage 15 - Briancon › Courchevel ,173.5
+2000-07-15,36,Stage 14 - Draguignan › Briancon ,249.0
+2000-07-14,4,Stage 13 - Avignon › Draguignan ,185.5
+2000-07-13,25,Stage 12 - Carpentras › Mont Ventoux ,149.0
+2000-07-11,135,Stage 11 - Bagneres-De-Bigorre › Revel ,218.5
+2000-07-10,29,Stage 10 - Dax › Hautacam ,205.0
+2000-07-09,94,Stage 9 - Agen › Dax ,181.0
+2000-07-08,62,Stage 8 - Limoges › Villeneuve sur Lot ,203.5
+2000-07-07,90,Stage 7 - Tours › Limoges ,205.5
+2000-07-06,114,Stage 6 - Vitre › Tours ,198.5
+2000-07-05,105,Stage 5 - Vannes › Vitre ,202.0
+2000-07-03,71,Stage 3 - Loudun › Nantes ,161.5
+2000-07-02,121,Stage 2 - Futuroscope › Loudun ,194.0
+2000-07-01,23,Stage 1 (ITT) - Futuroscope › Futuroscope ,16.5
+2000-06-22,30,Stage 8 (ITT) - San Julia de Loira (Andorra) › Viola Rabassa ,12.8
+2000-06-21,26,Stage 7 - Prades › El Cortals (Andorra) ,154.0
+2000-06-20,21,Stage 6 - Rosas › Prades (France) ,164.0
+2000-06-19,70,Stage 5 - Argentona › Rosas ,159.0
+2000-06-18,65,Stage 4 - Badalona › Barcelona ,158.0
+2000-06-17,67,Stage 3 - Vilanova › Badalona ,154.0
+2000-06-16,77,Stage 2 - Vilaseca › Vilanova I Geltru ,160.0
+2000-06-15,8,Stage 1 (TTT) - La Pineda › Vilaseca ,21.8
+2000-05-28,45,Stage 6 - Tokyo › Tokyo ,155.1
+2000-05-27,17,Stage 5 - Utsunomiya › Utsunomiya ,151.3
+2000-05-26,37,Stage 4 - Motegi › Motegi ,153.36
+2000-05-24,6,Stage 3 - Shuzenji › Shuzenji ,122.0
+2000-05-22,51,Stage 2 - Nara › Nara ,146.2
+2000-05-21,62,Stage 1 - Osaka › Osaka ,140.8
+2000-04-16,105,Liège - Bastogne - Liège (CDM) ,258.0
+2000-04-12,98,La Flèche Wallonne () ,198.0
+2000-04-06,65,Stage 4 - Vitoria › Doneztebe ,199.0
+2000-04-05,121,Stage 3 - Trapagaran › Vitoria ,190.0
+2000-04-04,116,Stage 2 - Onati › Trapagaran ,190.0
+2000-04-03,126,Stage 1 - Onati › Onati ,130.0
+2000-03-25,57,E3-Prijs Harelbeke (1.1) ,209.0
+1999-10-13,113,Milano-Torino (1.1) ,202.0
+1999-09-18,62,Giro del Lazio (1.HC) ,206.0
+1999-09-12,5,Stage 10 (ITT) - Fort Erie › Fort Erie ,25.4
+1999-09-11,32,Stage 9 - Hamilton › Niagara ,133.5
+1999-09-10,36,Stage 8 - Vaughan › Hamilton ,145.6
+1999-09-09,25,Stage 7 - Kingston › Port Hope ,184.0
+1999-09-08,33,Stage 6 - Hull › Kingston ,206.0
+1999-09-07,36,Stage 5 - Laval › Hull ,179.1
+1999-09-06,2,Stage 4 - Montreal › Montreal ,123.2
+1999-09-05,41,Stage 3 - Trois-Rivières › Montreal ,178.3
+1999-09-04,23,Stage 2 - Quebec › Trois-Rivières ,174.0
+1999-09-03,4,Stage 1 - Quebec › Quebec ,130.5
+1999-08-30,34,Giro del Friuli (1.1) ,199.0
+1999-08-25,6,Trofeo dello Scalatore () ,118.0
+1999-08-19,27,Coppa Bernocchi (1.3) ,199.0
+1999-08-15,46,HEW Cyclassics (CDM) ,253.0
+1999-06-24,34,Stage 9 - Chur › 	 Winterthur ,225.2
+1999-06-23,37,"Stage 8 - 
+ Nauders am Reschenpass 	 › 	 Arosa ",168.6
+1999-06-22,72,Stage 7 - Landeck › Nauders am Reschenpass ,47.5
+1999-06-21,87,"Stage 6 - 
+ Küssnacht am Rigi 	 › Mauren ",162.0
+1999-06-20,91,"Stage 5 (ITT) - 
+ Meiringen 	 › 	 Meiringen ",29.5
+1999-06-19,42,"Stage 4 - 
+ Bellinzona 	 › 	 Grindelwald ",171.4
+1999-06-18,62,"Stage 3 - 
+ Bellinzona	 › 	 Chiasso ",167.5
+1999-06-17,98,"Stage 2 - 
+ Lausanne 	 › 	 Küssnacht am Rigi ",220.6
+1999-06-16,108,"Stage 1 - 
+ Solothurn 	 › 	 Lausanne ",200.0
+1999-06-15,97,Prologue - Solothurn › Solothurn ,6.0
+1999-05-05,DNF,Stage 1 - Geneva › Val de Travers/Fleurier ,165.4
+1999-05-04,123,Prologue - Bernex › Bernex (Genève) ,4.9
+1999-04-28,DNF,Stage 3 - Fondo › Melcesine ,161.0
+1999-04-27,115,Stage 2 - Lienz › Passo Mendola ,176.0
+1999-04-26,116,Stage 1 - Lienz › Lienz ,205.0
+1999-04-18,DNF,Liège - Bastogne - Liège (CDM) ,264.0
+1999-04-08,97,Stage 4 - Vitoria › Lecumberri ,197.0
+1999-04-07,123,Stage 3 - Zalla  › Vitoria ,199.0
+1999-04-06,123,Stage 2 - Tolosa  › Zalla  ,204.0
+1999-04-05,129,Stage 1 - Tolosa  › Tolosa  ,115.0
+1999-03-23,74,Stage 2 - Lloret de Mar  › Empuriabrava ,169.0
+1999-03-22,62,Stage 1 - Lloret de Mar  › Lloret de Mar  ,172.0
+1999-03-14,86,Stage 7 - Nice › Nice ,157.1
+1999-03-13,35,Stage 6 - Sisteron › Valberg ,198.7
+1999-03-12,75,Stage 5 - Romans › Sisteron ,211.0
+1999-03-11,13,Stage 4 - Cusset › Firminy ,187.0
+1999-03-10,50,Stage 3 - Nevers › Vichy ,204.8
+1999-03-09,105,Stage 2 - Sens › Nevers ,214.0
+1999-03-08,92,Stage 1 - Nangis › Sens ,184.7
+1999-03-07,103,Prologue - Boulogne-Billancourt › Paris ,9.0
+1999-02-27,8,Trofeo Pantalica (1.3) ,199.0
+1998-03-23,89,Dwars door België / À travers la Belgique () ,203.0
+1998-02-22,71,Classic Haribo (1.3) ,205.0

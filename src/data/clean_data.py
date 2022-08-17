@@ -81,7 +81,6 @@ def attach_birth_place_long_lat():
     riders_info.to_csv('data/processed/riders_info_cleaned.csv', index=False)
 
 
-
 # date='00.04.1996', '26.08.2020', '00.06.2010'
 def fix_zero_date(row):
     if len(row) == 0:
@@ -108,8 +107,8 @@ def fix_zero_date(row):
     return date
 
 
-def data_cleaning_single_rider(link):
-    rider_race = pd.read_csv(f'data/raw/riders/{link}.csv')
+def data_cleaning_single_rider(name):
+    rider_race = pd.read_csv(f'data/raw/riders/{name}.csv')
     rider_race = rider_race[['date', 'result ranking', 'race name', 'distance', 'year']]
 
     # drop the date range, like "16.06 » 19.06"
@@ -126,20 +125,15 @@ def data_cleaning_single_rider(link):
     # convert to datetime
     rider_race['date'] = pd.to_datetime(rider_race['date'], format='%d.%m.%Y')
 
-    # print(rider_race)
+    rider_race.to_csv(f'data/processed/riders/{name}.csv', index=False)
 
 
 def data_clean_all_riders():
     riders = os.listdir('data/raw/riders') # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
-    np.random.shuffle(riders)
 
-    for idx, rider in enumerate(riders):
-        rider = rider[:-4] # remove .csv
-        print(idx)
-        print(rider)
-        data_cleaning_single_rider(rider)
-        print()
-
+    for rider in riders:
+        rider_name = rider[:-4] # remove .csv
+        data_cleaning_single_rider(rider_name)
 
 
 if __name__ == "__main__":

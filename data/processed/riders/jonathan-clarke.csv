@@ -1,0 +1,742 @@
+date,result ranking,race name,distance
+2022-05-22,21,Stage 4 - Fayetteville › Fayetteville ,60.1
+2022-05-21,18,Stage 3 (ITT) - West Fork › West Fork ,4.8
+2022-05-20,7,Stage 2 - Fayetteville › Mount Sequoyah ,182.4
+2022-05-19,1,Stage 1 - Fayetteville › Fayetteville ,191.5
+2022-04-16,72,Stage 7 - Gelibolu › Tekirdağ ,131.3
+2022-04-15,147,Stage 6 - Edremit (Akçay) › Eceabat (57.Alay Şehitliği) ,201.5
+2022-04-14,117,Stage 5 - Manisa › Ayvalık ,186.1
+2022-04-13,128,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park) ,146.2
+2022-04-12,104,Stage 3 - Çeşme › İzmir (Karşıyaka) ,117.9
+2022-04-11,112,Stage 2 - Selçuk (Efes) › Alaçatı ,156.4
+2022-04-10,146,Stage 1 - Bodrum › Kuşadası  97k,202.0
+2022-02-27,24,Stage 8 - Kigali › Kigali ,75.3
+2022-02-26,35,Stage 7 - Kigali › Mont Kigali ,152.6
+2022-02-25,30,Stage 6 - Musanze › Kigali ,152.0
+2022-02-24,67,Stage 5 - Muhanga › Musanze  ,129.9
+2022-02-23,16,Stage 4 - Kigali › Gicumbi  ,124.3
+2022-02-22,59,Stage 3 - Kigali › Rubavu  ,155.9
+2022-02-21,76,Stage 2 - Kigali › Rwamagana  ,148.3
+2022-02-20,65,Prologue - Kigali › Kigali ,4.0
+2022-04-16,72,Stage 7 - Gelibolu › Tekirdağ,131.3
+2022-04-15,147,Stage 6 - Edremit (Akçay) › Eceabat (57.Alay Şehitliği),201.5
+2022-04-14,117,Stage 5 - Manisa › Ayvalık,186.1
+2022-04-13,128,Stage 4 - İzmir (Konak) › Manisa (Spil Milli Park),146.2
+2022-04-12,104,Stage 3 - Çeşme › İzmir (Karşıyaka),117.9
+2022-04-11,112,Stage 2 - Selçuk (Efes) › Alaçatı,156.4
+2022-04-10,146,Stage 1 - Bodrum › Kuşadası,202.0
+2022-02-27,24,Stage 8 - Kigali › Kigali,75.3
+2022-02-26,35,Stage 7 - Kigali › Mont Kigali,152.6
+2022-02-25,30,Stage 6 - Musanze › Kigali,152.0
+2022-02-24,67,Stage 5 - Muhanga › Musanze ,129.9
+2022-02-23,16,Stage 4 - Kigali › Gicumbi ,124.3
+2022-02-22,59,Stage 3 - Kigali › Rubavu ,155.9
+2022-02-21,76,Stage 2 - Kigali › Rwamagana ,148.3
+2022-02-20,65,Prologue - Kigali › Kigali,4.0
+2021-09-12,24,Stage 4 - Prijepolje › Čačak,156.5
+2021-09-11,4,Stage 3 - Čačak › Prijepolje,153.3
+2021-09-10,51,Stage 2 - Mionica › Čačak,144.0
+2021-09-09,5,Stage 1 - Požarevac › Mionica,147.6
+2021-09-05,61,Stage 5 - Bucharest › Bucharest,98.6
+2021-09-04,84,Stage 4 - Brasov › Bucharest,159.3
+2021-09-03,44,Stage 3 - Sibiu › Poiana Brașov,187.0
+2021-09-02,29,Stage 2 - Deva › Păltiniș,154.9
+2021-09-01,41,Stage 1 - Timișoara › Deva,201.5
+2021-08-31,69,Prologue - Timișoara › Timișoara,4.0
+2021-07-06,132,Stage 3 - Sibiu › Sibiu,205.3
+2021-07-05,136,Stage 2 - Sibiu › Bâlea Lac,187.5
+2021-07-04,119,Stage 1 - Sibiu › Paltinis,177.9
+2021-07-03,82,Prologue - Sibiu › Sibiu,2.5
+2021-04-18,136,Stage 8 - Bodrum › Kusadasi,160.3
+2021-04-17,114,Stage 7 - Marmaris › Turgutreis,180.0
+2021-04-16,123,Stage 6 - Fethiye › Marmaris,129.1
+2021-04-15,112,Stage 5 - Kemer › Elmalı (Göğübeli),160.3
+2021-04-14,158,Stage 4 - Alanya › Kemer,184.4
+2021-04-13,156,Stage 3 - Beysehir › Alanya,212.6
+2021-04-12,128,Stage 2 - Konya › Konya,144.9
+2021-04-11,126,Stage 1 - Konya › Konya,72.4
+2021-03-07,72,Grand Prix Gündoğmuş ME (1.2),104.5
+2021-03-06,143,Grand Prix Mediterrennean ME (1.2),157.4
+2021-02-21,46,Grand Prix Velo Alanya ME (1.2),104.5
+2021-02-07,76,Grand Prix Gazipasa (1.2),157.6
+2021-02-06,25,Grand Prix Alanya (1.2),147.8
+2019-08-18,88,Stage 6 - Park City › Park City,125.9
+2019-08-17,90,Stage 5 - Canyons Village › Canyons Village,128.0
+2019-08-16,87,Stage 4 - Salt Lake City › Salt Lake City,86.5
+2019-08-15,98,Stage 3 - Antelope Island › North Salt Lake,138.3
+2019-08-14,87,Stage 2 - Brigham City › Powder Mountain Resort,135.8
+2019-08-13,84,Stage 1 - North Logan City › North Logan City,139.9
+2019-08-12,57,Prologue - Snowbird Resort › Snowbird Resort,5.3
+2019-07-07,48,White Spot / Delta Road Race (1.2),155.46
+2019-06-23,DNF,Stage 5 - Saint-Georges › Saint-Georges,122.4
+2019-06-22,65,Stage 4 - Québec › Québec,70.0
+2019-06-21,91,Stage 3b - Saint-Georges › Notre-Dame-des-Pins,78.0
+2019-06-21,55,Stage 3a (ITT) - Saint-Prosper › Saint-Prosper,20.0
+2019-06-20,46,Stage 2 - Lac-Mégantic › Lac-Mégantic,169.0
+2019-06-19,51,Stage 1 - Saint-Georges  › Saint-Georges ,177.0
+2019-05-27,51,Winston Salem Cycling Classic (1.2),144.84
+2019-05-05,55,Stage 5 - Silver City › Pinos Altos,161.9
+2019-05-04,74,Stage 4 - Silver City › Silver City,69.5
+2019-05-03,56,Stage 3 (ITT) - Tyrone › Tyrone,26.0
+2019-05-02,35,Stage 2 - Fort Bayard › Fort Bayard,122.6
+2019-05-01,70,Stage 1 - Silver City › Mogollon ,148.0
+2019-04-13,93,Stage 8 - Dataran Lang › Kuah,103.8
+2019-04-12,95,Stage 7 - Pantai Cenang › Pantai Cenang,106.8
+2019-04-11,99,Stage 6 - Bagan › Alor Setar,130.8
+2019-04-10,104,Stage 5 - Tanjung Malim › Taiping,200.1
+2019-04-09,78,Stage 4 - Shah Alam › Genting Highlands,114.2
+2019-04-08,105,Stage 3 - Muar › Putrajaya,192.6
+2019-04-07,110,Stage 2 - Senawang › Melaka,200.6
+2019-04-06,109,Stage 1 - Kuala Lumpur › Tampin,176.9
+2019-03-21,41,Stage 5 - Pingtung › Pingtung,192.8
+2019-03-20,2,Stage 4 - Nantou › Xianshan Visitor Center,166.6
+2019-03-19,47,Stage 3 - Hsinchu › Shigang,156.5
+2019-03-18,1,Stage 2 - Taoyuan › Jiaobanshan Park,118.9
+2019-03-17,99,Stage 1 - Taipei › Taipei,83.2
+2019-01-06,DNF,National Championships Australia - Road Race (NC),185.6
+2018-08-12,81,Stage 6 - Park City › Park City,122.3
+2018-08-11,52,Stage 5 - Canyons Village  › Snowbird Ski and Summer ,157.7
+2018-08-10,106,Stage 4 - Salt Lake City › Salt Lake City,109.4
+2018-08-09,92,Stage 3 - Antelope Island › Layton City,188.0
+2018-08-08,76,Stage 2 - Payson City › Payson City,138.4
+2018-08-07,66,Stage 1 - Cedar City › Cedar City,162.5
+2018-08-06,70,Prologue - St. George › St. George,5.31
+2018-06-17,33,Stage 5 - Saint-Georges › Saint-Georges,122.4
+2018-06-16,86,Stage 4 - Québec › Québec,70.0
+2018-06-15,104,Stage 3b - Saint-Georges › Notre-Dame-des-Pins,77.0
+2018-06-15,76,Stage 3a (ITT) - Saint-Prosper › Saint-Prosper,19.4
+2018-06-14,92,Stage 2 - Lac-Mégantic › Lac-Mégantic,169.0
+2018-06-13,45,Stage 1 - Saint-Georges › Saint-Georges,177.0
+2018-05-19,111,Stage 7 - Sacramento › Sacramento,143.0
+2018-05-18,106,Stage 6 - Folsom › South Lake Tahoe,196.5
+2018-05-17,55,Stage 5 - Stockton › Elk Grove,176.5
+2018-05-16,105,Stage 4 (ITT) - San José › Morgan Hill,34.7
+2018-05-15,111,Stage 3 - King City › Laguna Seca Recreation Area (Monterey County),197.0
+2018-05-14,111,Stage 2 - Ventura › Gilbratar Road,157.0
+2018-05-13,85,Stage 1 - Long Beach  › Long Beach ,134.5
+2018-04-22,52,Stage 5 - Silver City › Pinos Altos,161.9
+2018-04-21,52,Stage 4 - Silver City › Silver City,69.5
+2018-04-20,42,Stage 3 (ITT) - Tyrone › Tyrone,26.0
+2018-04-19,28,Stage 2 - Fort Bayard › Fort Bayard,120.7
+2018-04-18,20,Stage 1 - Silver City › Mogollon,148.0
+2018-04-15,44,Stage 4 - Fayetteville › Fayetteville,60.0
+2018-04-14,17,Stage 3 (ITT) - Devil's Den State Park › Devil's Den State Park,4.84
+2018-04-13,18,Stage 2 - Fayetteville › Fayetteville,176.5
+2018-04-12,12,Stage 1 - Fayetteville › Fayetteville (Mount Sequoyah),166.9
+2018-03-15,47,Stage 5 - Pingtung County Hall › Dapeng Bay National Scenic Area,192.8
+2018-03-14,10,Stage 4 - Nantou County Hall › Xiangsan Visitor Centre of Sun Moon Lake,166.6
+2018-03-13,3,Stage 3 - HSR Hsinschu Station › Shingan Visitor Information Center,156.3
+2018-03-12,3,Stage 2 - Taouyan City Hall  › Jiaobanshan Park,120.0
+2018-03-11,81,Stage 1 - Taipei City Hall › Taipei City Hall,83.2
+2018-02-11,97,Stage 6 - Armenia › Manizales (Torre de Chipre),184.3
+2018-02-10,117,Stage 5 - Pereira  › Salento,163.7
+2018-02-09,92,Stage 4 - Buga › Alto Boquerón (El Tambo),149.5
+2018-02-08,68,Stage 3 - Palmira › Buga,163.2
+2018-02-07,82,Stage 2 - Palmira › Palmira,183.4
+2018-02-06,79,Stage 1 - Palmira › Palmira,99.9
+2017-10-17,35,Stage 7 - Jurong Chishanhu › Maoshan,130.6
+2017-10-16,72,Stage 6 - Jiangyan › Jiangyan,106.4
+2017-10-15,73,Stage 5 - Nantong › Haimen,148.0
+2017-10-14,59,Stage 4 - Wujiang › Wujiang,117.4
+2017-10-13,94,Stage 3 - Huzhou › Changxing,134.3
+2017-10-12,77,Stage 2 - Wujin › Wujin,117.1
+2017-10-11,87,Stage 1 - Wuxi › Wuxi,111.3
+2017-10-10,48,Prologue - Wuxi › Wuxi,5.3
+2017-09-04,14,Stage 4 - Edmonton › Edmonton,124.1
+2017-09-03,28,Stage 3 - Edmonton › Edmonton,116.0
+2017-09-02,35,Stage 2 - Spruce Grove › Spruce Grove,139.0
+2017-09-01,16,Stage 1 - Jasper › Marmot Basin Ski Area,162.0
+2017-08-13,47,Stage 4 - Denver › Denver,120.1
+2017-08-12,19,Stage 3 - Denver  › Denver ,130.0
+2017-08-11,18,Stage 2 - Breckenridge › Breckenridge,103.0
+2017-08-10,50,Stage 1 - Colorado Springs › Colorado Springs,150.4
+2017-08-06,19,Stage 7 - Salt Lake City › Salt Lake City,117.8
+2017-08-05,12,Stage 6 - Heber Valley › Snowbird Resort,97.8
+2017-08-04,17,Stage 5 - Layton › Bountiful,185.4
+2017-08-03,43,Stage 4 - South Jordan City › South Jordan City,201.1
+2017-08-02,14,Stage 3 (ITT) - Big Cottonwood Canyon › Big Cottonwood Canyon,9.0
+2017-08-01,9,Stage 2 - Brigham City › Snowbasin Resort,151.0
+2017-07-31,47,Stage 1 - Logan › Logan,211.2
+2017-07-09,25,Stage 4 - Sibiu › Sibiu,148.4
+2017-07-08,6,Stage 3 - Sibiu › Paltinis,211.5
+2017-07-07,3,Stage 2 - Sibiu › Bâlea Lac,160.0
+2017-07-06,63,Stage 1 - Sibiu › Sibiu,211.8
+2017-07-05,62,Prologue - Sibiu › Sibiu,2.3
+2017-07-02,72,Stage 5 - Jaszbereny › Budapest,112.0
+2017-07-01,68,Stage 4 - Karcag › Miskolc,177.0
+2017-06-30,81,Stage 3 - Paks › Cegled,178.0
+2017-06-29,47,Stage 2 - Velence › Siofok,138.0
+2017-06-27,100,Prologue - Szombathely › Szombathely,1.0
+2017-05-29,22,Winston Salem Cycling Classic (1.1),177.8
+2017-05-20,91,Stage 7 - Mountain High › Pasadena,125.0
+2017-05-19,81,Stage 6 (ITT) - Big Bear Lake › Big Bear Lake,24.0
+2017-05-18,44,Stage 5 - Ontario › Mt. Baldy,125.5
+2017-05-17,127,Stage 4 - Santa Barbara › Santa Clarita,159.5
+2017-05-16,119,Stage 3 - Pismo Beach › Morro Bay,186.5
+2017-05-15,76,Stage 2 - Modesto › San Jose,143.0
+2017-05-14,93,Stage 1 - Sacramento › Sacramento,167.5
+2017-04-23,32,Stage 5 - Silver City › Pinos Altos,161.9
+2017-04-22,127,Stage 4 - Silver City › Silver City,69.5
+2017-04-21,111,Stage 3 (ITT) - Tyrone › Tyrone,26.0
+2017-04-20,106,Stage 2 - Fort Bayard › Fort Bayard,120.7
+2017-04-19,141,Stage 1 - Silver City › Whitewater Mesa,143.4
+2017-04-02,88,Stage 4 - Fayetteville › Fayetteville,
+2017-04-01,57,Stage 3 - Fayetteville › Fayetteville,181.4
+2017-03-31,25,Stage 2 - Fayetteville › Fayetteville,176.0
+2017-03-30,20,Stage 1 (ITT) - Devil's Den State Park › Devil's Den State Park,4.83
+2017-02-19,115,Stage 6 - The Wave › Muttrah Corniche,130.5
+2017-02-18,59,Stage 5 - Samail › Jebel Akhdar (Green Mountain),152.5
+2017-02-17,82,Stage 4 - Yiti (Al Sifah) › Ministry of Tourism,118.0
+2017-02-16,126,Stage 3 - Sultan Qaboos University › Quriyat ,162.0
+2017-02-15,48,Stage 2 - Nakhal › Al Bustan,142.0
+2017-02-14,89,Stage 1 - Al Sawadi Beach › Naseem Park,176.5
+2017-02-05,38,Stage 4 - Kinglake › Kinglake,121.0
+2017-02-04,43,Stage 3 - Benalla › Mitchelton Winery,165.6
+2017-02-03,20,Stage 2 - Mt Beauty  › Beechworth,165.6
+2017-02-02,14,Stage 1 - Wangaratta › Falls Creek,174.2
+2017-02-01,83,Prologue - Melbourne Southbank › Melbourne Southbank,2.1
+2017-01-29,42,Cadel Evans Great Ocean Road Race (1.UWT),173.9
+2016-09-10,14,The Reading 120 (1.2),196.5
+2016-09-05,32,Stage 5 - Edmonton › Edmonton,124.1
+2016-09-04,58,Stage 4 (ITT) - Edmonton › Edmonton,12.1
+2016-09-03,72,Stage 3 - Rocky Mountain House › Drayton Village,181.2
+2016-09-02,36,Stage 2 - Kananaskis › Olds,182.0
+2016-09-01,40,Stage 1 - Lethbridge › Lethbridge,106.9
+2016-08-07,23,Stage 7 - Park City › Park City,125.7
+2016-08-06,19,Stage 6 - Snowbasin  › Snowbird ,183.1
+2016-08-05,11,Stage 5 - Antelope Island › Bountiful,186.0
+2016-08-04,34,Stage 4 - Lehi › Kearns,154.0
+2016-08-03,10,Stage 3 - Richfield › Payson,191.8
+2016-08-02,35,Stage 2 - Escalante › Torrey,159.0
+2016-08-01,53,Stage 1 - Zion Canyon Village › Cedar City,135.2
+2016-06-05,50,Stage 8 - Tokyo › Tokyo,112.7
+2016-06-04,43,Stage 7 - Izu  › Izu ,122.0
+2016-06-03,78,Stage 6 - Fujisan › Fujisan,11.4
+2016-06-02,35,Stage 5 - Minami Shinshu › Minami Shinshu,123.6
+2016-06-01,44,Stage 4 - Inabe › Inabe,130.7
+2016-05-31,44,Stage 3 - Mino › Mino,139.4
+2016-05-30,7,Stage 2 - Kyoto › Kyoto,105.0
+2016-05-29,39,Prologue - Sakai › Sakai,2.65
+2016-05-22,69,Stage 8 - Sacramento › Sacramento,138.0
+2016-05-21,133,Stage 7 - Santa Rosa › Santa Rosa,175.5
+2016-05-20,51,Stage 6 (ITT) - Folsom › Folsom,20.3
+2016-05-19,47,Stage 5 - Lodi › South Lake Tahoe,212.0
+2016-05-18,32,Stage 4 - Morro Bay › Monterey County,217.0
+2016-05-17,15,Stage 3 - Thousand Oaks › Santa Barbara County,167.5
+2016-05-16,70,Stage 2 - South Pasadena › Santa Clarita,148.5
+2016-05-15,64,Stage 1 - San Diego › San Diego,175.0
+2016-05-08,5,Stage 5 - Silver City › Pinos Altos,161.9
+2016-05-07,35,Stage 4 - Silver City › Silver City,69.5
+2016-05-06,38,Stage 3 (ITT) - Tyrone › Tyrone,26.0
+2016-05-05,34,Stage 2 - Fort Bayard › Fort Bayard,122.6
+2016-05-04,20,Stage 1 - Silver City › Mogollon,148.0
+2016-04-24,DNF,Stage 4 - Fayetteville › Fayetteville,64.0
+2016-04-23,91,Stage 3 - Prairie Grove › Prairie Grove,176.1
+2016-04-22,59,Stage 2 - Fayetteville › Fayetteville,175.7
+2016-04-21,5,Stage 1 (ITT) - Devils Den State Park  › Devils Den State Park ,4.8
+2016-03-02,26,Stage 8 - Batu Pahat › Melaka,119.0
+2016-03-01,38,Stage 7 - Seremban › Parit Sulong,202.3
+2016-02-29,36,Stage 6 - Putrajaya › Rembau,147.6
+2016-02-28,51,Stage 5 - Tapah › Kuala Lumpur,148.8
+2016-02-27,5,Stage 4 - Ipoh › Tanah Rata,129.4
+2016-02-26,56,Stage 3 - Kulim › Kuala Sangsar,107.2
+2016-02-25,28,Stage 2 - Sungai Petani › Pulau Pinang,158.1
+2016-02-24,104,Stage 1 - Kangar › Baling,165.5
+2016-02-07,3,Stage 4 - Arthurs Seat › Arthurs Seat,122.0
+2016-02-06,53,Stage 3 - Traralgon › Inverloch,146.2
+2016-02-05,16,Stage 2 - Yarra Glen › Moe,144.0
+2016-02-04,26,Stage 1 - Healesville › Healesville,126.0
+2016-02-03,42,Prologue - Melbourne › Melbourne,2.1
+2016-01-31,15,Cadel Evans Great Ocean Road Race (1.HC),174.0
+2016-01-10,15,National Championships Australia - Road Race (NC),183.6
+2016-01-07,12,National Championships Australia - ITT (NC),40.9
+2015-09-12,DNF,The Reading 120 (1.2),190.4
+2015-08-23,61,Stage 7 - Golden › Denver,109.7
+2015-08-22,49,Stage 6 - Loveland › Fort Collins,164.5
+2015-08-21,65,Stage 5 (ITT) - Breckenridge › Breckenridge,13.5
+2015-08-20,4,Stage 4 - Aspen › Breckenridge,202.5
+2015-08-19,22,Stage 3 - Copper Mountain › Aspen,163.2
+2015-08-18,4,Stage 2 - Steamboat Springs › Arapahoe Basin,185.5
+2015-08-17,26,Stage 1 - Steamboat Springs › Steamboat Springs,155.5
+2015-08-09,93,Stage 7 - Park City › Park City,78.0
+2015-08-08,19,Stage 6 - Salt Lake City › Snowbird Ski and Summer Resort,177.7
+2015-08-07,77,Stage 5 - Salt Lake City › Salt Lake City,89.1
+2015-08-06,99,Stage 4 - Soldier Hollow › Heber Valley,205.2
+2015-08-05,94,Stage 3 - Antelope Island › Bountiful,176.5
+2015-08-04,121,Stage 2 - Tremonton › Ogden,161.8
+2015-08-03,100,Stage 1 - Logan › Logan,212.5
+2015-06-07,88,The Parx Casino Philly Cycling Classic (1.2),173.0
+2015-05-31,9,Winston Salem Cycling Classic (1.2),180.2
+2015-05-17,107,Stage 8 - Los Angeles › Los Angeles,105.0
+2015-05-16,39,Stage 7 - Ontario › Mt. Baldy,128.7
+2015-05-15,111,Stage 6 (ITT) - Big Bear Lake › Big Bear Lake,10.62
+2015-05-14,121,Stage 5 - Santa Barbara › Santa Clarita,154.0
+2015-05-13,129,Stage 4 - Pismo Beach › Avila Beach,173.1
+2015-05-12,46,Stage 3 - San Jose › San Jose,169.8
+2015-05-11,102,Stage 2 - Nevada City › Lodi,193.7
+2015-05-10,102,Stage 1 - Sacramento › Sacramento,203.1
+2015-05-03,56,Stage 5 - Silver City › Pinos Altos,161.9
+2015-05-02,103,Stage 4 - Silver City › Silver City,69.5
+2015-05-01,70,Stage 3 (ITT) - Tyrone › Tyrone,26.0
+2015-04-30,87,Stage 2 - Fort Bayard › Fort Bayard,122.6
+2015-04-29,44,Stage 1 - Silver City › Mogollon,148.1
+2015-04-26,85,Stage 4 - Fayetteville › Fayetteville,40.0
+2015-04-25,81,Stage 3 - Prairie Grove › Prairie Grove,174.4
+2015-04-24,131,Stage 2 - Fayetteville › Fayetteville,173.9
+2015-04-23,31,Prologue - Fayetteville › Fayetteville,4.35
+2015-04-05,52,Paris-Camembert (1.1),202.0
+2015-04-03,88,Route Adélie de Vitré (1.1),197.8
+2015-03-29,37,Stage 3 - Porto-Vecchio › Col de l'Ospedale,189.5
+2015-03-28,92,Stage 2 (ITT) - Porto-Vecchio › Porto-Vecchio,7.0
+2015-03-28,83,Stage 1 - Porto-Vecchio › Porto-Vecchio,92.5
+2015-03-26,78,Classica Corsica (1.1),203.8
+2015-03-15,82,Stage 8 - Kuala Kubu Bharu › Kuala Lumpur,96.1
+2015-03-14,62,Stage 7 - Shal Alam › Bukit Fraser,180.8
+2015-03-13,120,Stage 6 - Maran › Karak,96.6
+2015-03-12,114,Stage 5 - Kuala Terengganu › Kuantan,200.0
+2015-03-11,116,Stage 4 - Kota Bharu › Kuala Berang,165.4
+2015-03-10,43,Stage 3 - Gerik › Tanah Merah,170.0
+2015-03-09,80,Stage 2 - Alor Setar › Sungai Petani,185.0
+2015-03-08,121,Stage 1 - Pantai Cenang › Pantai Cenang,99.2
+2015-02-22,89,Stage 5 - Montilla › Alhaurín de la Torre,170.9
+2015-02-21,107,Stage 4 - Maracena › Alto de Allanadas,202.4
+2015-02-20,97,Stage 3 - Motril › Alto de Hazallanas,159.8
+2015-02-19,59,Stage 2 - Utrera › Lucena,194.7
+2015-02-18,87,Stage 1a - La Rábida › Hinojos,118.3
+2015-02-18,87,Stage 1b (ITT) - Coria del Río › Coria del Río,8.2
+2015-01-25,126,Stage 7 - San Luis › San Luis,122.4
+2015-01-24,110,Stage 6 - Achiras › Filo Sierras Comechingones,117.5
+2015-01-23,86,Stage 5 (ITT) - San Luis › San Luis,17.4
+2015-01-22,127,Stage 4 - Villa Dolores › Alto El Amago,142.5
+2015-01-21,95,Stage 3 - Concarán › Juana Koslay,176.3
+2015-01-20,119,Stage 2 - La Punta › Mirador de Potrero,185.3
+2015-01-19,42,Stage 1 - San Luis › Villa Mercedes,186.8
+2014-09-13,25,Bucks County Classic (1.2),160.5
+2014-09-07,DNF,Stage 5 - Edmonton › Edmonton,124.1
+2014-09-06,110,Stage 4 - Edmonton › Strathcona County,163.5
+2014-09-05,53,Stage 3 - Wetaskiwin › Edmonton,157.9
+2014-09-04,86,Stage 2 - Innisfail › Red Deer,145.3
+2014-09-03,76,Stage 1 - Lethbridge › Lethbridge,143.0
+2014-09-02,62,Prologue - Calgary › Calgary,4.0
+2014-08-24,66,Stage 7 - Boulder › Denver,126.0
+2014-08-23,96,Stage 6 (ITT) - Vail › Vail,16.1
+2014-08-22,68,Stage 5 - Woodland Park › Breckenridge,168.0
+2014-08-21,115,Stage 4 - Colorado Springs › Colorado Springs,113.0
+2014-08-20,82,Stage 3 - Gunnison › Monarch Mountain,155.0
+2014-08-19,74,Stage 2 - Aspen › Crested Butte,169.0
+2014-08-18,56,Stage 1 - Aspen › Aspen,98.0
+2014-08-10,84,Stage 7 - Park City › Park City,125.5
+2014-08-09,86,Stage 6 - Salt Lake City › Snowbird Ski and Summer Resort,172.6
+2014-08-08,85,"Stage 5 - Evanston, WY › Kamas",163.1
+2014-08-07,99,Stage 4 - Ogden › Powder Mountain,168.5
+2014-08-06,102,Stage 3 - Lehi › Miller Motorsports Park,190.2
+2014-08-05,46,Stage 2 - Panguitch › Torrey,210.3
+2014-08-04,120,Stage 1 - Cedar City › Cedar City,182.7
+2014-07-19,126,Stage 13 - Lanzhou › Lanzhou,92.0
+2014-07-18,119,Stage 12 - Zhongwei › Zhongwei,120.0
+2014-07-17,124,Stage 11 - Yinchuan › Yinchuan,133.0
+2014-07-16,15,Stage 10 - Tianshui › Pingliang,227.0
+2014-07-15,116,Stage 9 - Tianshui › Tianshui,118.0
+2014-07-13,18,Stage 8 - Xunhua › Lintao,225.0
+2014-07-12,90,Stage 7 - Tongren › Hualong,143.0
+2014-07-11,77,Stage 6 - Guide › Tongren,208.0
+2014-07-10,99,Stage 5 - Qinghai Lake › Guide,203.0
+2014-07-09,126,Stage 4 - Xihai › Heimahe,206.0
+2014-07-08,75,Stage 3 - Huzhu › Xihai,234.0
+2014-07-07,150,Stage 2 - Duoba › Datong,188.0
+2014-07-06,144,Stage 1 - Xining › Xining,122.0
+2014-06-01,DNF,The Philadelphia Cycling Classic (1.1),193.0
+2014-05-18,DNF,Stage 8 - Thousand Oaks › Thousand Oaks,122.4
+2014-05-17,108,Stage 7 - Santa Clarita › Pasadena,142.8
+2014-05-16,95,Stage 6 - Santa Clarita › Mountain High,151.8
+2014-05-15,112,Stage 5 - Pismo Beach › Santa Barbara,172.9
+2014-05-14,6,Stage 4 - Monterey › Cambria,165.1
+2014-05-13,71,Stage 3 - San Jose › Mount Diablo,174.6
+2014-05-12,111,Stage 2 (ITT) - Folsom › Folsom,20.1
+2014-05-11,111,Stage 1 - Sacramento › Sacramento,193.1
+2014-05-04,53,Stage 5 - Silver City › Pinos Altos,161.9
+2014-05-03,94,Stage 4 - Silver City › Silver City,69.1
+2014-05-02,67,Stage 3 (ITT) - Tyrone › Tyrone,26.0
+2014-05-01,84,Stage 2 - Fort Bayard › Fort Bayard,122.6
+2014-04-30,52,Stage 1 - Silvercity › Mongollon,148.0
+2014-04-23,DNF,La Flèche Wallonne (1.UWT),199.0
+2014-04-16,DNF,De Brabantse Pijl - La Flèche Brabançonne (1.HC),203.1
+2014-04-05,DNF,Volta Limburg Classic (1.1),196.0
+2014-03-30,158,Stage 4 (ITT) - Pavullo › Castello di Montecuccolo,10.0
+2014-03-29,146,Stage 3 - Crevalcore › Crevalcore,158.4
+2014-03-28,141,Stage 2 - Sant’Angelo di Gatteo › Sogliano al Rubicone,160.2
+2014-03-27,149,Stage 1a - Gatteo › Gatteo,99.5
+2014-03-27,34,Stage 1b (TTT) - Gatteo a mare › Gatteo,13.3
+2014-03-08,37,Stage 10 - Tasik Kenyir › Kuala Terengganu,103.1
+2014-03-07,73,Stage 9 - Bandar Permaisuri › Kuala Terengganu,109.7
+2014-03-06,75,Stage 8 - Kuantan › Marang,202.6
+2014-03-05,42,Stage 7 - Kota Tinggi › Pekan,230.1
+2014-03-04,38,Stage 6 - Melaka › Pontian,199.1
+2014-03-03,38,Stage 5 - Karak › Rembau,139.9
+2014-03-02,22,Stage 4 - Subang › Genting Highlands,110.9
+2014-03-01,56,Stage 3 - Kampar › Kuala Lumpur,166.5
+2014-02-28,101,Stage 2 - Sungai Petani › Taiping,132.5
+2014-02-27,3,Stage 1 - Langkawi (Porto Malai) › Langkawi (Pantai Chenang),101.1
+2014-01-26,98,Stage 7 - San Luis › Hito del Bicentenario en Terrazas del Portezuelo,148.1
+2014-01-25,116,Stage 6 - Las Chacras › Mirador del Sol en Merlo,166.0
+2014-01-24,114,Stage 5 (ITT) - San Luis › San Luis,19.2
+2014-01-23,112,Stage 4 - Municipalidad de Potrero › Cerro El Amago,166.3
+2014-01-22,86,Stage 3 - Tilisarao › Ave Fénix Juana Koslay,175.8
+2014-01-21,118,Stage 2 - La Punta › Mirador de Potrero de los Funes,170.6
+2014-01-20,88,Stage 1 - San Luis › Villa Mercedes,166.2
+2013-09-07,56,Bucks County Classic (1.2),165.9
+2013-08-25,93,Stage 7 - Denver › Denver,117.4
+2013-08-24,102,Stage 6 - Loveland › Fort Collins,185.4
+2013-08-23,98,Stage 5 (ITT) - Vail › Vail,16.1
+2013-08-22,80,Stage 4 - Steamboat Springs › Beaver Creek,165.6
+2013-08-21,31,Stage 3 - Breckenridge › Steamboat Springs,170.8
+2013-08-20,80,Stage 2 - Aspen › Breckenridge,202.9
+2013-08-19,87,Stage 1 - Aspen › Aspen,102.7
+2013-08-11,76,Stage 6 - Park City › Park City,125.8
+2013-08-10,58,Stage 5 - Snowbasin Resort › Snowbird Ski and Summer Resort,182.0
+2013-08-09,96,Stage 4 - Salt Lake City › Salt Lake City,54.7
+2013-08-08,63,Stage 3 - Richfield › Payson,191.5
+2013-08-07,99,Stage 2 - Panguitch › Torrey,210.0
+2013-08-06,81,Stage 1 - Brian Head › Cedar City,180.0
+2013-07-20,52,Stage 13 - Lanzhou › Lanzhou,77.0
+2013-07-19,74,Stage 12 - Zhongwei › Zhongwei,120.0
+2013-07-18,72,Stage 11 - Yinchuan › Yinchuan,123.0
+2013-07-17,39,Stage 10 - Wuwei › Jingtai,191.0
+2013-07-16,65,Stage 9 - Zhangye › Zhangye,117.0
+2013-07-14,36,Stage 8 - Qilian › Zhangye,201.0
+2013-07-13,30,Stage 7 - Qilian › Qilian,82.0
+2013-07-12,36,Stage 6 - Xihaizhen › Qilian,205.0
+2013-07-11,59,Stage 5 - Tianjun › Xihaizhen,203.0
+2013-07-10,49,Stage 4 - Qinghai Lake › Tianjun,227.0
+2013-07-09,10,Stage 3 - Guide › Qinghai Lake,148.0
+2013-07-08,47,Stage 2 - Huzhu › Guide,151.0
+2013-07-07,77,Stage 1 - Xining › Xining,138.0
+2013-06-16,15,Stage 6 - Ville de St-Georges › Ville de St-Georges,107.0
+2013-06-15,58,Stage 5 - Ville de Québec › Ville de Québec,126.0
+2013-06-14,58,Stage 4 (ITT) - St-Benoît-Labre › St-Benoît-Labre,20.0
+2013-06-13,71,Stage 3 - St-Georges › Mont-Mégantic,164.0
+2013-06-12,20,Stage 2 - Thetford-Mines › Thetford-Mines,152.0
+2013-06-11,17,Stage 1 - Lac-Etchemin › Lac-Etchemin,165.0
+2013-06-02,52,The Philadelphia Cycling Classic (1.2),193.0
+2013-05-05,19,Stage 5 - Silver City › Silver City,161.9
+2013-05-04,133,Stage 4 - Silver City › Silver City,69.5
+2013-05-03,72,Stage 3 (ITT) - Silver City › Silver City,26.0
+2013-05-02,2,Stage 2 - Silver City › Silver City,122.6
+2013-05-01,20,Stage 1 - Silver City › Mogollon,148.1
+2013-03-24,81,Stage 7 - Taipei City › Taipei City,52.0
+2013-03-23,79,Stage 6 - New Taipei City › New Taipei City,112.4
+2013-03-22,82,Stage 5 - Taoyaun County › Taoyaun County,126.3
+2013-03-21,89,Stage 4 - Taichung City › Taichung City,118.0
+2013-03-20,92,Stage 3 - Changhua County › Changhua County,150.0
+2013-03-19,25,Stage 2 - Tainan › Tainan,137.0
+2013-03-18,44,Stage 1 - Donggang › Donggang,140.0
+2013-03-02,94,Stage 10 - Tasik Kenyir › Kuala Terengganu,114.8
+2013-03-01,104,Stage 9 - Pasir Puteh › Kuala Berang,123.6
+2013-02-28,122,Stage 8 - Kuala Terengganu › Tanah Merah,164.5
+2013-02-27,121,Stage 7 - Kuantan › Dungun,149.8
+2013-02-26,117,Stage 6 - Mentakab › Kuantan,212.8
+2013-02-25,109,"Stage 5 - Proton, Shah Alam › Genting Highlands",108.0
+2013-02-24,113,Stage 4 - Tapah › Kapar,168.0
+2013-02-23,50,Stage 3 - Sungai Siput › Cameron Highlands,145.5
+2013-02-22,105,Stage 2 - Serdang › Kuala Kangsar,116.0
+2013-02-21,94,Stage 1 - Kangar › Kulim,163.7
+2012-09-16,60,Stage 8 - Reigate › Guildford,147.8
+2012-09-15,46,Stage 7 - Barnstaple › Dartmouth,172.9
+2012-09-14,61,Stage 6 - Welshpool › Caerphilly,189.6
+2012-09-13,41,Stage 5 - Stoke-on-Trent › Stoke-on-Trent,147.0
+2012-09-12,52,Stage 4 - Carlisle › Blackpool,156.0
+2012-09-11,93,Stage 3 - Jedburgh › Dumfries,152.6
+2012-09-10,49,Stage 2 - Nottingham › Knowsley Safari Park,180.7
+2012-09-09,93,Stage 1 - Ipswich › Norfolk ,203.0
+2012-08-26,91,Stage 10 - Sintra › Lisboa,149.5
+2012-08-25,90,Stage 9 (ITT) - Pedrogão ›  Leiria,32.6
+2012-08-24,95,Stage 8 - Guarda › Seia (Torre),154.9
+2012-08-23,30,Stage 7 - Gouveia › Sabugal,185.3
+2012-08-21,68,Stage 6 - Aveiro › Viseu,184.1
+2012-08-20,48,Stage 5 - Armamar › Oliveira de Azeméis,176.6
+2012-08-19,25,Stage 4 - Viana do Castelo › Mondim de Basto,151.9
+2012-08-18,58,Stage 3 - Vila Nova da Cerveira › Fafe,176.1
+2012-08-17,54,Stage 2 - Oliveira do Bairro › Trofa,190.7
+2012-08-16,18,Stage 1 - Termas Monfortinho › Oliveira do Hospital,200.8
+2012-08-15,48,Prologue - Castelo Branco › Castelo Branco,2.2
+2012-08-05,61,Stage 2 - Elk Grove Village › Elk Grove Village,120.0
+2012-08-04,70,Stage 1 - Elk Grove Village › Elk Grove Village,109.0
+2012-08-03,30,Prologue - Elk Grove Village › Elk Grove Village,7.2
+2012-05-20,110,Stage 8 - Los Angeles › Los Angeles,68.5
+2012-05-19,98,Stage 7 - Ontario › Mt. Baldy,126.0
+2012-05-18,113,Stage 6 - Palmdale › Big Bear Lake,186.3
+2012-05-17,100,Stage 5 (ITT) - Bakersfield › Bakerfield,29.7
+2012-05-16,106,Stage 4 - Sonora › Clovis,209.6
+2012-05-15,107,Stage 3 - Jose › Livermore,185.5
+2012-05-14,80,Stage 2 - Francisco › Santa Cruz,188.5
+2012-05-13,77,Stage 1 - Santa Rosa › Santa Rosa,186.5
+2012-05-06,103,Stage 5 -  Silver City › Pinos Altos,170.1
+2012-05-05,125,Stage 4 - Silver City › Silver City,69.5
+2012-05-04,83,Stage 3 (ITT) - Tyrone › Tyrone,26.6
+2012-05-03,49,Stage 2 - Fort Bayard › Fort Bayard,128.7
+2012-05-02,42,Stage 1 - Silver City › Mogollon,153.1
+2012-04-21,79,Stage 4 - Castelletto di Brenzone › Passo Pordoi,177.5
+2012-04-20,61,"Stage 3 - Cooperativa Piccoli Frutti Pergine › Brenzone, Punta Veleno",167.8
+2012-04-19,71,Stage 2 - Mori › Sant’Orsola Terme,152.0
+2012-04-17,12,Stage 1 (TTT) - Riva del Garda › Arco,14.3
+2012-04-15,63,Giro dell'Appennino (1.1),194.5
+2012-04-11,DNF,De Brabantse Pijl - La Flèche Brabançonne (1.HC),195.7
+2012-04-09,83,Rund um Köln (1.1),196.7
+2012-04-05,100,Grand Prix Pino Cerami (1.1),195.4
+2012-03-29,DNS,Stage 3a - De Panne › De Panne,113.1
+2012-03-28,174,Stage 2 - Zottegem › Koksijde (Oostduinkerke),216.1
+2012-03-27,82,Stage 1 - Middelkerke › Oudenaarde,201.6
+2012-03-24,116,Stage 5 (ITT) - Crevalcore › Crevalcore,14.3
+2012-03-23,122,Stage 4 - Pavullo › Pavullo,159.0
+2012-03-22,93,Stage 3 - Fiarono Modenese › Levizzano,151.0
+2012-03-21,119,Stage 2a - Gatteo › Gatteo,95.5
+2012-03-21,13,Stage 2b (TTT) - Gatteo › Gatteo,14.9
+2012-03-20,119,Stage 1 - Misano Adriatico › Riccione,140.8
+2012-03-04,42,Stage 10 - Tasik Kenyir  › Kuala Terengganu Loop,116.6
+2012-03-03,47,Stage 9 - Kemasik  › Kuala Terengganu,165.7
+2012-03-02,64,Stage 8 - Pekan  › Cukai,100.8
+2012-03-01,59,Stage 7 - Bentong  › Kuantan,205.8
+2012-02-29,17,"Stage 6 - Proton, Shah Alam   › Genting Highlands",108.0
+2012-02-28,25,"Stage 5 - Ayer Keroh › Pandan Indah, Ampang",187.2
+2012-02-27,58,Stage 4 - Batu Pahat › Muar,169.4
+2012-02-26,60,Stage 3 - Melaka › Parit Sulong,187.6
+2012-02-25,60,Stage 2 - Putrajaya › Melaka,151.0
+2012-02-24,27,Stage 1 (ITT) - Putrajaya › Putrajaya,20.3
+2012-01-29,51,Stage 7 - San Luis › San Luis,167.0
+2012-01-28,51,Stage 6 - Lujan  › Quines,201.0
+2012-01-27,37,"Stage 5 -  La Toma  › Mirador del Sol, Merlo ",160.6
+2012-01-26,32,Stage 4 (ITT) - San Luis › San Luis,19.5
+2012-01-25,12,Stage 3 - Estancia Grande  › Mirador de Potrero,168.2
+2012-01-24,45,Stage 2 - Fraga  › Juana Koslay,145.3
+2012-01-23,53,Stage 1 - San Luis  › Villa Mercedes,189.3
+2011-10-16,55,Stage 5 - Melbourne › Melbourne,61.5
+2011-10-15,37,Stage 4 - Sorrento › Arthurs Seat,131.6
+2011-10-14,79,Stage 3 - Geelong › Drysdale,172.6
+2011-10-13,70,Stage 2 - Ballarat › Geelong,140.6
+2011-10-12,15,Stage 1 - Whittlesea › Ballarat,174.6
+2011-09-18,66,Stage 8b - London › London,88.8
+2011-09-18,66,Stage 8a (ITT) - London › London,8.8
+2011-09-17,80,Stage 7 - Bury St. Edmunds › Sandringham Estate,199.7
+2011-09-16,84,Stage 6 - Taunton › Wells,146.0
+2011-09-15,88,Stage 5 - Exeter › Exmouth,180.3
+2011-09-14,90,Stage 4 - Powis Castle › Caerphilly,182.0
+2011-09-13,77,Stage 3 - Stoke-on-Trent › Stoke-on-Trent,140.0
+2011-09-11,90,Stage 1 - Peebles › Dumfries,170.3
+2011-08-28,OTL,Stage 6 - Golden › Denver,118.8
+2011-08-27,106,Stage 5 - Steamboat Springs › Breckenridge,169.0
+2011-08-26,71,Stage 4 - Avon › Steamboat Springs,133.0
+2011-08-25,101,Stage 3 (ITT) - Vail › Vail,16.0
+2011-08-24,101,Stage 2 - Gunnison › Aspen,211.0
+2011-08-23,117,Stage 1 - Salida › Crested Butte,160.0
+2011-08-22,30,Prologue - Colorado Springs › Colorado Springs,8.34
+2011-08-18,DNF,GP Banca di Legnano - Coppa Bernocchi (1.1),199.3
+2011-08-07,66,Stage 3 -  Elk Grove Village ›  Elk Grove Village,115.0
+2011-08-06,92,Stage 2 -  Elk Grove Village ›  Elk Grove Village,155.0
+2011-08-05,21,Prologue - Chicago › Chigaco,7.2
+2011-07-10,44,Stage 9 - Lanzhou › Lanzhou,94.2
+2011-07-09,132,Stage 8 - Xining › Lanzhou,239.7
+2011-07-08,91,Stage 7 - Qilian › Menyuan,170.4
+2011-07-07,115,Stage 6 - Qilian › Qilian,103.0
+2011-07-06,116,Stage 5 - Xihaizhen › Mole Town Qilian,123.0
+2011-07-05,136,Stage 4 - Bird Island › Xihaizhen,152.4
+2011-07-04,40,Stage 3 - Qinghai Lake › Bird Island,120.6
+2011-07-03,55,Stage 2 - Xining › Qinghai Lake,146.4
+2011-07-02,130,Stage 1 - Xining › Xining,132.3
+2011-06-05,96,TD Bank International Cycling Championship (1.HC),249.6
+2011-04-15,DNF,Stage 1 - Coevorden › Hoogeveen,180.1
+2011-04-13,DNF,De Brabantse Pijl - La Flèche Brabançonne (1.HC),200.4
+2011-04-02,DNF,Hel van het Mergelland (1.1),196.0
+2011-03-30,DNF,Stage 2 - Oudenaarde › Koksijde,219.0
+2011-03-29,174,Stage 1 - Middelkerke › Zottegem,194.0
+2011-03-06,82,Stage 3 (ITT) - Murcia › Murcia,12.4
+2011-03-05,97,Stage 2 - Estrella Levante › Alto de Espuña,183.2
+2011-03-04,97,Stage 1 - San Pedro del Pinatar › Alhama de Murcia,178.5
+2011-02-27,74,Clasica de Almeria (1.1),179.5
+2011-02-20,146,Stage 5 (ITT) - Lagoa › Portimão,17.2
+2011-02-19,135,Stage 4 - Albufeira › Tavira,167.3
+2011-02-18,131,Stage 3 - Tavira › Malhão,179.2
+2011-02-17,145,Stage 2 - Lagoa › Lagos,186.5
+2011-02-16,164,Stage 1 - Estádio Algarve › Albufeira,157.5
+2010-09-11,38,Univest Grand Prix (1.2),133.0
+2010-06-06,DNF,Philadelphia International Championship (1.HC),251.0
+2009-11-12,DNF,Stage 2 - Baoting › Xinglong,184.0
+2009-11-11,23,Stage 1 - Sanya › Baoting,128.6
+2009-10-17,6,Stage 6 - Melbourne › Melbourne,61.5
+2009-10-16,47,Stage 5 (ITT) - Geelong › Geelong,10.0
+2009-10-15,57,Stage 4 - Anglesea › Barwon Heads,138.0
+2009-10-14,45,Stage 3 - Warrnambool › Apollo Bay,164.0
+2009-10-13,48,Stage 2 - Colac › Warrnambool,141.0
+2009-10-12,83,Stage 1 - Ballarat › Ballarat,149.0
+2009-06-07,72,Philadelphia International Championship (1.HC),251.1
+2009-02-16,DNF,Stage 2 - Sausalito › Santa Cruz,186.6
+2009-02-15,120,Stage 1 - Davis › Santa Rosa,173.2
+2009-02-14,85,Prologue - Sacremento › Sacremento,3.9
+2009-01-11,27,Australian Open Road Championships Road Race (NC),163.2
+2008-10-18,34,Stage 6 - Melbourne › Melbourne,66.0
+2008-10-17,46,Stage 5 (ITT) - Yarra Valley › Yarra Valley,16.2
+2008-10-16,52,Stage 4 - Alexandra › Mt Buller,115.4
+2008-10-15,86,Stage 3 - Warragul › Marysville,137.1
+2008-10-14,52,Stage 2 - Inverloch › Warragul,118.1
+2008-10-13,12,Stage 1 - Traralgon › Inverloch,130.4
+2008-10-13,64,Stage 1 - Traralgon › Inverloch,130.4
+2008-08-10,18,Stage 3 - Honeoye › Rochester,161.8
+2008-08-09,13,Stage 2 - Rochester › Rochester,90.0
+2008-08-08,3,Stage 1 (ITT) - Rochester › Rochester,6.4
+2008-06-08,75,Philadelphia International Championship (1.HC),251.0
+2008-06-05,46,Commerce Bank Reading Classic (1.1),119.1
+2008-02-21,DNF,Stage 4 - Seaside › San Luis Obispo,217.0
+2008-02-20,OTL,Stage 3 - Modesto › San José,152.2
+2008-02-19,117,Stage 2 - Santa Rosa › Sacramento,187.2
+2008-02-18,114,Stage 1 - Sausalito › Santa Rosa,156.0
+2008-02-17,90,Prologue - Palo Alto › Palo Alto,3.4
+2008-01-13,33,Australian Open Road Championships Road Race (NC),163.2
+2007-06-19,94,Stage 7 - Potes › Santander,152.0
+2007-06-18,72,Stage 6 - Torrelavega › Santo Toribio,147.1
+2007-06-17,58,Stage 5a - Polanco › Torrelavega,112.6
+2007-06-17,96,Stage 5b (ITT) - Polanco › Polanco,17.0
+2007-06-16,87,Stage 4 - Agua de Solares › Fuente del Chivo,156.0
+2007-06-15,119,Stage 3 - Santoña › Maliaño,174.4
+2007-06-14,99,Stage 2 - Los Corrales de Buelna › Laredo,167.0
+2007-06-13,113,Stage 1 - Santander › El Astillero,155.0
+2007-05-31,44,Stage 3 - San Adrian › Sangüesa,154.0
+2007-05-30,113,Stage 2 - Tudela › San Adrian,160.5
+2007-05-29,78,Stage 1 - Sabeco › Tudela,162.0
+2007-05-26,54,Clasica Internacional 'Txuma' (1.2),173.0
+2007-05-06,96,Circuito del Porto - Trofeo Arvedi (1.2),180.0
+2007-04-22,47,Stage 4 - Sant'Egidio alla Vibrata › Sant'Egidio alla Vibrata,141.0
+2007-04-21,23,Stage 3 - Notaresco › Notaresco,152.0
+2007-04-20,56,Stage 2 - Chieti › Ortona,166.0
+2007-04-19,53,Stage 1 - Megalò › Cepagatti,154.0
+2007-04-06,44,Stage 1 - Vertova › Vertova,146.1
+2007-02-11,55,Stage 10 - Kuala Lumpur › Kuala Lumpur,55.9
+2007-02-10,33,Stage 9 - Putrajaya › Seremban,170.5
+2007-02-09,15,Stage 8 - Shah Alam › Genting Highlands,84.4
+2007-02-08,95,Stage 7 - Kuantan › Karak,174.0
+2007-02-07,63,Stage 6 - Kuala Terengganu › Chukai,141.5
+2007-02-06,73,Stage 5 - Kota Bharu › Kuala Terengganu,167.0
+2007-02-05,73,Stage 4 - Gua Musang › Kota Bharu,178.1
+2007-02-04,14,Stage 3 - Kuala Kangsar › Cameron Highlands,133.2
+2007-02-03,86,Stage 2 - Kangar › Kulim,166.2
+2007-02-02,111,Stage 1 - Langkawi › Langkawi,81.4
+2007-01-21,31,Stage 6 - Adelaide › Adelaide,90.0
+2007-01-20,31,Stage 5 - Willunga › Willunga,124.0
+2007-01-19,77,Stage 4 - Stirling › Victor Harbor,128.0
+2007-01-18,13,Stage 3 - Mannum › Hahndorf,150.0
+2007-01-17,106,Stage 2 - Mawson Lakes › Tanunda,152.0
+2007-01-16,95,Stage 1 - Adelaide › Adelaide,50.0
+2007-01-14,8,Australian Open Road Championships Road Race (NC),163.2
+2006-10-14,17,Stage 7 - Melbourne › Melbourne,65.0
+2006-10-13,54,"Stage 6 (ITT) - Studley Park and Yarra Boulevard, Kew › Studley Park and Yarra Boulevard, Kew",11.3
+2006-10-12,79,Stage 5 - Benalla › Lake Mountain,182.9
+2006-10-11,4,Stage 4 - Mitchelton Winery (Nagambie) › Benalla,178.4
+2006-10-10,73,Stage 3 - Bendigo › Nagambie,158.5
+2006-10-09,68,Stage 2 - Shepparton › Bendigo,175.7
+2006-10-08,27,Stage 1 - Shepparton › Shepparton,50.0
+2006-09-23,121,World Championships U23 - Road Race (WC),177.2
+2006-09-17,73,Stage 5 - Mannheim › Frankfurt,150.0
+2006-09-16,68,Stage 4 - Griesheim › Wiesbaden,160.0
+2006-09-15,71,Stage 3 (ITT) - Griesheim › Griesheim,18.5
+2006-09-14,48,Stage 2 - Kassel › Battenberg/Allendorf,170.0
+2006-09-13,65,Stage 1 - Erfurt › Kassel,190.0
+2006-09-03,43,Stage 6 - Greenwich › The Mall,82.0
+2006-09-02,67,Stage 5 - Rochester › Canterbury,152.6
+2006-09-01,78,Stage 4 - Wolverhampton › Birmingham,130.3
+2006-08-31,75,Stage 3 - Bradford › Sheffield,180.0
+2006-08-30,78,Stage 2 - Blackpool › Liverpool,163.0
+2006-08-29,84,Stage 1 - Glasgow › Castle Douglas,162.0
+2006-07-23,53,Gran Premio Inda - Trofeo Aras Frattini (1.2),175.2
+2006-06-25,9,Giro delle Valli Aretine (1.2),152.0
+2006-06-18,126,Stage 10 - Bolzano › Bolzano,127.0
+2006-06-17,112,Stage 9 - Marostica › Alpe di Pampeago,121.0
+2006-06-16,76,Stage 8 - Vittorio Veneto › Marostica,151.0
+2006-06-15,140,Stage 7 - Montegrotto Terme › Vittorio Veneto,114.0
+2006-06-14,77,Stage 6 - Morrovalle › Potenza Picena,126.0
+2006-06-13,54,Stage 5 - Ovindoli › Ortezzano,186.0
+2006-06-12,46,Stage 4 - Isernia › Celano,165.0
+2006-06-11,45,Stage 3 - Sant'Elena Sannita › Castelpetroso,119.0
+2006-06-10,46,Stage 2 - Maddaloni › San Bartolomeo in Galdo,134.0
+2006-06-09,28,Stage 1 (ITT) - Caserta › Caserta,8.5
+2006-05-28,69,Stage 6 - Huarte › Pamplona,120.9
+2006-05-27,38,Stage 5 - Santesteban › Huarte,152.0
+2006-05-26,51,Stage 4 - Alsasua › Santesteban,135.0
+2006-05-25,57,Stage 3 - Viana › Alsasua,142.0
+2006-05-24,50,Stage 2 - Tudela › Viana/Las Cañas,151.0
+2006-05-23,68,Stage 1 - Ind.Lizarte (Pamplona) › Tudela,141.5
+2006-05-21,8,Clasica Internacional 'Txuma' (1.2),170.0
+2006-05-19,74,Stage 5 - Streufdorf/Straufhain › Waltershausen,141.0
+2006-05-18,81,Stage 4 - Ilmenau › Streufdorf/Straufhain,149.3
+2006-05-17,66,Stage 3b - Meiningen › Meiningen,90.3
+2006-05-17,88,Stage 3a (ITT) - Meiningen › Meiningen,15.6
+2006-05-16,96,Stage 2 - Bad Berka › Ilmenau,172.8
+2006-05-15,72,Stage 1 - Waltershausen › Bad Berka,158.8
+2006-05-01,64,Stage 6 - Lodi › san Giuliano Milanese,132.5
+2006-04-30,63,Stage 5b (ITT) - Lodi › Lodi,11.0
+2006-04-29,80,Stage 4 - Castelfranco di Sopra › Barberino di Mugello,156.0
+2006-04-28,111,Stage 3 - Orvieto › Spoleto,152.9
+2006-04-27,55,Stage 2 - Villanova di Guidonia › Guidonia Montecelio,167.8
+2006-04-26,72,Stage 1 - Cassino › Fiuggi,107.0
+2006-01-22,71,Stage 5 - Adelaide › Adelaide,81.0
+2006-01-21,78,Stage 4 - Willunga › Willunga,147.0
+2006-01-20,8,Stage 3 - Strathalbyn › Yankalilla,154.0
+2006-01-19,60,Stage 2 - Stirling › Hahndorf,146.0
+2006-01-18,67,Stage 1 - Mawson Lakes › Angaston,148.0
+2006-01-14,3,National Championships Australia U23 - Road Race (NC),175.5
+2005-10-15,18,Stage 7 - Melbourne › Melbourne,
+2005-10-14,18,Stage 6 (ITT) - Monbulk › Mt Dandenong,11.0
+2005-10-13,78,Stage 5 - Healesville › Healesville,140.9
+2005-10-12,49,Stage 4 - Mitchelton Winery › Marysville,172.6
+2005-10-11,52,Stage 3 - Bendigo › Shepparton,153.0
+2005-10-10,52,Stage 2 - Bendigo › Bendigo,150.9
+2005-10-09,8,Stage 1 (TTT) - Williamstown › Williamstown,9.6
+2005-09-04,74,Stage 6 - London › London,60.0
+2005-09-03,77,Stage 5 (ITT) - Birmingham › Birmingham,4.0
+2005-09-02,78,Stage 4 - Buxton › Nottingham,195.0
+2005-09-01,54,Stage 3 - Leeds › Sheffield,160.0
+2005-08-31,61,Stage 2 - Carlisle › Blackpool,160.0
+2005-08-30,86,Stage 1 - Glasgow › Castle Douglas,185.0
+2005-07-16,22,Trofeo Banca Popolare di Vicenza (1.2),177.0
+2005-01-30,19,Stage 7 - Petone › Petone,40.0
+2005-01-30,12,Stage 6 (ITT) - Scorching Bay › Scorching Bay,12.0
+2005-01-29,11,Stage 5 - Masterton › Masterton,125.3
+2005-01-28,6,Stage 4 - Masterton › Masterton,158.5
+2005-01-27,37,Stage 3 - Masterton › Masterton,40.0
+2005-01-27,16,Stage 2 - Featherston › Masterton,94.4
+2005-01-26,61,Stage 1 - Hutt City › Hutt City,45.0
+2005-01-23,76,Stage 6 - Adelaide › Adelaide,81.0
+2005-01-22,57,Stage 5 - Willunga › Willunga,147.0
+2005-01-21,54,Stage 4 - Unley › Hahndorf,152.0
+2005-01-20,91,Stage 3 - Stirling › Hahndorf,146.0
+2005-01-19,73,Stage 2 - Mawson Lakes › Angaston,148.0
+2005-01-18,93,Stage 1 - Adelaide › Adelaide,50.0
+2005-01-15,7,National Championships Australia U23 - Road Race (NC),
+2004-10-20,65,Stage 8 - Bendigo › Bendigo,69.0
+2004-10-19,69,Stage 7 - Creswick › Daylesford,154.8
+2004-10-18,47,Stage 6 - Colac › Colac,178.7
+2004-10-17,64,Stage 5 - Geelong › Geelong,77.0
+2004-10-16,52,Stage 4 - Portarlington › Portarlington,117.0
+2004-10-15,43,Stage 3 - Werribee › You Yangs,77.7
+2004-10-15,53,Stage 2 (ITT) - Werribee › Werribee,36.0
+2004-10-14,65,Stage 1 (ITT) - Melbourne › Melbourne,33.0
+2004-10-09,2,Melbourne to Warrnambool Classic (1.5),299.0
+2004-07-18,18,Giro del Casentino (1.6),152.0
+2004-07-04,22,Freccia dei Vini (1.6),160.0
+2004-06-13,26,GP Kranj (1.7.1),145.2
+2004-05-09,6,Stage 6 - Oberweißbach › Arnstadt,139.4
+2004-05-08,8,Stage 5 - Schleusingen › Oberweißbach,152.7
+2004-05-07,24,Stage 4 (ITT) - Schleusingen › Schleusingen,17.0
+2004-05-06,14,Stage 3 - Nordhausen › Bad Berka,169.4
+2004-05-05,54,Stage 2 - Mühlhausen › Nordhausen,154.3
+2004-05-04,45,Stage 1 - Arnstadt › Mühlhausen,168.0
+2004-05-03,39,Prologue - Arnstadt › Arnstadt,3.0
+2004-01-30,9,Stage 3 - Masterton › Masterton,160.0
+2004-01-29,7,Stage 2b - Masterton › Masterton,40.0
+2004-01-29,7,Stage 2a - Featherston › Masterton,120.0
+2004-01-28,7,Stage 1 (TTT) - Lower Hutt › Lower Hutt,7.0
+2003-05-11,4,Stage 6 - Bad Berka › Sonnenberg,139.2
+2003-05-10,81,Stage 5 - Saalfeld › Bad Berka,159.6
+2003-05-09,99,Stage 4 - Heiligenstadt › Saalfeld,174.6
+2003-05-07,89,Stage 2 - Bad Salzungen › Behringen,152.8
+2003-05-06,38,Stage 1 - Sonnenberg › Bad Salzungen,137.4
+2003-05-05,94,Prologue - Sonnenberg › Sonnenberg,3.4
+2002-10-12,111,World Championships MJ - Road Race (WC),128.0
+2001-10-13,70,World Championships MJ - Road Race (WC),121.0
