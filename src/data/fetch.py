@@ -10,6 +10,7 @@ import sys
 from queue import Queue
 from termcolor import colored
 from datetime import datetime, timedelta
+from googlesearch import search
 
 
 url_base = 'https://www.procyclingstats.com/rankings.php'
@@ -385,6 +386,42 @@ def fetch_108th_Spain_championships():
         print(colored(f'{textname}\'s races saved!!', 'green'))
 
 
+# Fetch the information of a particular race
+def fetch_race(link):
+    res = requests.get(url=link)
+    soup = BeautifulSoup(res.text, 'html.parser')
+    rows = soup.find('ul', {'class': 'infolist'}).find_all('li')
+
+    info_dict = {}
+    info_dict['date'] = rows[0].find_all('div')[1].text
+    info_dict['start time'] = rows[1].find_all('div')[1].text
+    info_dict['avg speed winner'] = rows[2].find_all('div')[1].text
+    info_dict['race category'] = rows[3].find_all('div')[1].text
+    info_dict['distance'] = rows[4].find_all('div')[1].text
+    info_dict['points scale'] = rows[5].find_all('div')[1].text
+    info_dict['Parcours type'] = rows[6].find_all('div')[1].text
+    info_dict['ProfileScore'] = rows[7].find_all('div')[1].text
+    info_dict['elevation'] = rows[8].find_all('div')[1].text
+    info_dict['departure'] = rows[9].find_all('div')[1].text
+    info_dict['arrival'] = rows[10].find_all('div')[1].text
+    info_dict['race ranking'] = rows[11].find_all('div')[1].text
+    info_dict['startlist quality score'] = rows[12].find_all('div')[1].text
+    info_dict['won how'] = rows[13].find_all('div')[1].text
+
+    return info_dict
+
+
+# eg. race_name = "Stage 3 - Batalha › Viseu"
+def google_race_url(race_name, year):
+    stage = race_name.split('-')[0]
+    query = f"{year} {race_name} site:procyclingstats.com"
+    print(query)
+    res = search(query, num=10, stop=10, pause=1)
+    for i in res:
+        print(i)
+    return
+
+
 if __name__ == "__main__":
     # update_dates() # the website update the latest date every day
 
@@ -396,4 +433,6 @@ if __name__ == "__main__":
 
     # get_all_riders_races(this_year_only=True)
 
-    fetch_108th_Spain_championships()
+    # fetch_108th_Spain_championships()
+
+    fetch_race('https://www.procyclingstats.com/race/volta-a-portugal/2004/stage-3')
