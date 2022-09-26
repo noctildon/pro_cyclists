@@ -1,5 +1,5 @@
 import sys
-from src.features.build_features import rider_features, riders_num, find_max_rows
+from src.features.build_features import rider_features, riders_num
 
-
-find_max_rows()
+rider = rider_features(30)
+print(rider)

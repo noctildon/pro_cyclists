@@ -2,6 +2,7 @@ import os
 import pandas as pd
 import numpy as np
 import re
+from datetime import datetime
 
 
 riders = os.listdir('data/processed/riders')  # ['primoz-roglic.csv', 'tadej-pogacar.csv', 'alejandro-valverde.csv' ...]
@@ -52,8 +53,13 @@ def rider_features(idx, min_ranks=30):
     if races is None:
         return
 
-    features = races[['date', 'distance', 'result ranking']]
-    return features.to_numpy()
+    features = races[['date', 'distance', 'result ranking']].to_numpy()
+
+    # convert string to datetime object
+    for i in range(features.shape[0]):
+        features[i, 0] = str2dates(features[i, 0])
+
+    return features
 
 
 def find_max_rows():
@@ -66,6 +72,23 @@ def find_max_rows():
                 max_rows = rows
 
     print('max rows among all riders', max_rows) # 1550
+
+
+def find_earliest_date():
+    earliest = []
+    for i in range(riders_num):
+        rider = rider_features(i, min_ranks=1)
+        if rider is not None:
+            earliest.append(datetime.strptime(rider[0, 0], '%Y-%m-%d'))
+    earliest.sort()
+    print(f'The earliest date in the races is: {earliest[0]}') # 1893-06-29
+
+
+def str2dates(date_str):
+    offset_date = datetime(1893, 6, 28)
+    date = datetime.strptime(date_str, '%Y-%m-%d')
+    date = date - offset_date
+    return date.days
 
 
 if __name__ == "__main__":
