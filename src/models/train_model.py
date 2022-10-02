@@ -21,7 +21,6 @@ class Model_Avg():
         self.avg = np.mean(self.y)
 
     def predict(self):
-        # return int(np.round(self.avg))
         return self.avg
 
 
@@ -43,7 +42,6 @@ class Model_linear_date():
     def predict(self, x):
         if self.a is None or self.b is None:
             self.fit()
-        # return int(np.round(self.a * x + self.b))
         return self.a * x + self.b
 
 
@@ -117,7 +115,7 @@ def Model_NN_training(xx, yy, config):
     for epoch in range(n_epochs):
         ### Training ###
         model.train()
-        loss_record = []
+        train_loss_record = []
 
         # tqdm visualizes your training progress.
         train_pbar = tqdm(train_loader)
@@ -129,18 +127,18 @@ def Model_NN_training(xx, yy, config):
             loss.backward()                     # Compute gradient (backpropagation)
             optimizer.step()                    # Update parameters
             step += 1
-            loss_record.append(loss.detach().item())
+            train_loss_record.append(loss.detach().item())
 
             # Display current epoch number and loss on tqdm progress bar.
             train_pbar.set_description(f'Epoch [{epoch+1}/{n_epochs}]')
             train_pbar.set_postfix({'loss': loss.detach().item()})
 
-        mean_train_loss = sum(loss_record)/len(loss_record)
+        mean_train_loss = sum(train_loss_record)/len(train_loss_record)
         writer.add_scalar('Loss/train', mean_train_loss, step)
 
         ### Validation ###
         model.eval()
-        loss_record = []
+        valid_loss_record = []
         for x, y in valid_loader:
             x, y = x.to(device), y.to(device)
             with torch.no_grad():
@@ -148,11 +146,101 @@ def Model_NN_training(xx, yy, config):
 
                 loss = criterion(pred, y)
 
-            loss_record.append(loss.item())
+            valid_loss_record.append(loss.item())
 
-        mean_valid_loss = sum(loss_record)/len(loss_record)
+        mean_valid_loss = sum(valid_loss_record)/len(valid_loss_record)
         print(f'Epoch [{epoch+1}/{n_epochs}]: Train loss: {mean_train_loss:.4f}, Valid loss: {mean_valid_loss:.4f}')
         writer.add_scalar('Loss/valid', mean_valid_loss, step)
+
+        if mean_valid_loss < best_loss:
+            best_loss = mean_valid_loss
+            torch.save(model.state_dict(), config['save_path']) # Save your best model
+            print('Saving model with loss {:.3f}...'.format(best_loss))
+            early_stop_count = 0
+        else:
+            early_stop_count += 1
+
+        if early_stop_count >= config['early_stop']:
+            print('\nModel is not improving, so we halt the training session.')
+            return
+
+
+class Model_LSTM(nn.Module):
+    def __init__(self, input_size, hidden_size, num_layers):
+        super().__init__()
+        self.hidden_size = hidden_size
+        self.num_layers = num_layers
+        self.lstm = nn.LSTM(input_size, hidden_size, num_layers, batch_first=True)
+        self.fc = nn.Linear(hidden_size, 1)
+
+    def forward(self, x):
+        h0 = torch.randn(self.num_layers, self.hidden_size).to(device)
+        c0 = torch.randn(self.num_layers, self.hidden_size).to(device)
+
+        out, _ = self.lstm(x, (h0, c0)) # (batch_size, seq_length, hidden_size)
+        out = out.reshape(out.shape[0], -1)
+        out = self.fc(out)
+        out = out.squeeze(1) # (y, 1) -> (y)
+        return out
+
+
+def Model_LSTM_training(xx, yy, config):
+    input_size = 2  # number of features (columns)
+    hidden_size = config['hidden_size']
+    num_layers = config['num_layers']
+    model = Model_LSTM(input_size, hidden_size, num_layers).to(device)
+
+    criterion = nn.MSELoss(reduction='mean')
+    optimizer = torch.optim.Adam(model.parameters(), lr=config['learning_rate'])
+
+    ratio = config['ratio']
+    split = int(len(xx) * ratio)
+    x_train, x_valid = xx[:split], xx[split:]
+    y_train, y_valid = yy[:split], yy[split:]
+
+    x_train, y_train = preprocess(x_train, y_train)
+    x_valid, y_valid = preprocess(x_valid, y_valid)
+    train_dataset = RaceDataset(x_train, y_train)
+    valid_dataset = RaceDataset(x_valid, y_valid)
+    train_loader = DataLoader(train_dataset, batch_size=config['batch_size'], shuffle=True, pin_memory=True)
+    valid_loader = DataLoader(valid_dataset, batch_size=config['batch_size'], shuffle=True, pin_memory=True)
+
+    n_epochs, best_loss = config['n_epochs'], math.inf
+    for epoch in range(n_epochs):
+        train_pbar = tqdm(train_loader)
+
+        ### Training ###
+        model.train()
+        train_loss_record = []
+
+        for x, y in train_pbar:
+            x = x.to(device=device).squeeze(1)
+            y = y.to(device=device)
+            scores = model(x)
+            loss = criterion(scores, y)
+            optimizer.zero_grad()
+            loss.backward()
+            optimizer.step()
+
+            train_loss_record.append(loss.detach().item())
+            train_pbar.set_description(f'Epoch [{epoch+1}/{n_epochs}]')
+            train_pbar.set_postfix({'loss': loss.detach().item()})
+        mean_train_loss = sum(train_loss_record)/len(train_loss_record)
+
+        ### Validation ###
+        model.eval()
+        valid_loss_record = []
+        for x, y in valid_loader:
+            x = x.to(device=device).squeeze(1)
+            y = y.to(device=device)
+            with torch.no_grad():
+                scores = model(x)
+                loss = criterion(scores, y)
+
+            valid_loss_record.append(loss.item())
+        mean_valid_loss = sum(valid_loss_record)/len(valid_loss_record)
+        print(f'Epoch [{epoch+1}/{n_epochs}]: Train loss: {mean_train_loss:.4f}, Valid loss: {mean_valid_loss:.4f}')
+
 
         if mean_valid_loss < best_loss:
             best_loss = mean_valid_loss

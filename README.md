@@ -4,7 +4,8 @@ This repo collects the data from [procyclingstats](https://www.procyclingstats.c
 It uses machine learning to analyze the pro cyclists and predict the race outcome.
 
 # Todos
+- [ ] Tweak the model parameters
+- [ ] Build RF type models
 - [x] fetch the rider's data, like height, points per specialty
 - [x] Visualize the data
-- [ ] **Build model!!**
 - [ ] Setup a database for data storage (seems not necessary)
