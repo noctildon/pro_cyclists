@@ -47,6 +47,6 @@ def LSTM_model(xx, yy):
 
 
 if __name__ == "__main__":
-    # Simple_model(xx, yy)
-    NN_model(xx, yy)
+    Simple_model(xx, yy)
+    # NN_model(xx, yy)
     # LSTM_model(xx, yy)

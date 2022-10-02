@@ -6,6 +6,7 @@ from scipy.optimize import curve_fit
 import pandas as pd
 import os
 from tqdm import tqdm
+import xgboost as xgb
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
@@ -45,11 +46,21 @@ class Model_linear_date():
         return self.a * x + self.b
 
 
+class Model_XBG():
+    def __init__(self, n_estimators=5, max_depth=6, eta=0.05):
+        self.model = xgb.XGBRegressor(objective="reg:squarederror", max_depth=max_depth, n_estimators=n_estimators, eta=eta)
+
+    def fit(self, x, y):
+        self.model.fit(x, y)
+
+    def predict(self, x):
+        return self.model.predict(x)
+
+
 def simple_models_training(xx, yy, ratio=0.7):
     split = int(len(xx) * ratio)
     x_train, x_valid = xx[:split], xx[split:]
     y_train, y_valid = yy[:split], yy[split:]
-
     x_train, y_train = preprocess(x_train, y_train)
     x_valid, y_valid = preprocess(x_valid, y_valid)
 
@@ -60,11 +71,10 @@ def simple_models_training(xx, yy, ratio=0.7):
     mse_avg = np.mean((y_pred_avg - y_valid) ** 2)
     print(f'Avg MSE: {mse_avg}')
 
+
     # 1D Linear model (x=date, y=ranking)
     model_lin = Model_linear_date(x_train[:, 0], y_train)
     model_lin.fit()
-
-    # predict
     y_pred_lin = []
     for x in x_valid[:, 0]:
         y_pred_lin.append(model_lin.predict(x))
@@ -72,6 +82,13 @@ def simple_models_training(xx, yy, ratio=0.7):
     mse_1D = np.mean((y_pred_lin - y_valid) ** 2)
     print(f'1D MSE: {mse_1D}')
 
+
+    # xgboost
+    xgb_model = Model_XBG()
+    xgb_model.fit(x_train, y_train)
+    y_pred_xgb = xgb_model.predict(x_valid)
+    mse_xgb = np.mean((y_pred_xgb - y_valid) ** 2)
+    print(f'XGB MSE: {mse_xgb}')
 
 
 class Model_NN(nn.Module):
