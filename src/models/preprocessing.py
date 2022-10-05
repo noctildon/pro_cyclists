@@ -25,7 +25,7 @@ class RaceDataset(Dataset):
         return len(self.x)
 
 
-def preprocess(xx, yy):
+def normalize(xx, yy):
     # date
     xx[:, 0] = xx[:, 0] - xx[0,0]
     xx[:, 0] /= max(xx[:, 0])
@@ -36,3 +36,14 @@ def preprocess(xx, yy):
     # ranking
     yy /=  max(yy)
     return xx, yy
+
+
+def train_valid_split(xx, yy, ratio=0.7):
+    split = int(len(xx) * ratio)
+    x_train, x_valid = xx[:split], xx[split:]
+    y_train, y_valid = yy[:split], yy[split:]
+
+    x_train, y_train = normalize(x_train, y_train)
+    x_valid, y_valid = normalize(x_valid, y_valid)
+
+    return x_train, y_train, x_valid, y_valid

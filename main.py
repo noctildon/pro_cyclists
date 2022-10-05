@@ -2,6 +2,7 @@ import sys
 import torch
 import numpy as np
 import matplotlib.pyplot as plt
+from src.models.pretorch import *
 from src.features.build_features import rider_features, riders_num
 from src.models.train_model import Model_NN_training, simple_models_training, Model_LSTM_training
 

@@ -58,11 +58,7 @@ class Model_XBG():
 
 
 def simple_models_training(xx, yy, ratio=0.7):
-    split = int(len(xx) * ratio)
-    x_train, x_valid = xx[:split], xx[split:]
-    y_train, y_valid = yy[:split], yy[split:]
-    x_train, y_train = preprocess(x_train, y_train)
-    x_valid, y_valid = preprocess(x_valid, y_valid)
+    x_train, y_train, x_valid, y_valid = train_valid_split(xx, yy, ratio=ratio)
 
     # Average model
     model_avg = Model_Avg(x_train, y_train)
@@ -109,14 +105,7 @@ def Model_NN_training(xx, yy, config):
     # optimizer = torch.optim.Adam(model.parameters(), lr=config['learning_rate'], weight_decay=1e-4)
     optimizer = torch.optim.SGD(model.parameters(), lr=config['learning_rate'], momentum=0.9, weight_decay=1e-5)
 
-    ratio = config['ratio']
-    split = int(len(xx) * ratio)
-    x_train, x_valid = xx[:split], xx[split:]
-    y_train, y_valid = yy[:split], yy[split:]
-
-    x_train, y_train = preprocess(x_train, y_train)
-    x_valid, y_valid = preprocess(x_valid, y_valid)
-
+    x_train, y_train, x_valid, y_valid = train_valid_split(xx, yy, ratio=config['ratio'])
     train_dataset = RaceDataset(x_train, y_train)
     valid_dataset = RaceDataset(x_valid, y_valid)
 
@@ -133,20 +122,17 @@ def Model_NN_training(xx, yy, config):
         ### Training ###
         model.train()
         train_loss_record = []
-
-        # tqdm visualizes your training progress.
         train_pbar = tqdm(train_loader)
         for x, y in train_pbar:
-            optimizer.zero_grad()               # Set gradient to zero
-            x, y = x.to(device), y.to(device)   # Move your data to device
+            optimizer.zero_grad()
+            x, y = x.to(device), y.to(device)
             pred = model(x)
             loss = criterion(pred, y)
-            loss.backward()                     # Compute gradient (backpropagation)
-            optimizer.step()                    # Update parameters
+            loss.backward()
+            optimizer.step()
             step += 1
             train_loss_record.append(loss.detach().item())
 
-            # Display current epoch number and loss on tqdm progress bar.
             train_pbar.set_description(f'Epoch [{epoch+1}/{n_epochs}]')
             train_pbar.set_postfix({'loss': loss.detach().item()})
 
@@ -210,13 +196,7 @@ def Model_LSTM_training(xx, yy, config):
     criterion = nn.MSELoss(reduction='mean')
     optimizer = torch.optim.Adam(model.parameters(), lr=config['learning_rate'])
 
-    ratio = config['ratio']
-    split = int(len(xx) * ratio)
-    x_train, x_valid = xx[:split], xx[split:]
-    y_train, y_valid = yy[:split], yy[split:]
-
-    x_train, y_train = preprocess(x_train, y_train)
-    x_valid, y_valid = preprocess(x_valid, y_valid)
+    x_train, y_train, x_valid, y_valid = train_valid_split(xx, yy, ratio=config['ratio'])
     train_dataset = RaceDataset(x_train, y_train)
     valid_dataset = RaceDataset(x_valid, y_valid)
     train_loader = DataLoader(train_dataset, batch_size=config['batch_size'], shuffle=True, pin_memory=True)
@@ -261,7 +241,7 @@ def Model_LSTM_training(xx, yy, config):
 
         if mean_valid_loss < best_loss:
             best_loss = mean_valid_loss
-            torch.save(model.state_dict(), config['save_path']) # Save your best model
+            torch.save(model.state_dict(), config['save_path'])
             print('Saving model with loss {:.3f}...'.format(best_loss))
             early_stop_count = 0
         else:
