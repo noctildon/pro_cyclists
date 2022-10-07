@@ -98,8 +98,26 @@ class Model_NN(nn.Module):
         return y_pred
 
 
+class Model_DNN(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.linear = torch.nn.Sequential(
+            torch.nn.Linear(2, 16),
+            torch.nn.ReLU(),
+            torch.nn.Linear(16, 8),
+            torch.nn.ReLU(),
+            torch.nn.Linear(8, 1),
+        )
+
+    def forward(self, x):
+        x = self.linear(x)
+        y_pred = x.squeeze(1) # (y, 1) -> (y)
+        return y_pred
+
+
 def Model_NN_training(xx, yy, config):
-    model = Model_NN().to(device)
+    # model = Model_NN().to(device)
+    model = Model_DNN().to(device)
 
     criterion = nn.MSELoss(reduction='mean')
     # optimizer = torch.optim.Adam(model.parameters(), lr=config['learning_rate'], weight_decay=1e-4)
@@ -157,28 +175,30 @@ def Model_NN_training(xx, yy, config):
 
         if mean_valid_loss < best_loss:
             best_loss = mean_valid_loss
-            torch.save(model.state_dict(), config['save_path']) # Save your best model
+            # torch.save(model.state_dict(), config['save_path']) # Save your best model
             print('Saving model with loss {:.3f}...'.format(best_loss))
             early_stop_count = 0
         else:
             early_stop_count += 1
 
         if early_stop_count >= config['early_stop']:
+            print(f'Best loss: {best_loss}')
             print('\nModel is not improving, so we halt the training session.')
             return
 
 
 class Model_LSTM(nn.Module):
-    def __init__(self, input_size, hidden_size, num_layers):
+    def __init__(self, input_size, hidden_size, num_layers, dropout=0.2, bidirectional=False):
         super().__init__()
+        self.bid = 2 if bidirectional else 1
         self.hidden_size = hidden_size
         self.num_layers = num_layers
-        self.lstm = nn.LSTM(input_size, hidden_size, num_layers, batch_first=True)
-        self.fc = nn.Linear(hidden_size, 1)
+        self.lstm = nn.LSTM(input_size, hidden_size, num_layers, batch_first=True, bidirectional=bidirectional, dropout=dropout)
+        self.fc = nn.Linear(self.bid*hidden_size, 1)
 
     def forward(self, x):
-        h0 = torch.randn(self.num_layers, self.hidden_size).to(device)
-        c0 = torch.randn(self.num_layers, self.hidden_size).to(device)
+        h0 = torch.randn(self.bid*self.num_layers, self.hidden_size).to(device)
+        c0 = torch.randn(self.bid*self.num_layers, self.hidden_size).to(device)
 
         out, _ = self.lstm(x, (h0, c0)) # (batch_size, seq_length, hidden_size)
         out = out.reshape(out.shape[0], -1)
@@ -191,7 +211,8 @@ def Model_LSTM_training(xx, yy, config):
     input_size = 2  # number of features (columns)
     hidden_size = config['hidden_size']
     num_layers = config['num_layers']
-    model = Model_LSTM(input_size, hidden_size, num_layers).to(device)
+    dropout = config['dropout']
+    model = Model_LSTM(input_size, hidden_size, num_layers, dropout, bidirectional=False).to(device)
 
     criterion = nn.MSELoss(reduction='mean')
     optimizer = torch.optim.Adam(model.parameters(), lr=config['learning_rate'])
@@ -241,12 +262,13 @@ def Model_LSTM_training(xx, yy, config):
 
         if mean_valid_loss < best_loss:
             best_loss = mean_valid_loss
-            torch.save(model.state_dict(), config['save_path'])
+            # torch.save(model.state_dict(), config['save_path'])
             print('Saving model with loss {:.3f}...'.format(best_loss))
             early_stop_count = 0
         else:
             early_stop_count += 1
 
         if early_stop_count >= config['early_stop']:
+            print(f'Best loss: {best_loss}')
             print('\nModel is not improving, so we halt the training session.')
             return

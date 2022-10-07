@@ -23,31 +23,32 @@ def NN_model(xx, yy):
     config = {
         'ratio': 0.7,
         'learning_rate': 5e-4,
-        'n_epochs': 20000,
+        'n_epochs': 2000,
         'batch_size': 1,
         'save_path': 'models/model.pth',
         'early_stop': 600
     }
-    # best loss: 0.09
+    # best loss: 0.080
     Model_NN_training(xx, yy, config)
 
 
 def LSTM_model(xx, yy):
     config = {
-        'num_layers': 2,
-        'hidden_size': 1,
+        'num_layers': 8,
+        'hidden_size': 2,
         'learning_rate': 5e-4,
+        'dropout': 0.2,
         'early_stop': 600,
         'batch_size': 1,
         'ratio': 0.7,
-        'n_epochs': 800,
+        'n_epochs': 2000,
         'save_path': 'models/model.pth',
     }
-    # best loss: 0.088
+    # best loss: 0.072
     Model_LSTM_training(xx, yy, config)
 
 
 if __name__ == "__main__":
-    Simple_model(xx, yy)
+    # Simple_model(xx, yy)
     # NN_model(xx, yy)
-    # LSTM_model(xx, yy)
+    LSTM_model(xx, yy)
