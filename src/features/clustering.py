@@ -28,7 +28,8 @@ def pca_analysis_on_points(save=False):
     fig.update_layout(title_text="Correlation matrix")
     fig.show()
     if save:
-        fig.write_html("reports/figures/riders_points_corr.html")
+        fig.write_image('reports/figures/corr_matrix.png')
+        # fig.write_html("reports/figures/riders_points_corr.html")
 
 
     # Eigenvector bar plot
