@@ -7,6 +7,7 @@ import pandas as pd
 import os
 from tqdm import tqdm
 import xgboost as xgb
+import lightgbm as lgb
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
@@ -57,6 +58,18 @@ class Model_XBG():
         return self.model.predict(x)
 
 
+class Model_LGB():
+    def __init__(self, n_estimators=16, max_depth=6, learning_rate=1e-2):
+        self.model = lgb.LGBMRegressor(
+            objective="regression", max_depth=max_depth, n_estimators=n_estimators, learning_rate=learning_rate)
+
+    def fit(self, x, y):
+        self.model.fit(x, y)
+
+    def predict(self, x):
+        return self.model.predict(x)
+
+
 def simple_models_training(xx, yy, ratio=0.7):
     x_train, y_train, x_valid, y_valid = train_valid_split(xx, yy, ratio=ratio)
 
@@ -85,6 +98,14 @@ def simple_models_training(xx, yy, ratio=0.7):
     y_pred_xgb = xgb_model.predict(x_valid)
     mse_xgb = np.mean((y_pred_xgb - y_valid) ** 2)
     print(f'XGB MSE: {mse_xgb}')
+
+
+    # lightgbm
+    lgb_model = Model_LGB()
+    lgb_model.fit(x_train, y_train)
+    y_pred_lgb = lgb_model.predict(x_valid)
+    mse_lgb = np.mean((y_pred_lgb - y_valid) ** 2)
+    print(f'LGB MSE: {mse_lgb}')
 
 
 class Model_NN(nn.Module):
