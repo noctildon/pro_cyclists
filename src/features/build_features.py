@@ -14,10 +14,10 @@ def load_data(idx, min_ranks=10):
     rider = riders[idx]
     rider = rider[:-4]  # remove .csv
     rider_races = pd.read_csv(f'data/processed/riders/{rider}.csv', dtype={'result ranking': str})
-    rider_races = rider_races.sort_values(by='date', ascending=True)
+    rider_races.sort_values(by='date', ascending=True, inplace=True)
     rider_races['race name'] = rider_races['race name'].str.strip()
-
-    rider_races = rider_races.drop_duplicates()
+    rider_races.drop_duplicates(inplace=True)
+    rider_races.dropna(inplace=True)
 
     # drop a few exceptions
     rider_races = rider_races[rider_races['result ranking'] != 'DNF'] # did not finish
@@ -26,9 +26,8 @@ def load_data(idx, min_ranks=10):
     rider_races = rider_races[rider_races['result ranking'] != 'DNS'] # did not start
     rider_races = rider_races[rider_races['result ranking'] != 'DSQ'] # disqualied
     rider_races = rider_races[rider_races['result ranking'] != 'OTL'] # outside time limit
-    rider_races = rider_races[rider_races['distance'] != 'NaN']
-
     rider_races['result ranking'] = rider_races['result ranking'].str.strip()
+
     try:
         rider_races['result ranking'] = pd.to_numeric(rider_races['result ranking'])
     except:
