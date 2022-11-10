@@ -1,73 +1,15 @@
 from src.models.pretorch import *
 from src.models.preprocessing import *
+from src.models.models import *
+import os
 import math
 import numpy as np
-from scipy.optimize import curve_fit
 import pandas as pd
-import os
 from tqdm import tqdm
-import xgboost as xgb
-import lightgbm as lgb
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
-
-
-class Model_Avg():
-    def __init__(self, x, y):
-        self.x = x
-        self.y = y
-
-    def fit(self):
-        self.avg = np.mean(self.y)
-
-    def predict(self):
-        return self.avg
-
-
-class Model_linear_date():
-    def __init__(self, x, y):
-        self.x = x  # shape (N, 1)
-        self.y = y  # shape (N, 1)
-        self.a = None
-        self.b = None
-
-    def fit(self):
-        def lin_func(x, a, b):
-            return a * x + b
-        popt, pcov = curve_fit(lin_func, self.x, self.y)
-        self.a = popt[0]
-        self.b = popt[1]
-        return self.a, self.b
-
-    def predict(self, x):
-        if self.a is None or self.b is None:
-            self.fit()
-        return self.a * x + self.b
-
-
-class Model_XBG():
-    def __init__(self, n_estimators=5, max_depth=6, eta=0.05):
-        self.model = xgb.XGBRegressor(objective="reg:squarederror", max_depth=max_depth, n_estimators=n_estimators, eta=eta)
-
-    def fit(self, x, y):
-        self.model.fit(x, y)
-
-    def predict(self, x):
-        return self.model.predict(x)
-
-
-class Model_LGB():
-    def __init__(self, n_estimators=16, max_depth=6, learning_rate=1e-2):
-        self.model = lgb.LGBMRegressor(
-            objective="regression", max_depth=max_depth, n_estimators=n_estimators, learning_rate=learning_rate)
-
-    def fit(self, x, y):
-        self.model.fit(x, y)
-
-    def predict(self, x):
-        return self.model.predict(x)
 
 
 def simple_models_training(xx, yy, ratio=0.7):
@@ -107,33 +49,7 @@ def simple_models_training(xx, yy, ratio=0.7):
     mse_lgb = np.mean((y_pred_lgb - y_valid) ** 2)
     print(f'LGB MSE: {mse_lgb}')
 
-
-class Model_NN(nn.Module):
-    def __init__(self):
-        super().__init__()
-        self.linear = torch.nn.Linear(2, 1)
-
-    def forward(self, x):
-        x = self.linear(x)
-        y_pred = x.squeeze(1) # (y, 1) -> (y)
-        return y_pred
-
-
-class Model_DNN(nn.Module):
-    def __init__(self):
-        super().__init__()
-        self.linear = torch.nn.Sequential(
-            torch.nn.Linear(2, 16),
-            torch.nn.ReLU(),
-            torch.nn.Linear(16, 8),
-            torch.nn.ReLU(),
-            torch.nn.Linear(8, 1),
-        )
-
-    def forward(self, x):
-        x = self.linear(x)
-        y_pred = x.squeeze(1) # (y, 1) -> (y)
-        return y_pred
+    return mse_avg, mse_1D, mse_xgb, mse_lgb
 
 
 def Model_NN_training(xx, yy, config):
@@ -155,7 +71,7 @@ def Model_NN_training(xx, yy, config):
     step = early_stop_count = 0
 
     logdir = f'models/runs/NN/epochs={n_epochs}_lr={config["learning_rate"]}'
-    writer = SummaryWriter(log_dir=logdir)
+    # writer = SummaryWriter(log_dir=logdir)
 
     for epoch in range(n_epochs):
         ### Training ###
@@ -176,7 +92,7 @@ def Model_NN_training(xx, yy, config):
             train_pbar.set_postfix({'loss': loss.detach().item()})
 
         mean_train_loss = sum(train_loss_record)/len(train_loss_record)
-        writer.add_scalar('Loss/train', mean_train_loss, step)
+        # writer.add_scalar('Loss/train', mean_train_loss, step)
 
         ### Validation ###
         model.eval()
@@ -192,7 +108,7 @@ def Model_NN_training(xx, yy, config):
 
         mean_valid_loss = sum(valid_loss_record)/len(valid_loss_record)
         print(f'Epoch [{epoch+1}/{n_epochs}]: Train loss: {mean_train_loss:.4f}, Valid loss: {mean_valid_loss:.4f}')
-        writer.add_scalar('Loss/valid', mean_valid_loss, step)
+        # writer.add_scalar('Loss/valid', mean_valid_loss, step)
 
         if mean_valid_loss < best_loss:
             best_loss = mean_valid_loss
@@ -205,27 +121,8 @@ def Model_NN_training(xx, yy, config):
         if early_stop_count >= config['early_stop']:
             print(f'Best loss: {best_loss}')
             print('\nModel is not improving, so we halt the training session.')
-            return
-
-
-class Model_LSTM(nn.Module):
-    def __init__(self, input_size, hidden_size, num_layers, dropout=0.2, bidirectional=False):
-        super().__init__()
-        self.bid = 2 if bidirectional else 1
-        self.hidden_size = hidden_size
-        self.num_layers = num_layers
-        self.lstm = nn.LSTM(input_size, hidden_size, num_layers, batch_first=True, bidirectional=bidirectional, dropout=dropout)
-        self.fc = nn.Linear(self.bid*hidden_size, 1)
-
-    def forward(self, x):
-        h0 = torch.randn(self.bid*self.num_layers, self.hidden_size).to(device)
-        c0 = torch.randn(self.bid*self.num_layers, self.hidden_size).to(device)
-
-        out, _ = self.lstm(x, (h0, c0)) # (batch_size, seq_length, hidden_size)
-        out = out.reshape(out.shape[0], -1)
-        out = self.fc(out)
-        out = out.squeeze(1) # (y, 1) -> (y)
-        return out
+            break
+    return best_loss
 
 
 def Model_LSTM_training(xx, yy, config):
@@ -245,6 +142,8 @@ def Model_LSTM_training(xx, yy, config):
     valid_loader = DataLoader(valid_dataset, batch_size=config['batch_size'], shuffle=True, pin_memory=True)
 
     n_epochs, best_loss = config['n_epochs'], math.inf
+    early_stop_count = 0
+
     for epoch in range(n_epochs):
         train_pbar = tqdm(train_loader)
 
@@ -292,4 +191,5 @@ def Model_LSTM_training(xx, yy, config):
         if early_stop_count >= config['early_stop']:
             print(f'Best loss: {best_loss}')
             print('\nModel is not improving, so we halt the training session.')
-            return
+            break
+    return best_loss
