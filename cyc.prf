@@ -1,0 +1,15 @@
+# Roots of the synchronization
+root = .
+root = ssh://huang@128.194.161.34//home/huang/pro_cyclists
+
+# Paths to synchronize
+path = src
+path = models
+path = main.py
+path = requirements.txt
+
+# Some regexps specifying names and paths to ignore
+ignore = Name __pycache__
+ignore = Name *.pyc
+
+log = false

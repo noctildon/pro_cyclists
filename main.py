@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 from src.features.build_features import rider_features, riders_num
 from src.models.train_model import simple_models_training, Train_pl
 
-# TODO: test valid loss return the best loss
-
 
 def get_rider_data(rider_id):
     rider = rider_features(rider_id)
@@ -35,7 +33,7 @@ def NN_Model_pl(xx, yy):
     }
     model_config = {
         'model_type': 'DNN',
-        'n_epochs': 2000,
+        'n_epochs': 10, # 2000
         'lr': 1e-5,
         'patience': 600,
         'save_path': 'models',
@@ -43,8 +41,8 @@ def NN_Model_pl(xx, yy):
         'tb_logs': False
     }
     train_pl = Train_pl(data_config, model_config)
-    train_pl.train()
-    return train_pl.valid()
+    best_valid_loss = train_pl.train()
+    return best_valid_loss
 
 
 def LSTM_Model_pl(xx, yy):
@@ -59,7 +57,7 @@ def LSTM_Model_pl(xx, yy):
     model_config = {
         'model_type': 'LSTM',
         'input_size': 2,
-        'n_epochs': 4,  # 2000
+        'n_epochs': 10,  # 2000
         'lr': 1e-5,
         'num_layers': 8,
         'hidden_size': 2,
@@ -70,9 +68,8 @@ def LSTM_Model_pl(xx, yy):
         'tb_logs': False
     }
     train_pl = Train_pl(data_config, model_config)
-    train_pl.train()
-    return train_pl.valid()
-
+    best_valid_loss = train_pl.train()
+    return best_valid_loss
 
 
 def train_all_models(i):

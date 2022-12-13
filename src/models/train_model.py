@@ -76,23 +76,25 @@ class RaceDataModule(pl.LightningDataModule):
         self.valid_dataset = valid_dataset
 
     def train_dataloader(self):
-        return DataLoader(self.train_dataset, batch_size=self.batch_size, shuffle=True, pin_memory=True, num_workers=self.num_workers)
+        return DataLoader(self.train_dataset, batch_size=self.batch_size, shuffle=False, pin_memory=True, num_workers=self.num_workers)
 
     def val_dataloader(self):
         return DataLoader(self.valid_dataset, batch_size=self.batch_size, shuffle=False, pin_memory=True, num_workers=self.num_workers)
 
 
 class Model_pl(pl.LightningModule):
-    def __init__(self, model_type, lr=5e-4, **kwargs):
+    def __init__(self, model_type, valid_size, lr=5e-4, **kwargs):
         super().__init__()
         self.lr = lr
         self.criterion = nn.MSELoss(reduction='mean')
         self.model_type = model_type
+        self.best_valid_loss = np.inf
+        self.valid_size = valid_size
 
         if model_type == 'DNN':
             self.model = Model_DNN(**kwargs)
         elif model_type == 'LSTM':
-            self.model = Model_LSTM(**kwargs)
+            self.model = Model_LSTM(**kwargs, device=self.device)
 
     def forward(self, x):
         return self.model(x)
@@ -115,11 +117,21 @@ class Model_pl(pl.LightningModule):
         self.log_dict({'val_loss': loss}, on_epoch=True, on_step=False, prog_bar=True)
         return loss
 
+    def validation_epoch_end(self, outputs):
+        if len(outputs) < self.valid_size:
+            return
+        avg_valid_loss = torch.stack(outputs).mean()
+        if avg_valid_loss < self.best_valid_loss:
+            self.best_valid_loss = avg_valid_loss
+
 
 class Train_pl():
     def __init__(self, data_config, model_config):
         for key, value in (data_config | model_config).items():
             setattr(self, key, value)
+
+        # the valid batch size
+        model_config['valid_size'] = int(data_config['xx'].shape[0] * data_config['valid_ratio'])
         self.data_config = data_config
         self.model_config = model_config
         self.data_model_setup()
@@ -130,8 +142,7 @@ class Train_pl():
         self.Model = Model_pl(**self.model_config)
 
     def callbacks_setup(self):
-        checkpoint_callback = ModelCheckpoint(monitor='val_loss', filename=self.save_name, dirpath=self.save_path,
-                                            every_n_epochs=5)
+        checkpoint_callback = ModelCheckpoint(monitor='val_loss', filename=self.save_name, dirpath=self.save_path, save_top_k=0)
         early_stopping = EarlyStopping(monitor='val_loss', patience=self.patience)
         bar = RichProgressBar(leave=True, theme=RichProgressBarTheme(
                 description='green_yellow', progress_bar='green1', progress_bar_finished='green1'))
@@ -141,9 +152,4 @@ class Train_pl():
         trainer = pl.Trainer(accelerator=accelerator, devices=devices, callbacks=self.callbacks,
                         logger=self.tb_logs, max_epochs=self.n_epochs)
         trainer.fit(self.Model, self.Data)
-
-    def valid(self):
-        trainer = pl.Trainer(accelerator=accelerator, devices=devices, logger=self.tb_logs, max_epochs=self.n_epochs,
-                        callbacks=self.callbacks)
-        valid_dict = trainer.validate(self.Model, self.Data)[0]
-        return valid_dict['val_loss']
+        return self.Model.best_valid_loss.cpu().detach().numpy()

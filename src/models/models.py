@@ -1,3 +1,4 @@
+import pytorch_lightning as pl
 from scipy.optimize import curve_fit
 import xgboost as xgb
 import lightgbm as lgb
@@ -62,18 +63,7 @@ class Model_LGB():
         return self.model.predict(x)
 
 
-class Model_NN(nn.Module):
-    def __init__(self, **kwargs):
-        super().__init__()
-        self.linear = torch.nn.Linear(2, 1)
-
-    def forward(self, x):
-        x = self.linear(x)
-        y_pred = x.squeeze(1) # (y, 1) -> (y)
-        return y_pred
-
-
-class Model_DNN(nn.Module):
+class Model_DNN(pl.LightningModule):
     def __init__(self, **kwargs):
         super().__init__()
         self.linear = torch.nn.Sequential(
@@ -90,7 +80,7 @@ class Model_DNN(nn.Module):
         return y_pred
 
 
-class Model_LSTM(nn.Module):
+class Model_LSTM(pl.LightningModule):
     def __init__(self, input_size, hidden_size, num_layers, dropout=0.2, bidirectional=False, **kwargs):
         super().__init__()
         self.bid = 2 if bidirectional else 1
@@ -100,8 +90,8 @@ class Model_LSTM(nn.Module):
         self.fc = nn.Linear(self.bid*hidden_size, 1)
 
     def forward(self, x):
-        h0 = torch.randn(self.bid*self.num_layers, self.hidden_size)
-        c0 = torch.randn(self.bid*self.num_layers, self.hidden_size)
+        h0 = torch.randn(self.bid*self.num_layers, self.hidden_size).to(self.device)
+        c0 = torch.randn(self.bid*self.num_layers, self.hidden_size).to(self.device)
 
         out, _ = self.lstm(x, (h0, c0)) # (batch_size, seq_length, hidden_size)
         out = out.reshape(out.shape[0], -1)
