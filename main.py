@@ -2,9 +2,10 @@ import sys
 import torch
 import numpy as np
 import matplotlib.pyplot as plt
-from src.models.pretorch import *
 from src.features.build_features import rider_features, riders_num
-from src.models.train_model import Model_NN_training, simple_models_training, Model_LSTM_training
+from src.models.train_model import simple_models_training, Train_pl
+
+# TODO: test valid loss return the best loss
 
 
 def get_rider_data(rider_id):
@@ -23,33 +24,55 @@ def Simple_model(xx, yy):
     return simple_models_training(xx, yy, ratio=0.7)
 
 
-def NN_model(xx, yy):
-    config = {
-        'ratio': 0.7,
-        'learning_rate': 5e-4,
-        'n_epochs': 2000,
-        'batch_size': 1,
-        'save_path': 'models/model.pth',
-        'early_stop': 600
-    }
+def NN_Model_pl(xx, yy):
     # best loss: 0.080
-    return Model_NN_training(xx, yy, config)
+    data_config = {
+        'xx': xx,
+        'yy': yy,
+        'batch_size': 1,
+        'valid_ratio': 0.3,
+        'verbose': False,
+    }
+    model_config = {
+        'model_type': 'DNN',
+        'n_epochs': 2000,
+        'lr': 1e-5,
+        'patience': 600,
+        'save_path': 'models',
+        'save_name': '{epoch:d}',
+        'tb_logs': False
+    }
+    train_pl = Train_pl(data_config, model_config)
+    train_pl.train()
+    return train_pl.valid()
 
 
-def LSTM_model(xx, yy):
-    config = {
+def LSTM_Model_pl(xx, yy):
+    # best loss: 0.072
+    data_config = {
+        'xx': xx,
+        'yy': yy,
+        'batch_size': 1,
+        'valid_ratio': 0.3,
+        'verbose': False,
+    }
+    model_config = {
+        'model_type': 'LSTM',
+        'input_size': 2,
+        'n_epochs': 4,  # 2000
+        'lr': 1e-5,
         'num_layers': 8,
         'hidden_size': 2,
-        'learning_rate': 5e-4,
         'dropout': 0.2,
-        'early_stop': 600,
-        'batch_size': 1,
-        'ratio': 0.7,
-        'n_epochs': 2000,
-        'save_path': 'models/model.pth',
+        'patience': 600,
+        'save_path': 'models',
+        'save_name': '{epoch:d}',
+        'tb_logs': False
     }
-    # best loss: 0.072
-    return Model_LSTM_training(xx, yy, config)
+    train_pl = Train_pl(data_config, model_config)
+    train_pl.train()
+    return train_pl.valid()
+
 
 
 def train_all_models(i):
@@ -59,10 +82,9 @@ def train_all_models(i):
     xx, yy = data
     res = [i]
     res += list(Simple_model(xx, yy))
-    res.append(NN_model(xx, yy))
-    res.append(LSTM_model(xx, yy))
+    res.append(NN_Model_pl(xx, yy))
+    res.append(LSTM_Model_pl(xx, yy))
 
-    # res = np.array(res)
     print('res', res)
     with open('models/results.txt', "a") as f:
         np.savetxt(f, res, newline=' ')
@@ -70,5 +92,11 @@ def train_all_models(i):
 
 
 if __name__ == "__main__":
-    for i in range(riders_num):
-        train_all_models(i)
+    data = get_rider_data(30)
+    xx, yy = data
+    # r = NN_Model_pl(xx, yy)
+    r = LSTM_Model_pl(xx, yy)
+    print(r)
+
+    # for i in range(riders_num):
+    #     train_all_models(i)

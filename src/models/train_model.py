@@ -1,15 +1,21 @@
-from src.models.pretorch import *
 from src.models.preprocessing import *
 from src.models.models import *
+import sys
 import os
-import math
 import numpy as np
-import pandas as pd
-from tqdm import tqdm
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
-from torch.utils.tensorboard import SummaryWriter
+import pytorch_lightning as pl
+from pytorch_lightning.callbacks import ModelCheckpoint, RichProgressBar
+from pytorch_lightning.callbacks.early_stopping import EarlyStopping
+from pytorch_lightning.callbacks.progress.rich_progress import RichProgressBarTheme
+import logging
+
+
+# configure logging at the root level of Lightning
+logging.getLogger("pytorch_lightning").setLevel(logging.ERROR)
+accelerator, devices = ("gpu", 1) if torch.cuda.is_available() else (None, None)
 
 
 def simple_models_training(xx, yy, ratio=0.7):
@@ -52,144 +58,92 @@ def simple_models_training(xx, yy, ratio=0.7):
     return mse_avg, mse_1D, mse_xgb, mse_lgb
 
 
-def Model_NN_training(xx, yy, config):
-    # model = Model_NN().to(device)
-    model = Model_DNN().to(device)
+class RaceDataModule(pl.LightningDataModule):
+    def __init__(self, xx, yy, batch_size=64, valid_ratio=0.3, num_workers=4, **kwargs):
+        super().__init__()
+        self.xx = xx
+        self.yy = yy
+        self.batch_size = batch_size
+        self.valid_ratio = valid_ratio
+        self.num_workers = num_workers
 
-    criterion = nn.MSELoss(reduction='mean')
-    # optimizer = torch.optim.Adam(model.parameters(), lr=config['learning_rate'], weight_decay=1e-4)
-    optimizer = torch.optim.SGD(model.parameters(), lr=config['learning_rate'], momentum=0.9, weight_decay=1e-5)
+    def setup(self, stage):
+        # the ratio in train_valid_split is train ratio, ie. 1-valid_ratio
+        x_train, y_train, x_valid, y_valid = train_valid_split(self.xx, self.yy, ratio=1-self.valid_ratio)
+        train_dataset = RaceDataset(x_train, y_train)
+        valid_dataset = RaceDataset(x_valid, y_valid)
+        self.train_dataset = train_dataset
+        self.valid_dataset = valid_dataset
 
-    x_train, y_train, x_valid, y_valid = train_valid_split(xx, yy, ratio=config['ratio'])
-    train_dataset = RaceDataset(x_train, y_train)
-    valid_dataset = RaceDataset(x_valid, y_valid)
+    def train_dataloader(self):
+        return DataLoader(self.train_dataset, batch_size=self.batch_size, shuffle=True, pin_memory=True, num_workers=self.num_workers)
 
-    train_loader = DataLoader(train_dataset, batch_size=config['batch_size'], shuffle=True, pin_memory=True)
-    valid_loader = DataLoader(valid_dataset, batch_size=config['batch_size'], shuffle=True, pin_memory=True)
-
-    n_epochs, best_loss = config['n_epochs'], math.inf
-    step = early_stop_count = 0
-
-    logdir = f'models/runs/NN/epochs={n_epochs}_lr={config["learning_rate"]}'
-    # writer = SummaryWriter(log_dir=logdir)
-
-    for epoch in range(n_epochs):
-        ### Training ###
-        model.train()
-        train_loss_record = []
-        train_pbar = tqdm(train_loader)
-        for x, y in train_pbar:
-            optimizer.zero_grad()
-            x, y = x.to(device), y.to(device)
-            pred = model(x)
-            loss = criterion(pred, y)
-            loss.backward()
-            optimizer.step()
-            step += 1
-            train_loss_record.append(loss.detach().item())
-
-            train_pbar.set_description(f'Epoch [{epoch+1}/{n_epochs}]')
-            train_pbar.set_postfix({'loss': loss.detach().item()})
-
-        mean_train_loss = sum(train_loss_record)/len(train_loss_record)
-        # writer.add_scalar('Loss/train', mean_train_loss, step)
-
-        ### Validation ###
-        model.eval()
-        valid_loss_record = []
-        for x, y in valid_loader:
-            x, y = x.to(device), y.to(device)
-            with torch.no_grad():
-                pred = model(x)
-
-                loss = criterion(pred, y)
-
-            valid_loss_record.append(loss.item())
-
-        mean_valid_loss = sum(valid_loss_record)/len(valid_loss_record)
-        print(f'Epoch [{epoch+1}/{n_epochs}]: Train loss: {mean_train_loss:.4f}, Valid loss: {mean_valid_loss:.4f}')
-        # writer.add_scalar('Loss/valid', mean_valid_loss, step)
-
-        if mean_valid_loss < best_loss:
-            best_loss = mean_valid_loss
-            # torch.save(model.state_dict(), config['save_path']) # Save your best model
-            print('Saving model with loss {:.3f}...'.format(best_loss))
-            early_stop_count = 0
-        else:
-            early_stop_count += 1
-
-        if early_stop_count >= config['early_stop']:
-            print(f'Best loss: {best_loss}')
-            print('\nModel is not improving, so we halt the training session.')
-            break
-    return best_loss
+    def val_dataloader(self):
+        return DataLoader(self.valid_dataset, batch_size=self.batch_size, shuffle=False, pin_memory=True, num_workers=self.num_workers)
 
 
-def Model_LSTM_training(xx, yy, config):
-    input_size = 2  # number of features (columns)
-    hidden_size = config['hidden_size']
-    num_layers = config['num_layers']
-    dropout = config['dropout']
-    model = Model_LSTM(input_size, hidden_size, num_layers, dropout, bidirectional=False).to(device)
+class Model_pl(pl.LightningModule):
+    def __init__(self, model_type, lr=5e-4, **kwargs):
+        super().__init__()
+        self.lr = lr
+        self.criterion = nn.MSELoss(reduction='mean')
+        self.model_type = model_type
 
-    criterion = nn.MSELoss(reduction='mean')
-    optimizer = torch.optim.Adam(model.parameters(), lr=config['learning_rate'])
+        if model_type == 'DNN':
+            self.model = Model_DNN(**kwargs)
+        elif model_type == 'LSTM':
+            self.model = Model_LSTM(**kwargs)
 
-    x_train, y_train, x_valid, y_valid = train_valid_split(xx, yy, ratio=config['ratio'])
-    train_dataset = RaceDataset(x_train, y_train)
-    valid_dataset = RaceDataset(x_valid, y_valid)
-    train_loader = DataLoader(train_dataset, batch_size=config['batch_size'], shuffle=True, pin_memory=True)
-    valid_loader = DataLoader(valid_dataset, batch_size=config['batch_size'], shuffle=True, pin_memory=True)
+    def forward(self, x):
+        return self.model(x)
 
-    n_epochs, best_loss = config['n_epochs'], math.inf
-    early_stop_count = 0
+    def configure_optimizers(self):
+        optimizer = torch.optim.Adam(self.parameters(), lr=self.lr)
+        return optimizer
 
-    for epoch in range(n_epochs):
-        train_pbar = tqdm(train_loader)
+    def training_step(self, train_batch, batch_idx):
+        x, y = train_batch
+        y_hat = self(x)
+        loss = self.criterion(y_hat, y)
+        self.log('train_loss', loss, on_epoch=True, on_step=False, prog_bar=True)
+        return loss
 
-        ### Training ###
-        model.train()
-        train_loss_record = []
-
-        for x, y in train_pbar:
-            x = x.to(device=device).squeeze(1)
-            y = y.to(device=device)
-            scores = model(x)
-            loss = criterion(scores, y)
-            optimizer.zero_grad()
-            loss.backward()
-            optimizer.step()
-
-            train_loss_record.append(loss.detach().item())
-            train_pbar.set_description(f'Epoch [{epoch+1}/{n_epochs}]')
-            train_pbar.set_postfix({'loss': loss.detach().item()})
-        mean_train_loss = sum(train_loss_record)/len(train_loss_record)
-
-        ### Validation ###
-        model.eval()
-        valid_loss_record = []
-        for x, y in valid_loader:
-            x = x.to(device=device).squeeze(1)
-            y = y.to(device=device)
-            with torch.no_grad():
-                scores = model(x)
-                loss = criterion(scores, y)
-
-            valid_loss_record.append(loss.item())
-        mean_valid_loss = sum(valid_loss_record)/len(valid_loss_record)
-        print(f'Epoch [{epoch+1}/{n_epochs}]: Train loss: {mean_train_loss:.4f}, Valid loss: {mean_valid_loss:.4f}')
+    def validation_step(self, val_batch, batch_idx):
+        x, y = val_batch
+        y_hat = self(x)
+        loss = self.criterion(y_hat, y)
+        self.log_dict({'val_loss': loss}, on_epoch=True, on_step=False, prog_bar=True)
+        return loss
 
 
-        if mean_valid_loss < best_loss:
-            best_loss = mean_valid_loss
-            # torch.save(model.state_dict(), config['save_path'])
-            print('Saving model with loss {:.3f}...'.format(best_loss))
-            early_stop_count = 0
-        else:
-            early_stop_count += 1
+class Train_pl():
+    def __init__(self, data_config, model_config):
+        for key, value in (data_config | model_config).items():
+            setattr(self, key, value)
+        self.data_config = data_config
+        self.model_config = model_config
+        self.data_model_setup()
+        self.callbacks_setup()
 
-        if early_stop_count >= config['early_stop']:
-            print(f'Best loss: {best_loss}')
-            print('\nModel is not improving, so we halt the training session.')
-            break
-    return best_loss
+    def data_model_setup(self):
+        self.Data = RaceDataModule(**self.data_config)
+        self.Model = Model_pl(**self.model_config)
+
+    def callbacks_setup(self):
+        checkpoint_callback = ModelCheckpoint(monitor='val_loss', filename=self.save_name, dirpath=self.save_path,
+                                            every_n_epochs=5)
+        early_stopping = EarlyStopping(monitor='val_loss', patience=self.patience)
+        bar = RichProgressBar(leave=True, theme=RichProgressBarTheme(
+                description='green_yellow', progress_bar='green1', progress_bar_finished='green1'))
+        self.callbacks = [checkpoint_callback, early_stopping, bar]
+
+    def train(self):
+        trainer = pl.Trainer(accelerator=accelerator, devices=devices, callbacks=self.callbacks,
+                        logger=self.tb_logs, max_epochs=self.n_epochs)
+        trainer.fit(self.Model, self.Data)
+
+    def valid(self):
+        trainer = pl.Trainer(accelerator=accelerator, devices=devices, logger=self.tb_logs, max_epochs=self.n_epochs,
+                        callbacks=self.callbacks)
+        valid_dict = trainer.validate(self.Model, self.Data)[0]
+        return valid_dict['val_loss']

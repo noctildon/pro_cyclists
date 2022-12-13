@@ -1,4 +1,3 @@
-from src.models.pretorch import *
 from scipy.optimize import curve_fit
 import xgboost as xgb
 import lightgbm as lgb
@@ -8,7 +7,7 @@ import torch.nn as nn
 
 
 class Model_Avg():
-    def __init__(self, x, y):
+    def __init__(self, x, y, **kwargs):
         self.x = x
         self.y = y
 
@@ -20,7 +19,7 @@ class Model_Avg():
 
 
 class Model_linear_date():
-    def __init__(self, x, y):
+    def __init__(self, x, y, **kwargs):
         self.x = x  # shape (N, 1)
         self.y = y  # shape (N, 1)
         self.a = None
@@ -41,7 +40,7 @@ class Model_linear_date():
 
 
 class Model_XBG():
-    def __init__(self, n_estimators=5, max_depth=6, eta=0.05):
+    def __init__(self, n_estimators=5, max_depth=6, eta=0.05, **kwargs):
         self.model = xgb.XGBRegressor(objective="reg:squarederror", max_depth=max_depth, n_estimators=n_estimators, eta=eta)
 
     def fit(self, x, y):
@@ -52,7 +51,7 @@ class Model_XBG():
 
 
 class Model_LGB():
-    def __init__(self, n_estimators=16, max_depth=6, learning_rate=1e-2):
+    def __init__(self, n_estimators=16, max_depth=6, learning_rate=1e-2, **kwargs):
         self.model = lgb.LGBMRegressor(
             objective="regression", max_depth=max_depth, n_estimators=n_estimators, learning_rate=learning_rate)
 
@@ -64,7 +63,7 @@ class Model_LGB():
 
 
 class Model_NN(nn.Module):
-    def __init__(self):
+    def __init__(self, **kwargs):
         super().__init__()
         self.linear = torch.nn.Linear(2, 1)
 
@@ -75,7 +74,7 @@ class Model_NN(nn.Module):
 
 
 class Model_DNN(nn.Module):
-    def __init__(self):
+    def __init__(self, **kwargs):
         super().__init__()
         self.linear = torch.nn.Sequential(
             torch.nn.Linear(2, 16),
@@ -92,7 +91,7 @@ class Model_DNN(nn.Module):
 
 
 class Model_LSTM(nn.Module):
-    def __init__(self, input_size, hidden_size, num_layers, dropout=0.2, bidirectional=False):
+    def __init__(self, input_size, hidden_size, num_layers, dropout=0.2, bidirectional=False, **kwargs):
         super().__init__()
         self.bid = 2 if bidirectional else 1
         self.hidden_size = hidden_size
@@ -101,8 +100,8 @@ class Model_LSTM(nn.Module):
         self.fc = nn.Linear(self.bid*hidden_size, 1)
 
     def forward(self, x):
-        h0 = torch.randn(self.bid*self.num_layers, self.hidden_size).to(device)
-        c0 = torch.randn(self.bid*self.num_layers, self.hidden_size).to(device)
+        h0 = torch.randn(self.bid*self.num_layers, self.hidden_size)
+        c0 = torch.randn(self.bid*self.num_layers, self.hidden_size)
 
         out, _ = self.lstm(x, (h0, c0)) # (batch_size, seq_length, hidden_size)
         out = out.reshape(out.shape[0], -1)

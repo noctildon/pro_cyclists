@@ -55,8 +55,4 @@ There are a few models in src/models/train_model.py, including
 
 
 # Todos
-- [x] Tweak the model parameters
-- [x] Build RF type models
-- [x] fetch the rider's data, like height, points per specialty
-- [x] Visualize the data
 - [ ] Setup a database for data storage (seems not necessary)
