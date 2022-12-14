@@ -18,7 +18,7 @@ logging.getLogger("pytorch_lightning").setLevel(logging.ERROR)
 accelerator, devices = ("gpu", 1) if torch.cuda.is_available() else (None, None)
 
 
-def simple_models_training(xx, yy, ratio=0.7):
+def simple_models_training(xx, yy, ratio=0.7, verbose=True):
     x_train, y_train, x_valid, y_valid = train_valid_split(xx, yy, ratio=ratio)
 
     # Average model
@@ -26,8 +26,6 @@ def simple_models_training(xx, yy, ratio=0.7):
     model_avg.fit()
     y_pred_avg = model_avg.predict()
     mse_avg = np.mean((y_pred_avg - y_valid) ** 2)
-    print(f'Avg MSE: {mse_avg}')
-
 
     # 1D Linear model (x=date, y=ranking)
     model_lin = Model_linear_date(x_train[:, 0], y_train)
@@ -37,23 +35,25 @@ def simple_models_training(xx, yy, ratio=0.7):
         y_pred_lin.append(model_lin.predict(x))
     y_pred_lin = np.array(y_pred_lin)
     mse_1D = np.mean((y_pred_lin - y_valid) ** 2)
-    print(f'1D MSE: {mse_1D}')
-
 
     # xgboost
     xgb_model = Model_XBG()
     xgb_model.fit(x_train, y_train)
     y_pred_xgb = xgb_model.predict(x_valid)
     mse_xgb = np.mean((y_pred_xgb - y_valid) ** 2)
-    print(f'XGB MSE: {mse_xgb}')
-
 
     # lightgbm
     lgb_model = Model_LGB()
     lgb_model.fit(x_train, y_train)
     y_pred_lgb = lgb_model.predict(x_valid)
     mse_lgb = np.mean((y_pred_lgb - y_valid) ** 2)
-    print(f'LGB MSE: {mse_lgb}')
+
+    if verbose:
+        print(f"""
+            Average model loss: {mse_avg:.3f}
+            Linear model loss: {mse_1D:.3f}
+            XGBoost model loss: {mse_xgb:.3f}
+            LightGBM model loss: {mse_lgb:.3f}""")
 
     return mse_avg, mse_1D, mse_xgb, mse_lgb
 
@@ -107,14 +107,14 @@ class Model_pl(pl.LightningModule):
         x, y = train_batch
         y_hat = self(x)
         loss = self.criterion(y_hat, y)
-        self.log('train_loss', loss, on_epoch=True, on_step=False, prog_bar=True)
+        self.log('train_loss', loss, on_epoch=True, on_step=False, prog_bar=False)
         return loss
 
     def validation_step(self, val_batch, batch_idx):
         x, y = val_batch
         y_hat = self(x)
         loss = self.criterion(y_hat, y)
-        self.log_dict({'val_loss': loss}, on_epoch=True, on_step=False, prog_bar=True)
+        self.log_dict({'val_loss': loss}, on_epoch=True, on_step=False, prog_bar=False)
         return loss
 
     def validation_epoch_end(self, outputs):
@@ -148,8 +148,10 @@ class Train_pl():
                 description='green_yellow', progress_bar='green1', progress_bar_finished='green1'))
         self.callbacks = [checkpoint_callback, early_stopping, bar]
 
-    def train(self):
+    def train(self, show_progressbar=True):
+        if not show_progressbar:
+            self.callbacks.pop()
         trainer = pl.Trainer(accelerator=accelerator, devices=devices, callbacks=self.callbacks,
-                        logger=self.tb_logs, max_epochs=self.n_epochs)
+                        logger=self.tb_logs, max_epochs=self.n_epochs, enable_progress_bar=show_progressbar)
         trainer.fit(self.Model, self.Data)
-        return self.Model.best_valid_loss.cpu().detach().numpy()
+        return self.Model.best_valid_loss.cpu().detach().numpy().item()
