@@ -19,13 +19,10 @@ def get_rider_data(rider_id):
 
 
 def Simple_model(xx, yy):
-    # Average model loss: 0.09
-    # Linear model loss: 0.094
     return simple_models_training(xx, yy, ratio=0.7, verbose=False)
 
 
 def NN_Model_pl(xx, yy):
-    # best loss: 0.080
     data_config = {
         'xx': xx,
         'yy': yy,
@@ -35,9 +32,9 @@ def NN_Model_pl(xx, yy):
     }
     model_config = {
         'model_type': 'DNN',
-        'n_epochs': 2000, # 2000
-        'lr': 1e-5,
-        'patience': 600,
+        'n_epochs': 400,
+        'lr': 5e-2,
+        'patience': 100,
         'save_path': 'models',
         'save_name': '{epoch:d}',
         'tb_logs': False
@@ -48,7 +45,6 @@ def NN_Model_pl(xx, yy):
 
 
 def LSTM_Model_pl(xx, yy):
-    # best loss: 0.072
     data_config = {
         'xx': xx,
         'yy': yy,
@@ -59,12 +55,12 @@ def LSTM_Model_pl(xx, yy):
     model_config = {
         'model_type': 'LSTM',
         'input_size': 2,
-        'n_epochs': 2000,  # 2000
-        'lr': 1e-5,
+        'n_epochs': 400,
+        'lr': 5e-2,
         'num_layers': 8,
         'hidden_size': 2,
         'dropout': 0.2,
-        'patience': 600,
+        'patience': 100,
         'save_path': 'models',
         'save_name': '{epoch:d}',
         'tb_logs': False

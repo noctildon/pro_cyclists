@@ -101,20 +101,32 @@ class Model_pl(pl.LightningModule):
 
     def configure_optimizers(self):
         optimizer = torch.optim.Adam(self.parameters(), lr=self.lr)
-        return optimizer
+
+        def lambda_epoch(epoch):
+            ratio = 0.9 ** epoch # must be in [0,1] and dereceasing
+            new_lr = max(self.lr * ratio, 1e-5)
+            return new_lr / self.lr
+        sch = torch.optim.lr_scheduler.LambdaLR(optimizer, lr_lambda=lambda_epoch)
+        return {
+            "optimizer": optimizer,
+            "lr_scheduler": {
+                "scheduler": sch,
+                "monitor": "train_loss",
+            }
+        }
 
     def training_step(self, train_batch, batch_idx):
         x, y = train_batch
         y_hat = self(x)
         loss = self.criterion(y_hat, y)
-        self.log('train_loss', loss, on_epoch=True, on_step=False, prog_bar=False)
+        self.log('train_loss', loss, on_epoch=True, on_step=False, prog_bar=True)
         return loss
 
     def validation_step(self, val_batch, batch_idx):
         x, y = val_batch
         y_hat = self(x)
         loss = self.criterion(y_hat, y)
-        self.log_dict({'val_loss': loss}, on_epoch=True, on_step=False, prog_bar=False)
+        self.log_dict({'val_loss': loss}, on_epoch=True, on_step=False, prog_bar=True)
         return loss
 
     def validation_epoch_end(self, outputs):
