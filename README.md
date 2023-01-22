@@ -50,8 +50,14 @@ There are a few models in src/models/train_model.py, including
 - DNN: 3 linear layers
 - RNN: 8 layers
 
-## Model prediction
 
+## Model prediction
+Train on 5000ish athlete
+
+![place](./reports/figures/MAE_hist.png)
+![place](./reports/figures/MAE_MeanStd.png)
+
+Overal the best model is LSTM
 
 
 # Todos
