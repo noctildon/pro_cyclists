@@ -2,6 +2,7 @@ import sys
 import os
 import numpy as np
 from src.features.build_features import rider_features, riders_num
+from src.visualization.visualize import plot_results, stats_results
 from src.models.train_model import simple_models_training, Train_pl
 import multiprocess as mp
 from filelock import FileLock
@@ -112,14 +113,12 @@ def run(cores=6, parallel=False):
             train_all_models(i)
 
 
-def read_losses():
-    f = np.genfromtxt(outputFile, delimiter=' ')
-    print(f.shape)
-
-
 if __name__ == "__main__":
     lock = FileLock(outputFile + '.lock')
 
     # testing_models()
-    run(parallel=True)
+    # run(parallel=True)
     # read_losses()
+
+    # plot_results()
+    stats_results()

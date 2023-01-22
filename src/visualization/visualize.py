@@ -6,6 +6,9 @@ import seaborn as sns
 from mpl_toolkits.basemap import Basemap
 from ast import literal_eval
 
+plt.rc('font', **{'family': 'serif', 'serif': ['Computer Modern']})
+plt.rc('text', usetex=True)
+
 
 # rider = 'tadej-pogacar'
 def race(rider):
@@ -99,6 +102,38 @@ def birth_place_plot(sortby='UCI rank', numbers=100, ascending=True):
             m.plot(x, y, 'bo', markersize=1)
     plt.show()
 
+
+def plot_results():
+    # id, Avg, 1D, XGBoost, LightGBM, NN, LSTM
+    results_data = pd.read_csv('models/indep_models_results.txt', sep=' ')
+    print(results_data.info())
+
+    bins = np.linspace(0, 0.5, 50)
+    plt.hist(results_data['Avg'], bins=bins, label='Avg', linewidth=2, histtype='step')
+    plt.hist(results_data['1D'], bins=bins, label='1D', linewidth=2, histtype='step')
+    plt.hist(results_data['XGBoost'], bins=bins, label='XGBoost', linewidth=2, histtype='step')
+    plt.hist(results_data['LightGBM'], bins=bins, label='LightGBM', linewidth=2, histtype='step')
+    plt.hist(results_data['NN'], bins=bins, label='NN', linewidth=2, histtype='step')
+    plt.hist(results_data['LSTM'], bins=bins, label='LSTM', linewidth=2, histtype='step')
+    plt.legend(loc='upper right')
+    plt.xlabel('MAE', fontsize=16)
+    plt.ylabel('Count', fontsize=16)
+    plt.title('Histogram of MAE', fontsize=20)
+    plt.show()
+
+
+def stats_results():
+    # Avg, 1D, XGBoost, LightGBM, NN, LSTM
+    results_data = pd.read_csv('models/indep_models_results.txt', sep=' ').drop(columns=['id'])
+    means = results_data.mean()
+    stds = results_data.std()
+
+    plt.figure(figsize=(8, 6))
+    plt.errorbar(x=means.index, y=means, yerr=stds, fmt='o', capsize=10, elinewidth=3)
+    plt.xlabel('Model', fontsize=16)
+    plt.ylabel('MAE', fontsize=16)
+    plt.title('Mean and std of MAE', fontsize=20)
+    plt.show()
 
 
 if __name__ == "__main__":
