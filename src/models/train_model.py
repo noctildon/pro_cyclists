@@ -15,7 +15,7 @@ import logging
 
 # configure logging at the root level of Lightning
 logging.getLogger("pytorch_lightning").setLevel(logging.ERROR)
-accelerator, devices = ("gpu", 1) if torch.cuda.is_available() else (None, None)
+# accelerator, devices = ("gpu", 1) if torch.cuda.is_available() else ('cpu', 1) # legacy
 
 
 def simple_models_training(xx, yy, ratio=0.7, verbose=True):
@@ -129,14 +129,6 @@ class Model_pl(pl.LightningModule):
         self.log_dict({'val_loss': loss}, on_epoch=True, on_step=False, prog_bar=True)
         return loss
 
-    def validation_epoch_end(self, outputs):
-        if len(outputs) < self.valid_size:
-            return
-        avg_valid_loss = torch.stack(outputs).mean()
-        if avg_valid_loss < self.best_valid_loss:
-            self.best_valid_loss = avg_valid_loss
-
-
 class Train_pl():
     def __init__(self, data_config, model_config):
         for key, value in (data_config | model_config).items():
@@ -162,8 +154,8 @@ class Train_pl():
 
     def train(self, show_progressbar=True):
         if not show_progressbar:
-            self.callbacks.pop()
-        trainer = pl.Trainer(accelerator=accelerator, devices=devices, callbacks=self.callbacks,
-                        logger=self.tb_logs, max_epochs=self.n_epochs, enable_progress_bar=show_progressbar)
+            self.callbacks.pop() # remove the last callback, which is the progress bar
+        trainer = pl.Trainer(callbacks=self.callbacks, logger=self.tb_logs, max_epochs=self.n_epochs,
+                            enable_progress_bar=show_progressbar)
         trainer.fit(self.Model, self.Data)
         return self.Model.best_valid_loss.cpu().detach().numpy().item()

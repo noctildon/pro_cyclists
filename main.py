@@ -11,8 +11,7 @@ global lock, outputFile
 
 def get_rider_data(rider_id):
     rider = rider_features(rider_id)
-    if rider is None:
-        return None
+    if rider is None: return None
     rider = rider.astype(float)
     xx = rider[:, :-1] # date, distance
     yy = rider[:, -1] # ranking
@@ -33,15 +32,15 @@ def NN_Model_pl(xx, yy):
     }
     model_config = {
         'model_type': 'DNN',
-        'n_epochs': 400,
+        'n_epochs': 40,
         'lr': 5e-2,
-        'patience': 100,
+        'patience': 20,
         'save_path': 'models',
         'save_name': '{epoch:d}',
         'tb_logs': False
     }
     train_pl = Train_pl(data_config, model_config)
-    best_valid_loss = train_pl.train(show_progressbar=False)
+    best_valid_loss = train_pl.train(show_progressbar=True)
     return best_valid_loss
 
 
@@ -56,27 +55,29 @@ def LSTM_Model_pl(xx, yy):
     model_config = {
         'model_type': 'LSTM',
         'input_size': 2,
-        'n_epochs': 400,
+        'n_epochs': 40,
         'lr': 5e-2,
         'num_layers': 8,
         'hidden_size': 2,
         'dropout': 0.2,
-        'patience': 100,
+        'patience': 20,
         'save_path': 'models',
         'save_name': '{epoch:d}',
         'tb_logs': False
     }
     train_pl = Train_pl(data_config, model_config)
-    best_valid_loss = train_pl.train(show_progressbar=False)
+    best_valid_loss = train_pl.train(show_progressbar=True)
     return best_valid_loss
 
 
 def testing_models():
     data = get_rider_data(5)
     xx, yy = data
-    # r = NN_Model_pl(xx, yy)
-    r = LSTM_Model_pl(xx, yy)
-    print(r)
+    r = NN_Model_pl(xx, yy)
+    print('NN Model', r)
+
+    # r = LSTM_Model_pl(xx, yy)
+    # print('LSTM Model', r)
 
 
 outputFile = 'models/results.txt'
@@ -116,9 +117,9 @@ def run(cores=6, parallel=False):
 if __name__ == "__main__":
     lock = FileLock(outputFile + '.lock')
 
-    # testing_models()
+    testing_models()
     # run(parallel=True)
     # read_losses()
 
     # plot_results()
-    stats_results()
+    # stats_results()
