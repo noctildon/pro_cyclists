@@ -1,4 +1,4 @@
-import pytorch_lightning as pl
+import lightning as L
 from scipy.optimize import curve_fit
 import xgboost as xgb
 import lightgbm as lgb
@@ -7,7 +7,7 @@ import torch
 import torch.nn as nn
 
 
-class Model_Avg():
+class ModelAvg():
     def __init__(self, x, y, **kwargs):
         self.x = x
         self.y = y
@@ -19,7 +19,7 @@ class Model_Avg():
         return self.avg
 
 
-class Model_linear_date():
+class ModelLinear():
     def __init__(self, x, y, **kwargs):
         self.x = x  # shape (N, 1)
         self.y = y  # shape (N, 1)
@@ -40,7 +40,7 @@ class Model_linear_date():
         return self.a * x + self.b
 
 
-class Model_XBG():
+class ModelXBG():
     def __init__(self, n_estimators=5, max_depth=6, eta=0.05, **kwargs):
         self.model = xgb.XGBRegressor(objective="reg:squarederror", max_depth=max_depth, n_estimators=n_estimators, eta=eta)
 
@@ -51,7 +51,7 @@ class Model_XBG():
         return self.model.predict(x)
 
 
-class Model_LGB():
+class ModelLGB():
     def __init__(self, n_estimators=16, max_depth=6, learning_rate=1e-2, **kwargs):
         self.model = lgb.LGBMRegressor(
             objective="regression", max_depth=max_depth, n_estimators=n_estimators, learning_rate=learning_rate)
@@ -63,7 +63,7 @@ class Model_LGB():
         return self.model.predict(x)
 
 
-class Model_DNN(pl.LightningModule):
+class ModelDNN(L.LightningModule):
     def __init__(self, **kwargs):
         super().__init__()
         self.linear = torch.nn.Sequential(
@@ -80,7 +80,7 @@ class Model_DNN(pl.LightningModule):
         return y_pred
 
 
-class Model_LSTM(pl.LightningModule):
+class ModelLSTM(L.LightningModule):
     def __init__(self, input_size, hidden_size, num_layers, dropout=0.2, bidirectional=False, **kwargs):
         super().__init__()
         self.bid = 2 if bidirectional else 1

@@ -6,29 +6,23 @@ import numpy as np
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
-import pytorch_lightning as pl
-from pytorch_lightning.callbacks import ModelCheckpoint, RichProgressBar
-from pytorch_lightning.callbacks.early_stopping import EarlyStopping
-from pytorch_lightning.callbacks.progress.rich_progress import RichProgressBarTheme
-import logging
-
-
-# configure logging at the root level of Lightning
-logging.getLogger("pytorch_lightning").setLevel(logging.ERROR)
-# accelerator, devices = ("gpu", 1) if torch.cuda.is_available() else ('cpu', 1) # legacy
+import lightning as L
+from lightning.pytorch.callbacks import ModelCheckpoint, RichProgressBar
+from lightning.pytorch.callbacks.early_stopping import EarlyStopping
+from lightning.pytorch.callbacks.progress.rich_progress import RichProgressBarTheme
 
 
 def simple_models_training(xx, yy, ratio=0.7, verbose=True):
     x_train, y_train, x_valid, y_valid = train_valid_split(xx, yy, ratio=ratio)
 
     # Average model
-    model_avg = Model_Avg(x_train, y_train)
+    model_avg = ModelAvg(x_train, y_train)
     model_avg.fit()
     y_pred_avg = model_avg.predict()
     mse_avg = np.mean((y_pred_avg - y_valid) ** 2)
 
     # 1D Linear model (x=date, y=ranking)
-    model_lin = Model_linear_date(x_train[:, 0], y_train)
+    model_lin = ModelLinear(x_train[:, 0], y_train)
     model_lin.fit()
     y_pred_lin = []
     for x in x_valid[:, 0]:
@@ -37,13 +31,13 @@ def simple_models_training(xx, yy, ratio=0.7, verbose=True):
     mse_1D = np.mean((y_pred_lin - y_valid) ** 2)
 
     # xgboost
-    xgb_model = Model_XBG()
+    xgb_model = ModelXBG()
     xgb_model.fit(x_train, y_train)
     y_pred_xgb = xgb_model.predict(x_valid)
     mse_xgb = np.mean((y_pred_xgb - y_valid) ** 2)
 
     # lightgbm
-    lgb_model = Model_LGB()
+    lgb_model = ModelLGB()
     lgb_model.fit(x_train, y_train)
     y_pred_lgb = lgb_model.predict(x_valid)
     mse_lgb = np.mean((y_pred_lgb - y_valid) ** 2)
@@ -58,7 +52,7 @@ def simple_models_training(xx, yy, ratio=0.7, verbose=True):
     return mse_avg, mse_1D, mse_xgb, mse_lgb
 
 
-class RaceDataModule(pl.LightningDataModule):
+class RaceDataModule(L.LightningDataModule):
     def __init__(self, xx, yy, batch_size=64, valid_ratio=0.3, num_workers=4, **kwargs):
         super().__init__()
         self.xx = xx
@@ -82,7 +76,7 @@ class RaceDataModule(pl.LightningDataModule):
         return DataLoader(self.valid_dataset, batch_size=self.batch_size, shuffle=False, pin_memory=True, num_workers=self.num_workers)
 
 
-class Model_pl(pl.LightningModule):
+class ModelLightning(L.LightningModule):
     def __init__(self, model_type, valid_size, lr=5e-4, **kwargs):
         super().__init__()
         self.lr = lr
@@ -92,9 +86,9 @@ class Model_pl(pl.LightningModule):
         self.valid_size = valid_size
 
         if model_type == 'DNN':
-            self.model = Model_DNN(**kwargs)
+            self.model = ModelDNN(**kwargs)
         elif model_type == 'LSTM':
-            self.model = Model_LSTM(**kwargs, device=self.device)
+            self.model = ModelLSTM(**kwargs, device=self.device)
 
     def forward(self, x):
         return self.model(x)
@@ -129,7 +123,12 @@ class Model_pl(pl.LightningModule):
         self.log_dict({'val_loss': loss}, on_epoch=True, on_step=False, prog_bar=True)
         return loss
 
-class Train_pl():
+    def on_validation_epoch_end(self):
+        valid_loss = self.trainer.callback_metrics['val_loss']
+        if valid_loss < self.best_valid_loss:
+            self.best_valid_loss = valid_loss
+
+class TrainLightning():
     def __init__(self, data_config, model_config):
         for key, value in (data_config | model_config).items():
             setattr(self, key, value)
@@ -143,7 +142,7 @@ class Train_pl():
 
     def data_model_setup(self):
         self.Data = RaceDataModule(**self.data_config)
-        self.Model = Model_pl(**self.model_config)
+        self.Model = ModelLightning(**self.model_config)
 
     def callbacks_setup(self):
         checkpoint_callback = ModelCheckpoint(monitor='val_loss', filename=self.save_name, dirpath=self.save_path, save_top_k=0)
@@ -155,7 +154,7 @@ class Train_pl():
     def train(self, show_progressbar=True):
         if not show_progressbar:
             self.callbacks.pop() # remove the last callback, which is the progress bar
-        trainer = pl.Trainer(callbacks=self.callbacks, logger=self.tb_logs, max_epochs=self.n_epochs,
+        trainer = L.Trainer(callbacks=self.callbacks, logger=self.tb_logs, max_epochs=self.n_epochs,
                             enable_progress_bar=show_progressbar)
         trainer.fit(self.Model, self.Data)
         return self.Model.best_valid_loss.cpu().detach().numpy().item()

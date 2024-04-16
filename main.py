@@ -3,7 +3,7 @@ import os
 import numpy as np
 from src.features.build_features import rider_features, riders_num
 from src.visualization.visualize import plot_results, stats_results
-from src.models.train_model import simple_models_training, Train_pl
+from src.models.train_model import simple_models_training, TrainLightning
 import multiprocess as mp
 from filelock import FileLock
 global lock, outputFile
@@ -18,11 +18,11 @@ def get_rider_data(rider_id):
     return xx, yy
 
 
-def Simple_model(xx, yy):
+def simple_models_trainer(xx, yy):
     return simple_models_training(xx, yy, ratio=0.7, verbose=False)
 
 
-def NN_Model_pl(xx, yy):
+def NN_model_trainer(xx, yy):
     data_config = {
         'xx': xx,
         'yy': yy,
@@ -39,12 +39,12 @@ def NN_Model_pl(xx, yy):
         'save_name': '{epoch:d}',
         'tb_logs': False
     }
-    train_pl = Train_pl(data_config, model_config)
-    best_valid_loss = train_pl.train(show_progressbar=True)
+    trainer = TrainLightning(data_config, model_config)
+    best_valid_loss = trainer.train(show_progressbar=True)
     return best_valid_loss
 
 
-def LSTM_Model_pl(xx, yy):
+def LSTM_model_trainer(xx, yy):
     data_config = {
         'xx': xx,
         'yy': yy,
@@ -65,31 +65,30 @@ def LSTM_Model_pl(xx, yy):
         'save_name': '{epoch:d}',
         'tb_logs': False
     }
-    train_pl = Train_pl(data_config, model_config)
-    best_valid_loss = train_pl.train(show_progressbar=True)
+    trainer = TrainLightning(data_config, model_config)
+    best_valid_loss = trainer.train(show_progressbar=True)
     return best_valid_loss
 
 
 def testing_models():
     data = get_rider_data(5)
     xx, yy = data
-    r = NN_Model_pl(xx, yy)
+    r = NN_model_trainer(xx, yy)
     print('NN Model', r)
 
-    # r = LSTM_Model_pl(xx, yy)
-    # print('LSTM Model', r)
+    r = LSTM_model_trainer(xx, yy)
+    print('LSTM Model', r)
 
 
 outputFile = 'models/results.txt'
 def train_all_models(i, lock=None):
     data = get_rider_data(i)
-    if data is None:
-        return
+    if data is None: return
     xx, yy = data
     res = [i]
-    res += list(Simple_model(xx, yy))
-    res.append(NN_Model_pl(xx, yy))
-    res.append(LSTM_Model_pl(xx, yy))
+    res += list(simple_models_trainer(xx, yy))
+    res.append(NN_model_trainer(xx, yy))
+    res.append(LSTM_model_trainer(xx, yy))
 
     print('res', res)
     if lock:
@@ -108,7 +107,6 @@ def run(cores=6, parallel=False):
         mp.set_start_method('spawn')
         pool = mp.Pool(processes=cores)
         pool.map(train_all_models, range(riders_num))
-
     else:
         for i in range(riders_num):
             train_all_models(i)

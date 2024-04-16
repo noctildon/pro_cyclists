@@ -41,16 +41,14 @@ def load_data(idx, min_ranks=10):
         rider_races['result ranking'] = rider_races['result ranking'].apply(find_rank_num)
 
     # at least having XX ranks in record
-    if len(rider_races) < min_ranks:
-        return
+    if len(rider_races) < min_ranks: return
     return rider_races
 
 
 # idx: 0 to riders_num-1
 def rider_features(idx, min_ranks=30):
     races = load_data(idx, min_ranks=min_ranks)
-    if races is None:
-        return
+    if races is None: return
 
     features = races[['date', 'distance', 'result ranking']].to_numpy()
 
