@@ -1,16 +1,17 @@
 import sys
 import os
 import numpy as np
-from src.features.build_features import rider_features, riders_num
+from src.features.build_features import riders_num, RiderData
 from src.visualization.visualize import plot_results, stats_results
 from src.models.train_model import simple_models_training, TrainLightning
 import multiprocess as mp
 from filelock import FileLock
 global lock, outputFile
 
+rider_data_par = RiderData()
 
 def get_rider_data(rider_id):
-    rider = rider_features(rider_id)
+    rider = rider_data_par.rider_features(rider_id)
     if rider is None: return None
     rider = rider.astype(float)
     xx = rider[:, :-1] # date, distance
@@ -71,7 +72,7 @@ def LSTM_model_trainer(xx, yy):
 
 
 def testing_models():
-    data = get_rider_data(5)
+    data = get_rider_data(6)
     xx, yy = data
     r = NN_model_trainer(xx, yy)
     print('NN Model', r)

@@ -136,9 +136,35 @@ def data_clean_all_riders():
         data_cleaning_single_rider(rider_name)
 
 
+def riders_processed_data_parquet():
+    """
+    Convert data/processed/riders/{name}.csv to pyspark parquet format
+    takes ~6min
+    """
+    from pyspark.sql import SparkSession
+    from pyspark.testing import assertDataFrameEqual
+
+    spark = SparkSession.builder.master("local[*]").config("spark.driver.memory", "4g").getOrCreate()
+    riders = os.listdir('data/processed/riders')
+    for idx, rider in enumerate(riders):
+        rider_name = rider[:-4] # remove .csv
+        rider_df = pd.read_csv(f'data/processed/riders/{rider_name}.csv')
+        rider_df['rider'] = rider_name
+        all_riders = pd.concat([all_riders, rider_df]) if idx > 0 else rider_df # concat all riders
+
+    riders_df = spark.createDataFrame(all_riders)
+    riders_df.write.mode("overwrite").parquet("data/processed/riders.parquet")
+
+    # check if saving and reading is correct
+    riders_df_read = spark.read.load("data/processed/riders.parquet")
+    assertDataFrameEqual(riders_df, riders_df_read)
+    print('Done')
+
+
 if __name__ == "__main__":
     # data_cleaning()
     # find_birth_places()
     # attach_birth_place_long_lat()
 
-    data_clean_all_riders()
+    # data_clean_all_riders()
+    riders_processed_data_parquet()
